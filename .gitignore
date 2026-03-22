@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+.env
+backend/.env

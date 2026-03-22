@@ -1,0 +1,122 @@
+{
+  "data": [
+    {
+      "id": "4d0ef8db-1468-45e7-822f-9321e7c70370",
+      "name": "Påskeeggjakt - i Moa bibliotek",
+      "thumbnail_url": "https://ucarecdn.com/79ff329e-f1d5-4e11-8978-b97b8a464fba/-/crop/1548x422/174,658/-/preview/",
+      "start_at": "2026-03-21T10:00:00+0100",
+      "end_at": "2026-03-28T15:00:00+0100",
+      "age_group": [
+        "children",
+        "family"
+      ],
+      "is_free": false,
+      "organization": {
+        "name": "Moa Bibliotek"
+      },
+      "occurrences_count": 1,
+      "distance": null,
+      "event_source": "friskus",
+      "rrule": {
+        "until": "2026-03-28",
+        "end_time": "15:00",
+        "start_at": "2026-03-21",
+        "timezone": "Europe/Oslo",
+        "frequency": 1,
+        "start_time": "10:00"
+      },
+      "is_recurring": false,
+      "slug": "paskeeggjakt-i-moa-bibliotek"
+    },
+    {
+      "id": "7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "name": "Friområde for hund",
+      "thumbnail_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "start_at": "2026-03-22T08:00:00+0100",
+      "end_at": "2026-09-13T23:00:00+0200",
+      "age_group": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_free": true,
+      "organization": {
+        "name": "Harøy Hundepark"
+      },
+      "occurrences_count": 176,
+      "distance": null,
+      "event_source": "friskus",
+      "rrule": {
+        "until": "2030-12-31",
+        "rdates": [],
+        "exdates": [],
+        "end_time": "23:00",
+        "start_at": "2025-11-18",
+        "timezone": "Europe/Oslo",
+        "weekdays": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "frequency": 3,
+        "start_time": "08:00"
+      },
+      "is_recurring": true,
+      "slug": "friomrade-for-hund"
+    },
+    {
+      "id": "f6f4107a-0a25-457e-91d8-a007320a046b",
+      "name": "ÅPEN GÅRD",
+      "thumbnail_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "start_at": "2026-03-22T12:00:00+0100",
+      "end_at": "2026-12-07T18:00:00+0100",
+      "age_group": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_free": false,
+      "organization": {
+        "name": "Borgund Dyreklubb"
+      },
+      "occurrences_count": 261,
+      "distance": null,
+      "event_source": "friskus",
+      "rrule": {
+        "until": "2026-12-31",
+        "rdates": [],
+        "exdates": [],
+        "end_time": "18:00",
+        "start_at": "2026-02-11",
+        "timezone": "Europe/Oslo",
+        "weekdays": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "frequency": 3,
+        "start_time": "12:00"
+      },
+      "is_recurring": true,
+      "slug": "apen-gard"
+    }
+  ],
+  "meta": {
+    "total": 208,
+    "page": 1,
+    "last_page": 14,
+    "per_page": 15
+  }
+}

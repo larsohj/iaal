@@ -1,0 +1,983 @@
+
+
+<!DOCTYPE html>
+<html lang="nn">
+<head><meta charset="utf-8" /><meta name="format-detection" content="telephone=no" />
+        <base href="/">
+    <link href="/templates/assets/css/default.css?v=17.10.4588" type="text/css" rel="stylesheet">
+<script src="/ClientApp/vanilla/templates/dist/bundle.js?v=17.10.4588" type="module"></script>
+<script src="/ClientApp/vanilla/web-component-library/dist/index.js" type="module"></script>
+<cc-event-bus-component></cc-event-bus-component>
+<script src="/clientapp/reactjs-front/shared-components/dist/acos-shared-components.umd.js"></script><link href="/templates/assets/legacy-css/default-typography.css?v=20250526" rel="stylesheet" type="text/css" /><link href="/templates/assets/legacy-css/default-skip-to-links.css?v=20230510" rel="stylesheet" type="text/css" /><link href="https://cdn.jsdelivr.net/npm/remixicon@latest/fonts/remixicon.min.css" rel="stylesheet" /><link href="/templates/assets/legacy-css/default-tabfocus-styles.css?v=20250331" rel="stylesheet" type="text/css" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<script src="/script/jQuery/jquery-1.12.4.min.js"></script>
+<script src="/script/jQuery/jquery-migrate-1.4.1.min.js"></script>
+
+
+
+
+<script src="/script/js/basefunksjoner.js?v=20210408"></script>
+
+
+
+
+<script src="/script/jQuery/jquery.acos.js?v=20102020"></script>
+
+<link type="text/css" rel="stylesheet" href="/kunde/css/knapper/buttons.css" />
+<link type="text/css" rel="stylesheet" href="/css/Knapper/button-icons.css" />
+<link type="text/css" rel="stylesheet" href="/Maler/Standard/Handlers/StyleHandler.ashx?bundle=lightbox&portalID=48&sprakID=1&designID=51&v=17.10.4588" />
+<link type="text/css" rel="stylesheet" href="/Maler/Default/assets/css/themes/default/default.css?v=17.10.4588" />
+<link type="text/css" rel="stylesheet" href="/Maler/Standard/Handlers/StyleHandler.ashx?bundle=signature&portalID=48&sprakID=1&designID=51&v=17.10.4588" />
+<link type="text/css" rel="stylesheet" href="/design/alesund_kommune/delportal_mal/v2021/assets/css/styles.css?v=v17.10.04588" />
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-11069059-14', 'auto', {anonymizeIp: true});ga('send', 'pageview', {anonymizeIp: true});</script>
+<!-- End Google Analytics -->
+
+
+
+                
+                <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+                
+                
+                
+                
+            <title>
+	Ålesundsbiblioteka
+</title><link href="/css/css.ashx?style=artikkel" rel="stylesheet" type="text/css" /><link href="/css/css.ashx?style=login" rel="stylesheet" type="text/css" />
+<meta name="author" content="Ålesund kommune" />
+<meta name="description" content="Ålesundsbiblioteka sine seks bibliotek driv aktiv formidling av litteratur og kultur." />
+<meta name="keywords" content="Bibliotek i Ålesund kommune" />
+<meta name="language" content="nn" />
+
+        <script>
+            (function () {
+                document.addEventListener('DOMContentLoaded', function () {
+                    document.querySelector(':root').style.setProperty('--innsyn-primary-theme-color', '#003B5C');
+                    document.querySelector(':root').style.setProperty('--innsyn-primary-contrast-color', '#FFFFFF');
+                    document.querySelector(':root').style.setProperty('--innsyn-primary-neutral-color', '#E7ECEA');
+                    document.querySelector(':root').style.setProperty('--innsyn-secondary-theme-color', '#FBDBC2');
+                    document.querySelector(':root').style.setProperty('--innsyn-secondary-contrast-color', '#141423');
+                    document.querySelector(':root').style.setProperty('--innsyn-secondary-neutral-color', '#E9E1DC');
+                });
+            })();
+        </script>
+    
+
+            <style>
+                body.has-page-title:has(.js-content-title) .js-content-title {
+                    display: none !important;
+                }
+            </style>
+         <meta name="acos-cmscontext" content="w3029$o-1$m18376$sl0" />
+</head>
+<body lang="nn">
+    
+    
+    
+    
+    <div aria-label="Snarvegar " role="navigation">
+
+	<ul class="il-skip-to-links hidden">
+
+		<li class="il-skip-to-link-item"><a class="il-skip-to-link" href="#contentInnhold">Hopp til innhald</a></li>
+		<li class="il-skip-to-link-item"><a class="il-skip-to-link" href="#contentHovedmeny">Hopp til meny</a></li>
+		<li class="il-skip-to-link-item"><a class="il-skip-to-link" href="#contentSok">Hopp til søk</a></li>
+
+	</ul>
+</div>
+
+    
+
+    
+    
+    
+                <form name="aspnetForm" method="post" action="/" id="aspnetForm" class="no-script page-form frontpage">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="0fiAHPgEcVPSk+YiU3bTcUgmpkRLN2vxw4kopXylKr6OsPzphVuC7GH4KOVpTzaM+HuoSbOkJgfOFGYs6XgCFjHbSefykiaZZAJfxbEBfK18rHghSWuMmu35eUeHaOBEMnAifaoAFO4wOEqn3o/WCfix3U3jXOpZOtXU+q/z9RHfZsRdAAW07S6VpRBSu9M/CuOXIz62q/QYkvfkCKB3Je2NFzKrJjJhg76QKL3Pq0No0ZIGPMsIbdQEaNdOcfZ7xKAArD/A+fiuCNyH5OD2Ba666m+Z868RYIyz6X1/zomIWNU6jnVFSVkj4RNI0n3HxyFNvSZBPSWo72Mo4OkrQSOL2K3SBQOWUZFcR3mvtSmhaarR42mos95sQhN58HMr7DuMBnfJdeGHz+JF4v057zC5XDO3S01O5wQBeSdoGKyo7iGwnXRnpbPnsuWAnXeYrNjL1DGOKqUaRzvX5yuDx8iz221VjY3tyvpIdYHB4Ot60bDsCk+rKG94qhT6Qi328CJvwIyeLEbWvrsMs/NiBIcCnVdAlpIgTY8LBqzK7wFXHOzy57I/OqseNhv7lBniUZLGsBCK6n+jmKL7ejTycA++rpSDoi6A9ZMToLf8Uew9Wp2w2b9IVwgdSNbgRa4O2NrUhAj1pRgaKUMllplWo8Sfn85tLtGcrvNw5AiFq1kjHHk5lMdRx5ppNIaDqj0IFpIb3qJQJH6wMQ6t/38aB0kw09dGjoJcrKmZOnqUscdX1R3wICzfWI8QaXLHiunMDZShil/WBvTUmkJyvPZnehbi/Kk1NZ6pOSDQUPYK8vdcNdTyMMT+TmEn/hGqWwAaPqEoqaVgi7NcKXt4QZTyWTV4bTVrFjMu++VsM0q+xrqpzUkZQ5nTF5vTBLrglKjLyfyo5ZXYqApNKNnDVqhxgw7tjzn6yyoG6eJH7obljQEYw83VHddrru8cegp93Fr6LlfaxNI66LV4Vsqop6QD33vxmj2+V2/hsaAcuMH75LQ2X6jez6YMhhzJx0A10pdudH/vb29w1qkkG8fey/LVFrsZJ+wc7RZF3YKdy3kdt0F/fXzExgagEU3MxiLuPBqYMMOiz4hHVaG6vRygeWm8SO6dCwr3ySawElw+Kp2qo4tf3JHGY6gssZ75dhifAGdXO7u6D4sgbWCepdPy+Ti7ONCwrvb45dKhPV4FVdcPmd1wmOLBGcj1sNyhT2KIg67xVI8/sWcFzGNovrMb03fS7KdpTVqZGO1P7/0u0/X49pIQjEc2p0LrmvpfyKEeyoUoYFY75XdfulgnpQgVEK7rA1H6xBts76STDfMwSCNfT+6TO32sH9B4tmUaD99D5oMlhoCBzckgexsQs2UjB97p4wg/XhFy2Xly/DUrFVn6Q26g0Q8Lh9PdniloUP4W8zrUhrwEAeoyBH6+E/6o3VsWeu0GFPrrdJNIV81k5xx2vzwxbyy7l/F/Y/1c579lxMlHswQ6yFnrQ+JT+4NZHac9tl2x1SnFUggWtWqseBZkOvO98kjUDQUKvrWo8firqKFhyEttqGdxBHYQGxwtzSj0RdVpMOskiIqV++p1dsJp9GkSB0oJbqRKU4TV2FCG3pOEgiDyFUNTm2shz+4PsoYjq1yYEVflZmZUMiwVEEs1P+uxVOzgu31tEkGtbkFlasfZuEl2ncYjipLcE+C8G91JxvvWs4psklQGge+vjbWBNYYNVs+B7+v7v34amklYs3CU3e3cfTcAALooSqZeZX1Cv9FeFLcS8Lxuah3Dx0lvhsxdabDbPhLgPGolaBN+uqTY1xoC4ZLS6ZPbJavQzummJOaOHfPCRvXHcIE/jnVOY1ppjH7y5/jXGd/LZB2NT/LZ8LeawJHkkV04ikT65A7qtwwVTyJP6Qv7FFrQK/2AsqFeLyHyuzx7NiKRc3V0l/fVfH18GXT7aUCa5jsq6+NL6yaKA4cYABPue3f7bWroml35copUeQFLRyztvrpVLQXDyyckWMLGOhRJ3zEexVF4MHYWq9Q11sTOqu1PcROmiaeFbMdY3VO949cF5BLSRyWz1nUI9uOJKaznLdaSyG6V9gGZGN4Ft6w12dARJLj6roT3POiPJL7VEb0gxvibLD12FzNrNMbji/OvWYxHbYGiIkmfwkeIo9hiKtH7jWpNo4T+gOjst8jS+Nir4vn9LJfUflhZh46wXl6EV8oi/JfumlSNiG/Ug4UGVu3RqEORkkxcu8hlfUfKGmPZYZHuiCqCuRe9f7jOZJoIolPv4CHtA8OtBEhXUkuzonVIA5o5vwfVqje57yRK0CzlL2xrYyEO+xE6HnDFq0uGhNXQBFrOce1xGyg88TwQvG744+JLsN0t7mSEAzkROe4tAdAWXnwD16nD/WTCER4r+hc1T7CYrTwIrpPI6tD3kMb6yzxXHU4dtKOKUNeHB+88QzSblCABhy5eJmU+8ITlbbtV1LSu7cpHwarxznah9mzTgskGoGstbNjf5JVsp3CUM7FJXdT5G5nOfXF0lax7rEe9x0tLsjRPUmu6XOkG32aTFhF2FsB24EGcIO9ZIoiHx/HHw+o6+6cegK6utCZKpG/vnB5uA3M8C5BzbHKJ7/OpYKLtatu+xfqrYphbjCy3NKnVRpROMawbnRQMDrtKVYD+uJ1WCpmsSGd72hNFdmHUK9Iu934oEaJS5h1ZX+gqlGYZ6WN3Vq4QAo6Z31FbEep1J/OBQb6sW6LAnUhwa6gTvA5eq4jLDyX+bitudPSKqIaEkFE2AzB89oEzU/eBSksFilW2VwFjI4trGSQwxwkPiqJi/KkA/+Sicp9N6SFutIo6bXRm/5sE/88W80HoXsYDdAfxC696yzTF4nXzyND77UynLRItFQv/7CvcJeLnThfOzTBuhguK12SKEwaOd+MpW7dgHyjhJS8EUgZNaxA/dkcOACWMCdm0SiE2JyRGN4AoRiJtYMKdsSjdIWPI1gbhZmU+iPqegfRhZHQkFZCs5HtQKE6onr6MHet+tUvPH1f600QtR99qwcQZwD8JXSW6bBv5KQtnvQOvn9kMm7LaAsjySGw0Gi8NgwHXR3ZCbYtpC0+2mv3UTDEGwEIn3TUo3nAdjUtYvkPu2mm9uU5uhZk2DWyr0s63lJpsNUswwHadJcwuNgez8qwk4oKXfvePmfC0oJjQ61KIhh4fXdxasVubOrdvE9WzER7vBXS5PrE/a39Yq+GzfkbEOEyXziaN6uqPqqCy3aKCCQXVRQnA2j0GmkYSuX8WLip3Rg5cVpIAxJUhVfsPxAtEHQI9vOvh9HF6Hj+uBfKE9qXWvDt9qFZRYgf8sYQ0YdTE9UngA0vqfGhsXwLqUEXl6s75j/QXQ9dHoq/d0xPhPRXzAeZIKS9LFEjEh8g9XVN6bSSAoG9QGq4XqVILajxnlExLKYjUWD/8zIJyFMSdmgH/ynOBQpuh7LtWyq58wv+q+hWG1+dPa/CJl482nT0zu0gWPJzx1LledY8lrg/4DcCn5PjxARL1isv64klOGp7EhNb9oyWwkfaMzy5yu7azr+UwcSOVE37/n//YP1Vo+6PVNRnn1ej7ZVRofevt0uhS8vbhI8oGFwblP143nr+6Fk4FHoC+dQ1+nNiltQ32By1nFp4vsOEzGQOGNR767f6/SlDCvY8d3n6khqbifkukZCI/8ZALUAf81jf66RcaMN5Dvf8Ham4EEMlbueTBa+TJ7nBEbMMl9/jl8jUauggY89x70yh8mfS4KYGIddd4PLp5MJitkkAb/jYVDNU6O2WkI8nPDMeHp+oHS+7l1fpHbNqH5n31je92NKQAuFerYq9/2O+LDmDrigthA32Z76FckGAzENkOn9F8MRSAJR8bTZYCcnpo16pbAXP10SuU+WIElLVPnfI3ecx+hS8CWA2SUsg/cZXA744eBsPl6J8CIXS3MdFI/reXnSEF4nIiAHLGj1GH3sDsnMuTUhX254JNvXoDciKaEba9TyWhSh7a8CIFw/yD+4wQEj8fcMaf7dCf7IKW6/xuGwy4M5Dg/CWkpHeJmZ0e6X+tgvfLD5YxqJKsL53hCc15dTfcYy3QqK5ni5Z/iAI5p7tHOmcnJunb9ysFWa3nL8KZ+OgsMyhbds7oq0eL3gnvnNMC/tsXIi+mlhPqjZVGYkMGZKc55nZShfa50kqI5vrQ1mNAPslhP+PN2/5P8nzHsBzwbXqDbAh+VGcSaIGmWa0NnnXzJIkey8WFQjRYrVu9gg8bBI4+xPru7aCT5x+MJ/1JPu3Fp1sx8FZU84iAE7K5JZgWtYEwRDrkSbePuNha5VOpqwiKzhYAEKY2yvC4sbwCV9Lkoge6DQ+YPl/I/UEyjFDWoLHmXuXvTIG8ixwj8oADkBLMkc3FA0YzJ4uIhnOV/zhl/OgA1ZrQtQLSCgSvK4EhWgUHBpv4ZvBHDaPNuJR8QWQ7ANESPNFgd9waxWwoXcaFK5Jc8gP8BC7wG5ASAQCTGHjMoRv9xxW7fzQcbYQezO6d8dFwQrglLAOwZdcnglcU5qCF1uKXiQvgjVeLOKRLHiynU11f084WNEYOfCbBEWuVKnWfy5W4DuesT4PnJ2S8Hqa3GJpkzv/sLJJ4rXCGBBaLyHxNvnfpZJ7xmKxxGrXzclW2xHt/wwqAJ0TH8i7pg8O1ybPZaa6HE2H3ctUS5qhOne1XYEjdgryGr/neqApxfXZc1JWoOWYjY6z6TfoZuahbQhtRay1vPVZ5bN3ct+Mz6ASBFkiz2eQgYYYIc75XzQqfDywKBzTwx/Vqo9y5tYi1M8Rn8RCApCBXC7UuS4HCUjVsPUD9uYZSyRpc8i+s2vlMxzFQE++NymErclrQ3LI/yoUwwKCF+NJzncN+YcgFRNepH/kZcdgKkXgHLpwthfqouymn7ADa9mCczHztdVIhUY+xWGNpWz5u/4FObgM6FX204uohw1mnogIwBp5fljmwdr0CkWkbsZ+kVKhHE4nHC+GlvuLP+7w05ivE2/vW4i7DiRyJEaXgGebEdFLVzanZh3mKToh0DbYjCn5kJ66h19K9TLIQLvDdJQDXEg7i4iTirFjXWPLyrFzjpWRNJNpb9TXQ2yDltYkYfSd40b52Hq6y1o1QzLkNkkfyQvcvZ3Q10QkVV+7HXilAQfsTbbwtaX9gOy4PFYwdIlIXN0rYFPusEnIUowxY8PCqHcsRTunrIcACG6uueFUFGMYkkuYcETrraoosdxCVr4+Nh4jhqwMhkoeFDa4AOIe5/hgioNgdwvrrAWLrKccCYYxZXPzli1s0z0zIWlE2L6RA/Lg7HLHsnJvyp/a0PigTEltQ6Hfvv+8Xe1DKI8xI3H5A/okknWtGcRd5wyFQHmI27lWkHtHHiN1ZcoKn0+UL8AJVo8r+ZA1PSfyvbeIEvG2f+5jQ36Q2QPycWICoff7XtDSlIIRpT80qNr4=" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+function addLoadEvent(func) {
+var oldonload = window.onload;
+if (typeof window.onload != 'function') {
+window.onload = func;
+} else {
+window.onload = function() {
+if (oldonload) {
+oldonload();
+}
+func();
+}
+}
+}   
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5D6C0733" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/IGfNExG6VQ4IGTR0iw748AcBKyQ7Hq9kxnmN47Z1osHwOz9zU4+ysaTrJqMrRGSDEnmbUs7qjrcqe9eimMuPrPLVPOjUQbFfxAVs/q+tM69k2txqs2oSVEl4WK83Xw003Ltr/lnT7bL0u87YErd6VbjyMAJPWUgVP62MBRVPgO1T6jrfu3WEcHvhn6NDFhnDcPhoyMasJlfiRNKCyTpWqcI/z3Gg4EzVBaCUmjsSgbEMTPXmXmGjkYcc9r9SeRi2uGe6pYZKA9VEj3Ritq5AHa2UWRy0zpMedbfIvj5sNw=" />
+                    
+                    
+                        <header class="header">
+                            <div class="header-inner responsive-container">
+                                <h1 class="header-logo">
+                                    <a id="ctl00_ctl00_ctl00_innhold_hlDefault" href="/">
+                                            <span class="header-logo-img">
+                                                <img alt="Ålesundsbiblioteka" src="/handlers/bv.ashx/i0f39ca43-7f20-406a-919c-9220551cd14a/c6acealesund-logo.svg" />
+                                            </span>
+                                        
+                                        <span class="header-logo-title visually-hidden">
+                                            Ålesundsbiblioteka
+                                        </span>
+                                    </a>
+                                </h1>
+                                
+                                    <div class="header-site-name-container">
+                                        <span class="header-site-name">
+                                            Ålesundsbiblioteka
+                                        </span>
+                                    </div>
+                                
+                                <div class="header-navigation">
+                                    <div class="header-navigation-toggles">
+                                        <div class="search-box-toggle-wrapper">
+                                            <button type="button" class="search-box-toggle" id="searchBoxToggle">
+                                                <span>
+                                                    Søk 
+                                                </span>
+                                            </button>
+                                        </div>
+                                        <div class="main-menu-toggle-wrapper">
+                                            <button type="button" class="main-menu-toggle" id="mainMenuToggle">
+                                                <span class="vis-meny">
+                                                    Meny 
+                                                </span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="header-site-name--mobile responsive-container">
+                                <span class="header-site-name--mobile">
+                                    Ålesundsbiblioteka
+                                </span>
+                            </div>
+                        </header>
+                    
+
+
+                    
+                        <div class="search-box" role="search" id="searchBoxContainer">
+                            <div class="search-box-inner responsive-container grid-zone">
+                                <!-- Start sone -->
+<div id="Sone1001" class="zone Zone webPartZoneVertical">
+
+	<div class="webPart wp-sokefelt avstand-opp-2 avstand-ned-2 kolonner-4-12" id="ctl00_ctl00_ctl00_innhold_ctl01_WebpartId_1352">
+		<div class="webPartInnhold">
+			<div id="ctl00_ctl00_ctl00_innhold_ctl01_WebpartId_1352_WebpartId_1352_pnlSok">
+				
+<div class="js-searchform" data-action-url="/sok.aspx">
+    
+    <a name="contentSok"></a>
+				
+
+    <input type="hidden" name="ctl00$ctl00$ctl00$innhold$ctl01$WebpartId_1352$WebpartId_1352$hdMId1" id="ctl00_ctl00_ctl00_innhold_ctl01_WebpartId_1352_WebpartId_1352_hdMId1" value="18378" />
+    <input name="ctl00$ctl00$ctl00$innhold$ctl01$WebpartId_1352$WebpartId_1352$txtSearch" type="text" id="ctl00_ctl00_ctl00_innhold_ctl01_WebpartId_1352_WebpartId_1352_txtSearch" class="js-liten-trigger-search" aria-label="Søketekst" />
+    <input type="submit" name="ctl00$ctl00$ctl00$innhold$ctl01$WebpartId_1352$WebpartId_1352$btnSearch" value="Søk" id="ctl00_ctl00_ctl00_innhold_ctl01_WebpartId_1352_WebpartId_1352_btnSearch" />
+    
+
+    <script>
+        (function () {
+
+            const input = document.getElementById('ctl00_ctl00_ctl00_innhold_ctl01_WebpartId_1352_WebpartId_1352_txtSearch');
+            const searchBase = '/sok.aspx';
+            const searchUrl = searchBase + (searchBase.includes('?') ? '&' : '?') + 'MId1=18378&soketekst='
+
+            if(input) {
+                var searchBoxes = document.querySelectorAll('.js-searchform .js-liten-trigger-search');
+
+                if (searchBoxes) {
+                    for (var i = 0; i < searchBoxes.length; i++) {
+                        var searchBox = searchBoxes[i];
+
+                        if (!searchBox.hasAttribute('data-handled')) {
+                            searchBox.setAttribute('data-handled', 'true');
+
+                            searchBox.addEventListener('keydown', function(e) {
+                                if (e.which == 13) {
+                                    window.location.href = searchUrl + input.value;
+                                }
+                            });
+                        }
+                    }
+                }
+
+                var submitButtons = document.querySelectorAll('.js-searchform input[type="submit"]');
+        
+                if (submitButtons) {
+                    for (var i = 0; i < submitButtons.length; i++) {
+                        var submitButton = submitButtons[i];
+                    
+                        if (!submitButton.hasAttribute('data-handled')) {
+                            submitButton.setAttribute('data-handled', 'true');
+
+                            submitButton.addEventListener('click', function (e) { 
+                                e.preventDefault();
+                                window.location.href = searchUrl + input.value;
+                            });
+                        }
+                    }
+                }
+            }
+
+        })();
+    </script>
+</div>
+
+			</div>
+		</div>
+	</div>
+
+</div>
+<!-- Slutt sone -->
+                            </div>
+                        </div>
+                    
+
+
+                    
+                        <nav class="main-menu" id="mainMenuContainer">
+                            <a name="contentHovedmeny"></a>
+
+                            <div class="main-menu-inner responsive-container grid-zone">
+                                <!-- Start sone -->
+<div id="Sone1003" class="zone Zone webPartZoneVertical">
+
+	<div class="webPart wp-lenker-rutenett avstand-opp-4 avstand-ned-4" id="ctl00_ctl00_ctl00_innhold_ctl02_WebpartId_1213">
+		<div class="webPartInnhold">
+			<!--Fromcache-->
+<ul class="vListe"><li class="toplevel"><a href="https://alesundsbiblioteka.no/vi-tilbyr/" data-id="33297" class=""><span><span class="img"></span><span class="text">Vi tilbyr</span></span></a></li><li class="toplevel"><a href="https://alesundsbiblioteka.no/kva-skjer/" data-id="33673" class=""><span><span class="img"></span><span class="text">Kva skjer?</span></span></a></li><li class="toplevel"><a href="https://alesundsbiblioteka.no/vi-tilbyr/digitale-tenester/" data-id="33702" class=""><span><span class="img"></span><span class="text">Digitale tenester</span></span></a></li><li class="toplevel"><a href="https://alesundsbiblioteka.no/biblioteka/" data-id="36758" class=""><span><span class="img"></span><span class="text">Biblioteka</span></span></a></li></ul>
+		</div>
+	</div>
+
+</div>
+<!-- Slutt sone -->
+                            </div>
+                        </nav>
+                    
+
+                    
+                        <div class="area-message-inner responsive-container grid-zone">
+                            <!-- Start sone -->
+<div id="Sone1009" class="zone Zone webPartZoneVertical">
+
+	<div class="webPart wp-omrademelding avstand-ned-2" id="ctl00_ctl00_ctl00_innhold_ctl03_WebpartId_1217">
+		<div class="webPartInnhold" style="display:none;">
+
+		</div>
+	</div>
+
+</div>
+<!-- Slutt sone -->
+                        </div>
+                    
+
+                    <main>
+                        <a name="contentInnhold"></a>
+
+                        
+
+            
+    
+
+
+            
+                <div class="frontpage-hero-section">
+                    <div class="frontpage-hero-section-inner responsive-container grid-zone">
+                        <!-- Start sone -->
+<div id="Sone2222" class="zone Zone webPartZoneVertical">
+
+	<div class="webPart kolonner-12 egendef" id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl00_WebpartId_1368">
+		<div class="webPartInnhold">
+			<!-- Cached at 22.03.2026 17.40.39 (html) 07.08.2025 01.15.11 (content) (2) -->
+<p><span><span><span class="displayBlock artikkel-bilde-container legacy-content-block legacy-content-block--image displayBlock floatNone bilde width-full"><a title="Bokhyller og en krakk - Klikk for stort bilete" href="/handlers/bv.ashx/ib2b63b6e-fb76-405b-af3e-0b8c18a2bcac/w1200/q3307/k8ded9c02b2e6/bokhylle-krakk_bannerbilde.jpg" class="artikkel-bilde js-lightbox-image-anchor"><img alt="Bokhyller og en krakk - Klikk for stort bilete" src="/handlers/bv.ashx/ib2b63b6e-fb76-405b-af3e-0b8c18a2bcac/w1200/q3307/k8ded9c02b2e6/bokhylle-krakk_bannerbilde.jpg" class="js-lightbox-image" data-lightbox-image-url="/handlers/bv.ashx/ib2b63b6e-fb76-405b-af3e-0b8c18a2bcac/w1200/q3307/k8ded9c02b2e6/bokhylle-krakk_bannerbilde.jpg" data-lightbox-thumbnail-url="/handlers/bv.ashx/e1/ib2b63b6e-fb76-405b-af3e-0b8c18a2bcac/w1200/q3307/k5918d0152d7b/bokhylle-krakk_bannerbilde.jpg" data-lightbox-image-description="" data-lightbox-image-alttext="Bokhyller og en krakk"/></a></span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span></span></span></p>
+
+
+		</div>
+	</div>
+
+</div>
+<!-- Slutt sone --><!-- Start sone -->
+<div id="Sone2223" class="zone Zone webPartZoneVertical">
+
+	<div class="webPart wp-banner-links" id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl01_WebpartId_1228">
+		<div class="webPartInnhold">
+			<!--Fromcache-->
+<ul class="vListe"><li class="toplevel first"><a href="https://alesund.bib.no/cgi-bin/m2" target="_blank" data-id="33006" class=""><span><span class="img"></span><span class="text">Søk i biblioteket</span></span></a></li><li class="toplevel"><a href="https://alesund.bib.no/cgi-bin/m2?mode=ln-kanskjenylaaner" target="_blank" data-id="33007" class=""><span><span class="img"></span><span class="text">Bli lånar</span></span></a></li><li class="toplevel last"><a href="https://alesund.bib.no/cgi-bin/m2?mode=login" target="_blank" data-id="33008" class=""><span><span class="img"></span><span class="text">Mi side</span></span></a></li></ul>
+		</div>
+	</div>
+
+</div>
+<!-- Slutt sone -->
+                    </div>
+                </div>
+            
+
+            
+                <div class="frontpage-top-section">
+                    <div class="frontpage-top-section-inner responsive-container grid-zone">
+                        <!-- Start sone -->
+<div id="Sone2000" class="zone Zone webPartZoneVertical">
+
+	<div class="webPart wp-artikler-kort avstand-opp-3 avstand-ned-4 kolonner-1-12 article-list-box has-image" id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222">
+		<h2 class="webPartTittel">
+			<span>Aktuelt</span>
+		</h2><div class="webPartInnhold">
+			
+
+<div class="container articles-in-category">
+    
+            <ul>
+        
+            <li>
+                <span class="datoPublisert">10.03.2026</span>
+                
+                
+                <a id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222_WebpartId_1222_rptArtikler_ctl01_hlLink" class="MargLink" href="/aktuelt/endring-i-opningstidene-18-og-19-mars.70339.aspx"><span class="imgWrapper">
+                        <img id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222_WebpartId_1222_rptArtikler_ctl01_img" src="/handlers/bv.ashx/e1/icf484e4f-f002-45de-8c81-8af857f2625e/w800/h450/q18989/kb0d87485db61/bibliotekmotet-2026-logo.jpg" alt="" border="0" />
+                    </span>
+                        <h3 class="tittel">Endring i opningstidene 18. og 19. mars</h3>
+                    </a>
+                
+                <div id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222_WebpartId_1222_rptArtikler_ctl01_pnlIngress" class="ingress">
+				
+                    I veke 12 vert det 80. norske bibliotekmøtet arrangert i Molde. I samband med dette vil nokre av Ålesundsbiblioteka ha kortare opningstid og nokre vere heilt stengde onsdag 18. og torsdag 19. mars. 
+                
+			</div>
+                <div id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222_WebpartId_1222_rptArtikler_ctl01_pnlVismer">
+				
+                    <a id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222_WebpartId_1222_rptArtikler_ctl01_hpLesmer" class="lesmer" href="/aktuelt/endring-i-opningstidene-18-og-19-mars.70339.aspx">Les meir</a>
+                
+			</div>
+                
+            </li>
+        
+            <li>
+                <span class="datoPublisert">10.03.2026</span>
+                
+                
+                <a id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222_WebpartId_1222_rptArtikler_ctl02_hlLink" class="MargLink" href="/aktuelt/bokbad-med-birgit-skarstein.70331.aspx"><span class="imgWrapper">
+                        <img id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222_WebpartId_1222_rptArtikler_ctl02_img" src="/handlers/bv.ashx/e1/i132230ec-5f88-4578-9558-0d845ca5a8b5/w800/h450/q18978/k00850dad3ca3/design-uten-navn.png" alt="" border="0" />
+                    </span>
+                        <h3 class="tittel">Bokbad med Birgit Skarstein</h3>
+                    </a>
+                
+                <div id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222_WebpartId_1222_rptArtikler_ctl02_pnlIngress" class="ingress">
+				
+                    Birgit Skarstein besøker Ålesund bibliotek måndag 16. mars og fortel si historie, om vegen frå ei livsendrande ulukke til paralympisk gull. Det blir ein kveld om mot, vilje og siger over utfordringar. 
+                
+			</div>
+                <div id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222_WebpartId_1222_rptArtikler_ctl02_pnlVismer">
+				
+                    <a id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222_WebpartId_1222_rptArtikler_ctl02_hpLesmer" class="lesmer" href="/aktuelt/bokbad-med-birgit-skarstein.70331.aspx">Les meir</a>
+                
+			</div>
+                
+            </li>
+        
+            <li>
+                <span class="datoPublisert">04.03.2026</span>
+                
+                
+                <a id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222_WebpartId_1222_rptArtikler_ctl03_hlLink" class="MargLink" href="/aktuelt/hvite-striper-sorte-far.70202.aspx"><span class="imgWrapper">
+                        <img id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222_WebpartId_1222_rptArtikler_ctl03_img" src="/handlers/bv.ashx/e1/i6e717f98-5d3d-49ad-bd4b-7b9f32b7cc25/w800/h450/q18874/k754698c7ce51/hvite-strioer-facebook.png" alt="" border="0" />
+                    </span>
+                        <h3 class="tittel">"Hvite striper, sorte får"</h3>
+                    </a>
+                
+                <div id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222_WebpartId_1222_rptArtikler_ctl03_pnlIngress" class="ingress">
+				
+                    Dei to journalistane Øistein Monsen og Torgeir P. Krokfjord gav ut boka “Hvite striper, sorte får” i fjor haust. Den fekk stor merksemd i media, ikkje minst fordi Marius Borg Høiby er ein av dei som vert omtala. Torsdag 5. mars kjem dei to forfattarane til Ålesund bibliotek for å snakke om arbeidet med boka, i samtale med NRK-journalist Pål Kristian Lindseth. 
+                
+			</div>
+                <div id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222_WebpartId_1222_rptArtikler_ctl03_pnlVismer">
+				
+                    <a id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222_WebpartId_1222_rptArtikler_ctl03_hpLesmer" class="lesmer" href="/aktuelt/hvite-striper-sorte-far.70202.aspx">Les meir</a>
+                
+			</div>
+                
+            </li>
+        
+            </ul>
+        
+    
+        <div class="webPartBunnLink">
+            <a id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222_WebpartId_1222_hlLinkAlle" class="MargLink" href="/aktuelt/">Vis alle</a>
+        </div>
+    
+    <input name="ctl00$ctl00$ctl00$innhold$MidtSone$ctl02$WebpartId_1222$WebpartId_1222$hdOverview" type="hidden" id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1222_WebpartId_1222_hdOverview" value="/aktuelt/" />
+</div>
+
+		</div>
+	</div>
+
+	<div class="webPart wp-focus-field wp-focus-field--text wp-focus-field--text--1 kolonner-6" id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1224">
+		<div class="webPartInnhold">
+			
+        <div class="emnekart-text-box-list">
+    
+        <div class="emnekart-text-box">
+           
+
+    <div class="text-box">
+        <p>Det er vår! Dagane blir lengre, sola og varmen kjem litt etter litt attende, og det er deilig å vere ute.</p><p>Kom innom biblioteket for å finne inspirasjon til turar, hagestell og andre uteaktivitetar!</p>
+    </div>
+
+        </div>
+    
+        </div>
+    
+		</div>
+	</div>
+
+	<div class="webPart wp-focus-field wp-focus-field--image wp-focus-field--image--1 kolonner-6 emnekart-webpart emnekart-webpart--bilde" id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl02_WebpartId_1225">
+		<div class="webPartInnhold">
+			<!--fromcache-->
+        <div class="emnekart-image-list">
+    
+        <div class="emnekart-image">
+            <div class="banner-image" style="background-image: url(&#39;/handlers/bv.ashx/e1/iaadd85c5-f6d7-4f9c-a2fe-3dd699a77101/w1200/h600/q18891/kb9c5cc03af16/var.png&#39;); background-position: 50.0% 50.0%;"></div>
+        </div>
+    
+        </div>
+    
+		</div>
+	</div>
+
+</div>
+<!-- Slutt sone -->
+                    </div>
+                    <div class="frontpage-top-section-inner--variant grid-zone">
+                        <div class="responsive-container">
+                            <!-- Start sone -->
+<div id="Sone2226" class="zone Zone webPartZoneVertical">
+
+</div>
+<!-- Slutt sone -->
+                        </div>
+                    </div>
+                    <div class="frontpage-top-section-inner responsive-container grid-zone">
+                        <!-- Start sone -->
+<div id="Sone2227" class="zone Zone webPartZoneVertical">
+
+	<div class="webPart wp-kalender-liste-med-bilde avstand-opp-4 avstand-bunn-4 kolonner-12 emnekart-webpart type-kalender" id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl04_WebpartId_1229">
+		<h2 class="webPartTittel">
+			<span>Kva skjer?</span>
+		</h2><div class="webPartInnhold">
+			<!--fromcache-->
+        <div class="emnekart-list">
+    
+        <div class="emnekart-item" data-id="63">
+            
+
+<div class="calWebPart">
+    <div class="calWPContent">
+        <ul>
+  <li class="event">
+    <div class="event-image"><img alt="" src="handlers/bv.ashx/i61c599d5-bad4-4c34-80af-e98709ebe17f/w300/kaf8890ea6f1c/paskeegg.png"></div><a href="/Kalender/CalendarEvent.aspx?Id=33536&amp;lang=1&amp;MId1=18377"><div class="event-date">
+        <div class="event-date-day">22.
+                </div>
+        <div class="event-date-month">03.
+                </div>
+        <div class="event-date-month">2026</div>
+        <div class="event-time"><span class="event-time-spacer">|</span>kl. 10:00</div>
+      </div>
+      <div class="event-text">
+        <h3 class="event-title">Påskeeggjakt</h3>
+        <div class="event-details"><span class="event-location">Moa bibliotek</span></div>
+      </div></a></li>
+  <li class="event">
+    <div class="event-image"><img alt="" src="handlers/bv.ashx/iaaf6bb82-509a-4d6b-a121-4529934db064/w300/kbc29776f975f/paskeverkstad-i-alesund-bibliotek-23-mars-12-15.jpg"></div><a href="/Kalender/CalendarEvent.aspx?Id=33539&amp;lang=1&amp;MId1=18377"><div class="event-date">
+        <div class="event-date-day">23.
+                </div>
+        <div class="event-date-month">03.
+                </div>
+        <div class="event-date-month">2026</div>
+        <div class="event-time"><span class="event-time-spacer">|</span>kl. 12:00</div>
+      </div>
+      <div class="event-text">
+        <h3 class="event-title">Påskeverkstad i Ålesund bibliotek</h3>
+        <div class="event-details"><span class="event-location">Ålesund bibliotek</span></div>
+      </div></a></li>
+  <li class="event">
+    <div class="event-image"><img alt="" src="handlers/bv.ashx/ic5357640-bf91-4d7b-9d77-68cf479eaca8/w300/kc7c915fede5a/kopi-av-kopi-av-2024_var_sprakkafe-i-alesund-bibliotek-1920-x-1080-px.png"></div><a href="/Kalender/CalendarEvent.aspx?Id=33336&amp;lang=1&amp;MId1=18377"><div class="event-date">
+        <div class="event-date-day">23.
+                </div>
+        <div class="event-date-month">03.
+                </div>
+        <div class="event-date-month">2026</div>
+        <div class="event-time"><span class="event-time-spacer">|</span>kl. 14:30</div>
+      </div>
+      <div class="event-text">
+        <h3 class="event-title">Leksehjelp for vaksne</h3>
+        <div class="event-details"><span class="event-location">Ålesund bibliotek</span></div>
+      </div></a></li>
+  <li class="event">
+    <div class="event-image"><img alt="" src="handlers/bv.ashx/id6a2a0cf-194e-4b04-878c-542fb3893bb1/w300/k362f7b385ef6/erlepabat.jpg"></div><a href="/Kalender/CalendarEvent.aspx?Id=33553&amp;lang=1&amp;MId1=18377"><div class="event-date">
+        <div class="event-date-day">23.
+                </div>
+        <div class="event-date-month">03.
+                </div>
+        <div class="event-date-month">2026</div>
+        <div class="event-time"><span class="event-time-spacer">|</span>kl. 18:00</div>
+      </div>
+      <div class="event-text">
+        <h3 class="event-title">Livet i fjordane våre – korleis står det til?</h3>
+        <div class="event-details"><span class="event-location">Ålesund bibliotek</span></div>
+      </div></a></li>
+  <li class="event">
+    <div class="event-image"><img alt="" src="handlers/bv.ashx/ibc710b89-b511-47eb-af35-59ab6699f112/w300/k52663f793277/arnoldeidslott.jpg"></div><a href="/Kalender/CalendarEvent.aspx?Id=33531&amp;lang=1&amp;MId1=18377"><div class="event-date">
+        <div class="event-date-day">23.
+                </div>
+        <div class="event-date-month">03.
+                </div>
+        <div class="event-date-month">2026</div>
+        <div class="event-time"><span class="event-time-spacer">|</span>kl. 18:30</div>
+      </div>
+      <div class="event-text">
+        <h3 class="event-title">Jan Inge Sørbø om Arnold Eidslott</h3>
+        <div class="event-details"><span class="event-location">Moa bibliotek</span></div>
+      </div></a></li>
+  <li class="event">
+    <div class="event-image"><img alt="" src="handlers/bv.ashx/ief1bd429-71bc-4f9c-91be-3a9fa64de754/w300/kaca423903a60/bokkino.jpg"></div><a href="/Kalender/CalendarEvent.aspx?Id=33460&amp;lang=1&amp;MId1=18377"><div class="event-date">
+        <div class="event-date-day">24.
+                </div>
+        <div class="event-date-month">03.
+                </div>
+        <div class="event-date-month">2026</div>
+        <div class="event-time"><span class="event-time-spacer">|</span>kl. 11:00</div>
+      </div>
+      <div class="event-text">
+        <h3 class="event-title">Bokkino</h3>
+        <div class="event-details"><span class="event-location">Moa bibliotek</span></div>
+      </div></a></li>
+  <li class="event">
+    <div class="event-image"><img alt="" src="handlers/bv.ashx/i7e7771da-66ae-4fb2-a109-5d0ada8496b3/w300/k9fe2da0574e6/les-vegas-moa.png"></div><a href="/Kalender/CalendarEvent.aspx?Id=33291&amp;lang=1&amp;MId1=18377"><div class="event-date">
+        <div class="event-date-day">25.
+                </div>
+        <div class="event-date-month">03.
+                </div>
+        <div class="event-date-month">2026</div>
+        <div class="event-time"><span class="event-time-spacer">|</span>kl. 10:30</div>
+      </div>
+      <div class="event-text">
+        <h3 class="event-title">Les Vegas, baby!</h3>
+        <div class="event-details"><span class="event-location">Moa bibliotek</span></div>
+      </div></a></li>
+  <li class="event">
+    <div class="event-image"><img alt="" src="handlers/bv.ashx/i7f510fbf-a028-4425-a1ee-aa8cf108e7d3/w300/k93329448176c/strikkekafe.jpg"></div><a href="/Kalender/CalendarEvent.aspx?Id=33375&amp;lang=1&amp;MId1=18377"><div class="event-date">
+        <div class="event-date-day">25.
+                </div>
+        <div class="event-date-month">03.
+                </div>
+        <div class="event-date-month">2026</div>
+        <div class="event-time"><span class="event-time-spacer">|</span>kl. 12:00</div>
+      </div>
+      <div class="event-text">
+        <h3 class="event-title">Strikkekafé på Ålesund bibliotek</h3>
+        <div class="event-details"><span class="event-location">Ålesund bibliotek</span></div>
+      </div></a></li>
+  <li class="event">
+    <div class="event-image"><img alt="" src="handlers/bv.ashx/i1ea99597-79b5-4f63-a35a-438ed3063427/w300/k297b85f20a0f/samlesing.png"></div><a href="/Kalender/CalendarEvent.aspx?Id=33440&amp;lang=1&amp;MId1=18377"><div class="event-date">
+        <div class="event-date-day">25.
+                </div>
+        <div class="event-date-month">03.
+                </div>
+        <div class="event-date-month">2026</div>
+        <div class="event-time"><span class="event-time-spacer">|</span>kl. 13:00</div>
+      </div>
+      <div class="event-text">
+        <h3 class="event-title">Samlesing - lesestund for vaksne</h3>
+        <div class="event-details"><span class="event-location">Moa bibliotek</span></div>
+      </div></a></li>
+</ul>
+    </div>
+    
+        <div class="calWPFooter">
+            <a id="ctl00_ctl00_ctl00_innhold_MidtSone_ctl04_WebpartId_1229_WebpartId_1229_rptItems_ctl01_ucDisplayControl_lnkSearch" href="/Kalender/CalendarEvents.aspx?lang=1&amp;kategori=63&amp;dir=ComingEvents&amp;MId1=18377"><span>Vis alle</span></a>
+        </div>
+    
+</div>
+        </div>
+    
+        </div>
+    
+		</div>
+	</div>
+
+</div>
+<!-- Slutt sone -->
+                    </div>
+                </div>
+            
+        
+                    </main>
+
+
+                    
+                        <footer class="footer">
+                            <div class="footer-inner responsive-container grid-zone">
+                                <!-- Start sone -->
+<div id="Sone1005" class="zone Zone webPartZoneVertical">
+
+	<div class="webPart wp-egendefinert avstand-opp-2 avstand-ned-3 kolonner-4 egendef" id="ctl00_ctl00_ctl00_innhold_ctl04_WebpartId_1214">
+		<h2 class="webPartTittel">
+			<span>Kontakt </span>
+		</h2><div class="webPartInnhold">
+			<!-- Cached at 22.03.2026 17.40.39 (html) 22.03.2026 17.40.39 (content) (2) -->
+<p><a class="InnholdLinkTekst link-webpage " href="https://alesundsbiblioteka.no/kontakt-oss/" data-id='33731'>Kontakt oss</a><br />
+<a class="InnholdLinkTekst link-webpage " href="https://alesundsbiblioteka.no/biblioteka/" data-id='33732'>Biblioteka</a></p>
+
+
+		</div>
+	</div>
+
+	<div class="webPart wp-egendefinert avstand-ned-3 avstand-opp-2 kolonner-4 egendef" id="ctl00_ctl00_ctl00_innhold_ctl04_WebpartId_1215">
+		<h2 class="webPartTittel">
+			<span>Snarvegar</span>
+		</h2><div class="webPartInnhold">
+			<!-- Cached at 22.03.2026 17.40.39 (html) 22.03.2026 17.40.39 (content) (2) -->
+<p><a class="InnholdLinkTekst link-webpage " href="https://alesundsbiblioteka.no/bruke-biblioteket/" data-id='36793'>Slik bruker du biblioteket</a><br />
+<a class="InnholdLinkTekst link-webpage " href="https://alesundsbiblioteka.no/opningstider/" data-id='36792'>Opningstider</a><br />
+<a class="InnholdLinkTekst link-webpage " href="https://alesundsbiblioteka.no/om-nettstaden-og-personvern/" data-id='36791'>Nettstaden og personvern</a><br />
+<a class="InnholdLinkTekst link-webpage " href="https://alesundsbiblioteka.no/kikkhullet/" onclick="window.open(this.href); return false;" target="_blank" data-id='44683'>Kikkhullet</a><br />
+<a class="InnholdLinkTekst link-webpage " href="https://alesundsbiblioteka.no/nettstadkart/" data-id='53201'>Nettstadskart</a><br />
+<a class="InnholdLinkTekst link-webpage " href="https://alesundsbiblioteka.no/tilgjengelegheit/" data-id='53202'>Tilgjengelegheit</a></p>
+
+<p>&nbsp;</p>
+
+
+		</div>
+	</div>
+
+	<div class="webPart wp-social-media avstand-opp-2 avstand-ned-3 kolonner-4" id="ctl00_ctl00_ctl00_innhold_ctl04_WebpartId_1447">
+		<h2 class="webPartTittel">
+			<span>Følg oss</span>
+		</h2><div class="webPartInnhold">
+			<!--Fromcache-->
+<ul class="vListe"><li class="toplevel icon-instagram"><a href="https://www.instagram.com/alesundsbiblioteka/" data-id="33734" class="menyelement_1"><span><span class="img"></span><span class="text">Instagram</span></span></a></li><li class="toplevel icon-facebook"><a href="https://www.facebook.com/alesundbibliotek/" data-id="33735" class="menyelement_2"><span><span class="img"></span><span class="text">Facebook</span></span></a></li><li class="toplevel icon-mail"><a href="http://eepurl.com/hsWCCT" target="_blank" data-id="37459" class="menyelement_3"><span><span class="img"></span><span class="text">Nyheitsbrev</span></span></a></li></ul>
+		</div>
+	</div>
+
+</div>
+<!-- Slutt sone -->
+                            </div>
+                        </footer>
+                    
+                
+<script src='/Maler/Standard/Handlers/ScriptHandler.ashx?bundle=lightbox&portalID=48&sprakID=1&designID=51&v=17.10.4588'></script><script src='/Maler/Standard/Handlers/TranslationHandler.ashx?portalID=48&sprakID=1&designID=51&v=17.10.4588'></script><script src='/script/jQuery/jquery.cookie.js'></script><script src='/design/alesund_kommune/delportal_mal/v2021/assets/js/scripts.js?v=v17.10.04588'></script><script src='/script/js/jsinfo.min.js?v=1.1'></script><script src='/script/js/beredskap.js'></script><script src='/script/eventbus/eventbus.min.js'></script><script src='/templates/design/assets/js/common.js?v=v17.10.04588'></script><script src='/script/js/login.e9fcj.js'></script>
+                    <script>
+                        (function() {
+                            var url = '/api/presentation/requestlog';
+
+                            var data = {
+                                GUID: '8c70ea3b-b6a6-4968-944a-bd5a4b8ee8e6',
+                                userAgent: 'iaal-kulturapp/1.0',
+                                bredde: window.innerWidth, 
+                                hoyde: window.innerHeight
+                            };
+
+                            fetch(url, {
+                                method: 'POST',
+                                headers: {
+                                    'Content-Type': 'application/json; charset=utf-8',
+                                    'X-ANTI-CSRF': '1'
+                                },
+                                body: JSON.stringify(data)
+                            });
+                        })();
+                    </script>
+                </form>
+
+
+            
+     
+    
+
+    <script>
+        var virtualPath = "/";
+    </script>
+
+    
+        <div class="cms-direkteredigering-login-bar js-cms-direkteredigering-login-bar">
+            <button class="cms-direkteredigering-login-button js-cms-direkteredigering-login-button" type="button" tabindex="-1">
+                <span class="cms-direkteredigering-login-button-text">
+                    Innlogging
+                </span>
+            </button>
+        </div>
+        
+    <script>
+        var pageTitleHandledByDesignTemplates = false;
+
+        (function () {
+            window.addEventListener('hashchange', (event) => {
+                
+                var hash = window.location.hash;
+
+                if (hash) {
+                    var fragment = hash;
+
+                    var element = document.querySelector('[data-id="' + fragment.substr(1) + '"]');
+
+                    if (element) {
+                        setTimeout(function () {
+                            var useScrollIntoView = true;
+
+                            if (!useScrollIntoView) {
+                                var clientRect = element.getBoundingClientRect();
+
+                                var scrollToTopMargin = 130;
+
+                                var scrollToOptions = {
+                                    top: clientRect.top + scrollToTopMargin + window.scrollY,
+                                    behavior: 'smooth'
+                                };
+
+                                window.scroll(scrollToOptions);
+                            } else {
+                                element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                            }
+                        }, 250);
+                    }
+                }
+            });
+
+            document.addEventListener('DOMContentLoaded', function () {
+                var pageTitleElement = document.querySelector('.js-page-title');
+
+                if (pageTitleElement) {
+                    var pageTitleElementStyle = window.getComputedStyle(pageTitleElement);
+                    var pageTitleElementIsVisible = pageTitleElementStyle.display !== 'none' && pageTitleElementStyle.visibility !== 'hidden' && pageTitleElementStyle.opacity !== '0';
+
+                    if (pageTitleElementIsVisible) {
+                        pageTitleHandledByDesignTemplates = true;
+
+                        document.querySelector('body').classList.add('has-page-title');
+                    }
+
+                    if (window.eventBus) {
+                        window.eventBus.addEventListener('set-page-title', function (event) {
+                            if (event.target && event.target.text) {
+                                var pageTitleTextElement = document.querySelector('.js-page-title-text');
+
+                                if (pageTitleTextElement) {
+                                    pageTitleTextElement.innerHTML = event.target.text;
+                                }
+                            }
+                        });
+                    }
+                }
+
+
+                var hash = window.location.hash;
+
+                if (hash) {
+
+                    if (hash.startsWith('#!#')) {
+                        var fragment = hash.substr(2);
+
+                        var element = document.querySelector(fragment);
+
+                        if (element) {
+                            setTimeout(function () {
+                                var clientRect = element.getBoundingClientRect();
+                                window.scroll(0, clientRect.top + window.scrollY);
+                            }, 250);
+                        }
+                    } else {
+                        var fragment = hash;
+
+                        
+                        try {
+                            var element = document.querySelector(fragment);
+
+                            if (!element) {
+                                
+                                element = document.querySelector('[data-id="' + fragment.substr(1) + '"]');
+
+                                if (element) {
+                                    setTimeout(function () {
+                                        var clientRect = element.getBoundingClientRect();
+                                        window.scroll(0, clientRect.top + window.scrollY);
+
+                                        if (window.eventBus) {
+                                            window.eventBus.dispatch('show-parent-container', element);
+                                        }
+                                    }, 250);
+                                }
+                            }
+                        } catch {
+
+                        }
+                    }
+                }
+
+                var anchorElements = document.getElementsByTagName('a');
+                
+                for (var i = 0; i < anchorElements.length; i++) {
+                    try {
+                        var anchor = anchorElements[i];
+
+                        var hasHref = anchor.hasAttribute('href');
+
+                        if (hasHref) {
+                            var isExternal = anchor.hostname != window.location.hostname;
+                            var isJavascript = anchor.href.indexOf('javascript:') > -1
+                            var isMailTo = anchor.href.indexOf('mailto:') > -1;
+                            var isTelLink = anchor.href.indexOf('tel:') > -1;
+                            var hasImage = anchor.querySelector('img');
+
+                            if (isExternal && !isJavascript && !isMailTo && !isTelLink && !hasImage) {
+                                if (!anchor.classList.contains('external-link')) {
+                                    anchor.classList.add('external-link');
+                                }
+
+                                if (!anchor.classList.contains('external')) {
+                                    anchor.classList.add('external');
+                                }
+                            }
+                        }
+                    } catch (e) {
+                        // Internet Explorer might throw invalid argument exception for unknown reasons
+                    }
+                }
+
+                var contentSkipToLink = document.querySelector('a.il-skip-to-link[href="#contentInnhold"]');
+
+                if (contentSkipToLink) {
+                    contentSkipToLink.addEventListener('click', function (event) {
+                        event.preventDefault();
+
+                        var contentSkipToLinkTarget = document.querySelector('a[name="contentInnhold"]');
+
+                        if (contentSkipToLinkTarget) {
+                            contentSkipToLinkTarget.setAttribute('tabindex', '-1');
+                            contentSkipToLinkTarget.focus();
+
+                            var top = contentSkipToLinkTarget.getBoundingClientRect().top;
+
+                            var isSmoothScrollSupported = 'scrollBehavior' in document.documentElement.style;
+
+                            var scrollToOptions = {
+                                left: 0,
+                                top: top,
+                                behavior: 'smooth'
+                            };
+
+                            if (isSmoothScrollSupported) {
+                                window.scroll(scrollToOptions);
+                            } else {
+                                window.scroll(scrollToOptions.left, scrollToOptions.top);
+                            }
+                        }
+                    });
+                }
+            }, false);
+
+            document.addEventListener('DOMContentLoaded', () => {
+				const backToTopButton = document.querySelector('.js-new-back-to-top-button');
+				if (backToTopButton) {
+					backToTopButton.addEventListener('click', (event) => {
+						event.preventDefault();
+						const isSmoothScrollSupported = 'scrollBehavior' in document.documentElement.style;
+						const header = document.getElementById('header');
+						let top;
+						if(!header){
+							  const headerElements = document.getElementsByClassName('header');
+							  if (headerElements.length > 0) {
+								top = headerElements[0].getBoundingClientRect().top;
+							  }
+						}
+						else {
+							top = header.getBoundingClientRect().top;
+						}
+						const scrollToOptions = {
+							left: 0,
+							top: top,
+							behavior: 'smooth'
+						};
+						if (isSmoothScrollSupported) {
+							window.scroll(scrollToOptions);
+						}
+						else {
+							window.scroll(0, top);
+						}
+					});
+				}
+			});
+
+            // ------------------------------------------------------------------------
+            // Focus-effekt kun ved tastaturnavigering
+            // ------------------------------------------------------------------------
+
+            document.addEventListener('mousedown', function () {
+                if (document.documentElement.classList.contains('tabbing')) {
+                    document.documentElement.classList.remove('tabbing');
+                }
+
+                if (document.body.classList.contains('tabbing')) {
+                    document.body.classList.remove('tabbing');
+                }
+            });
+
+            document.addEventListener('mouseup', function () {
+                if (document.documentElement.classList.contains('tabbing')) {
+                    document.documentElement.classList.remove('tabbing');
+                }
+
+                if (document.body.classList.contains('tabbing')) {
+                    document.body.classList.remove('tabbing');
+                }
+            });
+
+            document.addEventListener('keyup', function (event) {
+                if (event.keyCode == 9) {
+                    if (!document.documentElement.classList.contains('tabbing')) {
+                        document.documentElement.classList.add('tabbing');
+                    }
+
+                    if (!document.body.classList.contains('tabbing')) {
+                        document.body.classList.add('tabbing');
+                    }
+                }
+            });
+
+            // Fix anchor links when base tag is present
+            document.addEventListener('click', function (event) {
+                var target = event.target;
+                var anchor = null;
+
+                if (target.tagName === 'A' && target.classList.contains('cc-content-link')) {
+                    anchor = target;
+                } else if (target.parentElement && target.parentElement.tagName === 'A' && target.parentElement.classList.contains('cc-content-link')) {
+                    anchor = target.parentElement;
+                }
+
+                if (anchor && anchor.getAttribute('href') && anchor.getAttribute('href').startsWith('#')) {
+                        var hash = anchor.getAttribute('href');
+                        var currentUrl = window.location.href.split('#')[0];
+                        anchor.setAttribute('href', currentUrl + hash);
+                }
+            });
+            
+        })();
+    </script>
+   
+</body>
+</html>

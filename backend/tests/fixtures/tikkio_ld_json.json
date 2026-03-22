@@ -1,0 +1,169 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": {
+    "0": {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Event",
+        "name": "☀️ SOMMEREN TATT PÅ SPARKET ☀️",
+        "description": "Velkommen til en morsom og fullstendig uforutsigbar sommerforestilling! ☀️\r\n\r\nDenne kvelden inviterer vi deg til en helt spesiell teateropplevelse der sommerfølelsen oppstår i øyeblikket.\r\n\r\nI stedet for et ferdig manus skaper skuespillerne forestillingen på sparket. Det betyr at handlingen, relasjonene, ferieromanser, vennskap, misforståelser, sangene og humoren blir til på stedet – ofte inspirert av forslag fra publikum. Ingen vet hva som kommer til å skje… heller ikke skuespillerne! 🌊🌞\r\n\r\nKanskje havner vi på en strand langt borte, på en svett roadtrip, på hyttetur med mygg og mystikk – eller midt i en uventet sommerforelskelse? Alt kan skje når fantasien får fritt spillerom.\r\n\r\nPasser for alle som liker varme kvelder, latter og god stemning – enten du kommer med venner, familie eller alene. \r\n\r\nBli med på en sommerfeiring full av fantasi, lek, varme – og kanskje litt dramatikk? 🌺\r\n\r\nDette er teater slik du aldri har sett det før – og aldri får se igjen!\r\n\r\n📌 Sobra Scene | Korsegata 6\r\n📅 Lørdag 6. juni kl 20:00 | Dørene åpner kl 19:30\r\n💰 195 // 140 || Morgenfugl 115",
+        "startDate": "2026-06-06T19:30:00+02:00",
+        "endDate": "2026-06-06T23:00:00+02:00",
+        "eventStatus": {
+          "@type": "EventStatusType",
+          "name": "http://schema.org/EventScheduled"
+        },
+        "eventAttendanceMode": {
+          "@type": "EventAttendanceModeEnumeration",
+          "name": "https://schema.org/OfflineEventAttendanceMode"
+        },
+        "location": {
+          "@type": "Place",
+          "name": "Sobra scene",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NO",
+            "addressLocality": "",
+            "postalCode": "",
+            "streetAddress": "Sobra scene"
+          }
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "KAULA",
+          "url": "https://tikkio.com/organizer/1045-dragen-improteater"
+        },
+        "performer": {
+          "@type": "PerformingGroup",
+          "name": "KAULA"
+        },
+        "image": "https://cdn.tikkio.com/static/1.0.3480/uploads/event/c_0f8c3e4091f12a60a5ce4fcfb4bc53cb.jpg?class=w768",
+        "offers": {
+          "@type": "Offer",
+          "price": "100.00",
+          "priceCurrency": "NOK",
+          "validFrom": "2026-06-06T19:30:00+02:00",
+          "availability": {
+            "@type": "ItemAvailability",
+            "name": "https://schema.org/InStock"
+          },
+          "url": "https://tikkio.com/events/62563-sommeren-tatt-pa-sparket"
+        }
+      }
+    },
+    "1": {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Event",
+        "name": "Thea & The Wild // Løvenvold Theater",
+        "description": "<p>I løpet av sine 15 år i norsk musikkbransje og med 4 kritikerroste album i bagasjen har Thea &amp; The Wild markert seg som en sterk og engasjert låtskriver, liveformidler og vokalist. Musikken hennes har gitt henne strålende anmeldelser, Spellemannsnominasjon, skryt i både inn- og utland og varme anbefalinger fra blant annet Rolling Stone Magazine, NME og American Songwriter.</p><p>Etter å ha startet karrieren i Oslo-gryta har hun de siste femten årene turnert og spilt landet rundt på festivaler og klubber, Tv og radio med livemusikerne sine og sjarmerer stadig nye publikummere med sitt smittende humør og sterke formidlingsevne.</p><p>I tillegg til flittig turnering landet rundt har hun fått omfattende radiospilling og nylig var hun å se live med sitt eget program på NRK Scenen.</p>",
+        "startDate": "2026-03-26T19:00:00+01:00",
+        "endDate": "2026-03-26T22:00:00+01:00",
+        "eventStatus": {
+          "@type": "EventStatusType",
+          "name": "http://schema.org/EventScheduled"
+        },
+        "eventAttendanceMode": {
+          "@type": "EventAttendanceModeEnumeration",
+          "name": "https://schema.org/OfflineEventAttendanceMode"
+        },
+        "location": {
+          "@type": "Place",
+          "name": "Løvenvold Theater",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NO",
+            "addressLocality": "",
+            "postalCode": "",
+            "streetAddress": "Løvenvold Theater"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "62.4730488",
+            "longitude": "6.1582367"
+          }
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "Løvenvold Theater",
+          "url": "https://tikkio.com/organizer/lovenvold"
+        },
+        "performer": {
+          "@type": "PerformingGroup",
+          "name": "Løvenvold Theater"
+        },
+        "image": "https://cdn.tikkio.com/static/1.0.3480/uploads/event/c_386e13d628cec2527c4e14138b9336a4.webp?class=w768",
+        "offers": {
+          "@type": "Offer",
+          "price": "0.00",
+          "priceCurrency": "NOK",
+          "validFrom": "2026-03-26T19:00:00+01:00",
+          "availability": {
+            "@type": "ItemAvailability",
+            "name": "https://schema.org/InStock"
+          },
+          "url": "https://tikkio.com/events/60790-thea-the-wild-lovenvold-theater"
+        }
+      }
+    },
+    "2": {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Event",
+        "name": "Film med mening \"Dialogpolisen\" // Løvenvold x The North West",
+        "description": "<p>Dialogpolisen viser hvordan svensk politi bygger tillit i konfliktfylte miljøer, og åpner for samtale om trygghet og forebygging i vår egen by.</p><p>Etter filmen inviterer vi til en samtale om ytringsfrihet og politiets rolle i et stadig mer polarisert samfunn. Hva kan vi gjøre som samfunn?</p><p>Møt representanter fra politiet og sivilsamfunnet i samtale med Bjørn Vatne.</p><p>Tider:</p><p>17.30 Dørene åpner</p><p>18.00 Filmvisning</p><p>19.30 Etter filmen blir det samtale om ytringsrommet vårt, radikalisering og Ålesund sett innenfra og utenfra.</p>",
+        "startDate": "2026-04-08T17:30:00+02:00",
+        "endDate": "2026-04-08T20:00:00+02:00",
+        "eventStatus": {
+          "@type": "EventStatusType",
+          "name": "http://schema.org/EventScheduled"
+        },
+        "eventAttendanceMode": {
+          "@type": "EventAttendanceModeEnumeration",
+          "name": "https://schema.org/OfflineEventAttendanceMode"
+        },
+        "location": {
+          "@type": "Place",
+          "name": "Løvenvold Theater",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NO",
+            "addressLocality": "",
+            "postalCode": "",
+            "streetAddress": "Løvenvold Theater"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "62.4730488",
+            "longitude": "6.1582367"
+          }
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "Løvenvold Theater",
+          "url": "https://tikkio.com/organizer/lovenvold"
+        },
+        "performer": {
+          "@type": "PerformingGroup",
+          "name": "Løvenvold Theater"
+        },
+        "image": "https://cdn.tikkio.com/static/1.0.3480/uploads/event/c_f4fed6b475d349374abac8cf1759412b.jpg?class=w768",
+        "offers": {
+          "@type": "Offer",
+          "price": "0.00",
+          "priceCurrency": "NOK",
+          "validFrom": "2026-04-08T17:30:00+02:00",
+          "availability": {
+            "@type": "ItemAvailability",
+            "name": "https://schema.org/InStock"
+          },
+          "url": "https://tikkio.com/events/62636-film-med-mening-dialogpolisen-lovenvold-x-the-north-west"
+        }
+      }
+    }
+  }
+}

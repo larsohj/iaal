@@ -1,0 +1,1173 @@
+{
+  "pageProps": {
+    "activitiesData": [
+      {
+        "_rev": "INDY0s1ExqNM7nXhKFvdMf",
+        "slug": {
+          "current": "paa-dagtid-omvisning-i-vestlandsutstillingen-2026",
+          "_type": "slug"
+        },
+        "isArchived": false,
+        "_lang": "no",
+        "getAddressFromMuseum": true,
+        "name": "På dagtid: Omvisning i Vestlandsutstillingen 2026",
+        "_createdAt": "2026-03-05T12:08:56Z",
+        "_updatedAt": "2026-03-18T12:26:51Z",
+        "exhibitionFacts": {
+          "dates": [
+            {
+              "_type": "dateType",
+              "_key": "a22697ca116b",
+              "startDate": "2026-03-25T11:00:00.000Z",
+              "endDate": "2026-03-25T11:45:00.000Z"
+            }
+          ],
+          "selectMuseumArray": [
+            {
+              "name": "Jugendstilsenteret og KUBE",
+              "_type": "museum",
+              "slug": {
+                "current": "jugendstilsenteret-kube"
+              }
+            }
+          ],
+          "museumTag": [
+            {
+              "lang": {
+                "no": {
+                  "museumTag": "Kunst"
+                },
+                "en_GB": {
+                  "museumTag": "Art"
+                }
+              }
+            }
+          ],
+          "shouldShowTime": true,
+          "selectCity": {
+            "cityName": "Ålesund"
+          }
+        },
+        "tour": [
+          {
+            "_key": "21de3f7a39ce",
+            "listItem": "number",
+            "markDefs": [],
+            "children": [
+              {
+                "_key": "0b2c4738890c",
+                "_type": "span",
+                "marks": [],
+                "text": "Billetter: 60,"
+              }
+            ],
+            "level": 1,
+            "_type": "block",
+            "style": "normal"
+          },
+          {
+            "children": [
+              {
+                "text": "Kunstnere og kunststudenter: Gratis",
+                "_key": "73ad99e7a233",
+                "_type": "span",
+                "marks": []
+              }
+            ],
+            "level": 1,
+            "_type": "block",
+            "style": "normal",
+            "_key": "50a62db47732",
+            "listItem": "number",
+            "markDefs": []
+          },
+          {
+            "style": "normal",
+            "_key": "2b5395c8d023",
+            "listItem": "number",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Omvisningen varer i ca. 30 minutter, og inkluderer inngang på museet.",
+                "_key": "e2cbd380b0f7"
+              }
+            ],
+            "level": 1,
+            "_type": "block"
+          },
+          {
+            "children": [
+              {
+                "_key": "ffeaf68f87a4",
+                "_type": "span",
+                "marks": [],
+                "text": "Bli med på flere spennende  arrangementer på dagtid:"
+              }
+            ],
+            "_type": "block",
+            "style": "h2",
+            "_key": "10d34b1e775a",
+            "markDefs": []
+          },
+          {
+            "style": "normal",
+            "_key": "c70a00c92303",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [
+                  "strong"
+                ],
+                "text": "25. mars kl. 12.00",
+                "_key": "9db361f204f3"
+              }
+            ],
+            "_type": "block"
+          },
+          {
+            "children": [
+              {
+                "marks": [],
+                "text": "Omvisning i  ",
+                "_key": "f14cf7ecfca6",
+                "_type": "span"
+              },
+              {
+                "marks": [
+                  "f35b576be731"
+                ],
+                "text": "Vestlandsutstillingen",
+                "_key": "555451634422",
+                "_type": "span"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "7569786f3259",
+            "markDefs": [
+              {
+                "_type": "link",
+                "href": "https://www.vitimusea.no/utstillingar/vestlandsutstillingen-2026",
+                "_key": "f35b576be731"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "marks": [
+                  "strong"
+                ],
+                "text": "27. mai kl. 12.00",
+                "_key": "678615f25757",
+                "_type": "span"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "11b3e0b8392d",
+            "markDefs": []
+          },
+          {
+            "_key": "46cc857c29b9",
+            "markDefs": [
+              {
+                "_type": "link",
+                "href": "https://www.vitimusea.no/utstillingar/tyra-kleen-standigt-sokande",
+                "_key": "b554d9c6271f"
+              }
+            ],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Omvisning i ",
+                "_key": "3fa830c3c7ca"
+              },
+              {
+                "_type": "span",
+                "marks": [
+                  "b554d9c6271f"
+                ],
+                "text": "Tyra Kleen. Ständigt sökande",
+                "_key": "cf8c687cce68"
+              }
+            ],
+            "_type": "block",
+            "style": "normal"
+          },
+          {
+            "style": "normal",
+            "_key": "1d4ab1d20b3a",
+            "markDefs": [
+              {
+                "_type": "link",
+                "href": "https://www.vitimusea.no/utstillingar/tyra-kleen-standigt-sokande",
+                "_key": "b554d9c6271f"
+              }
+            ],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": " ",
+                "_key": "6ef8108b609e"
+              }
+            ],
+            "_type": "block"
+          },
+          {
+            "_key": "14f8f28e8f34",
+            "markDefs": [],
+            "children": [
+              {
+                "marks": [],
+                "text": " ",
+                "_key": "abb1f74d4e4b",
+                "_type": "span"
+              }
+            ],
+            "_type": "block",
+            "style": "normal"
+          }
+        ],
+        "backgroundColor": {
+          "title": "Yellow",
+          "textColor": "#000000",
+          "value": "#FFF078"
+        },
+        "exhibitionImage": {
+          "asset": {
+            "altText": "Fire versjoner av en mann utkledd som en djevel er plassert i et mørkt, dramatisk landskap med spisse fjellformasjoner og stormfull himmel. Figuren har horn, små vinger og svarte klær med røde detaljer. De ulike versjonene av mannen gjør forskjellige ting: én kryper på bakken, én sitter på en fjelltopp og holder en maske, én står og drikker fra en boks, og én sitter og holder en løs arm. Scenen har en surrealistisk og humoristisk, men samtidig mørk stemning",
+            "metadata": {
+              "dimensions": {
+                "_type": "sanity.imageDimensions",
+                "width": 1394,
+                "aspectRatio": 1.7871794871794873,
+                "height": 780
+              },
+              "isOpaque": true,
+              "_type": "sanity.imageMetadata",
+              "palette": {
+                "dominant": {
+                  "foreground": "#000",
+                  "title": "#fff",
+                  "population": 5.34,
+                  "background": "#bda9ae",
+                  "_type": "sanity.imagePaletteSwatch"
+                },
+                "_type": "sanity.imagePalette",
+                "darkMuted": {
+                  "title": "#fff",
+                  "population": 0.26,
+                  "background": "#4a2930",
+                  "_type": "sanity.imagePaletteSwatch",
+                  "foreground": "#fff"
+                },
+                "muted": {
+                  "foreground": "#fff",
+                  "title": "#fff",
+                  "population": 0.43,
+                  "background": "#78859a",
+                  "_type": "sanity.imagePaletteSwatch"
+                },
+                "lightVibrant": {
+                  "background": "#e990a8",
+                  "_type": "sanity.imagePaletteSwatch",
+                  "foreground": "#000",
+                  "title": "#fff",
+                  "population": 0
+                },
+                "darkVibrant": {
+                  "background": "#71162f",
+                  "_type": "sanity.imagePaletteSwatch",
+                  "foreground": "#fff",
+                  "title": "#fff",
+                  "population": 0.23
+                },
+                "lightMuted": {
+                  "background": "#bda9ae",
+                  "_type": "sanity.imagePaletteSwatch",
+                  "foreground": "#000",
+                  "title": "#fff",
+                  "population": 5.34
+                },
+                "vibrant": {
+                  "_type": "sanity.imagePaletteSwatch",
+                  "foreground": "#fff",
+                  "title": "#fff",
+                  "population": 0,
+                  "background": "#d52958"
+                }
+              },
+              "hasAlpha": true,
+              "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACwElEQVR4nB3SWVcaBwCGYaIQqw4BJoAsAw7MwLArMCKMMMMm+yoU1ARrPWmTthdNl7Snd/7zt0evvrvnfBevLXQSJRqKo8ZSyGGZgNtLxB9Ck5PIoVNEpxvhUCAcPMVojBjOHqhbUzJaiehJBJ/gxn1wwDuHA8HuwHZeNslkdJJqmmhQIuILUtLymLpBUlYRDo9w2O24XCK5wiXN7g11c0whd0lcUgh4fLw/FhAPj17XZvXXlCtNUomXhxLpuEb/qk3XsJACoVds780bHI63iKIPOZogKWsoEYWQN4jvnQfxWMArOAl6fNgKpTrZXJl0QiMhn5JWNawLg+pZCb9H5MDu4GDfgX1vH/u+HbfgJBONc6ZqhL1+PMcCnsMjfIKLyEkEmxSWUWIq2WSSlBInIccpa1nKWhrJ7+e94EIUXBy9/Q773h5etwezVGFstSlnc2RiMslAkJBLJOgNYpNCETRVxbjQ6VlNOrU6w8srmuUyWSWOIkWJh2VORB8epxMpEKCULWBWavQaFvfTGd93++TiSbxuEVtUilDM53nc3vH81z98ffzEbjxj1KhTKxaoFHLo+Tx5TeM8k6JynucsneEslWHUavPtl994/vtftvMluWTiBZTQz4t8+eGJ5z+/8ev9jlWvR9+84rpRo2catIwK5qXOwDIYtxqYeolqPk+nWmW3WvPf73/w9aefmXaa2JSYTCap0bPa3C9WbCdz5r1rJt0Wi+E160mf+aDDpGux6LWYdSzaVZ1GuUi9VKJW0hm2O2zGY9aDLjZNVdDkGEZR53a25G6xZDkccDPqc7sYs9sseNgs+Lia8nE5ZjPpveKjlsms/ZJXnbp+QdeoctNrYUupcXKKwnXN4On2jofNmvVkwGY65MNqxtPdis+7LV8etnzebXjcLPiwHHO/GPPjesmn7Ybb6ZRp22TeNfkfIJdcej1bCdoAAAAASUVORK5CYII="
+            },
+            "url": "https://cdn.sanity.io/images/1fl8byel/viti/6b9bbbc581e2cc6e096ecf32837a5fcf1a9b75f9-1394x780.png"
+          }
+        },
+        "openingHours": {
+          "_type": "openingHours",
+          "internalTextField": "Opening Hours/Prices"
+        },
+        "_id": "10d3b5d4-40a0-4044-8ba0-40ea41322a55",
+        "_type": "activity",
+        "textBlock": {
+          "textBlockSimple": [
+            {
+              "style": "normal",
+              "_key": "a4261d129a0a",
+              "markDefs": [],
+              "children": [
+                {
+                  "_key": "2ed36d383d1b",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "    Kunstnerisk leder for Vestlandsutstillingen 2026 er Karl Edvin Endresen."
+                }
+              ],
+              "_type": "block"
+            },
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "fef6397ef0de",
+              "markDefs": [],
+              "children": [
+                {
+                  "_key": "4e5962e316ab",
+                  "_type": "span",
+                  "marks": [
+                    "strong"
+                  ],
+                  "text": "Dette skriv Endresen om årets utstilling:"
+                }
+              ]
+            },
+            {
+              "style": "normal",
+              "_key": "ef0feeec861f",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Under arbeidet med å velge ut kunstnere til VU26 ble det fort tydelig for meg at dette kunne bli til noe veldig bra. Mange sterke arbeider og tydelige kunstnerskap stakk seg frem i bunken med søknader. Kanskje vekker ordetVestlandet, for mange, noen velkjente assosiasjoner som fjell og fjorder, skog og mark, rosemaling og fjøs, også videre, men det er faktisk veldig lite som er trygt eller tradisjonelt med disse kunstnerskapene som presenteres iårets utgave. Her er det store visjoner, nye tanker, tydelige linjer, tilsynelatende fryktløse kunstnerskap som krever sin plass uten å be om tillatelse, eller tilgivelse. Det er disse som former VU26. De spør ikke om din oppmerksomhet, du klarer rett og slett ikke å la være å glo.",
+                  "_key": "37c90b28d6220"
+                }
+              ],
+              "_type": "block"
+            },
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "c8b00f9fdeff",
+              "markDefs": [],
+              "children": [
+                {
+                  "_key": "e9c8338d3abd0",
+                  "_type": "span",
+                  "marks": [
+                    "strong"
+                  ],
+                  "text": "Årets kunstnere er:"
+                }
+              ]
+            },
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "bd3b88f16013",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Per Tore Barmen, Samuel Brzeski, Loulou Buxbom, Øystein Fjeldbo/Joel Hynsjö, Natalie Price Hafslund, Ann Edvartsen Hay, Arna Kristine Lund-Johnsen, Elise Kielland, Annette Kierulf, Tobias Kvendseth, Sigrid Lerche, Astrid McGarrighan, Monica Flakk Nordang, Andreas Olsen, Magnhild Opdøl, Jorunn Myklebust Syversen og Oda Tungodden.",
+                  "_key": "86fd2962569e0"
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [
+                    "strong"
+                  ],
+                  "text": "Om Vestlandsutstillingen:",
+                  "_key": "ecd110defa210"
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "f620cf48bc55",
+              "markDefs": []
+            },
+            {
+              "markDefs": [],
+              "children": [
+                {
+                  "text": "Vestlandsutstillingen er en årlig utstilling som har blitt arrangert siden 1922, med verk av kunstnere som har tilknytning til Vestlandet. Utstillingen skal vise frem samtidskunst av høy kvalitet som speiler den vestlandske kunstscenen slik den utspiller seg i lokale, nasjonale og internasjonale kontekster ut mot resten av landet.",
+                  "_key": "722a6414c57f",
+                  "_type": "span",
+                  "marks": []
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "cd31ccccb6f5"
+            },
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "77c60d90a1a2",
+              "markDefs": [],
+              "children": [
+                {
+                  "text": "Dette arrangementet er en del av Jugendstilsenteret og KUBEs tilbud på dagtid. Vi arrangerer korte foredrag, omvisninger, byvandringer og annet faglig påfyll, for alle som ønsker å få et innblikk i museet, samlingen, og vår kunnskapsproduksjon. Følg med på nettsidene for flere arrangementer på dagtid!",
+                  "_key": "2fa0598d3a1d",
+                  "_type": "span",
+                  "marks": [
+                    "strong"
+                  ]
+                }
+              ]
+            },
+            {
+              "markDefs": [],
+              "children": [
+                {
+                  "_key": "4e728e767a07",
+                  "_type": "span",
+                  "marks": [],
+                  "text": ""
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "217208505392"
+            },
+            {
+              "_key": "fa49fb75be14",
+              "markDefs": [],
+              "children": [
+                {
+                  "_key": "ec85482721be",
+                  "_type": "span",
+                  "marks": [],
+                  "text": " "
+                }
+              ],
+              "_type": "block",
+              "style": "normal"
+            },
+            {
+              "_key": "a31a270d8739",
+              "markDefs": [],
+              "children": [
+                {
+                  "text": "",
+                  "_key": "9ed39c4f4d5f",
+                  "_type": "span",
+                  "marks": []
+                }
+              ],
+              "_type": "block",
+              "style": "normal"
+            },
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "dd90e58e230e",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "",
+                  "_key": "53296f73fd95"
+                }
+              ]
+            }
+          ],
+          "_type": "textBlockSimple"
+        }
+      },
+      {
+        "isArchived": false,
+        "slug": {
+          "current": "pelsdyrdag-i-brudavolltunet",
+          "_type": "slug"
+        },
+        "_lang": "no",
+        "tour": [
+          {
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Torsdag 26. mars kl. 13-16\n\nGratis  deltaking!\n\nArr.: Viti og Ørsta bygdemuseumslag\n\n\n",
+                "_key": "a2dd232c9330"
+              },
+              {
+                "marks": [
+                  "strong"
+                ],
+                "text": "Les også artiklane\n",
+                "_key": "5a2fc1f677c8",
+                "_type": "span"
+              },
+              {
+                "marks": [],
+                "text": "\n",
+                "_key": "77c7aaeed527",
+                "_type": "span"
+              },
+              {
+                "_key": "315d6725aed8",
+                "_type": "span",
+                "marks": [
+                  "225979bb5ff6"
+                ],
+                "text": "Pelsdyrnæringa på Sunnmøre"
+              },
+              {
+                "text": "\n \n ",
+                "_key": "43d8e3ae4aff",
+                "_type": "span",
+                "marks": []
+              },
+              {
+                "_type": "span",
+                "marks": [
+                  "90619cb55357"
+                ],
+                "text": "Statskonsulent og pelsdyrforkjempar",
+                "_key": "609352e2e768"
+              },
+              {
+                "text": "\n\n",
+                "_key": "945de662a37f",
+                "_type": "span",
+                "marks": []
+              },
+              {
+                "_key": "96e88acb870e",
+                "_type": "span",
+                "marks": [
+                  "124ce3017106"
+                ],
+                "text": "Pelsdyrnæringa på museum?"
+              },
+              {
+                "_key": "d2506dd7c6eb",
+                "_type": "span",
+                "marks": [],
+                "text": "\n\n"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "3eaba32c798f",
+            "markDefs": [
+              {
+                "blank": true,
+                "_type": "link",
+                "href": "https://www.vitimusea.no/kunnskap/statskonsulent-og-pelsdyrforkjempar",
+                "_key": "90619cb55357"
+              },
+              {
+                "href": "https://www.vitimusea.no/kunnskap/pelsdyrnaeringa-paa-sunnmoere",
+                "_key": "225979bb5ff6",
+                "blank": true,
+                "_type": "link"
+              },
+              {
+                "_type": "link",
+                "href": "https://www.vitimusea.no/kunnskap/pelsdyrnaeringa-paa-museum-",
+                "_key": "124ce3017106",
+                "blank": true
+              }
+            ]
+          }
+        ],
+        "openingHours": {
+          "_type": "openingHours",
+          "internalTextField": "Opening Hours/Prices"
+        },
+        "textBlock": {
+          "textBlockSimple": [
+            {
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Viti er godt i gang med arbeidet med ",
+                  "_key": "be332a6ea60b"
+                },
+                {
+                  "_type": "span",
+                  "marks": [
+                    "b3e89bb4b657"
+                  ],
+                  "text": "utstillinga PELSTID",
+                  "_key": "2907ddb4069f"
+                },
+                {
+                  "text": " -  om pelsdyrnæringa på Sunnmøre, som opnar torsdag 4. juni på Sunnmøre museum.\n\nSom ein del av dette er det viktig å høyre ulike stemmer, blant anna frå dei siste pelsdyrbøndene, andre som har erfaring eller som berre er generelt interessert. \n\nAlle perspektiv er nødvendige for eit fullstendig bilete og alle er velkomne!",
+                  "_key": "07b0de1ff80b",
+                  "_type": "span",
+                  "marks": []
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "5a01b47f86b3",
+              "markDefs": [
+                {
+                  "href": "https://www.vitimusea.no/utstillingar/pels",
+                  "_key": "b3e89bb4b657",
+                  "blank": true,
+                  "_type": "link"
+                }
+              ]
+            },
+            {
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "",
+                  "_key": "0437d4da5b4b0"
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "01128fc000f9",
+              "markDefs": []
+            },
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "b05c95974607",
+              "markDefs": [],
+              "children": [
+                {
+                  "marks": [],
+                  "text": "Det vil være nokre korte innlegg frå mellom anna tidlegare pelsdyrbonde Jens Arne Nordang og historikar og leiar i bygdemuseumslaget Harald Krøvel. \n\nResten av tida vil vere opa for erfaringsutveksling og uformell samtale.",
+                  "_key": "4f236e6bf3130",
+                  "_type": "span"
+                }
+              ]
+            },
+            {
+              "style": "normal",
+              "_key": "275cfb77c618",
+              "markDefs": [],
+              "children": [
+                {
+                  "marks": [],
+                  "text": "",
+                  "_key": "873873ca6b2b0",
+                  "_type": "span"
+                }
+              ],
+              "_type": "block"
+            },
+            {
+              "_key": "c0d4467eb14a",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Blant spørsmåla ein kanskje kan samtale om er: Kva er dei siste pelsdyrbøndene si erfaring med næringa? Korleis var næringa sine siste dagar og korleis opplevde dei den? Dei som vaks opp som barn av pelsdyrbønder, korleis opplevde dei det?",
+                  "_key": "a857393ab5210"
+                }
+              ],
+              "_type": "block",
+              "style": "normal"
+            }
+          ],
+          "_type": "textBlockSimple"
+        },
+        "exhibitionImage": {
+          "asset": {
+            "url": "https://cdn.sanity.io/images/1fl8byel/viti/a7be073a96470c7472be5ace243a0be10d124358-1801x2251.jpg",
+            "altText": "Svart-hvitt-foto av to menn med sixpence og vest som står og sitter ved et bord utenfor et trehus, med skogkledd bakke i bakgrunnen.",
+            "metadata": {
+              "hasAlpha": false,
+              "lqip": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgf/xAAqEAABAwMDAgQHAAAAAAAAAAACAQMFAAQRBhITITEiNUFyFTM2UWFxc//EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBLZxspF2AcXM+p/K5EwmP1VJpqWlAt0I1K2dRcIIFVNruWRmcAmFbRq38DQ+i9KmLGxuJdx283qDTQE4Yh6l9qCyttdy7LKNlxuKPTcSdaKxHRUI3HWyy1ybN2YIZBuxhF7UUHOpa8ORYE7zLLANCXJjK9/WlMnOtwZXAx9zcYYa3qufCWeyfmmMl9OXX8BqC1X5M/7QoG3xyUkWmrrcLnICLk1VVorOm/I7T2UUH/2Q==",
+              "dimensions": {
+                "width": 1801,
+                "aspectRatio": 0.8000888494002666,
+                "height": 2251,
+                "_type": "sanity.imageDimensions"
+              },
+              "isOpaque": true,
+              "_type": "sanity.imageMetadata",
+              "palette": {
+                "darkVibrant": {
+                  "background": "#424242",
+                  "_type": "sanity.imagePaletteSwatch",
+                  "foreground": "#fff",
+                  "title": "#fff",
+                  "population": 0
+                },
+                "lightMuted": {
+                  "background": "#bcbcbc",
+                  "_type": "sanity.imagePaletteSwatch",
+                  "foreground": "#000",
+                  "title": "#fff",
+                  "population": 1.17
+                },
+                "vibrant": {
+                  "_type": "sanity.imagePaletteSwatch",
+                  "foreground": "#fff",
+                  "title": "#fff",
+                  "population": 0,
+                  "background": "#7f7f7f"
+                },
+                "dominant": {
+                  "population": 9.69,
+                  "background": "#848484",
+                  "_type": "sanity.imagePaletteSwatch",
+                  "foreground": "#fff",
+                  "title": "#fff"
+                },
+                "_type": "sanity.imagePalette",
+                "darkMuted": {
+                  "background": "#444444",
+                  "_type": "sanity.imagePaletteSwatch",
+                  "foreground": "#fff",
+                  "title": "#fff",
+                  "population": 2.11
+                },
+                "muted": {
+                  "foreground": "#fff",
+                  "title": "#fff",
+                  "population": 9.69,
+                  "background": "#848484",
+                  "_type": "sanity.imagePaletteSwatch"
+                },
+                "lightVibrant": {
+                  "population": 0,
+                  "background": "#bcbcbc",
+                  "_type": "sanity.imagePaletteSwatch",
+                  "foreground": "#000",
+                  "title": "#fff"
+                }
+              }
+            }
+          }
+        },
+        "_rev": "rYmCmWwVoom7Igqx9qxqHK",
+        "employeeCard": [
+          {
+            "_key": "7c2974c4b5af",
+            "_ref": "caa1b6a5-21c9-4a75-82d6-1c1747a7f0d4",
+            "_type": "reference"
+          }
+        ],
+        "getAddressFromMuseum": true,
+        "backgroundColor": {
+          "title": "Salmon",
+          "textColor": "#000000",
+          "value": "#FFD9DC"
+        },
+        "storyBlock": [
+          {
+            "_type": "storyMediaText",
+            "_key": "09a1621241b3",
+            "storyMedia": {
+              "storyMediaOption": false,
+              "_type": "storyMedia",
+              "storyImage": {
+                "_type": "img",
+                "asset": {
+                  "_ref": "image-a7be073a96470c7472be5ace243a0be10d124358-1801x2251-jpg",
+                  "_type": "reference"
+                }
+              }
+            }
+          },
+          {
+            "_type": "storyMediaText",
+            "_key": "07eaa9577f93",
+            "storyHeadline": "Sølvrevoppdrett - Brudavoll",
+            "subHeadlineText": "Foto: Ukjent / Viti sine samlingar",
+            "storyMedia": {
+              "storyImage": {
+                "_type": "img",
+                "asset": {
+                  "_ref": "image-30c5f1b5e9a3dba0539e0f2b800ef7e09b74b780-2372x2965-jpg",
+                  "_type": "reference"
+                }
+              },
+              "storyMediaOption": false,
+              "_type": "storyMedia"
+            },
+            "textPosition": {
+              "_ref": "c2857cd3-9f47-4ef3-b5a8-5af9026c7697",
+              "_type": "reference"
+            }
+          },
+          {
+            "textPosition": {
+              "_type": "reference",
+              "_ref": "c2857cd3-9f47-4ef3-b5a8-5af9026c7697"
+            },
+            "_type": "storyMediaText",
+            "_key": "e5d92e417082",
+            "storyHeadline": "Nordang revefarm 1934",
+            "subHeadlineText": "Foto: Anders B. Wilse / Norsk folkemuseum",
+            "storyMedia": {
+              "storyMediaOption": false,
+              "_type": "storyMedia",
+              "storyImage": {
+                "asset": {
+                  "_ref": "image-7146a37232e25fda97c4af8c6b3bc62cff1e88be-4415x5519-jpg",
+                  "_type": "reference"
+                },
+                "_type": "img"
+              }
+            }
+          }
+        ],
+        "_updatedAt": "2026-03-10T12:00:37Z",
+        "name": "Pelsdyrdag i Brudavolltunet",
+        "_type": "activity",
+        "_createdAt": "2026-03-10T12:00:35Z",
+        "exhibitionFacts": {
+          "selectCity": {
+            "cityName": "Ørsta"
+          },
+          "dates": [
+            {
+              "startDate": "2026-03-26T12:00:00.000Z",
+              "endDate": "2026-03-26T15:00:00.000Z",
+              "_type": "dateType",
+              "_key": "177cb37e456f"
+            }
+          ],
+          "selectMuseumArray": [
+            {
+              "_type": "museum",
+              "slug": {
+                "current": "brudavolltunet"
+              },
+              "name": "Brudavolltunet"
+            }
+          ],
+          "museumTag": [
+            {
+              "lang": {
+                "no": {
+                  "museumTag": "Historie"
+                },
+                "en_GB": {
+                  "museumTag": "History"
+                }
+              }
+            }
+          ],
+          "shouldShowTime": true
+        },
+        "_id": "7316b377-18cf-4e0c-b7ff-af6eb0029a18"
+      },
+      {
+        "_rev": "7Lth8w1jA20JqbnelYl0Zw",
+        "name": "Søndagsomvisning i Jugendstilsenteret ",
+        "getAddressFromMuseum": true,
+        "exhibitionFacts": {
+          "museumTag": [
+            {
+              "lang": {
+                "en_GB": {
+                  "museumTag": "Art"
+                },
+                "no": {
+                  "museumTag": "Kunst"
+                }
+              }
+            }
+          ],
+          "shouldShowTime": true,
+          "selectCity": {
+            "cityName": "Ålesund"
+          },
+          "exhibitionAbstract": "Bli med på søndagsomvisning i Jugendstilsenteret",
+          "dates": [
+            {
+              "endDate": "2026-03-29T11:00:00.000Z",
+              "_type": "dateType",
+              "_key": "6a0b0d3f0191",
+              "startDate": "2026-03-29T10:00:00.000Z"
+            }
+          ],
+          "selectMuseumArray": [
+            {
+              "_type": "museum",
+              "slug": {
+                "current": "jugendstilsenteret-kube"
+              },
+              "name": "Jugendstilsenteret og KUBE"
+            }
+          ]
+        },
+        "_createdAt": "2026-03-16T12:07:11Z",
+        "isArchived": false,
+        "_id": "b153211c-192c-4723-81c4-a9ff2e0eb5e7",
+        "backgroundColor": {
+          "title": "Salmon",
+          "textColor": "#000000",
+          "value": "#FFD9DC"
+        },
+        "_type": "activity",
+        "tour": [
+          {
+            "_key": "b9e7ddceebe1",
+            "markDefs": [],
+            "children": [
+              {
+                "marks": [],
+                "text": "Søndag  29. mars kl. 12",
+                "_key": "3da9fa45b5d6",
+                "_type": "span"
+              }
+            ],
+            "_type": "block",
+            "style": "normal"
+          },
+          {
+            "_type": "block",
+            "style": "normal",
+            "_key": "651e8e87469d",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "",
+                "_key": "ba5bc01f58c3"
+              }
+            ]
+          }
+        ],
+        "slug": {
+          "current": "soendagsomvisning-i-jugendstilsenteret-",
+          "_type": "slug"
+        },
+        "exhibitionImage": {
+          "asset": {
+            "metadata": {
+              "hasAlpha": false,
+              "lqip": "data:image/jpeg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAeABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwP/xAApEAACAgIBAwMCBwAAAAAAAAABAgMEABEFBhITByEjMVEiJDJBYXFy/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQQD/8QAHREAAgICAwEAAAAAAAAAAAAAAREAAgMSE0FRwf/aAAwDAQACEQMRAD8AnoPUZLFIUJDt5T43IQ7ZT9dZ0h6hq9HxkUq01YyPt0dSe9fvkhwxsNZrr8RYDQKp7g5ZdS07lrjo7qsv5dArq67LH75EbMuXakBfYn5H1FsWrbyQS2Io/oFWLY/vDEvns6B1rY3pYwRhjsfIcYlBxnDWI7UIhZUEZHcSv69Zoh4y1ZEXleLxufxRgHeZtU6j5OGQOTBJ/pMfL17yqqAsVYEfv2nCoyJOaXpUlqUlro2m0vwdka691UHW8MnH645xjsTQr/AjGGCt7AY7dCf/2Q==",
+              "dimensions": {
+                "aspectRatio": 0.6664785553047404,
+                "height": 3544,
+                "_type": "sanity.imageDimensions",
+                "width": 2362
+              },
+              "isOpaque": true,
+              "_type": "sanity.imageMetadata",
+              "palette": {
+                "lightVibrant": {
+                  "background": "#f1c8aa",
+                  "_type": "sanity.imagePaletteSwatch",
+                  "foreground": "#000",
+                  "title": "#000",
+                  "population": 0.06
+                },
+                "darkVibrant": {
+                  "foreground": "#fff",
+                  "title": "#fff",
+                  "population": 0.02,
+                  "background": "#74220c",
+                  "_type": "sanity.imagePaletteSwatch"
+                },
+                "lightMuted": {
+                  "foreground": "#000",
+                  "title": "#fff",
+                  "population": 7.31,
+                  "background": "#ccb196",
+                  "_type": "sanity.imagePaletteSwatch"
+                },
+                "vibrant": {
+                  "population": 0.01,
+                  "background": "#c48c49",
+                  "_type": "sanity.imagePaletteSwatch",
+                  "foreground": "#fff",
+                  "title": "#fff"
+                },
+                "dominant": {
+                  "foreground": "#fff",
+                  "title": "#fff",
+                  "population": 8.1,
+                  "background": "#a88060",
+                  "_type": "sanity.imagePaletteSwatch"
+                },
+                "_type": "sanity.imagePalette",
+                "darkMuted": {
+                  "_type": "sanity.imagePaletteSwatch",
+                  "foreground": "#fff",
+                  "title": "#fff",
+                  "population": 7.59,
+                  "background": "#5f4036"
+                },
+                "muted": {
+                  "background": "#a88060",
+                  "_type": "sanity.imagePaletteSwatch",
+                  "foreground": "#fff",
+                  "title": "#fff",
+                  "population": 8.1
+                }
+              }
+            },
+            "url": "https://cdn.sanity.io/images/1fl8byel/viti/c1da1af83f588b7b179e53d0c89fc42b2d5e011c-2362x3544.jpg",
+            "altText": "Et historisk apotek med interiør i lyst treverk. Man kan se flere av utskjæringene som viser en uglefigur.  I taket henger en elegant lysekrone"
+          }
+        },
+        "_lang": "no",
+        "openingHours": {
+          "_type": "openingHours",
+          "internalTextField": "Opening Hours/Prices"
+        },
+        "_updatedAt": "2026-03-16T13:22:28Z",
+        "textBlock": {
+          "_type": "textBlockSimple",
+          "textBlockSimple": [
+            {
+              "children": [
+                {
+                  "_key": "89945b93f73a",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Jugendstilsenteret ligger i Apotekergården, et jugendstilbygg som sto ferdig i 1907, og som på den tiden rommet både apotekutsalg og bolig. "
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "7c4c74b9fef3",
+              "markDefs": []
+            },
+            {
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Bli med vår formidler gjennom det vakre originalinteriøret, hvor vi blant annet skal se på det gamle apoteket, spisestuen og utvalgte objekter fra samlingsutstillingen.",
+                  "_key": "5a840443ed63"
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "787b6037f750"
+            },
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "d0579cf775fb",
+              "markDefs": [
+                {
+                  "href": "https://www.vitimusea.no/utstillingar/vestlandsutstillingen-2026",
+                  "_key": "9173078eb997",
+                  "_type": "link"
+                }
+              ],
+              "children": [
+                {
+                  "_key": "1c13fe49dd1b",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Omvisningen er inkludert i inngangsbilletten (120 kr) og gir inngang til både KUBE og Fiskerimuseet samme dag. Benytt anledningen og se  "
+                },
+                {
+                  "marks": [
+                    "9173078eb997"
+                  ],
+                  "text": "Vestlandsutstillingen",
+                  "_key": "b3b03b968400",
+                  "_type": "span"
+                },
+                {
+                  "_type": "span",
+                  "marks": [],
+                  "text": " i KUBE.",
+                  "_key": "a6566babd279"
+                }
+              ]
+            },
+            {
+              "_type": "block",
+              "style": "normal",
+              "_key": "981abe21a273",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "href": "https://www.vitimusea.no/arrangement/familieverksted-lag-et-paaskeportrett",
+                  "_key": "28ae6871659c"
+                }
+              ],
+              "children": [
+                {
+                  "marks": [],
+                  "text": "Planlegger du et besøk med barn?  Bli med på ",
+                  "_key": "ff9f7dc97e51",
+                  "_type": "span"
+                },
+                {
+                  "_type": "span",
+                  "marks": [
+                    "28ae6871659c"
+                  ],
+                  "text": "familieverksted",
+                  "_key": "63afb88d2cb4"
+                },
+                {
+                  "text": " fra kl. 13",
+                  "_key": "5f6df7a53e71",
+                  "_type": "span",
+                  "marks": []
+                }
+              ]
+            },
+            {
+              "style": "normal",
+              "_key": "dcfdafc70da2",
+              "markDefs": [],
+              "children": [
+                {
+                  "_key": "c52e0d2f49fb",
+                  "_type": "span",
+                  "marks": [],
+                  "text": "Foto: Kristin Støylen/Viti "
+                }
+              ],
+              "_type": "block"
+            },
+            {
+              "markDefs": [],
+              "children": [
+                {
+                  "marks": [],
+                  "text": " ",
+                  "_key": "7e0470830c61",
+                  "_type": "span"
+                }
+              ],
+              "_type": "block",
+              "style": "normal",
+              "_key": "36a2610f5268"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
