@@ -9,3 +9,8 @@ __pycache__/
 *.pyc
 .env
 backend/.env
+
+# Node / Expo
+app/node_modules/
+app/.expo/
+app/dist/
