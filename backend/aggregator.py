@@ -1,5 +1,10 @@
 import logging
+import os
 import sys
+from datetime import datetime
+
+from apscheduler.schedulers.background import BackgroundScheduler
+from flask import Flask, jsonify
 
 from backend.db import upsert_events
 from backend.scrapers.friskus_scraper import FriskusScraper
@@ -16,8 +21,10 @@ logging.basicConfig(
 )
 logger = logging.getLogger("aggregator")
 
+last_run = {"time": None, "events": 0, "failed": []}
 
-def main():
+
+def run_scrapers():
     scrapers = [
         FriskusScraper(),
         VitiScraper(),
@@ -42,10 +49,37 @@ def main():
     if all_events:
         upsert_events(all_events)
 
+    last_run["time"] = datetime.now().isoformat()
+    last_run["events"] = len(all_events)
+    last_run["failed"] = failed
+
     logger.info(f"Ferdig. Totalt: {len(all_events)} hendelser fra {len(scrapers) - len(failed)}/{len(scrapers)} kilder")
-    if failed:
-        logger.warning(f"Feilet: {', '.join(failed)}")
+
+
+# Flask-app for health check (Render krever en HTTP-server)
+app = Flask(__name__)
+
+
+@app.route("/healthz")
+def healthz():
+    return jsonify({"status": "ok", "last_run": last_run})
+
+
+@app.route("/run", methods=["POST"])
+def trigger_run():
+    run_scrapers()
+    return jsonify({"status": "done", "last_run": last_run})
 
 
 if __name__ == "__main__":
-    main()
+    # Kjør scraperne én gang ved oppstart
+    run_scrapers()
+
+    # Sett opp scheduler: kjør hver 6. time
+    scheduler = BackgroundScheduler()
+    scheduler.add_job(run_scrapers, "interval", hours=6)
+    scheduler.start()
+
+    # Start webserver
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host="0.0.0.0", port=port)
