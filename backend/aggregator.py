@@ -2,6 +2,11 @@ import logging
 import os
 import sys
 from datetime import datetime
+from pathlib import Path
+
+# Sørg for at prosjektroten (parent av backend/) er i sys.path
+# slik at "from backend.xxx" fungerer uansett working directory
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from apscheduler.schedulers.background import BackgroundScheduler
 from flask import Flask, jsonify
