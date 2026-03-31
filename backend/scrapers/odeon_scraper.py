@@ -11,6 +11,14 @@ CITY_ALIAS = "AL"  # Ålesund
 class OdeonScraper(BaseScraper):
     source_name = "odeon"
 
+    def __init__(self):
+        super().__init__()
+        # cinema-api.com blokkerer ikke-nettleser user-agents
+        self.session.headers["User-Agent"] = (
+            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+        )
+
     def scrape(self) -> list[EventData]:
         # Hent filmdata (titler, poster, beskrivelse)
         movies_resp = self._get(MOVIES_URL)
