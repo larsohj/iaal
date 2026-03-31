@@ -1,4 +1,6 @@
+import json
 import re
+from datetime import datetime
 from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
@@ -51,7 +53,6 @@ class ParkenScraper(BaseScraper):
             tags = []
             data_category = article.get("data-category", "[]")
             try:
-                import json
                 categories = json.loads(data_category)
                 tags.extend(categories)
             except (json.JSONDecodeError, TypeError):
@@ -61,8 +62,15 @@ class ParkenScraper(BaseScraper):
             if sale_status:
                 tags.append(sale_status.get_text(strip=True).lower())
 
-            # Parse dato til ISO 8601
+            # Parse dato fra oversikten (fallback uten klokkeslett)
             start_at = self._parse_date(date_text) if date_text else None
+            end_at = None
+
+            # Hent klokkeslett fra detaljsiden
+            detail_times = self._fetch_detail_times(detail_url)
+            if detail_times:
+                start_at = detail_times[0]
+                end_at = detail_times[1]
 
             events.append(EventData(
                 source="parken",
@@ -70,6 +78,7 @@ class ParkenScraper(BaseScraper):
                 title=title,
                 organizer=organizer,
                 start_at=start_at,
+                end_at=end_at,
                 location_name=location_name,
                 image_url=image_url,
                 url=detail_url,
@@ -79,12 +88,40 @@ class ParkenScraper(BaseScraper):
         self.logger.info(f"Hentet {len(events)} hendelser fra Parken")
         return events
 
+    def _fetch_detail_times(self, url: str) -> tuple[str, str | None] | None:
+        """Hent start/slutt-tid fra detaljsiden. Returnerer (start_at, end_at) eller None."""
+        try:
+            resp = self._get(url)
+        except Exception:
+            return None
+
+        text = resp.text
+        # Detaljsiden har format: "9. apr 2026 kl. 19:00 - 20:30"
+        match = re.search(
+            r"(\d{1,2})\.\s*(\w+)\s+(\d{4})\s+kl\.\s*(\d{1,2}):(\d{2})"
+            r"(?:\s*-\s*(\d{1,2}):(\d{2}))?",
+            text,
+        )
+        if not match:
+            return None
+
+        date = self._parse_date(f"{match.group(1)}. {match.group(2)} {match.group(3)}")
+        if not date:
+            return None
+
+        # date er "YYYY-MM-DDT00:00:00" — erstatt tid
+        base = date[:10]  # "YYYY-MM-DD"
+        start_at = f"{base}T{int(match.group(4)):02d}:{match.group(5)}:00"
+
+        end_at = None
+        if match.group(6) and match.group(7):
+            end_at = f"{base}T{int(match.group(6)):02d}:{match.group(7)}:00"
+
+        return start_at, end_at
+
     @staticmethod
     def _parse_date(date_text: str) -> str | None:
         """Konverter '22. mar 2026' til ISO 8601 dato."""
-        import locale
-        from datetime import datetime
-
         months = {
             "jan": 1, "feb": 2, "mar": 3, "apr": 4,
             "mai": 5, "jun": 6, "jul": 7, "aug": 8,
