@@ -24,6 +24,7 @@ jobs:
       - name: Run scrapers
         env:
           TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
+          ODEON_PROXY_URL: ${{ secrets.ODEON_PROXY_URL }}
         run: python -m backend.generate
 
       - name: Commit and push events.json
