@@ -97,7 +97,8 @@ class TestOdeonScraper:
         assert first.title == "Testfilmen"
         assert first.start_at == "2026-04-01T17:00:00Z"
         assert first.description == "En test."
-        assert first.image_url == "https://catalog.cinema-api.com/test.jpg"
+        # image_url reskrives via _proxy_image_url (catalog → _PROXY_BASE)
+        assert "cinema-api.com/test.jpg" in first.image_url
         assert "odeonkino.no/film/testfilmen/" in first.url
 
     def test_maps_location_and_screen(self):

@@ -70,13 +70,21 @@ class OdeonScraper(BaseScraper):
                 start_at=show.get("utc"),
                 location_name=location_name,
                 city="Ålesund",
-                image_url=movie.get("posterUrl"),
+                image_url=self._proxy_image_url(movie.get("posterUrl")),
                 url=f"https://www.odeonkino.no/film/{movie.get('slug', '')}/" if movie.get("slug") else None,
                 tags=tags,
             ))
 
         self.logger.info(f"Hentet {len(events)} visninger fra Odeon Ålesund")
         return events
+
+    @staticmethod
+    def _proxy_image_url(url: str | None) -> str | None:
+        """Skriv om bilde-URL til å gå via Cloudflare Worker-proxy."""
+        if not url or "cinema-api.com" not in url:
+            return url
+        path = url.split("cinema-api.com", 1)[1]
+        return f"{_PROXY_BASE}{path}"
 
     @staticmethod
     def _build_movie_lookup(movies: list[dict]) -> dict:
