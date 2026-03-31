@@ -27,10 +27,11 @@ class TestRunScrapers:
              patch("backend.generate.BibliotekScraper", return_value=mock_scraper), \
              patch("backend.generate.BypatriotenScraper", return_value=mock_scraper), \
              patch("backend.generate.OdeonScraper", return_value=mock_scraper), \
-             patch("backend.generate.TicketmasterScraper", return_value=mock_scraper):
+             patch("backend.generate.TicketmasterScraper", return_value=mock_scraper), \
+             patch("backend.generate.AafkScraper", return_value=mock_scraper):
             events, failed = run_scrapers()
 
-        assert len(events) == 8
+        assert len(events) == 9
         assert failed == []
         assert all(isinstance(e, dict) for e in events)
         assert events[0]["source"] == "test"
@@ -53,10 +54,11 @@ class TestRunScrapers:
              patch("backend.generate.BibliotekScraper", return_value=ok_scraper), \
              patch("backend.generate.BypatriotenScraper", return_value=ok_scraper), \
              patch("backend.generate.OdeonScraper", return_value=ok_scraper), \
-             patch("backend.generate.TicketmasterScraper", return_value=ok_scraper):
+             patch("backend.generate.TicketmasterScraper", return_value=ok_scraper), \
+             patch("backend.generate.AafkScraper", return_value=ok_scraper):
             events, failed = run_scrapers()
 
-        assert len(events) == 7
+        assert len(events) == 8
         assert "fail" in failed
 
 
