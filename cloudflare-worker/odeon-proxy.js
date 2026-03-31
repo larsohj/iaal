@@ -13,6 +13,7 @@ const UPSTREAM = "https://services.cinema-api.com";
 const ALLOWED_PATH_PREFIXES = [
   "/show/stripped/",
   "/movie/scheduled/",
+  "/cf/images/",
 ];
 
 export default {
@@ -24,7 +25,11 @@ export default {
       return new Response("Not found", { status: 404 });
     }
 
-    const upstream = new URL(url.pathname + url.search, UPSTREAM);
+    const isImage = url.pathname.startsWith("/cf/images/");
+    const upstreamBase = isImage
+      ? "https://catalog.cinema-api.com"
+      : UPSTREAM;
+    const upstream = new URL(url.pathname + url.search, upstreamBase);
 
     const proxied = await fetch(upstream.toString(), {
       method: "GET",
@@ -43,7 +48,7 @@ export default {
       status: proxied.status,
       headers: {
         "Content-Type": proxied.headers.get("Content-Type") || "application/json",
-        "Cache-Control": "no-store",
+        "Cache-Control": isImage ? "public, max-age=86400" : "no-store",
       },
     });
   },
