@@ -1,31 +1,8 @@
 {
-  "generated_at": "2026-03-31T15:08:24.265745+00:00",
-  "total": 466,
-  "failed_sources": [
-    "odeon"
-  ],
+  "generated_at": "2026-03-31T16:30:44.239569+00:00",
+  "total": 639,
+  "failed_sources": [],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-43fbfab6-6c15-4ee0-877b-f0fb5511f5d3",
-      "title": "Fellesverket søker frivillige: Vil du være der for ungdommene?",
-      "start_at": "2026-03-31T16:30:00",
-      "end_at": "2026-12-31T19:00:00",
-      "is_free": true,
-      "location_name": "Fellesverket Dragen",
-      "city": "Ålesund",
-      "organizer": "Fellesverket Dragen",
-      "image_url": "https://ucarecdn.com/86e08a04-1898-4c9e-adc7-b4789057f13b/-/crop/1536x419/0,246/-/preview/",
-      "url": "https://alesund.friskus.com/activities/fellesverket-soker-frivillige-vil-du-vaere-der-for-ungdommene",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-ad886f78-4387-4d8d-8e68-9a25b3fad309",
@@ -164,6 +141,28 @@
       "url": "https://alesund.friskus.com/activities/strikkekafe-pa-alesund-bibliotek",
       "tags": [],
       "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-04-01T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/activities/apen-gard",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
         "senior",
         "pensioner"
       ],
@@ -4192,6 +4191,28 @@
       "age_groups": [
         "children",
         "teenager",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-99fe4f7d-fdbb-4cdd-b2c7-64bc2c3389f3",
+      "title": "GJENBRUKSBUTIKK MAUSEIDVÅG (TI)",
+      "start_at": "2026-04-07T13:00:00",
+      "end_at": "2026-06-16T17:00:00",
+      "is_free": false,
+      "location_name": "Mauseidvåg Bedehusforening",
+      "city": "Ålesund",
+      "organizer": "Mauseidvåg Bedehusforening",
+      "image_url": "https://ucarecdn.com/08f0be57-a8bb-40c8-bf3b-97e399325f11/-/crop/5312x1447/0,770/-/preview/",
+      "url": "https://alesund.friskus.com/activities/gjenbruksbutikk-mauseidvag-ti",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
         "senior",
         "pensioner"
       ],
@@ -8671,6 +8692,3227 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-365989f3-e194-4953-9a13-76caac56c858",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-03-31T17:45:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-fa959e3d-f9bd-47f0-9440-076b39b4e240",
+      "title": "Minner om ham",
+      "description": "Etter en perfekt utflukt med kjæresten sin gjør Kenna en uutholdelig feil som sender henne i fengsel. Sju år senere vender Kenna tilbake til hjembyen, i håp om å bygge opp livet sitt på nytt og få en sjanse til å gjenforenes med datteren sin – som hun aldri fikk lære å kjenne. ",
+      "start_at": "2026-03-31T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/2bf2134ab7364995b47dcebc0b6509d2.jpg?width=1440&version=3CADBBC2E0C8B819C7BBC95C42FFE91B",
+      "url": "https://www.odeonkino.no/film/minner-om-ham/",
+      "tags": [
+        "romantikk"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-47693c90-505c-4ba6-a83c-6ab9e33859f2",
+      "title": "Agnes mot verden",
+      "start_at": "2026-03-31T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/8d627bc0a69541ebbca10e68972b8cb0.jpg?width=1440&version=37C770F1F28F98A2125380653A30CC00",
+      "url": "https://www.odeonkino.no/film/agnes-mot-verden/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ee0d5b42-5b7e-4b9f-acbb-a85b86512b3a",
+      "title": "I Swear",
+      "description": "Den sanne historien om John Davidson: Diagnostisert med Tourettes syndrom i ung alder, ble han fremmedgjort fra jevnaldrende og kjempet med en tilstand få hadde sett før.",
+      "start_at": "2026-03-31T18:35:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/3002494eb5c7418d92b6edea318d9994.jpg?width=1440&version=6A8A9AD9A1F17C7D1716DB38FE5185C9",
+      "url": "https://www.odeonkino.no/film/i-swear/",
+      "tags": [
+        "luxe",
+        "drama",
+        "biografi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ca4f0d96-f4bf-4425-8f60-74de558db418",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-03-31T19:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e5e518d4-ccad-40de-b777-5e30c9a190a9",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-03-31T19:30:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-28b03827-c39a-4d6d-84a3-1cef4b37e6f6",
+      "title": "How to Make a Killing",
+      "description": "Intrikat og superunderholdende thriller, med Glen Powell og Margaret Qualley",
+      "start_at": "2026-03-31T20:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/d4bdb3833d334d95bdc58f8320463473.jpg?width=1440&version=ECAAA24E14911488F744A93ED57FEE26",
+      "url": "https://www.odeonkino.no/film/how-to-make-a-killing/",
+      "tags": [
+        "luxe",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4421d95e-231a-432f-a26a-0a5765771bba",
+      "title": "Scream 7",
+      "start_at": "2026-03-31T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/68794cdabcd74108b9a0d3fc12386789.jpg?width=1440&version=8362DAFB618153C5712C7C02B5EE71BB",
+      "url": "https://www.odeonkino.no/film/scream-7/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6f4af1c5-380d-4c6e-96e4-33e00a5040ab",
+      "title": "Ready or Not 2: Here I come",
+      "start_at": "2026-03-31T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/0c3e6004204c401ebbdc7fabb69a5f3e.jpg?width=1440&version=3DCC41343A627C9A84BEE6A0C14BDDEB",
+      "url": "https://www.odeonkino.no/film/ready-or-not-2-here-i-come/",
+      "tags": [
+        "luxe",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7d039bc6-e6af-4eea-81db-3954ab7bb3df",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-03-31T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "luxe",
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f21e79f3-a423-480d-8664-bf8318130844",
+      "title": "They Will Kill You",
+      "start_at": "2026-03-31T21:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/15961d940a1c4dc48155b782e28a89bc.jpg?width=1440&version=2F53608815F6C1E76826C0767C8109A4",
+      "url": "https://www.odeonkino.no/film/they-will-kill-you/",
+      "tags": [
+        "skrekkfilm",
+        "thriller",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6a8b26b3-4b4b-4254-830f-1fdde93ed929",
+      "title": "Flåklypa - Fra Paris til pyramidene",
+      "description": " Il Tempo Gigante skal ut på veien og det blir full gass, høy puls og sjarmerende moro i det trioen forlater den trygge bygda og skal ut i den store verden.",
+      "start_at": "2026-04-01T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/240a12815f774068a9d873acacccb4cb.jpg?width=1440&version=1CD261FD58DC034C00D3E10D718E896A",
+      "url": "https://www.odeonkino.no/film/flaklypa-fra-paris-til-pyramidene/",
+      "tags": [
+        "luxe",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-849a2054-c46b-4eb7-b9b3-e73f1b5f9451",
+      "title": "Da Mumbo Jumbo ble kjempestor",
+      "description": "Mumbo Jumbo bor trygt og godt hjemme hos moren sin i den lille dalen. Men en dag blir alt snudd opp ned når Mumbo kommer i skade for å spise en magisk sopp og blir kjempestor.",
+      "start_at": "2026-04-01T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/28794756920c4993b7968b7ecbe86b39.jpg?width=1440&version=2520CB2E5FEE357BB577CF74A5E4EAAD",
+      "url": "https://www.odeonkino.no/film/da-mumbo-jumbo-ble-kjempestor/",
+      "tags": [
+        "familiefilm",
+        "eventyr",
+        "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-35ac24fe-af2a-4c22-a7bc-aa49a0cb1ad2",
+      "title": "Det lille spøkelset Laban",
+      "start_at": "2026-04-01T11:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/2ce1afa7db504465abaad2acdbb5e739.jpg?width=1440&version=EC55055BECEBCAFC59B6AFB2D8856C28",
+      "url": "https://www.odeonkino.no/film/det-lille-spokelset-laban/",
+      "tags": [
+        "luxe",
+        "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-23178fd3-0d72-47fa-9dd7-1b2c6f594e4b",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-01T11:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1ec7753b-8c59-4cc8-b8bf-4df11705378e",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-04-01T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1fafa468-50f0-45a4-bfd9-185034f3c11e",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-01T14:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-49a7ace3-04e3-45ab-a410-da0d7bd0b4a2",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-01T17:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b5d1879f-1961-4118-91aa-846cc3b2ad08",
+      "title": "Jesu siste måltid",
+      "start_at": "2026-04-01T18:10:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/da88de8e945148ee9efdefb8b18b905d.jpg?width=1440&version=5E330A4879D64BED5D87B9BFB14D6544",
+      "url": "https://www.odeonkino.no/film/jesu-siste-maltid/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ed16f34f-d812-4984-8e7a-362be1b796eb",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-04-01T19:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4581f8e5-e52b-43c0-bbf2-509b6ac37cea",
+      "title": "Minner om ham",
+      "description": "Etter en perfekt utflukt med kjæresten sin gjør Kenna en uutholdelig feil som sender henne i fengsel. Sju år senere vender Kenna tilbake til hjembyen, i håp om å bygge opp livet sitt på nytt og få en sjanse til å gjenforenes med datteren sin – som hun aldri fikk lære å kjenne. ",
+      "start_at": "2026-04-01T20:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/2bf2134ab7364995b47dcebc0b6509d2.jpg?width=1440&version=3CADBBC2E0C8B819C7BBC95C42FFE91B",
+      "url": "https://www.odeonkino.no/film/minner-om-ham/",
+      "tags": [
+        "luxe",
+        "romantikk"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f5e77780-d157-4eb4-b886-abeb4f2fff1a",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-01T20:30:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-341a1dd3-6c19-4a59-a03e-255271eb500e",
+      "title": "They Will Kill You",
+      "start_at": "2026-04-01T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/15961d940a1c4dc48155b782e28a89bc.jpg?width=1440&version=2F53608815F6C1E76826C0767C8109A4",
+      "url": "https://www.odeonkino.no/film/they-will-kill-you/",
+      "tags": [
+        "luxe",
+        "skrekkfilm",
+        "thriller",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-96c6c2e1-6658-41a2-87a8-ad1a9ac3de0b",
+      "title": "How to Make a Killing",
+      "description": "Intrikat og superunderholdende thriller, med Glen Powell og Margaret Qualley",
+      "start_at": "2026-04-01T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/d4bdb3833d334d95bdc58f8320463473.jpg?width=1440&version=ECAAA24E14911488F744A93ED57FEE26",
+      "url": "https://www.odeonkino.no/film/how-to-make-a-killing/",
+      "tags": [
+        "luxe",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-37884387-074d-4059-9995-9312025105b4",
+      "title": "Scream 7",
+      "start_at": "2026-04-01T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/68794cdabcd74108b9a0d3fc12386789.jpg?width=1440&version=8362DAFB618153C5712C7C02B5EE71BB",
+      "url": "https://www.odeonkino.no/film/scream-7/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-595827f4-5783-4985-b144-8d86edeb689f",
+      "title": "Det lille spøkelset Laban",
+      "start_at": "2026-04-02T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/2ce1afa7db504465abaad2acdbb5e739.jpg?width=1440&version=EC55055BECEBCAFC59B6AFB2D8856C28",
+      "url": "https://www.odeonkino.no/film/det-lille-spokelset-laban/",
+      "tags": [
+        "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-93580d5b-6617-4dd2-b9fa-14e72305d8f7",
+      "title": "Da Mumbo Jumbo ble kjempestor",
+      "description": "Mumbo Jumbo bor trygt og godt hjemme hos moren sin i den lille dalen. Men en dag blir alt snudd opp ned når Mumbo kommer i skade for å spise en magisk sopp og blir kjempestor.",
+      "start_at": "2026-04-02T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/28794756920c4993b7968b7ecbe86b39.jpg?width=1440&version=2520CB2E5FEE357BB577CF74A5E4EAAD",
+      "url": "https://www.odeonkino.no/film/da-mumbo-jumbo-ble-kjempestor/",
+      "tags": [
+        "luxe",
+        "familiefilm",
+        "eventyr",
+        "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ce1151c3-96d4-4f5c-984b-1720f4f5f845",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-02T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2aa21d9e-56fd-4ee3-9998-339704f1b4ab",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-02T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8f9a37bb-aefa-43ee-8103-7a5cd51ade14",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-04-02T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-cdb79ce7-e0f8-4d8c-8589-59158d5ee624",
+      "title": "Affeksjonsverdi",
+      "description": "To søstre må håndtere sin fraværende far og en Hollywood-stjerne midt i et intenst familiedrama.",
+      "start_at": "2026-04-02T14:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/ed64de67b2bb4d14ad1f101b9059919c.jpg?width=1440&version=0B6C79BFA2CA7808BD2D46E796D831DC",
+      "url": "https://www.odeonkino.no/film/affeksjonsverdi/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4133364b-15a2-41ef-a5eb-0ae5b0e3db77",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-02T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e8522bc6-9b43-406c-9039-b8f06c2e0fc2",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-02T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-dbd91481-d4b6-404d-b6da-4e0901c0bdae",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-04-02T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-74f8062d-88b6-46e4-aea9-1f386d3034f0",
+      "title": "I Swear",
+      "description": "Den sanne historien om John Davidson: Diagnostisert med Tourettes syndrom i ung alder, ble han fremmedgjort fra jevnaldrende og kjempet med en tilstand få hadde sett før.",
+      "start_at": "2026-04-02T17:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/3002494eb5c7418d92b6edea318d9994.jpg?width=1440&version=6A8A9AD9A1F17C7D1716DB38FE5185C9",
+      "url": "https://www.odeonkino.no/film/i-swear/",
+      "tags": [
+        "luxe",
+        "drama",
+        "biografi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f1a451d7-b1c5-42e7-8d2d-e63f3a131555",
+      "title": "Minner om ham",
+      "description": "Etter en perfekt utflukt med kjæresten sin gjør Kenna en uutholdelig feil som sender henne i fengsel. Sju år senere vender Kenna tilbake til hjembyen, i håp om å bygge opp livet sitt på nytt og få en sjanse til å gjenforenes med datteren sin – som hun aldri fikk lære å kjenne. ",
+      "start_at": "2026-04-02T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/2bf2134ab7364995b47dcebc0b6509d2.jpg?width=1440&version=3CADBBC2E0C8B819C7BBC95C42FFE91B",
+      "url": "https://www.odeonkino.no/film/minner-om-ham/",
+      "tags": [
+        "luxe",
+        "romantikk"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-542c6072-e6d2-4b96-b688-dde39c2cf86d",
+      "title": "Agnes mot verden",
+      "start_at": "2026-04-02T19:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/8d627bc0a69541ebbca10e68972b8cb0.jpg?width=1440&version=37C770F1F28F98A2125380653A30CC00",
+      "url": "https://www.odeonkino.no/film/agnes-mot-verden/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3dde95b2-a9b0-4486-8fcb-1f277a47081c",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-02T19:30:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-dfd35871-8d76-4c09-a71f-f1309e8cd38e",
+      "title": "How to Make a Killing",
+      "description": "Intrikat og superunderholdende thriller, med Glen Powell og Margaret Qualley",
+      "start_at": "2026-04-02T20:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/d4bdb3833d334d95bdc58f8320463473.jpg?width=1440&version=ECAAA24E14911488F744A93ED57FEE26",
+      "url": "https://www.odeonkino.no/film/how-to-make-a-killing/",
+      "tags": [
+        "luxe",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6924aae0-217c-4217-86d5-040b107a0332",
+      "title": "Scream 7",
+      "start_at": "2026-04-02T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/68794cdabcd74108b9a0d3fc12386789.jpg?width=1440&version=8362DAFB618153C5712C7C02B5EE71BB",
+      "url": "https://www.odeonkino.no/film/scream-7/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b7ca8655-021d-4f63-8a17-d60038072f39",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-04-02T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0dc195c6-c561-4908-82da-2b2641ce5580",
+      "title": "They Will Kill You",
+      "start_at": "2026-04-02T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/15961d940a1c4dc48155b782e28a89bc.jpg?width=1440&version=2F53608815F6C1E76826C0767C8109A4",
+      "url": "https://www.odeonkino.no/film/they-will-kill-you/",
+      "tags": [
+        "luxe",
+        "skrekkfilm",
+        "thriller",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-30de11ba-9db2-4970-8225-cabfe2dd9c70",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-03T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3e763478-833f-4899-9c3f-9f980dbec467",
+      "title": "Da Mumbo Jumbo ble kjempestor",
+      "description": "Mumbo Jumbo bor trygt og godt hjemme hos moren sin i den lille dalen. Men en dag blir alt snudd opp ned når Mumbo kommer i skade for å spise en magisk sopp og blir kjempestor.",
+      "start_at": "2026-04-03T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/28794756920c4993b7968b7ecbe86b39.jpg?width=1440&version=2520CB2E5FEE357BB577CF74A5E4EAAD",
+      "url": "https://www.odeonkino.no/film/da-mumbo-jumbo-ble-kjempestor/",
+      "tags": [
+        "luxe",
+        "familiefilm",
+        "eventyr",
+        "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7966c5a5-a11c-40b3-b88a-5e5afada6237",
+      "title": "Det lille spøkelset Laban",
+      "start_at": "2026-04-03T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/2ce1afa7db504465abaad2acdbb5e739.jpg?width=1440&version=EC55055BECEBCAFC59B6AFB2D8856C28",
+      "url": "https://www.odeonkino.no/film/det-lille-spokelset-laban/",
+      "tags": [
+        "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-04809957-cb41-492d-ab61-764eb33961e2",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-03T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-fa3e5c24-a0b5-4859-b101-881d320144fa",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-04-03T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-aced8232-8c78-4dc2-9cc7-b3bedf5e4013",
+      "title": "Affeksjonsverdi",
+      "description": "To søstre må håndtere sin fraværende far og en Hollywood-stjerne midt i et intenst familiedrama.",
+      "start_at": "2026-04-03T14:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/ed64de67b2bb4d14ad1f101b9059919c.jpg?width=1440&version=0B6C79BFA2CA7808BD2D46E796D831DC",
+      "url": "https://www.odeonkino.no/film/affeksjonsverdi/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6a9090eb-ce3e-4f29-8480-72195a513955",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-03T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-d861f824-ca8e-4fe9-8306-703b65169b1d",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-03T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3ac6a914-f780-4d83-93c7-b3ac5f66af75",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-04-03T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-cf976cd6-a0b3-4f79-9251-1342f64d4ab0",
+      "title": "Agnes mot verden",
+      "start_at": "2026-04-03T17:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/8d627bc0a69541ebbca10e68972b8cb0.jpg?width=1440&version=37C770F1F28F98A2125380653A30CC00",
+      "url": "https://www.odeonkino.no/film/agnes-mot-verden/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-325b43be-5a15-474b-9cfc-a682270d4506",
+      "title": "Minner om ham",
+      "description": "Etter en perfekt utflukt med kjæresten sin gjør Kenna en uutholdelig feil som sender henne i fengsel. Sju år senere vender Kenna tilbake til hjembyen, i håp om å bygge opp livet sitt på nytt og få en sjanse til å gjenforenes med datteren sin – som hun aldri fikk lære å kjenne. ",
+      "start_at": "2026-04-03T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/2bf2134ab7364995b47dcebc0b6509d2.jpg?width=1440&version=3CADBBC2E0C8B819C7BBC95C42FFE91B",
+      "url": "https://www.odeonkino.no/film/minner-om-ham/",
+      "tags": [
+        "luxe",
+        "romantikk"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-913fe088-2f65-45c8-9014-312bd741ffed",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-04-03T18:45:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-37c93e24-31dd-426a-9350-d5f75a18f346",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-03T19:30:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-d6044e38-442e-42eb-8191-e414ea42e5ed",
+      "title": "The Housemaid",
+      "description": "I et forsøk på å unnslippe fortiden starter Millie som hushjelp hos rike Nina og Andrew Winchester. Det som virker som en drømmejobb blir raskt et farlig spill fylt av hemmeligheter, makt og sjokkerende avsløringer.",
+      "start_at": "2026-04-03T19:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/8be1ca6437e845a6853b9ec52e27b024.jpg?width=1440&version=B45BB3EE9372C05AB54CDE5B86E2D6EC",
+      "url": "https://www.odeonkino.no/film/the-housemaid/",
+      "tags": [
+        "luxe",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2f9db8d7-a6cc-4168-aea3-ac9625d8b6da",
+      "title": "Scream 7",
+      "start_at": "2026-04-03T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/68794cdabcd74108b9a0d3fc12386789.jpg?width=1440&version=8362DAFB618153C5712C7C02B5EE71BB",
+      "url": "https://www.odeonkino.no/film/scream-7/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f8554cd8-2c54-447b-abac-4ae3c35a2089",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-04-03T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6a54caea-e338-44cb-a96c-bb371c9e7c8e",
+      "title": "They Will Kill You",
+      "start_at": "2026-04-03T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/15961d940a1c4dc48155b782e28a89bc.jpg?width=1440&version=2F53608815F6C1E76826C0767C8109A4",
+      "url": "https://www.odeonkino.no/film/they-will-kill-you/",
+      "tags": [
+        "luxe",
+        "skrekkfilm",
+        "thriller",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-de4f3b27-f90e-4334-b875-f5b6c5871c5f",
+      "title": "Flåklypa - Fra Paris til pyramidene",
+      "description": " Il Tempo Gigante skal ut på veien og det blir full gass, høy puls og sjarmerende moro i det trioen forlater den trygge bygda og skal ut i den store verden.",
+      "start_at": "2026-04-04T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/240a12815f774068a9d873acacccb4cb.jpg?width=1440&version=1CD261FD58DC034C00D3E10D718E896A",
+      "url": "https://www.odeonkino.no/film/flaklypa-fra-paris-til-pyramidene/",
+      "tags": [
+        "luxe",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f735d470-93dc-4e49-b470-da40f69ddbd5",
+      "title": "Da Mumbo Jumbo ble kjempestor",
+      "description": "Mumbo Jumbo bor trygt og godt hjemme hos moren sin i den lille dalen. Men en dag blir alt snudd opp ned når Mumbo kommer i skade for å spise en magisk sopp og blir kjempestor.",
+      "start_at": "2026-04-04T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/28794756920c4993b7968b7ecbe86b39.jpg?width=1440&version=2520CB2E5FEE357BB577CF74A5E4EAAD",
+      "url": "https://www.odeonkino.no/film/da-mumbo-jumbo-ble-kjempestor/",
+      "tags": [
+        "luxe",
+        "familiefilm",
+        "eventyr",
+        "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-03f639cb-82a0-4121-93b8-a6ced8365757",
+      "title": "Havfolket",
+      "start_at": "2026-04-04T11:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/34cf55becc6e4fb885005e61da9d9867.jpg?width=1440&version=169D439FE65EA6D63FDC8AF857AB2F1A",
+      "url": "https://www.odeonkino.no/film/havfolket/",
+      "tags": [
+        "luxe",
+        "dokumentar"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1f6cf2fb-8f17-4762-9e0f-f99a8fd91868",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-04T11:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e33077d5-a665-430c-bbae-f59efe135396",
+      "title": "Håndbok for superhelter",
+      "description": "Supersuksessen \"Håndbok for superhelter\" blir film. Filmen er basert på de fire første bøkene i serien; Håndboken, Røde maske, Alene og Ulvene kommer.",
+      "start_at": "2026-04-04T12:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/0ea852e8470c4ffdb1f8786b33f2faa6.jpg?width=1440&version=62B290F107BFB305FAE3056B3FE9A967",
+      "url": "https://www.odeonkino.no/film/handbok-for-superhelter/",
+      "tags": [
+        "luxe",
+        "action",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6c722002-afa3-41f7-8f4c-555ee51693af",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-04-04T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-41e1641f-4a94-4b5a-ad53-145d527b0bd8",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-04T14:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-d9ca6d5c-8acf-4854-8513-d6569f5e7d8c",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-04T14:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-87b949e7-d3bf-433b-a993-b9cf9000cc4f",
+      "title": "Affeksjonsverdi",
+      "description": "To søstre må håndtere sin fraværende far og en Hollywood-stjerne midt i et intenst familiedrama.",
+      "start_at": "2026-04-04T15:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/ed64de67b2bb4d14ad1f101b9059919c.jpg?width=1440&version=0B6C79BFA2CA7808BD2D46E796D831DC",
+      "url": "https://www.odeonkino.no/film/affeksjonsverdi/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b6b74954-1a86-4086-89d5-280a123120e9",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-04-04T16:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-483d3446-9ced-4433-bffb-2b375494aac3",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-04T17:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f1ee2c82-b3ca-4348-9a8d-8b154c88cf6a",
+      "title": "Wuthering Heights",
+      "start_at": "2026-04-04T17:40:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/bf5867482c8d43e28a06475ba84b1949.jpg?width=1440&version=A4CF25EFBA729204851356AC8C301270",
+      "url": "https://www.odeonkino.no/film/wuthering-heights/",
+      "tags": [
+        "luxe",
+        "romantikk",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-5f1699fc-c81a-4863-a82c-98ffa24fa9ba",
+      "title": "I Swear",
+      "description": "Den sanne historien om John Davidson: Diagnostisert med Tourettes syndrom i ung alder, ble han fremmedgjort fra jevnaldrende og kjempet med en tilstand få hadde sett før.",
+      "start_at": "2026-04-04T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/3002494eb5c7418d92b6edea318d9994.jpg?width=1440&version=6A8A9AD9A1F17C7D1716DB38FE5185C9",
+      "url": "https://www.odeonkino.no/film/i-swear/",
+      "tags": [
+        "luxe",
+        "drama",
+        "biografi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9a5d9b1e-ac81-4d51-8e8c-053cc48140bf",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-04-04T18:55:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ac875faa-36f6-4e34-b949-2dbe691c33c3",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-04T19:30:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-deda1a8d-9b03-40ac-886d-e24f73081c9a",
+      "title": "Minner om ham",
+      "description": "Etter en perfekt utflukt med kjæresten sin gjør Kenna en uutholdelig feil som sender henne i fengsel. Sju år senere vender Kenna tilbake til hjembyen, i håp om å bygge opp livet sitt på nytt og få en sjanse til å gjenforenes med datteren sin – som hun aldri fikk lære å kjenne. ",
+      "start_at": "2026-04-04T20:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/2bf2134ab7364995b47dcebc0b6509d2.jpg?width=1440&version=3CADBBC2E0C8B819C7BBC95C42FFE91B",
+      "url": "https://www.odeonkino.no/film/minner-om-ham/",
+      "tags": [
+        "luxe",
+        "romantikk"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-dfd7fbe6-0327-440a-b416-be9e8db95ea0",
+      "title": "Agnes mot verden",
+      "start_at": "2026-04-04T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/8d627bc0a69541ebbca10e68972b8cb0.jpg?width=1440&version=37C770F1F28F98A2125380653A30CC00",
+      "url": "https://www.odeonkino.no/film/agnes-mot-verden/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a3d64883-0a7f-44e4-849f-3f9453892ddc",
+      "title": "Scream 7",
+      "start_at": "2026-04-04T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/68794cdabcd74108b9a0d3fc12386789.jpg?width=1440&version=8362DAFB618153C5712C7C02B5EE71BB",
+      "url": "https://www.odeonkino.no/film/scream-7/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-d5f06c41-ac9a-48ed-a897-d95583b511f3",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-04-04T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-af9bf145-88b3-4ce6-b0ff-9ba1e19ab091",
+      "title": "Da Mumbo Jumbo ble kjempestor",
+      "description": "Mumbo Jumbo bor trygt og godt hjemme hos moren sin i den lille dalen. Men en dag blir alt snudd opp ned når Mumbo kommer i skade for å spise en magisk sopp og blir kjempestor.",
+      "start_at": "2026-04-05T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/28794756920c4993b7968b7ecbe86b39.jpg?width=1440&version=2520CB2E5FEE357BB577CF74A5E4EAAD",
+      "url": "https://www.odeonkino.no/film/da-mumbo-jumbo-ble-kjempestor/",
+      "tags": [
+        "luxe",
+        "familiefilm",
+        "eventyr",
+        "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c7042b0f-e3a6-4498-89bc-7ef3e3cb35c3",
+      "title": "Det lille spøkelset Laban",
+      "start_at": "2026-04-05T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/2ce1afa7db504465abaad2acdbb5e739.jpg?width=1440&version=EC55055BECEBCAFC59B6AFB2D8856C28",
+      "url": "https://www.odeonkino.no/film/det-lille-spokelset-laban/",
+      "tags": [
+        "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e5bd6f92-8836-4147-9930-af6ebfa4f0d4",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-05T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4eb8dfa6-36f6-4c3a-b953-e6711a305bcf",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-05T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-5ec8bb2a-4cf7-4441-ab98-b183be6f43fa",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-04-05T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a1739765-3d51-49dd-bb7e-8b8e99acb59d",
+      "title": "Affeksjonsverdi",
+      "description": "To søstre må håndtere sin fraværende far og en Hollywood-stjerne midt i et intenst familiedrama.",
+      "start_at": "2026-04-05T14:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/ed64de67b2bb4d14ad1f101b9059919c.jpg?width=1440&version=0B6C79BFA2CA7808BD2D46E796D831DC",
+      "url": "https://www.odeonkino.no/film/affeksjonsverdi/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-19e38ac9-69cd-420e-ba2a-f7a1e6fc5095",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-05T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-74b2254a-e3d6-4111-aa85-24a595106182",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-05T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0624e1da-03cd-4d9a-a09f-18067f5d1254",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-04-05T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7b1f150c-6875-449d-8fd6-ecb2dcbe1b6b",
+      "title": "Agnes mot verden",
+      "start_at": "2026-04-05T17:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/8d627bc0a69541ebbca10e68972b8cb0.jpg?width=1440&version=37C770F1F28F98A2125380653A30CC00",
+      "url": "https://www.odeonkino.no/film/agnes-mot-verden/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e9796174-884d-480c-9b28-02f62e521256",
+      "title": "Minner om ham",
+      "description": "Etter en perfekt utflukt med kjæresten sin gjør Kenna en uutholdelig feil som sender henne i fengsel. Sju år senere vender Kenna tilbake til hjembyen, i håp om å bygge opp livet sitt på nytt og få en sjanse til å gjenforenes med datteren sin – som hun aldri fikk lære å kjenne. ",
+      "start_at": "2026-04-05T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/2bf2134ab7364995b47dcebc0b6509d2.jpg?width=1440&version=3CADBBC2E0C8B819C7BBC95C42FFE91B",
+      "url": "https://www.odeonkino.no/film/minner-om-ham/",
+      "tags": [
+        "luxe",
+        "romantikk"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0ab7a066-c96d-4689-ba16-877f0518ee4a",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-04-05T19:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "luxe",
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-5fff92ae-996e-4296-bf17-83503017e896",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-05T19:30:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-77fe92fc-9a3c-4be1-8c0f-d780898e19d1",
+      "title": "Wuthering Heights",
+      "start_at": "2026-04-05T19:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/bf5867482c8d43e28a06475ba84b1949.jpg?width=1440&version=A4CF25EFBA729204851356AC8C301270",
+      "url": "https://www.odeonkino.no/film/wuthering-heights/",
+      "tags": [
+        "luxe",
+        "romantikk",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7cebc852-c25e-4292-91db-ae22dfef7c29",
+      "title": "Scream 7",
+      "start_at": "2026-04-05T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/68794cdabcd74108b9a0d3fc12386789.jpg?width=1440&version=8362DAFB618153C5712C7C02B5EE71BB",
+      "url": "https://www.odeonkino.no/film/scream-7/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-93c8017e-89f2-46a2-be21-976bfcd0cb19",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-04-05T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6169f675-be13-4986-a8ad-12346b9f584a",
+      "title": "They Will Kill You",
+      "start_at": "2026-04-05T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/15961d940a1c4dc48155b782e28a89bc.jpg?width=1440&version=2F53608815F6C1E76826C0767C8109A4",
+      "url": "https://www.odeonkino.no/film/they-will-kill-you/",
+      "tags": [
+        "luxe",
+        "skrekkfilm",
+        "thriller",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3f7addc2-c2a4-4ab6-ba1c-294ab080a22a",
+      "title": "Da Mumbo Jumbo ble kjempestor",
+      "description": "Mumbo Jumbo bor trygt og godt hjemme hos moren sin i den lille dalen. Men en dag blir alt snudd opp ned når Mumbo kommer i skade for å spise en magisk sopp og blir kjempestor.",
+      "start_at": "2026-04-06T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/28794756920c4993b7968b7ecbe86b39.jpg?width=1440&version=2520CB2E5FEE357BB577CF74A5E4EAAD",
+      "url": "https://www.odeonkino.no/film/da-mumbo-jumbo-ble-kjempestor/",
+      "tags": [
+        "familiefilm",
+        "eventyr",
+        "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-66d64d47-7464-48c3-903f-5dc4a0f9bae7",
+      "title": "Flåklypa - Fra Paris til pyramidene",
+      "description": " Il Tempo Gigante skal ut på veien og det blir full gass, høy puls og sjarmerende moro i det trioen forlater den trygge bygda og skal ut i den store verden.",
+      "start_at": "2026-04-06T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/240a12815f774068a9d873acacccb4cb.jpg?width=1440&version=1CD261FD58DC034C00D3E10D718E896A",
+      "url": "https://www.odeonkino.no/film/flaklypa-fra-paris-til-pyramidene/",
+      "tags": [
+        "luxe",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a986d0d1-a64b-4a61-ad2b-e9625ba05a0f",
+      "title": "Det lille spøkelset Laban",
+      "start_at": "2026-04-06T11:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/2ce1afa7db504465abaad2acdbb5e739.jpg?width=1440&version=EC55055BECEBCAFC59B6AFB2D8856C28",
+      "url": "https://www.odeonkino.no/film/det-lille-spokelset-laban/",
+      "tags": [
+        "luxe",
+        "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7994e03b-408c-4f47-99ba-10db8698e7d4",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-04-06T11:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-badb5e59-2c48-435a-95eb-6ce36f0ac40a",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-06T11:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ca7e57cb-6d28-478f-b7c9-a762d5c4e68c",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-04-06T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6e471fa0-d466-437c-a160-14de347a4e1b",
+      "title": "Håndbok for superhelter",
+      "description": "Supersuksessen \"Håndbok for superhelter\" blir film. Filmen er basert på de fire første bøkene i serien; Håndboken, Røde maske, Alene og Ulvene kommer.",
+      "start_at": "2026-04-06T12:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/0ea852e8470c4ffdb1f8786b33f2faa6.jpg?width=1440&version=62B290F107BFB305FAE3056B3FE9A967",
+      "url": "https://www.odeonkino.no/film/handbok-for-superhelter/",
+      "tags": [
+        "luxe",
+        "action",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7184b931-3604-434b-8fd1-12f141d8a157",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-06T14:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c7da80c9-f741-49d2-9af1-1ae1d33f3300",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-06T14:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9f051589-e31e-4594-b45f-d879f3739ca1",
+      "title": "Affeksjonsverdi",
+      "description": "To søstre må håndtere sin fraværende far og en Hollywood-stjerne midt i et intenst familiedrama.",
+      "start_at": "2026-04-06T15:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/ed64de67b2bb4d14ad1f101b9059919c.jpg?width=1440&version=0B6C79BFA2CA7808BD2D46E796D831DC",
+      "url": "https://www.odeonkino.no/film/affeksjonsverdi/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a86d2a67-c9b4-40c3-a39f-b097f9b24ee6",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-04-06T15:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-5a4b656c-f58e-4e44-ab9b-6866c6ca2026",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-06T17:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-bf8846ec-cb9f-4a56-b01b-8dd211e2f365",
+      "title": "Minner om ham",
+      "description": "Etter en perfekt utflukt med kjæresten sin gjør Kenna en uutholdelig feil som sender henne i fengsel. Sju år senere vender Kenna tilbake til hjembyen, i håp om å bygge opp livet sitt på nytt og få en sjanse til å gjenforenes med datteren sin – som hun aldri fikk lære å kjenne. ",
+      "start_at": "2026-04-06T17:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/2bf2134ab7364995b47dcebc0b6509d2.jpg?width=1440&version=3CADBBC2E0C8B819C7BBC95C42FFE91B",
+      "url": "https://www.odeonkino.no/film/minner-om-ham/",
+      "tags": [
+        "luxe",
+        "romantikk"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-19b1df3b-82ec-4277-ba53-98221c6732ef",
+      "title": "How to Make a Killing",
+      "description": "Intrikat og superunderholdende thriller, med Glen Powell og Margaret Qualley",
+      "start_at": "2026-04-06T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/d4bdb3833d334d95bdc58f8320463473.jpg?width=1440&version=ECAAA24E14911488F744A93ED57FEE26",
+      "url": "https://www.odeonkino.no/film/how-to-make-a-killing/",
+      "tags": [
+        "luxe",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-10ec84be-afbc-43d0-b14a-a4a9f52e5327",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-04-06T19:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e57a2f42-0982-4302-9ce4-43a925b5f810",
+      "title": "I Swear",
+      "description": "Den sanne historien om John Davidson: Diagnostisert med Tourettes syndrom i ung alder, ble han fremmedgjort fra jevnaldrende og kjempet med en tilstand få hadde sett før.",
+      "start_at": "2026-04-06T20:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/3002494eb5c7418d92b6edea318d9994.jpg?width=1440&version=6A8A9AD9A1F17C7D1716DB38FE5185C9",
+      "url": "https://www.odeonkino.no/film/i-swear/",
+      "tags": [
+        "luxe",
+        "drama",
+        "biografi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-412651e2-bbd9-4e5e-aa70-8baaac7b807c",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-06T20:30:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-77cf7cf1-f7e0-4031-a92d-d9888acbaf85",
+      "title": "Agnes mot verden",
+      "start_at": "2026-04-06T20:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/8d627bc0a69541ebbca10e68972b8cb0.jpg?width=1440&version=37C770F1F28F98A2125380653A30CC00",
+      "url": "https://www.odeonkino.no/film/agnes-mot-verden/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e989cce7-9a89-41fc-a415-67feeea63333",
+      "title": "They Will Kill You",
+      "start_at": "2026-04-06T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/15961d940a1c4dc48155b782e28a89bc.jpg?width=1440&version=2F53608815F6C1E76826C0767C8109A4",
+      "url": "https://www.odeonkino.no/film/they-will-kill-you/",
+      "tags": [
+        "luxe",
+        "skrekkfilm",
+        "thriller",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a448b086-b17c-41c2-a163-5c538efe5f01",
+      "title": "Scream 7",
+      "start_at": "2026-04-06T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/68794cdabcd74108b9a0d3fc12386789.jpg?width=1440&version=8362DAFB618153C5712C7C02B5EE71BB",
+      "url": "https://www.odeonkino.no/film/scream-7/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-60944d43-3d07-4f9c-b552-7620a4c16ad8",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-07T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-95009c28-604c-461e-ba9c-b44ef62b03d7",
+      "title": "Paradis",
+      "description": "\"Pitch-perfect performances, a razor-sharp script\" Vinner beste Nordiske film, Gøteborg Filmfestival\n\n",
+      "start_at": "2026-04-07T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/235c9bc33a7d490aa55a1365c33b7ec4.jpg?width=1440&version=7605C404E1D83A7E2091AF95353200DF",
+      "url": "https://www.odeonkino.no/film/paradis/",
+      "tags": [
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-cc07935e-6588-41fe-98ad-af665a8c034a",
+      "title": "EPiC: Elvis Presley in Concert",
+      "description": "Elvis synger og forteller sin historie som du aldri har sett tidligere",
+      "start_at": "2026-04-07T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/09305ac4b9c146d58429e981e4031a61.jpg?width=1440&version=45064C29F05A0C5CF4D39CD3AA290CF7",
+      "url": "https://www.odeonkino.no/film/epic-elvis-presley-in-concert/",
+      "tags": [
+        "dokumentar",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-48b3d03f-c392-4dc9-bf7f-cd6e9ad4a738",
+      "title": "Affeksjonsverdi",
+      "description": "To søstre må håndtere sin fraværende far og en Hollywood-stjerne midt i et intenst familiedrama.",
+      "start_at": "2026-04-07T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/ed64de67b2bb4d14ad1f101b9059919c.jpg?width=1440&version=0B6C79BFA2CA7808BD2D46E796D831DC",
+      "url": "https://www.odeonkino.no/film/affeksjonsverdi/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7c30f8ba-6508-4210-a847-a64c67e4ba9c",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-07T14:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-84f07814-1737-42df-b510-e9bacc29c422",
+      "title": "Da Mumbo Jumbo ble kjempestor",
+      "description": "Mumbo Jumbo bor trygt og godt hjemme hos moren sin i den lille dalen. Men en dag blir alt snudd opp ned når Mumbo kommer i skade for å spise en magisk sopp og blir kjempestor.",
+      "start_at": "2026-04-07T14:25:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/28794756920c4993b7968b7ecbe86b39.jpg?width=1440&version=2520CB2E5FEE357BB577CF74A5E4EAAD",
+      "url": "https://www.odeonkino.no/film/da-mumbo-jumbo-ble-kjempestor/",
+      "tags": [
+        "familiefilm",
+        "eventyr",
+        "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-076d8528-bfad-41f3-9421-72a747028663",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-07T14:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-146b380d-6779-4ba9-b3ec-f4da4de64de5",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-04-07T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "luxe",
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c3a7bb46-59df-42af-b034-f23b23756e72",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-07T16:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-729feab5-928d-49ea-9a30-6dc840a5b809",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-04-07T17:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-061bb2e2-5244-43ad-91a4-13252bb0e492",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-07T17:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6f13316f-3142-4ff6-867f-1ff5915e0979",
+      "title": "How to Make a Killing",
+      "description": "Intrikat og superunderholdende thriller, med Glen Powell og Margaret Qualley",
+      "start_at": "2026-04-07T17:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/d4bdb3833d334d95bdc58f8320463473.jpg?width=1440&version=ECAAA24E14911488F744A93ED57FEE26",
+      "url": "https://www.odeonkino.no/film/how-to-make-a-killing/",
+      "tags": [
+        "luxe",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b3e91564-b611-4e09-8445-94b690ae1c2d",
+      "title": "Agnes mot verden",
+      "start_at": "2026-04-07T19:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/8d627bc0a69541ebbca10e68972b8cb0.jpg?width=1440&version=37C770F1F28F98A2125380653A30CC00",
+      "url": "https://www.odeonkino.no/film/agnes-mot-verden/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f93ccd8b-7cf9-486f-98d0-3670bb1381fa",
+      "title": "Minner om ham",
+      "description": "Etter en perfekt utflukt med kjæresten sin gjør Kenna en uutholdelig feil som sender henne i fengsel. Sju år senere vender Kenna tilbake til hjembyen, i håp om å bygge opp livet sitt på nytt og få en sjanse til å gjenforenes med datteren sin – som hun aldri fikk lære å kjenne. ",
+      "start_at": "2026-04-07T19:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/2bf2134ab7364995b47dcebc0b6509d2.jpg?width=1440&version=3CADBBC2E0C8B819C7BBC95C42FFE91B",
+      "url": "https://www.odeonkino.no/film/minner-om-ham/",
+      "tags": [
+        "romantikk"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-89148097-04fc-418f-9ea9-3935b82f680d",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-07T20:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4bdb9766-eb19-44df-abb7-a887a74739c2",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-04-07T20:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "luxe",
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2febd944-dd5e-46b5-8777-7bcbeca29a32",
+      "title": "Scream 7",
+      "start_at": "2026-04-07T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/68794cdabcd74108b9a0d3fc12386789.jpg?width=1440&version=8362DAFB618153C5712C7C02B5EE71BB",
+      "url": "https://www.odeonkino.no/film/scream-7/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-340111a1-5179-4a1f-86d1-df930dd2c33a",
+      "title": "Ready or Not 2: Here I come",
+      "start_at": "2026-04-07T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/0c3e6004204c401ebbdc7fabb69a5f3e.jpg?width=1440&version=3DCC41343A627C9A84BEE6A0C14BDDEB",
+      "url": "https://www.odeonkino.no/film/ready-or-not-2-here-i-come/",
+      "tags": [
+        "luxe",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6e8f8a70-6fea-4936-a1a2-f1c085558173",
+      "title": "They Will Kill You",
+      "start_at": "2026-04-07T21:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/15961d940a1c4dc48155b782e28a89bc.jpg?width=1440&version=2F53608815F6C1E76826C0767C8109A4",
+      "url": "https://www.odeonkino.no/film/they-will-kill-you/",
+      "tags": [
+        "skrekkfilm",
+        "thriller",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-43451453-457f-483b-b48c-b5338cc3ccb5",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-08T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-593e9353-b5d3-4073-9daf-b6ba410885df",
+      "title": "Paradis",
+      "description": "\"Pitch-perfect performances, a razor-sharp script\" Vinner beste Nordiske film, Gøteborg Filmfestival\n\n",
+      "start_at": "2026-04-08T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/235c9bc33a7d490aa55a1365c33b7ec4.jpg?width=1440&version=7605C404E1D83A7E2091AF95353200DF",
+      "url": "https://www.odeonkino.no/film/paradis/",
+      "tags": [
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-befc92b2-2bd7-4625-98d4-ffa218fbccc7",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-08T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b32411d4-a519-4bd8-8f9c-778168cb5f69",
+      "title": "Affeksjonsverdi",
+      "description": "To søstre må håndtere sin fraværende far og en Hollywood-stjerne midt i et intenst familiedrama.",
+      "start_at": "2026-04-08T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/ed64de67b2bb4d14ad1f101b9059919c.jpg?width=1440&version=0B6C79BFA2CA7808BD2D46E796D831DC",
+      "url": "https://www.odeonkino.no/film/affeksjonsverdi/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a0ceb981-42f8-467f-b0e1-fbdbc7e0a074",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-08T14:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2f68a66f-269a-4ed4-b286-74147680e7e3",
+      "title": "Da Mumbo Jumbo ble kjempestor",
+      "description": "Mumbo Jumbo bor trygt og godt hjemme hos moren sin i den lille dalen. Men en dag blir alt snudd opp ned når Mumbo kommer i skade for å spise en magisk sopp og blir kjempestor.",
+      "start_at": "2026-04-08T14:25:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/28794756920c4993b7968b7ecbe86b39.jpg?width=1440&version=2520CB2E5FEE357BB577CF74A5E4EAAD",
+      "url": "https://www.odeonkino.no/film/da-mumbo-jumbo-ble-kjempestor/",
+      "tags": [
+        "familiefilm",
+        "eventyr",
+        "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-93dd3dc1-6fae-43a1-9fc7-569a56f6fa63",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-08T14:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1f58e145-cc3f-4bcc-b49f-48d59a5cc038",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-04-08T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "luxe",
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-30d933df-5c1f-4076-86dd-3c871834b57f",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-08T16:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3ec1bdb0-07ff-4bef-b31f-80c038f3cb11",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-04-08T17:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ba02c618-491b-4185-a0e6-f56b904ff1b0",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-08T17:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9ed04ae3-5b99-43ec-a8e4-7c9c9fa136d8",
+      "title": "How to Make a Killing",
+      "description": "Intrikat og superunderholdende thriller, med Glen Powell og Margaret Qualley",
+      "start_at": "2026-04-08T17:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/d4bdb3833d334d95bdc58f8320463473.jpg?width=1440&version=ECAAA24E14911488F744A93ED57FEE26",
+      "url": "https://www.odeonkino.no/film/how-to-make-a-killing/",
+      "tags": [
+        "luxe",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c01c4e20-429a-4609-aa27-2c252861cf38",
+      "title": "Agnes mot verden",
+      "start_at": "2026-04-08T19:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/8d627bc0a69541ebbca10e68972b8cb0.jpg?width=1440&version=37C770F1F28F98A2125380653A30CC00",
+      "url": "https://www.odeonkino.no/film/agnes-mot-verden/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f89c642c-f372-47c3-b816-046518e18e58",
+      "title": "Minner om ham",
+      "description": "Etter en perfekt utflukt med kjæresten sin gjør Kenna en uutholdelig feil som sender henne i fengsel. Sju år senere vender Kenna tilbake til hjembyen, i håp om å bygge opp livet sitt på nytt og få en sjanse til å gjenforenes med datteren sin – som hun aldri fikk lære å kjenne. ",
+      "start_at": "2026-04-08T19:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/2bf2134ab7364995b47dcebc0b6509d2.jpg?width=1440&version=3CADBBC2E0C8B819C7BBC95C42FFE91B",
+      "url": "https://www.odeonkino.no/film/minner-om-ham/",
+      "tags": [
+        "romantikk"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f309e9c5-f89c-4f02-af6d-451fd10a7cd6",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-08T20:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-037789b1-3719-499c-b589-01109e9997e3",
+      "title": "Wuthering Heights",
+      "start_at": "2026-04-08T20:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/bf5867482c8d43e28a06475ba84b1949.jpg?width=1440&version=A4CF25EFBA729204851356AC8C301270",
+      "url": "https://www.odeonkino.no/film/wuthering-heights/",
+      "tags": [
+        "luxe",
+        "romantikk",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-307a433e-7148-42bc-9015-a90534d40d09",
+      "title": "Scream 7",
+      "start_at": "2026-04-08T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/68794cdabcd74108b9a0d3fc12386789.jpg?width=1440&version=8362DAFB618153C5712C7C02B5EE71BB",
+      "url": "https://www.odeonkino.no/film/scream-7/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1522603f-e691-4189-a3de-0627484b09a4",
+      "title": "Ready or Not 2: Here I come",
+      "start_at": "2026-04-08T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/0c3e6004204c401ebbdc7fabb69a5f3e.jpg?width=1440&version=3DCC41343A627C9A84BEE6A0C14BDDEB",
+      "url": "https://www.odeonkino.no/film/ready-or-not-2-here-i-come/",
+      "tags": [
+        "luxe",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-26f0f558-dc67-4964-8cf6-a65ac135cebb",
+      "title": "They Will Kill You",
+      "start_at": "2026-04-08T21:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/15961d940a1c4dc48155b782e28a89bc.jpg?width=1440&version=2F53608815F6C1E76826C0767C8109A4",
+      "url": "https://www.odeonkino.no/film/they-will-kill-you/",
+      "tags": [
+        "skrekkfilm",
+        "thriller",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-74f1e090-ce49-4422-a25a-119d99a68d5a",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-09T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9c6fea32-6f74-4901-a551-fd14378043e2",
+      "title": "Jesu siste måltid",
+      "start_at": "2026-04-09T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/da88de8e945148ee9efdefb8b18b905d.jpg?width=1440&version=5E330A4879D64BED5D87B9BFB14D6544",
+      "url": "https://www.odeonkino.no/film/jesu-siste-maltid/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-bc2f5acf-4394-44bc-9499-47c144313d83",
+      "title": "Begynnelser",
+      "description": "Ane og Thomas er i ferd med å gå fra hverandre, men har ennå ikke fortalt det til barna. Når Ane rammes av et slag, settes alt på vent.",
+      "start_at": "2026-04-09T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/60a06aad26bd49239730a136ae23f652.jpg?width=1440&version=6941AE02E160446B227E925415A7556E",
+      "url": "https://www.odeonkino.no/film/begynnelser/",
+      "tags": [
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-be6f76e9-86f6-41c7-89d4-4862a123e10a",
+      "title": "Paradis",
+      "description": "\"Pitch-perfect performances, a razor-sharp script\" Vinner beste Nordiske film, Gøteborg Filmfestival\n\n",
+      "start_at": "2026-04-09T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/235c9bc33a7d490aa55a1365c33b7ec4.jpg?width=1440&version=7605C404E1D83A7E2091AF95353200DF",
+      "url": "https://www.odeonkino.no/film/paradis/",
+      "tags": [
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f7f103ae-c074-4a68-9c4a-99357d0dfe7a",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-09T14:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ee91bbc8-f56a-4345-a1d7-d439c2a431ee",
+      "title": "Da Mumbo Jumbo ble kjempestor",
+      "description": "Mumbo Jumbo bor trygt og godt hjemme hos moren sin i den lille dalen. Men en dag blir alt snudd opp ned når Mumbo kommer i skade for å spise en magisk sopp og blir kjempestor.",
+      "start_at": "2026-04-09T14:25:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/28794756920c4993b7968b7ecbe86b39.jpg?width=1440&version=2520CB2E5FEE357BB577CF74A5E4EAAD",
+      "url": "https://www.odeonkino.no/film/da-mumbo-jumbo-ble-kjempestor/",
+      "tags": [
+        "familiefilm",
+        "eventyr",
+        "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-937d9e8e-5776-43e0-a68b-b98f14c1b02a",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-09T14:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1c07d822-1edc-4525-8f4a-53d98216259e",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-04-09T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "luxe",
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f0985d11-dbd5-4525-9d9a-8f284568907d",
+      "title": "Operasjon bever",
+      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
+      "start_at": "2026-04-09T16:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
+      "url": "https://www.odeonkino.no/film/operasjon-bever/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f5491073-a230-40a4-bb3e-425187e1f272",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-04-09T17:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3f3c6121-d3dd-4231-9d59-5bf7e53601c6",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-09T17:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2b5d3215-d5e1-45eb-b638-d10eaf545e34",
+      "title": "How to Make a Killing",
+      "description": "Intrikat og superunderholdende thriller, med Glen Powell og Margaret Qualley",
+      "start_at": "2026-04-09T17:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/d4bdb3833d334d95bdc58f8320463473.jpg?width=1440&version=ECAAA24E14911488F744A93ED57FEE26",
+      "url": "https://www.odeonkino.no/film/how-to-make-a-killing/",
+      "tags": [
+        "luxe",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3400d108-d9f5-4c6b-8fa6-4410a369ebb0",
+      "title": "Agnes mot verden",
+      "start_at": "2026-04-09T19:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/8d627bc0a69541ebbca10e68972b8cb0.jpg?width=1440&version=37C770F1F28F98A2125380653A30CC00",
+      "url": "https://www.odeonkino.no/film/agnes-mot-verden/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-cb0abf9e-572f-47bc-835e-ee7e15f5ce16",
+      "title": "Minner om ham",
+      "description": "Etter en perfekt utflukt med kjæresten sin gjør Kenna en uutholdelig feil som sender henne i fengsel. Sju år senere vender Kenna tilbake til hjembyen, i håp om å bygge opp livet sitt på nytt og få en sjanse til å gjenforenes med datteren sin – som hun aldri fikk lære å kjenne. ",
+      "start_at": "2026-04-09T19:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/2bf2134ab7364995b47dcebc0b6509d2.jpg?width=1440&version=3CADBBC2E0C8B819C7BBC95C42FFE91B",
+      "url": "https://www.odeonkino.no/film/minner-om-ham/",
+      "tags": [
+        "romantikk"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-65447e17-340c-483c-8093-1eafbd3cb105",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-04-09T20:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-578ab5a8-03e7-4d61-9c1c-c982f763c042",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-04-09T20:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "luxe",
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3b0f7850-8b78-4b32-9d39-a561c315ce5d",
+      "title": "Scream 7",
+      "start_at": "2026-04-09T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/68794cdabcd74108b9a0d3fc12386789.jpg?width=1440&version=8362DAFB618153C5712C7C02B5EE71BB",
+      "url": "https://www.odeonkino.no/film/scream-7/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ec6d677a-5d44-471d-aabb-b7731ab10e43",
+      "title": "Ready or Not 2: Here I come",
+      "start_at": "2026-04-09T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/0c3e6004204c401ebbdc7fabb69a5f3e.jpg?width=1440&version=3DCC41343A627C9A84BEE6A0C14BDDEB",
+      "url": "https://www.odeonkino.no/film/ready-or-not-2-here-i-come/",
+      "tags": [
+        "luxe",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-22773c90-1882-42e3-88c7-1c901918da4a",
+      "title": "They Will Kill You",
+      "start_at": "2026-04-09T21:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://catalog.cinema-api.com/cf/images/ncg-images/15961d940a1c4dc48155b782e28a89bc.jpg?width=1440&version=2F53608815F6C1E76826C0767C8109A4",
+      "url": "https://www.odeonkino.no/film/they-will-kill-you/",
+      "tags": [
+        "skrekkfilm",
+        "thriller",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     }
   ]
 }
