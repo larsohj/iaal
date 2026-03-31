@@ -13,11 +13,15 @@ class OdeonScraper(BaseScraper):
 
     def __init__(self):
         super().__init__()
-        # cinema-api.com blokkerer ikke-nettleser user-agents
-        self.session.headers["User-Agent"] = (
-            "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-            "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
-        )
+        # cinema-api.com krever Origin + nettleser UA
+        self.session.headers.update({
+            "User-Agent": (
+                "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+            ),
+            "Origin": "https://www.odeonkino.no",
+            "Referer": "https://www.odeonkino.no/",
+        })
 
     def scrape(self) -> list[EventData]:
         # Hent filmdata (titler, poster, beskrivelse)
