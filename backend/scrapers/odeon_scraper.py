@@ -1,9 +1,15 @@
+import os
+
 from backend.models import EventData
 from backend.scrapers.base import BaseScraper
 
-# cinema-api.com brukes av Odeon. Ålesund = CityAlias "AL"
-SHOWS_URL = "https://services.cinema-api.com/show/stripped/no/1/1024/"
-MOVIES_URL = "https://services.cinema-api.com/movie/scheduled/no/1/1024/false"
+# cinema-api.com blokkerer GitHub Actions IPs.
+# ODEON_PROXY_URL peker til en Cloudflare Worker som proxyer requestene.
+# Uten env var brukes cinema-api.com direkte (lokal utvikling).
+_PROXY_BASE = os.environ.get("ODEON_PROXY_URL", "https://services.cinema-api.com")
+
+SHOWS_URL = f"{_PROXY_BASE}/show/stripped/no/1/1024/"
+MOVIES_URL = f"{_PROXY_BASE}/movie/scheduled/no/1/1024/false"
 
 CITY_ALIAS = "AL"  # Ålesund
 
