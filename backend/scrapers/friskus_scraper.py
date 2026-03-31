@@ -38,6 +38,8 @@ class FriskusScraper(BaseScraper):
 
                     tags = EVENT_SOURCE_TAGS.get(item.get("event_source", ""), [])
 
+                    org_name = item.get("organization", {}).get("name")
+
                     events.append(EventData(
                         source="friskus",
                         source_id=f"friskus-{event_id}",
@@ -46,7 +48,8 @@ class FriskusScraper(BaseScraper):
                         end_at=item.get("end_at"),
                         is_free=item.get("is_free"),
                         is_recurring=item.get("is_recurring", False),
-                        organizer=item.get("organization", {}).get("name"),
+                        organizer=org_name,
+                        location_name=org_name,
                         image_url=item.get("thumbnail_url"),
                         url=f"https://alesund.friskus.com/activities/{item.get('slug', '')}",
                         age_groups=item.get("age_group", []),

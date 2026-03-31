@@ -2,7 +2,10 @@ import json
 from pathlib import Path
 from unittest.mock import patch, MagicMock
 
-from backend.generate import run_scrapers, merge_with_existing, write_events_json
+from backend.generate import (
+    run_scrapers, merge_with_existing, write_events_json,
+    normalize_datetime, filter_past_events, normalize_events,
+)
 from backend.models import EventData
 
 
@@ -25,13 +28,12 @@ class TestRunScrapers:
              patch("backend.generate.BypatriotenScraper", return_value=mock_scraper):
             events, failed = run_scrapers()
 
-        assert len(events) == 6  # 1 event fra hver av 6 scrapers
+        assert len(events) == 6
         assert failed == []
         assert all(isinstance(e, dict) for e in events)
         assert events[0]["source"] == "test"
 
     def test_records_failed_scrapers(self):
-        """Sjekk at feilende scrapers logges uten å krasje."""
         ok_scraper = MagicMock()
         ok_scraper.source_name = "ok"
         ok_scraper.scrape.return_value = [
@@ -54,10 +56,82 @@ class TestRunScrapers:
         assert "fail" in failed
 
 
+class TestNormalizeDatetime:
+    def test_naive_datetime_unchanged(self):
+        assert normalize_datetime("2026-04-01T19:00:00") == "2026-04-01T19:00:00"
+
+    def test_plus_0200_stripped(self):
+        assert normalize_datetime("2026-04-01T19:00:00+0200") == "2026-04-01T19:00:00"
+
+    def test_plus_02_colon_00_stripped(self):
+        assert normalize_datetime("2026-04-01T19:00:00+02:00") == "2026-04-01T19:00:00"
+
+    def test_utc_converted_to_oslo_summer(self):
+        # April = CEST (UTC+2)
+        assert normalize_datetime("2026-04-01T17:00:00+0000") == "2026-04-01T19:00:00"
+
+    def test_utc_z_converted_to_oslo_summer(self):
+        assert normalize_datetime("2026-04-01T17:00:00.000Z") == "2026-04-01T19:00:00"
+
+    def test_utc_converted_to_oslo_winter(self):
+        # Januar = CET (UTC+1)
+        assert normalize_datetime("2026-01-15T17:00:00+0000") == "2026-01-15T18:00:00"
+
+    def test_plus_0100_winter(self):
+        # CET allerede
+        assert normalize_datetime("2026-01-15T18:00:00+0100") == "2026-01-15T18:00:00"
+
+    def test_none_returns_none(self):
+        assert normalize_datetime(None) is None
+
+    def test_milliseconds_removed(self):
+        assert normalize_datetime("2026-04-01T10:00:00.000Z") == "2026-04-01T12:00:00"
+
+
+class TestFilterPastEvents:
+    def test_removes_past_events(self):
+        events = [
+            {"source": "a", "start_at": "2020-01-01T10:00:00", "title": "gammel"},
+            {"source": "b", "start_at": "2099-01-01T10:00:00", "title": "fremtidig"},
+        ]
+        result = filter_past_events(events)
+        assert len(result) == 1
+        assert result[0]["title"] == "fremtidig"
+
+    def test_keeps_events_without_start(self):
+        events = [
+            {"source": "a", "title": "uten dato"},
+            {"source": "b", "start_at": "2099-06-01T10:00:00", "title": "ok"},
+        ]
+        result = filter_past_events(events)
+        assert len(result) == 2
+
+    def test_empty_list(self):
+        assert filter_past_events([]) == []
+
+
+class TestNormalizeEvents:
+    def test_normalizes_start_and_end(self):
+        events = [
+            {
+                "source": "tikkio",
+                "start_at": "2026-06-06T19:30:00+02:00",
+                "end_at": "2026-06-06T23:00:00+02:00",
+            },
+        ]
+        result = normalize_events(events)
+        assert result[0]["start_at"] == "2026-06-06T19:30:00"
+        assert result[0]["end_at"] == "2026-06-06T23:00:00"
+
+    def test_handles_missing_fields(self):
+        events = [{"source": "test"}]
+        result = normalize_events(events)
+        assert result[0].get("start_at") is None
+        assert result[0].get("end_at") is None
+
+
 class TestMergeWithExisting:
     def test_preserves_events_from_failed_sources(self, tmp_path):
-        """Hvis en scraper feiler, bevar events fra forrige kjøring."""
-        # Simuler eksisterende events.json
         existing = {
             "events": [
                 {"source": "friskus", "source_id": "friskus-1", "title": "Gammel"},
@@ -75,8 +149,8 @@ class TestMergeWithExisting:
             merged = merge_with_existing(new_events, failed)
 
         sources = [e["source"] for e in merged]
-        assert "friskus" in sources  # Bevart fra forrige
-        assert "viti" in sources     # Ny
+        assert "friskus" in sources
+        assert "viti" in sources
         assert len(merged) == 2
 
     def test_no_merge_when_no_failures(self, tmp_path):
@@ -87,7 +161,6 @@ class TestMergeWithExisting:
     def test_no_merge_when_no_existing_file(self, tmp_path):
         docs_dir = tmp_path / "docs"
         docs_dir.mkdir()
-        # Ingen events.json
 
         new_events = [{"source": "viti", "source_id": "viti-1", "title": "Test"}]
         with patch("backend.generate.OUTPUT_DIR", docs_dir):
