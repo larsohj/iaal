@@ -22,6 +22,7 @@ from backend.scrapers.parken_scraper import ParkenScraper
 from backend.scrapers.bibliotek_scraper import BibliotekScraper
 from backend.scrapers.bypatrioten_scraper import BypatriotenScraper
 from backend.scrapers.odeon_scraper import OdeonScraper
+from backend.scrapers.ticketmaster_scraper import TicketmasterScraper
 
 logging.basicConfig(
     level=logging.INFO,
@@ -43,6 +44,7 @@ def run_scrapers() -> tuple[list[dict], list[str]]:
         BibliotekScraper(),
         BypatriotenScraper(),
         OdeonScraper(),
+        TicketmasterScraper(),
     ]
 
     all_events = []
@@ -191,7 +193,7 @@ def main():
     events = filter_past_events(events)
     path = write_events_json(events, failed)
 
-    total_sources = 7
+    total_sources = 8
     ok_sources = total_sources - len(failed)
     logger.info(f"Ferdig. {len(events)} hendelser fra {ok_sources}/{total_sources} kilder")
 
