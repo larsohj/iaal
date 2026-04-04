@@ -1,70 +1,8 @@
 {
-  "generated_at": "2026-04-04T06:29:28.338085+00:00",
-  "total": 882,
+  "generated_at": "2026-04-04T12:18:17.035689+00:00",
+  "total": 867,
   "failed_sources": [],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-04-04T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/friomrade-for-hund",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-1e440d14-48a1-46df-8b34-531996c374c0",
-      "title": "Norsk kurs for eldre ukrainere",
-      "start_at": "2026-04-04T10:00:00",
-      "end_at": "2026-05-30T12:00:00",
-      "is_free": true,
-      "location_name": "Foreningen for Ukrainsk kreativitet og identitet",
-      "city": "Ålesund",
-      "organizer": "Foreningen for Ukrainsk kreativitet og identitet",
-      "image_url": "https://ucarecdn.com/a8b29cd9-f743-4f11-a33c-be45bf57390a/-/crop/1536x419/0,815/-/preview/",
-      "url": "https://alesund.friskus.com/activities/norsk-kurs-for-eldre-ukrainere",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-04-04T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/activities/apen-gard",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-eb565430-b4ac-476a-8742-922a8bf7342f",
@@ -1260,6 +1198,24 @@
       "tags": [],
       "age_groups": [
         "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-1e440d14-48a1-46df-8b34-531996c374c0",
+      "title": "Norsk kurs for eldre ukrainere",
+      "start_at": "2026-04-11T10:00:00",
+      "end_at": "2026-05-30T12:00:00",
+      "is_free": true,
+      "location_name": "Foreningen for Ukrainsk kreativitet og identitet",
+      "city": "Ålesund",
+      "organizer": "Foreningen for Ukrainsk kreativitet og identitet",
+      "image_url": "https://ucarecdn.com/a8b29cd9-f743-4f11-a33c-be45bf57390a/-/crop/1536x419/0,815/-/preview/",
+      "url": "https://alesund.friskus.com/activities/norsk-kurs-for-eldre-ukrainere",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -4152,28 +4108,6 @@
         "pensioner"
       ],
       "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-bf8907e4-df55-4cce-a645-46f42167762d",
-      "title": "GJENBRUKSBUTIKK MAUSEIDVÅG (LØ)",
-      "start_at": "2026-04-04T11:00:00",
-      "end_at": "2026-06-20T15:00:00",
-      "is_free": false,
-      "location_name": "Mauseidvåg Bedehusforening",
-      "city": "Ålesund",
-      "organizer": "Mauseidvåg Bedehusforening",
-      "image_url": "https://ucarecdn.com/08f0be57-a8bb-40c8-bf3b-97e399325f11/-/crop/5312x1447/0,770/-/preview/",
-      "url": "https://alesund.friskus.com/activities/gjenbruksbutikk-mauseidvag-lo",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -8155,45 +8089,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-32887-2026-04-04",
-      "title": "Påskeaktiviteter hos Jula Ålesund",
-      "start_at": "2026-04-04T09:00:00",
-      "end_at": "2026-04-04T16:00:00",
-      "location_name": "Jula Ålesund",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/paskeaktiviteter-hos-jula-alesund/?occurrence=2026-04-04&time=1775293200",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-25486-2026-04-04",
-      "title": "Aalesunds Museum",
-      "start_at": "2026-04-04T11:00:00",
-      "end_at": "2026-04-04T15:30:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum/?occurrence=2026-04-04",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-04-04",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-04-04T12:00:00",
-      "end_at": "2026-04-04T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-04-04",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-29547-2026-04-04",
       "title": "Tedans – vår vri på Afternoon Tea",
       "start_at": "2026-04-04T14:00:00",
@@ -11779,178 +11674,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-3935f620-e59a-4bab-866d-ba9b569923e9",
-      "title": "Operasjon bever",
-      "description": "Mabel blir robotbever for å snakke med dyr – og avdekker et overraskende mysterium i naturens verden.",
-      "start_at": "2026-04-04T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9cfb146277674c019532c4052b74806e.jpg?width=1440&version=55917CDA51ABB56527CAA03421DAD072",
-      "url": "https://www.odeonkino.no/film/operasjon-bever/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f735d470-93dc-4e49-b470-da40f69ddbd5",
-      "title": "Da Mumbo Jumbo ble kjempestor",
-      "description": "Mumbo Jumbo bor trygt og godt hjemme hos moren sin i den lille dalen. Men en dag blir alt snudd opp ned når Mumbo kommer i skade for å spise en magisk sopp og blir kjempestor.",
-      "start_at": "2026-04-04T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/28794756920c4993b7968b7ecbe86b39.jpg?width=1440&version=2520CB2E5FEE357BB577CF74A5E4EAAD",
-      "url": "https://www.odeonkino.no/film/da-mumbo-jumbo-ble-kjempestor/",
-      "tags": [
-        "luxe",
-        "familiefilm",
-        "eventyr",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-0472fce9-842c-471a-9050-7e7f8b32e7f0",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-04-04T11:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-2b772a42-fa55-4530-8d83-96fc89b09cc5",
-      "title": "Flåklypa - Fra Paris til pyramidene",
-      "description": " Il Tempo Gigante skal ut på veien og det blir full gass, høy puls og sjarmerende moro i det trioen forlater den trygge bygda og skal ut i den store verden.",
-      "start_at": "2026-04-04T11:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/240a12815f774068a9d873acacccb4cb.jpg?width=1440&version=1CD261FD58DC034C00D3E10D718E896A",
-      "url": "https://www.odeonkino.no/film/flaklypa-fra-paris-til-pyramidene/",
-      "tags": [
-        "luxe",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-09840b07-ad2e-4361-b410-d8ac6d775ab6",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-04-04T11:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-36401fc4-4def-4b43-99ad-d9ea1cb16180",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-04-04T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-0ec7bc92-3637-4144-8b12-37f28882a219",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-04-04T12:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-72fa0f51-5092-4c39-8ebd-c51c6316aab5",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-04-04T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4b14d915-b95a-4b4e-a0f8-4f223eafa042",
-      "title": "Håndbok for superhelter",
-      "description": "Supersuksessen \"Håndbok for superhelter\" blir film. Filmen er basert på de fire første bøkene i serien; Håndboken, Røde maske, Alene og Ulvene kommer.",
-      "start_at": "2026-04-04T13:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0ea852e8470c4ffdb1f8786b33f2faa6.jpg?width=1440&version=62B290F107BFB305FAE3056B3FE9A967",
-      "url": "https://www.odeonkino.no/film/handbok-for-superhelter/",
-      "tags": [
-        "luxe",
-        "action",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
