@@ -36,7 +36,7 @@ class TestFriskusScraper:
         assert first.title == "Påskeeggjakt - i Moa bibliotek"
         assert first.organizer == "Moa Bibliotek"
         assert first.start_at is not None
-        assert "friskus.com/activities/" in first.url
+        assert "friskus.com/events/" in first.url
 
     def test_maps_age_groups(self):
         with open(FIXTURES / "friskus_page1.json") as f:
