@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T12:18:56.052254+00:00",
-  "total": 830,
+  "generated_at": "2026-04-05T14:41:15.340616+00:00",
+  "total": 827,
   "failed_sources": [],
   "events": [
     {
@@ -14,7 +14,7 @@
       "city": "Ålesund",
       "organizer": "Klipra seniorsenter",
       "image_url": "https://ucarecdn.com/bd998b12-a843-4688-ad56-39cb535f07d8/-/crop/1796x940/69,476/-/preview/",
-      "url": "https://alesund.friskus.com/activities/malergruppe",
+      "url": "https://alesund.friskus.com/events/eb565430-b4ac-476a-8742-922a8bf7342f",
       "tags": [],
       "age_groups": [
         "pensioner"
@@ -32,7 +32,7 @@
       "city": "Ålesund",
       "organizer": "Kreftforeningen",
       "image_url": "https://ucarecdn.com/a788b2e4-169e-4d6c-a754-3bdb22a9c2d7/-/crop/1181x322/0,106/-/preview/",
-      "url": "https://alesund.friskus.com/activities/fa-hjelp-av-kreftforeningens-hverdagshjelp-i-alesund",
+      "url": "https://alesund.friskus.com/events/fd3cf089-fd4b-4773-85d6-707e40071b55",
       "tags": [],
       "age_groups": [
         "family",
@@ -52,7 +52,7 @@
       "city": "Ålesund",
       "organizer": "Klipra seniorsenter",
       "image_url": "https://ucarecdn.com/8b801fde-4545-4402-b108-bc996feea63c/-/crop/650x177/0,79/-/preview/",
-      "url": "https://alesund.friskus.com/activities/bingo",
+      "url": "https://alesund.friskus.com/events/5ee60961-e8fd-4263-88e8-940882b9565c",
       "tags": [],
       "age_groups": [
         "pensioner"
@@ -70,7 +70,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund frivilligsentral",
       "image_url": "https://ucarecdn.com/f048d761-23cd-4ddf-b774-53d7113c0588/-/crop/500x136/0,151/-/preview/",
-      "url": "https://alesund.friskus.com/activities/dans-med-aspoy-seniordansering",
+      "url": "https://alesund.friskus.com/events/a8b0578b-c4b7-4985-bd81-e82a280fc2e7",
       "tags": [],
       "age_groups": [
         "pensioner"
@@ -88,7 +88,7 @@
       "city": "Ålesund",
       "organizer": "Fellesverket Dragen",
       "image_url": "https://ucarecdn.com/5bdfad7e-4862-4303-b648-c12c7be60e43/-/crop/1000x272/0,106/-/preview/",
-      "url": "https://alesund.friskus.com/activities/fellesverket-moteplassen-for-ungdom-i-alesund",
+      "url": "https://alesund.friskus.com/events/6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
       "tags": [],
       "age_groups": [
         "children",
@@ -108,7 +108,7 @@
       "city": "Ålesund",
       "organizer": "Fellesverket Dragen",
       "image_url": "https://ucarecdn.com/86e08a04-1898-4c9e-adc7-b4789057f13b/-/crop/1536x419/0,246/-/preview/",
-      "url": "https://alesund.friskus.com/activities/fellesverket-soker-frivillige-vil-du-vaere-der-for-ungdommene",
+      "url": "https://alesund.friskus.com/events/43fbfab6-6c15-4ee0-877b-f0fb5511f5d3",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -129,7 +129,7 @@
       "city": "Ålesund",
       "organizer": "Frivilliggruppa på Harøya",
       "image_url": "https://ucarecdn.com/80eca3b0-782e-43f6-8e4f-612b51bcfed4/-/crop/1587x2102/0,76/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/sprakkafe-pa-haroy",
+      "url": "https://alesund.friskus.com/events/6beda765-1c82-45af-a1f5-537ebd54778b",
       "tags": [],
       "age_groups": [
         "children",
@@ -151,7 +151,7 @@
       "city": "Ålesund",
       "organizer": "Kaula",
       "image_url": "https://ucarecdn.com/819b9746-dcab-4cb2-9692-71469a25e0ca/-/crop/1538x804/215,142/-/preview/",
-      "url": "https://alesund.friskus.com/activities/apen-workshop-i-improteater",
+      "url": "https://alesund.friskus.com/events/ad6abcd9-046c-47a7-82cc-256b7e240ef4",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -171,7 +171,7 @@
       "city": "Ålesund",
       "organizer": "Åpen barnehage",
       "image_url": "https://ucarecdn.com/4bd05e03-f99d-496e-ab68-afa955c0036f/-/crop/1200x327/0,349/-/preview/",
-      "url": "https://alesund.friskus.com/activities/en-dag-i-apen-barnehage",
+      "url": "https://alesund.friskus.com/events/9df6482a-c133-4c20-9b2b-854f8fd43ee0",
       "tags": [],
       "age_groups": [
         "children"
@@ -189,7 +189,7 @@
       "city": "Ålesund",
       "organizer": "Kirkens SOS",
       "image_url": "https://ucarecdn.com/c3a5c986-698d-4ef9-b6b0-fce6e31ed5d7/-/crop/2460x671/0,205/-/preview/",
-      "url": "https://alesund.friskus.com/activities/innforingskurs-for-nye-frivillige-medarbeidere",
+      "url": "https://alesund.friskus.com/events/243dd4df-516a-4877-bf4a-32085f125533",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -209,7 +209,7 @@
       "city": "Ålesund",
       "organizer": "Klipra seniorsenter",
       "image_url": "https://ucarecdn.com/6ad18d94-bd20-4e82-83f7-5e2246577b14/-/crop/589x160/0,44/-/preview/",
-      "url": "https://alesund.friskus.com/activities/tirsdagstrim",
+      "url": "https://alesund.friskus.com/events/08ee5f1a-ace8-4d35-9b18-d2adfdb1094d",
       "tags": [],
       "age_groups": [
         "pensioner"
@@ -227,7 +227,7 @@
       "city": "Ålesund",
       "organizer": "Moa Bibliotek",
       "image_url": "https://ucarecdn.com/bfd760c4-daf3-48d9-ab4e-c034ae79fc2c/-/crop/1920x523/0,157/-/preview/",
-      "url": "https://alesund.friskus.com/activities/bokkino-i-moa-bibliotek",
+      "url": "https://alesund.friskus.com/events/4564a894-b162-498e-b547-b73037f3d6da",
       "tags": [],
       "age_groups": [
         "children"
@@ -245,7 +245,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund frivilligsentral",
       "image_url": "https://ucarecdn.com/684e5dbf-3c57-44fd-a42b-0ccf1df6bab0/-/crop/2016x550/0,469/-/preview/",
-      "url": "https://alesund.friskus.com/activities/naturmoteplassen-pa-aksla",
+      "url": "https://alesund.friskus.com/events/49c50319-a5a8-41a4-a76e-d01c69665d23",
       "tags": [],
       "age_groups": [
         "children",
@@ -267,7 +267,7 @@
       "city": "Ålesund",
       "organizer": "Harøy bibliotek",
       "image_url": "https://ucarecdn.com/eefbead1-5f59-49b4-8854-06348d450fc8/-/crop/1517x414/0,37/-/preview/",
-      "url": "https://alesund.friskus.com/activities/strikkekafe-kvar-tysdag-12-15",
+      "url": "https://alesund.friskus.com/events/68fe8a55-4401-42b9-a96c-eef10d7dc601",
       "tags": [],
       "age_groups": [
         "senior"
@@ -285,7 +285,7 @@
       "city": "Ålesund",
       "organizer": "LHL Ålesund Sula og Giske",
       "image_url": "https://ucarecdn.com/079a8715-a113-4ddf-9396-bfdf82098d49/-/crop/1149x601/73,84/-/preview/",
-      "url": "https://alesund.friskus.com/activities/lhl-bowling-i-vika",
+      "url": "https://alesund.friskus.com/events/2669cee5-2b1d-42cf-abd7-16c498f1cbcf",
       "tags": [],
       "age_groups": [
         "senior",
@@ -304,7 +304,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund kommune",
       "image_url": "https://ucarecdn.com/9ae5f148-033f-4e00-b9dd-97c5b515bccf/-/crop/2019x1058/332,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/samtalegruppe-for-ungdom-over-15-ar",
+      "url": "https://alesund.friskus.com/events/29d55cf7-9d68-42f2-a384-3d90bd10ae49",
       "tags": [],
       "age_groups": [
         "teenager"
@@ -322,7 +322,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund kommune",
       "image_url": "https://ucarecdn.com/8423a2cf-f988-4cc2-923b-d3d8428cda56/-/crop/1534x802/217,154/-/preview/",
-      "url": "https://alesund.friskus.com/activities/sjef-i-mitt-liv-gruppetilbud-for-ungdom-pa-ungdomsskolen",
+      "url": "https://alesund.friskus.com/events/5136f020-303f-4aa5-878c-bddb4342aeda",
       "tags": [],
       "age_groups": [
         "teenager"
@@ -340,7 +340,7 @@
       "city": "Ålesund",
       "organizer": "LHL Ålesund Sula og Giske",
       "image_url": "https://ucarecdn.com/5de9c680-058b-44d2-9e40-333b87fdbd0b/-/crop/3369x1764/401,355/-/preview/",
-      "url": "https://alesund.friskus.com/activities/lhl-trim-niva-3-molvaer-senter",
+      "url": "https://alesund.friskus.com/events/483c60ae-1b6e-40e9-8729-f9c0c0ca5733",
       "tags": [],
       "age_groups": [
         "senior",
@@ -359,7 +359,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund bibliotek",
       "image_url": "https://ucarecdn.com/8f98ae82-6250-4fbf-a27f-c44d9c047315/-/crop/2048x559/0,296/-/preview/",
-      "url": "https://alesund.friskus.com/activities/samlesing-i-alesund-bibliotek",
+      "url": "https://alesund.friskus.com/events/f6716c35-559e-4d01-afe6-8ec05f577a6f",
       "tags": [],
       "age_groups": [
         "senior"
@@ -377,7 +377,7 @@
       "city": "Ålesund",
       "organizer": "LHL Ålesund Sula og Giske",
       "image_url": "https://ucarecdn.com/fa8ebdae-a999-4e5f-82b7-f91858575625/-/crop/3217x1684/521,452/-/preview/",
-      "url": "https://alesund.friskus.com/activities/lhl-trim-niva-3-volsdalen-skole",
+      "url": "https://alesund.friskus.com/events/96d23830-91a5-4794-a382-5dca3b825f0b",
       "tags": [],
       "age_groups": [
         "senior",
@@ -396,7 +396,7 @@
       "city": "Ålesund",
       "organizer": "Skodje Blandakor",
       "image_url": "https://ucarecdn.com/fe4864dc-8a51-4e1e-869d-ca65d76633e7/-/crop/960x262/0,229/-/preview/",
-      "url": "https://alesund.friskus.com/activities/skodje-blandakor-koroving",
+      "url": "https://alesund.friskus.com/events/ad886f78-4387-4d8d-8e68-9a25b3fad309",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -416,7 +416,7 @@
       "city": "Ålesund",
       "organizer": "Kaula",
       "image_url": "https://ucarecdn.com/2e5cd7e8-738d-402b-a161-d54fd2253b86/-/crop/2048x559/0,474/-/preview/",
-      "url": "https://alesund.friskus.com/activities/burlesk-workshop-faste-ovinger",
+      "url": "https://alesund.friskus.com/events/d1009a85-1354-4ea9-b218-8b6f2adfbdfd",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -436,7 +436,7 @@
       "city": "Ålesund",
       "organizer": "Harøykoret",
       "image_url": "https://ucarecdn.com/4da4ccca-cc82-4d40-9712-d4e9c24cd529/-/crop/1130x308/13,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/haroykoret-koroving",
+      "url": "https://alesund.friskus.com/events/e76457eb-5c52-41a2-983f-52e0f68f6992",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -456,7 +456,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_493782",
-      "url": "https://alesund.friskus.com/activities/tirsdagsklatring-alesund-18-35ar",
+      "url": "https://alesund.friskus.com/events/oaaRCr3qun-jw",
       "tags": [
         "friluftsliv",
         "tur"
@@ -478,7 +478,7 @@
       "city": "Ålesund",
       "organizer": "LHL Ålesund Sula og Giske",
       "image_url": "https://ucarecdn.com/4781f658-3116-45a5-af31-3cedd1dbefcd/-/crop/3216x1684/378,452/-/preview/",
-      "url": "https://alesund.friskus.com/activities/lhl-vanntrim-pa-aspoy",
+      "url": "https://alesund.friskus.com/events/650f99df-273e-4afa-96d4-efe0672a266d",
       "tags": [],
       "age_groups": [
         "senior",
@@ -497,7 +497,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_584177",
-      "url": "https://alesund.friskus.com/activities/seniorklatring-alesund",
+      "url": "https://alesund.friskus.com/events/oaaNprBe8Gl46",
       "tags": [
         "friluftsliv",
         "tur"
@@ -518,7 +518,7 @@
       "city": "Ålesund",
       "organizer": "Spjelkavik seniorsenter",
       "image_url": "https://ucarecdn.com/da598567-055a-470b-9744-c8f14737ae9c/-/crop/589x160/0,45/-/preview/",
-      "url": "https://alesund.friskus.com/activities/onsdagstrim",
+      "url": "https://alesund.friskus.com/events/72074ea6-9992-4346-bf03-f44538a44ab7",
       "tags": [],
       "age_groups": [
         "pensioner"
@@ -536,7 +536,7 @@
       "city": "Ålesund",
       "organizer": "Moa Bibliotek",
       "image_url": "https://ucarecdn.com/b2614684-93b4-499c-b098-c41b2bd76bd1/-/crop/1920x523/0,137/-/preview/",
-      "url": "https://alesund.friskus.com/activities/les-vegas-baby-i-moa-bibliotek",
+      "url": "https://alesund.friskus.com/events/de2c015f-276b-48fb-84e7-d90988712993",
       "tags": [],
       "age_groups": [
         "family"
@@ -554,7 +554,7 @@
       "city": "Ålesund",
       "organizer": "Klipra seniorsenter",
       "image_url": "https://ucarecdn.com/82a85323-7a92-471e-8df2-3b66656bcf5d/-/crop/800x218/0,115/-/preview/",
-      "url": "https://alesund.friskus.com/activities/herreguppa",
+      "url": "https://alesund.friskus.com/events/c9ce9b68-7e3d-44ff-bb1d-1d1afafcde00",
       "tags": [],
       "age_groups": [
         "pensioner"
@@ -572,7 +572,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund bibliotek",
       "image_url": "https://ucarecdn.com/6231e320-0e84-40e4-9f95-d703eecd9fe3/-/crop/1099x300/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/strikkekafe-pa-alesund-bibliotek",
+      "url": "https://alesund.friskus.com/events/f2f3fd0b-994d-46b7-9697-9cef8203be37",
       "tags": [],
       "age_groups": [
         "senior",
@@ -591,7 +591,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/6c85314c-e8f1-426b-82dc-0e2fb6fe303d/-/crop/2312x802/0,601/-/preview/",
-      "url": "https://alesund.friskus.com/activities/seniordans-pa-orskog-frivillighetssenter",
+      "url": "https://alesund.friskus.com/events/c5eb4067-8844-4592-a6df-62866cae4d14",
       "tags": [],
       "age_groups": [
         "senior"
@@ -609,7 +609,7 @@
       "city": "Ålesund",
       "organizer": "E-Teams",
       "image_url": "https://ucarecdn.com/120c43eb-2f84-48f5-948b-19930d5b2071/-/crop/1080x295/0,408/-/preview/",
-      "url": "https://alesund.friskus.com/activities/gamingkveld-volsdalen",
+      "url": "https://alesund.friskus.com/events/6454eff5-8c64-41e5-859a-eed1d7fa1b44",
       "tags": [],
       "age_groups": [
         "children"
@@ -627,7 +627,7 @@
       "city": "Ålesund",
       "organizer": "Frelsesarmeen",
       "image_url": "https://ucarecdn.com/1fbc7697-405b-481f-9b28-baf0f4a8000f/-/crop/1632x445/0,393/-/preview/",
-      "url": "https://alesund.friskus.com/activities/pedalkraft",
+      "url": "https://alesund.friskus.com/events/b3ea5669-23c9-4a64-8269-9888cb552f84",
       "tags": [],
       "age_groups": [
         "senior",
@@ -646,7 +646,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/5dddd4c8-2a9f-495b-92d4-25c9a7eafdce/-/crop/3499x1219/0,100/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/helsetrim-for-damer-og-herrer",
+      "url": "https://alesund.friskus.com/events/2e488c12-1d85-4580-ad23-cbffdc4ba480",
       "tags": [],
       "age_groups": [
         "senior"
@@ -664,7 +664,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/6417752f-b352-4944-8c88-3870c38da3cf/-/crop/3558x1295/0,249/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/hesetrim-for-damer-og-herrer-pa-bygdestova-eidet-kulturhall",
+      "url": "https://alesund.friskus.com/events/7c59d5df-75f5-4fe2-9dc9-81d2d0ad9c90",
       "tags": [],
       "age_groups": [
         "senior"
@@ -682,7 +682,7 @@
       "city": "Ålesund",
       "organizer": "Pinsekirka SARON",
       "image_url": "https://ucarecdn.com/0e615ca0-94fd-486f-bae0-63f4e30f469b/-/crop/2988x818/333,0/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/bonnemote-hver-onsdag-1900",
+      "url": "https://alesund.friskus.com/events/c4ff2a1f-6b78-44a4-9729-a4a3728e6e33",
       "tags": [],
       "age_groups": [
         "family"
@@ -700,7 +700,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_596756",
-      "url": "https://alesund.friskus.com/activities/friluftshangout-20-35ar-sykkeltur-til-aksla-med-is-pause-i-byen",
+      "url": "https://alesund.friskus.com/events/oaaLHqbYqDiBp",
       "tags": [
         "friluftsliv",
         "tur"
@@ -722,7 +722,7 @@
       "city": "Ålesund",
       "organizer": "Kreftforeningen",
       "image_url": "https://ucarecdn.com/00920590-3bfb-40c1-b480-5d52aad6da65/-/crop/1181x322/0,103/-/preview/",
-      "url": "https://alesund.friskus.com/activities/vil-du-hjelpe-personer-berort-av-kreft",
+      "url": "https://alesund.friskus.com/events/28b10f66-dbb2-4b34-9f50-238530aa24d5",
       "tags": [],
       "age_groups": [
         "senior"
@@ -740,7 +740,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund frivilligsentral",
       "image_url": "https://ucarecdn.com/3969bbaa-da9e-4c85-8893-294a021bf36a/-/crop/526x143/0,71/-/preview/",
-      "url": "https://alesund.friskus.com/activities/bridge-pa-frivilligsentralen",
+      "url": "https://alesund.friskus.com/events/9f4f7c7d-0c81-43dd-9e54-6d6a313deb1d",
       "tags": [],
       "age_groups": [
         "senior",
@@ -759,7 +759,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund bibliotek",
       "image_url": "https://ucarecdn.com/23123a0d-c6f6-457e-84c0-b646f13ad6db/-/crop/1920x523/0,137/-/preview/-/scale_crop/1100x300/smart/",
-      "url": "https://alesund.friskus.com/activities/les-vegas-baby",
+      "url": "https://alesund.friskus.com/events/32b52f93-20c5-4124-a16a-b5179d042c26",
       "tags": [],
       "age_groups": [
         "children",
@@ -778,7 +778,7 @@
       "city": "Ålesund",
       "organizer": "Klipra seniorsenter",
       "image_url": "https://ucarecdn.com/25da3466-3886-46b7-82e9-20e3005b2ba3/-/crop/2016x550/0,481/-/preview/",
-      "url": "https://alesund.friskus.com/activities/alesund-seniorkor",
+      "url": "https://alesund.friskus.com/events/98db1e98-dfd0-4753-89e6-abbb19f14900",
       "tags": [],
       "age_groups": [
         "pensioner"
@@ -796,7 +796,7 @@
       "city": "Ålesund",
       "organizer": "Sjøholt bibliotek",
       "image_url": "https://ucarecdn.com/2c0b3dd8-b56b-41fd-9ca6-a3a25e4a84a0/-/crop/1448x758/0,641/-/preview/",
-      "url": "https://alesund.friskus.com/activities/lesestund-for-barn-ved-sjoholt-bibliotek",
+      "url": "https://alesund.friskus.com/events/b6eceb0f-65bc-4a7b-8999-74122153a07b",
       "tags": [],
       "age_groups": [
         "children"
@@ -814,7 +814,7 @@
       "city": "Ålesund",
       "organizer": "Skodje frivilligsentral",
       "image_url": "https://ucarecdn.com/8830820c-b542-4a52-85bc-07d2d1c201c9/-/crop/640x174/0,38/-/preview/",
-      "url": "https://alesund.friskus.com/activities/naturmoteplassen-ved-gomerloa",
+      "url": "https://alesund.friskus.com/events/a28eb8b7-da9c-464c-a838-a7a352e88326",
       "tags": [],
       "age_groups": [
         "children",
@@ -836,7 +836,7 @@
       "city": "Ålesund",
       "organizer": "Sjøholt bibliotek",
       "image_url": "https://ucarecdn.com/896810d1-aacd-409d-bc0e-e651689d5fa1/-/crop/2048x558/0,274/-/preview/",
-      "url": "https://alesund.friskus.com/activities/samlesing-i-sjoholt-bibliotek",
+      "url": "https://alesund.friskus.com/events/bb415e93-bb65-4785-beee-b59ac5d8b26d",
       "tags": [],
       "age_groups": [
         "senior"
@@ -854,7 +854,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund kulturskole",
       "image_url": "https://ucarecdn.com/6c38d01a-f68f-41bc-9205-b5fb54ef0cd4/-/crop/1640x447/0,392/-/preview/",
-      "url": "https://alesund.friskus.com/activities/trekkspillkurs",
+      "url": "https://alesund.friskus.com/events/2eae30bb-b08d-4597-9223-2767d67252a3",
       "tags": [],
       "age_groups": [
         "children"
@@ -872,7 +872,7 @@
       "city": "Ålesund",
       "organizer": "Spjelkavik seniorsenter",
       "image_url": "https://ucarecdn.com/5f6bbfb0-0b99-4805-a5b7-2167ebfac5a8/-/crop/953x259/0,41/-/preview/",
-      "url": "https://alesund.friskus.com/activities/strikkekafe",
+      "url": "https://alesund.friskus.com/events/9590fc29-9989-4391-ae1a-6ac982dad9be",
       "tags": [],
       "age_groups": [
         "pensioner"
@@ -890,7 +890,7 @@
       "city": "Ålesund",
       "organizer": "Ørskog Pensjonistlag",
       "image_url": "https://ucarecdn.com/5c7237c2-61e0-4804-adb2-81a4430bd9ea/-/crop/1125x589/0,678/-/preview/",
-      "url": "https://alesund.friskus.com/activities/seniorkveld-med-ballmiddag-framtidsfullmakt-og-trekkspel",
+      "url": "https://alesund.friskus.com/events/78487e8c-58e0-43e7-8396-2ffc091fdcaf",
       "tags": [],
       "age_groups": [
         "pensioner"
@@ -908,7 +908,7 @@
       "city": "Ålesund",
       "organizer": "E-Teams",
       "image_url": "https://ucarecdn.com/85d8f282-98e3-442f-83cd-c788e7e45e2b/-/crop/1080x295/0,430/-/preview/",
-      "url": "https://alesund.friskus.com/activities/gamingkveld-blindheim",
+      "url": "https://alesund.friskus.com/events/8ba8b0d4-da95-4095-99ca-df71fb8128d7",
       "tags": [],
       "age_groups": [
         "children",
@@ -927,7 +927,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund bibliotek",
       "image_url": "https://ucarecdn.com/82e4104b-0b62-4264-a898-3a80bc48f632/-/crop/1099x300/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/sprakkafe-i-alesund-bibliotek",
+      "url": "https://alesund.friskus.com/events/2bfe9513-60b6-4520-ac26-894b7cbd4680",
       "tags": [],
       "age_groups": [
         "senior"
@@ -945,7 +945,7 @@
       "city": "Ålesund",
       "organizer": "E-Teams",
       "image_url": "https://ucarecdn.com/2613963b-3040-468a-b0a5-04d0ce004a66/-/crop/1080x295/0,379/-/preview/",
-      "url": "https://alesund.friskus.com/activities/jentegaming",
+      "url": "https://alesund.friskus.com/events/8e59d3f4-45d1-4f85-8ead-0f10beb4f0cd",
       "tags": [],
       "age_groups": [
         "children",
@@ -964,7 +964,7 @@
       "city": "Ålesund",
       "organizer": "Ørskog Frivilligsentral",
       "image_url": "https://ucarecdn.com/75fd7c83-ff69-42bb-a8f6-8bc9f2a38277/-/crop/664x398/8,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/juniorkveld-pa-orskog-frivilligsentral",
+      "url": "https://alesund.friskus.com/events/7dc0c049-7f77-454c-981c-03554f342ae2",
       "tags": [],
       "age_groups": [
         "children"
@@ -982,7 +982,7 @@
       "city": "Ålesund",
       "organizer": "Aalesund Røde Kors",
       "image_url": "https://ucarecdn.com/11cf977a-7ef8-4dee-b565-060ecbd3ff0c/-/crop/2002x1048/0,130/-/preview/",
-      "url": "https://alesund.friskus.com/activities/kvinnegruppe",
+      "url": "https://alesund.friskus.com/events/9c05906d-b9c0-4cfd-bc3a-ecb026ef6598",
       "tags": [],
       "age_groups": [
         "senior"
@@ -1000,7 +1000,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_545260",
-      "url": "https://alesund.friskus.com/activities/torsdagsbuldring-alesund-20-35-ar",
+      "url": "https://alesund.friskus.com/events/oaae1NhE-OcN3",
       "tags": [
         "friluftsliv",
         "tur"
@@ -1022,7 +1022,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund kommune",
       "image_url": "https://ucarecdn.com/41e904f6-fd9b-4030-bba5-9a1507806f77/-/crop/2911x1523/1102,403/-/preview/",
-      "url": "https://alesund.friskus.com/activities/drop-in-familiestottende-tjeneste",
+      "url": "https://alesund.friskus.com/events/8062d9a7-4ebb-46fe-a803-55fd69547882",
       "tags": [],
       "age_groups": [
         "family",
@@ -1041,7 +1041,7 @@
       "city": "Ålesund",
       "organizer": "Spjelkavik seniorsenter",
       "image_url": "https://ucarecdn.com/463810e7-d870-4c7f-a565-dd0d242edc8a/-/crop/589x160/0,44/-/preview/",
-      "url": "https://alesund.friskus.com/activities/fredagstrim",
+      "url": "https://alesund.friskus.com/events/006c7c00-d4f5-46fe-9f75-5dae47136a14",
       "tags": [],
       "age_groups": [
         "pensioner"
@@ -1059,7 +1059,7 @@
       "city": "Ålesund",
       "organizer": "Klipra seniorsenter",
       "image_url": "https://ucarecdn.com/cf84399d-9fac-427b-8537-6420f254d9de/-/crop/589x160/0,46/-/preview/",
-      "url": "https://alesund.friskus.com/activities/fredagstrim",
+      "url": "https://alesund.friskus.com/events/3a42e0f9-bc48-466b-999c-8b2fc64fcaad",
       "tags": [],
       "age_groups": [
         "pensioner"
@@ -1077,7 +1077,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund frivilligsentral",
       "image_url": "https://ucarecdn.com/87d9e059-ff3c-453f-82a7-3b7255ba2a6f/-/crop/662x180/0,181/-/preview/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/hlf-likepersonstjeneste",
+      "url": "https://alesund.friskus.com/events/32d3924a-7d96-4b41-b783-e5a18ce764fa",
       "tags": [],
       "age_groups": [
         "pensioner"
@@ -1095,7 +1095,7 @@
       "city": "Ålesund",
       "organizer": "Sula bibliotek",
       "image_url": "https://ucarecdn.com/d5489b29-cb68-4446-806a-6b167e369bfd/-/crop/960x262/0,82/-/preview/",
-      "url": "https://alesund.friskus.com/activities/senioruniversitetet-diagnose-kvinne-med-liv-bjornhaug-johansen",
+      "url": "https://alesund.friskus.com/events/c3916852-e6b2-4a86-bacd-2f8e91dfb177",
       "tags": [],
       "age_groups": [
         "senior",
@@ -1114,7 +1114,7 @@
       "city": "Ålesund",
       "organizer": "Skodje bibliotek",
       "image_url": "https://ucarecdn.com/31da2df3-7f5c-46c8-9fc7-4fe29b1986da/-/crop/1587x432/0,381/-/preview/",
-      "url": "https://alesund.friskus.com/activities/biblioklubb",
+      "url": "https://alesund.friskus.com/events/8f25f86f-f187-4c17-a7e1-cbbfdb9cc7f8",
       "tags": [],
       "age_groups": [
         "children",
@@ -1133,7 +1133,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund bibliotek",
       "image_url": "https://ucarecdn.com/3cc2728a-5692-4606-b899-a10a1cb2e659/-/crop/2553x697/0,155/-/preview/",
-      "url": "https://alesund.friskus.com/activities/manga-og-anime-workshop-i-teikning",
+      "url": "https://alesund.friskus.com/events/b8275cf1-7469-4d73-9359-9bc1eee83e5e",
       "tags": [],
       "age_groups": [
         "children",
@@ -1153,7 +1153,7 @@
       "city": "Ålesund",
       "organizer": "Foreningen for Ukrainsk kreativitet og identitet",
       "image_url": "https://ucarecdn.com/cba57188-801a-4f30-b9a6-0ad60a1e5d3c/-/crop/1110x845/42,796/-/preview/",
-      "url": "https://alesund.friskus.com/activities/kurs-i-maling-akademisk-niva",
+      "url": "https://alesund.friskus.com/events/ea954ef6-e053-4c28-8aa5-4158c468e2b5",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -1173,7 +1173,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_599614",
-      "url": "https://alesund.friskus.com/activities/klatrekurs-nf-grunnkurs-naturlig-sikret-klatring-alesund",
+      "url": "https://alesund.friskus.com/events/oaaJQEdLxHV5U",
       "tags": [
         "friluftsliv",
         "tur"
@@ -1194,7 +1194,7 @@
       "city": "Ålesund",
       "organizer": "Sandøy Frivilligsentral",
       "image_url": "https://ucarecdn.com/893c5724-96f4-4d19-b07d-c93ef20421dc/-/crop/628x537/44,0/-/preview/-/resize/x300/-/setfill/3885cc/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/ungdomsklubben-kvalen-haroy-fra-8-klasse-til-20-ar",
+      "url": "https://alesund.friskus.com/events/d091f722-fbae-4e10-b00a-35bb32d9e76d",
       "tags": [],
       "age_groups": [
         "teenager"
@@ -1212,7 +1212,7 @@
       "city": "Ålesund",
       "organizer": "Foreningen for Ukrainsk kreativitet og identitet",
       "image_url": "https://ucarecdn.com/a8b29cd9-f743-4f11-a33c-be45bf57390a/-/crop/1536x419/0,815/-/preview/",
-      "url": "https://alesund.friskus.com/activities/norsk-kurs-for-eldre-ukrainere",
+      "url": "https://alesund.friskus.com/events/1e440d14-48a1-46df-8b34-531996c374c0",
       "tags": [],
       "age_groups": [
         "pensioner"
@@ -1230,7 +1230,7 @@
       "city": "Ålesund",
       "organizer": "Moa Bibliotek",
       "image_url": "https://ucarecdn.com/78688737-08a5-48af-ab85-af8f4a4c3eb0/-/crop/1920x523/0,8/-/preview/",
-      "url": "https://alesund.friskus.com/activities/button-verksted-i-moa-bibliotek",
+      "url": "https://alesund.friskus.com/events/6d526987-6ef8-4cdb-b483-ed59d3590983",
       "tags": [],
       "age_groups": [
         "children"
@@ -1248,7 +1248,7 @@
       "city": "Ålesund",
       "organizer": "Jazzsirkelen 04",
       "image_url": "https://ucarecdn.com/3b8a3ef2-45d3-43ee-a4f6-a1731844aef2/-/crop/1947x1019/116,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/jazzkafe-med-kurt-sagen-jazz-kvartett",
+      "url": "https://alesund.friskus.com/events/5b4554c8-fa52-40b4-93ef-c9e236e2f576",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -1268,7 +1268,7 @@
       "city": "Ålesund",
       "organizer": "Skodje Blandakor",
       "image_url": "https://ucarecdn.com/f92a17ee-512d-4dc4-90df-9e44e8782d98/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/kor-i-varstemning",
+      "url": "https://alesund.friskus.com/events/a49a284c-8eb4-4ec1-bda5-121f14f75389",
       "tags": [],
       "age_groups": [
         "children",
@@ -1290,7 +1290,7 @@
       "city": "Ålesund",
       "organizer": "Klatreklubben Ålesund",
       "image_url": "https://ucarecdn.com/323a9799-8c45-4fe8-a5da-2c9f84d2f4d1/-/crop/6870x2630/0,9/-/preview/",
-      "url": "https://alesund.friskus.com/activities/prov-klatring",
+      "url": "https://alesund.friskus.com/events/856f0722-e12e-426c-a461-f4e15002ad04",
       "tags": [],
       "age_groups": [
         "children",
@@ -1310,7 +1310,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/af9acee0-d5c0-4992-b89d-7d82df90f4bf/-/crop/2869x967/0,15/-/preview/",
-      "url": "https://alesund.friskus.com/activities/helsetrim-damer",
+      "url": "https://alesund.friskus.com/events/3386f68b-7039-4343-9c44-ecdb87a5e5de",
       "tags": [],
       "age_groups": [
         "senior",
@@ -1329,7 +1329,7 @@
       "city": "Ålesund",
       "organizer": "LHL Ålesund Sula og Giske",
       "image_url": "https://ucarecdn.com/7e85608e-01d2-49bb-9218-52fd347763f6/-/crop/550x288/0,9/-/preview/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/lhl-krakketrim-niva-1",
+      "url": "https://alesund.friskus.com/events/68a19a59-6f4e-4a99-8b19-a0ddc82e8d90",
       "tags": [],
       "age_groups": [
         "senior",
@@ -1348,7 +1348,7 @@
       "city": "Ålesund",
       "organizer": "Steinshamn innbyggartorg",
       "image_url": "https://ucarecdn.com/e0843a95-9fa2-465f-8818-38154866f37a/-/crop/1283x350/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/fole-kjekt-a-vere-sosial-og-digital-pa-haroya-varen-2026",
+      "url": "https://alesund.friskus.com/events/c05fc61d-1524-4248-b7ae-9bcadc3eebe5",
       "tags": [],
       "age_groups": [
         "senior",
@@ -1367,7 +1367,7 @@
       "city": "Ålesund",
       "organizer": "Harøy Helselag. Nasjonalforeningen for folkehelsen.",
       "image_url": "https://ucarecdn.com/db545e0b-bba1-4111-abe0-47a4bdfb3bd1/-/crop/640x260/0,124/-/preview/",
-      "url": "https://alesund.friskus.com/activities/boccia-pa-haroya",
+      "url": "https://alesund.friskus.com/events/52ff2260-1ef3-4022-ae78-cfe7c3c53d52",
       "tags": [],
       "age_groups": [
         "senior",
@@ -1386,7 +1386,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund kommune",
       "image_url": "https://ucarecdn.com/7e3af907-539e-4204-a641-fb7cfbff767f/-/crop/1488x779/0,29/-/preview/",
-      "url": "https://alesund.friskus.com/activities/tuning-in-to-teens-kurs-for-tenaringsforeldre",
+      "url": "https://alesund.friskus.com/events/bb7ab8f5-6fe0-445a-9046-6d7a375c50be",
       "tags": [],
       "age_groups": [
         "senior"
@@ -1404,7 +1404,7 @@
       "city": "Ålesund",
       "organizer": "Sjøholt bibliotek",
       "image_url": "https://ucarecdn.com/95be2824-e4f5-4091-a1c8-a3863319adcc/-/crop/1448x395/0,953/-/preview/",
-      "url": "https://alesund.friskus.com/activities/hobbyverkstad-for-barn-ved-sjoholt-bibliotek",
+      "url": "https://alesund.friskus.com/events/0077f5ba-23ee-4ebf-bbba-e7afc11adece",
       "tags": [],
       "age_groups": [
         "children"
@@ -1422,7 +1422,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund bibliotek",
       "image_url": "https://ucarecdn.com/d81765ee-fc26-4f68-b4f6-ccb1524a792f/-/crop/1099x300/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/leksehjelp-for-vaksne",
+      "url": "https://alesund.friskus.com/events/ff93bbe8-8919-439c-9dee-a05a785c0efa",
       "tags": [],
       "age_groups": [
         "senior"
@@ -1440,7 +1440,7 @@
       "city": "Ålesund",
       "organizer": "LHL Ålesund Sula og Giske",
       "image_url": "https://ucarecdn.com/a76ee936-ab0b-4484-828c-97442a214089/-/crop/3217x1684/521,401/-/preview/",
-      "url": "https://alesund.friskus.com/activities/lhl-styrke-balanse-og-avspenning",
+      "url": "https://alesund.friskus.com/events/da1e45c2-1e1b-41d2-bef1-ea926e8a3d14",
       "tags": [],
       "age_groups": [
         "senior",
@@ -1459,7 +1459,7 @@
       "city": "Ålesund",
       "organizer": "E-Teams",
       "image_url": "https://ucarecdn.com/96ff7bbc-ef60-4907-ad68-680c3d2e7812/-/crop/1080x295/0,430/-/preview/",
-      "url": "https://alesund.friskus.com/activities/gamingkveld-skarbovika",
+      "url": "https://alesund.friskus.com/events/ac34af04-cbe9-4857-8bdb-a0b3b62b81bb",
       "tags": [],
       "age_groups": [
         "children",
@@ -1478,7 +1478,7 @@
       "city": "Ålesund",
       "organizer": "LHL Ålesund Sula og Giske",
       "image_url": "https://ucarecdn.com/8e9535d5-16c8-46f1-9745-efc71ed152b3/-/crop/3217x1684/326,418/-/preview/",
-      "url": "https://alesund.friskus.com/activities/lhl-vanntrim-pa-moa",
+      "url": "https://alesund.friskus.com/events/b7d9b698-a137-4254-9725-9f408cba62b6",
       "tags": [],
       "age_groups": [
         "senior",
@@ -1497,7 +1497,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund kommune",
       "image_url": "https://ucarecdn.com/79b04462-6951-4a31-9da8-96832c8e836c/-/crop/1127x308/0,26/-/preview/",
-      "url": "https://alesund.friskus.com/activities/fole-kjekt-a-vere-sosial-og-digital-datakafe-i-kyrkjekjellaren-pa-ellingsoya",
+      "url": "https://alesund.friskus.com/events/b34b358a-f92b-4cf9-994b-f6ef486ab847",
       "tags": [],
       "age_groups": [
         "pensioner"
@@ -1515,7 +1515,7 @@
       "city": "Ålesund",
       "organizer": "Aalesund Røde Kors",
       "image_url": "https://ucarecdn.com/4ed3f8cf-6d83-423b-bca7-baf71bad6ff1/-/crop/1920x523/0,376/-/preview/",
-      "url": "https://alesund.friskus.com/activities/juridisk-radgivningsdag-en-dag-med-tre-foredrag-velg-ett-eller-fa-med-deg-alle",
+      "url": "https://alesund.friskus.com/events/13671626-3009-44fe-ba63-12ee534bd62d",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -1535,7 +1535,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_592177",
-      "url": "https://alesund.friskus.com/activities/informasjonsmote-for-nye-frivillige-til-dnt-sunnmore-alesund",
+      "url": "https://alesund.friskus.com/events/oaaal4wcGsE4T",
       "tags": [
         "friluftsliv",
         "tur"
@@ -1558,7 +1558,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_596742",
-      "url": "https://alesund.friskus.com/activities/friluftsforedrag-tafjordfjella-pa-langs-ved-sindre-nakken",
+      "url": "https://alesund.friskus.com/events/oaaVu7IoQ26dX",
       "tags": [
         "friluftsliv",
         "tur"
@@ -1581,7 +1581,7 @@
       "city": "Ålesund",
       "organizer": "Skodje bibliotek",
       "image_url": "https://ucarecdn.com/7bbe2be2-b8b5-4ff6-9848-bfa31bb04a18/-/crop/662x180/0,81/-/preview/",
-      "url": "https://alesund.friskus.com/activities/les-vegas-baby",
+      "url": "https://alesund.friskus.com/events/a365dacc-8166-44be-a55d-ef1f7f82748d",
       "tags": [],
       "age_groups": [
         "family"
@@ -1599,7 +1599,7 @@
       "city": "Ålesund",
       "organizer": "Haramsbiblioteka",
       "image_url": "https://ucarecdn.com/1e69236f-e80e-4fc7-b9f7-d1f33b6f006d/-/crop/904x247/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/babytreff-brattvag-bibliotek",
+      "url": "https://alesund.friskus.com/events/900a0508-c53b-4142-b905-677d985920cd",
       "tags": [],
       "age_groups": [
         "children",
@@ -1620,7 +1620,7 @@
       "city": "Ålesund",
       "organizer": "Sjøholt bibliotek",
       "image_url": "https://ucarecdn.com/b83514db-9b87-4782-b18c-634676375fc9/-/crop/1920x523/0,127/-/preview/",
-      "url": "https://alesund.friskus.com/activities/fole-kjekt-a-vere-sosial-og-digital-datakafe-pa-orskog-frivilligsentral",
+      "url": "https://alesund.friskus.com/events/56d48b94-6431-4d5c-a156-d8ccc858f6fd",
       "tags": [],
       "age_groups": [
         "pensioner"
@@ -1638,7 +1638,7 @@
       "city": "Ålesund",
       "organizer": "Moa Bibliotek",
       "image_url": "https://ucarecdn.com/0294356c-652b-4ff2-81a6-a12adc6c5085/-/crop/1099x300/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/sprakkafe",
+      "url": "https://alesund.friskus.com/events/f08db2a4-8626-45fc-a2dc-ea4fe6b6c48e",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -1658,7 +1658,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_592590",
-      "url": "https://alesund.friskus.com/activities/turledersamling-for-alle-turledere-alesund",
+      "url": "https://alesund.friskus.com/events/oaatvqVhOjl8x",
       "tags": [
         "friluftsliv",
         "tur"
@@ -1681,7 +1681,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund bibliotek",
       "image_url": "https://ucarecdn.com/8188c30f-199e-4a9c-abdd-1d8b4dd513fe/-/crop/1920x523/0,134/-/preview/",
-      "url": "https://alesund.friskus.com/activities/fole-kjekt-a-vere-sosial-og-digital-datakafe-i-moa-bibliotek",
+      "url": "https://alesund.friskus.com/events/6801a7dd-6e1a-4a2a-a768-06fa17a4cd8c",
       "tags": [],
       "age_groups": [
         "pensioner"
@@ -1699,7 +1699,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund bibliotek",
       "image_url": "https://ucarecdn.com/7c70ebe7-871c-4d72-8688-83c68b0cfd8e/-/crop/1099x300/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/redd-barna-fyller-80-ar",
+      "url": "https://alesund.friskus.com/events/ec49a79d-7247-44d2-bfd4-1f6d245be69e",
       "tags": [],
       "age_groups": [
         "children",
@@ -1719,7 +1719,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund bibliotek",
       "image_url": "https://ucarecdn.com/a3367488-c7c7-42df-bd3b-fddb4a38326e/-/crop/960x262/0,160/-/preview/",
-      "url": "https://alesund.friskus.com/activities/arsmote-og-feiring-av-publikumsrekord-alesund-litteraturfestival",
+      "url": "https://alesund.friskus.com/events/2f42f819-4ce7-4158-9827-21a1afa912b4",
       "tags": [],
       "age_groups": [
         "senior"
@@ -1737,7 +1737,7 @@
       "city": "Ålesund",
       "organizer": "Ørskog Frivilligsentral",
       "image_url": "https://ucarecdn.com/e44ab4e5-3634-4215-9369-f3e57a8f5887/-/crop/1512x412/0,790/-/preview/",
-      "url": "https://alesund.friskus.com/activities/strikkekafe-pa-orskog-frivilligsentral",
+      "url": "https://alesund.friskus.com/events/d2b34e39-8dcd-4c6f-b8f1-38eb07f5d27a",
       "tags": [],
       "age_groups": [
         "senior",
@@ -1756,7 +1756,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund bibliotek",
       "image_url": "https://ucarecdn.com/78ada099-b12b-4c57-ab39-0f713291a511/-/crop/1920x523/0,139/-/preview/",
-      "url": "https://alesund.friskus.com/activities/fole-kjekt-a-vere-sosial-og-digital-datakafe-i-skodje-bibliotek",
+      "url": "https://alesund.friskus.com/events/b814f6d2-4d07-436a-aed9-92500be9646d",
       "tags": [],
       "age_groups": [
         "pensioner"
@@ -1774,7 +1774,7 @@
       "city": "Ålesund",
       "organizer": "Sandøy Frivilligsentral",
       "image_url": "https://ucarecdn.com/b69bc7b5-d221-4852-b18a-7c1b69fc8586/-/crop/2199x1436/46,113/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/swingkurs-for-ungdom-8-klasse-til-25-ar-pa-haroya",
+      "url": "https://alesund.friskus.com/events/8ac7e749-e9be-42d9-82c7-118b0bff4304",
       "tags": [],
       "age_groups": [
         "teenager"
@@ -1792,7 +1792,7 @@
       "city": "Ålesund",
       "organizer": "Jazzsirkelen 04",
       "image_url": "https://ucarecdn.com/8fa35756-a303-4089-a8ec-f8008841f210/-/crop/1949x1020/161,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/jenny-froysas-artful-ensemble",
+      "url": "https://alesund.friskus.com/events/08acfeeb-e6e7-4d72-b863-8c5d2fb5ce4e",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -1812,7 +1812,7 @@
       "city": "Ålesund",
       "organizer": "Sula bibliotek",
       "image_url": "https://ucarecdn.com/8b024a02-5a5a-495f-8925-66e4ab0185f6/-/crop/960x262/0,54/-/preview/",
-      "url": "https://alesund.friskus.com/activities/den-store-klesbyttedagen",
+      "url": "https://alesund.friskus.com/events/b39f12c6-2fa3-4609-bbe8-f11732fd2bc7",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -1831,7 +1831,7 @@
       "city": "Ålesund",
       "organizer": "Moa Bibliotek",
       "image_url": "https://ucarecdn.com/e2d898c8-e13c-4adf-80f9-a72c72981bb9/-/crop/1920x523/0,104/-/preview/",
-      "url": "https://alesund.friskus.com/activities/snurr-film-i-moa-bibliotek",
+      "url": "https://alesund.friskus.com/events/addedcc7-08ca-43eb-954a-76beb6141ed9",
       "tags": [],
       "age_groups": [
         "children",
@@ -1850,7 +1850,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund kulturskole",
       "image_url": "https://ucarecdn.com/1ba7ad6d-98e8-4c56-96a4-551a05093628/-/crop/1587x433/0,830/-/preview/",
-      "url": "https://alesund.friskus.com/activities/musikalgruppa-presenterer-de-sju-villendene",
+      "url": "https://alesund.friskus.com/events/92aff70f-d246-46a9-8f00-e2998d484687",
       "tags": [],
       "age_groups": [
         "children",
@@ -1869,7 +1869,7 @@
       "city": "Ålesund",
       "organizer": "Aalesund Røde Kors",
       "image_url": "https://ucarecdn.com/7daee135-f762-40a7-869a-c915d9c6cce9/-/crop/1024x280/0,91/-/preview/",
-      "url": "https://alesund.friskus.com/activities/internasjonal-cafe",
+      "url": "https://alesund.friskus.com/events/97694412-e10e-4306-8a1b-6f33660baabc",
       "tags": [],
       "age_groups": [
         "children",
@@ -1891,7 +1891,7 @@
       "city": "Ålesund",
       "organizer": "Ung i Ålesund",
       "image_url": "https://ucarecdn.com/8d1bf3f5-2c9a-4e95-ad9b-ace5a5dfb33f/-/crop/1746x476/0,374/-/preview/",
-      "url": "https://alesund.friskus.com/activities/ukm-parken-kulturhus",
+      "url": "https://alesund.friskus.com/events/69163149-a356-4fac-bc57-1e88701a29b3",
       "tags": [],
       "age_groups": [
         "children",
@@ -1911,7 +1911,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_599125",
-      "url": "https://alesund.friskus.com/activities/padletur-rundt-giske",
+      "url": "https://alesund.friskus.com/events/oaabkbwiBI_FJ",
       "tags": [
         "friluftsliv",
         "tur"
@@ -1932,7 +1932,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund kulturskole",
       "image_url": "https://ucarecdn.com/aed38d48-ff32-40fc-92f6-1e3e9285f53f/-/crop/1920x524/0,61/-/preview/",
-      "url": "https://alesund.friskus.com/activities/fordypningskurs-i-skuespillerteknikk",
+      "url": "https://alesund.friskus.com/events/9af72422-5866-4caa-b159-512c83a4550a",
       "tags": [],
       "age_groups": [
         "teenager"
@@ -1950,7 +1950,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_595570",
-      "url": "https://alesund.friskus.com/activities/sondagstur-til-otrefjellet",
+      "url": "https://alesund.friskus.com/events/oaaQYAxkAsSQo",
       "tags": [
         "friluftsliv",
         "tur"
@@ -1973,7 +1973,7 @@
       "city": "Ålesund",
       "organizer": "Sandøy Frivilligsentral",
       "image_url": "https://ucarecdn.com/e8c775c2-2132-4045-a2df-bf0c3bca4ea5/-/crop/412x332/0,0/-/preview/-/setfill/157ccb/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/sondagskvalen-for-7-klasse",
+      "url": "https://alesund.friskus.com/events/249dd123-1a8b-4af1-b297-87736ddfbafa",
       "tags": [],
       "age_groups": [
         "teenager"
@@ -1991,7 +1991,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_583263",
-      "url": "https://alesund.friskus.com/activities/forstehjelpskurs-for-frivillige-i-dnt",
+      "url": "https://alesund.friskus.com/events/oaaPip3norAEn",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2013,7 +2013,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund Kammerkor",
       "image_url": "https://ucarecdn.com/02be4d7d-d405-4b6e-b03b-ed28458f50c1/-/crop/1754x479/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/varkonsert-med-alesund-kammerkor-gratis-kafekonsert-pa-bymisjonssenteret",
+      "url": "https://alesund.friskus.com/events/877c1e9a-7ed5-499f-90b6-2f9a73967feb",
       "tags": [],
       "age_groups": [
         "children",
@@ -2035,7 +2035,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund bibliotek",
       "image_url": "https://ucarecdn.com/35a47bbf-1735-484e-8148-68daceec4f9a/-/crop/1910x520/0,177/-/preview/",
-      "url": "https://alesund.friskus.com/activities/syverksted-med-lillian-fra-lillifix-sy-verdens-enkleste-skjort",
+      "url": "https://alesund.friskus.com/events/bf21f81c-1f29-4b50-a074-f49ca1549aa9",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -2055,7 +2055,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_594934",
-      "url": "https://alesund.friskus.com/activities/naerturlederkurs-alesund",
+      "url": "https://alesund.friskus.com/events/oaaR9xP6L0i0Y",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2078,7 +2078,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_594936",
-      "url": "https://alesund.friskus.com/activities/naerturlederkurs-alesund",
+      "url": "https://alesund.friskus.com/events/oaaEqIeK_qTrY",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2101,7 +2101,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_596924",
-      "url": "https://alesund.friskus.com/activities/friluftsforedrag-en-reise-gjennom-alle-dnt-sunnmores-hytter",
+      "url": "https://alesund.friskus.com/events/oaa5-rZPAG9FX",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2124,7 +2124,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_587153",
-      "url": "https://alesund.friskus.com/activities/frivilliglunsj-pa-naustet-turmat",
+      "url": "https://alesund.friskus.com/events/oaaTeXiPieS8p",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2147,7 +2147,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_600765",
-      "url": "https://alesund.friskus.com/activities/friluftsforedrag-fottur-gjennom-tafjordfjella-ved-sindre-nakken",
+      "url": "https://alesund.friskus.com/events/oaaz42T_JmtNJ",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2170,7 +2170,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_596836",
-      "url": "https://alesund.friskus.com/activities/friluftshangout-20-35ar-kveldstur-til-skjonghelleren-solnedgang-og-grottestemning",
+      "url": "https://alesund.friskus.com/events/oaa0s-xJoUVN4",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2192,7 +2192,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_601534",
-      "url": "https://alesund.friskus.com/activities/informasjonsmote-om-sti-og-hyttedugnad-2026",
+      "url": "https://alesund.friskus.com/events/oaaLOsSSEdAfQ",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2215,7 +2215,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund kommune",
       "image_url": "https://ucarecdn.com/21c14387-86c6-4103-90d4-cc463dca70b4/-/crop/1200x628/0,48/-/preview/",
-      "url": "https://alesund.friskus.com/activities/foreldrekurs-i-emosjonsfokusert-ferdigheitstrening-barn-0-18-ar",
+      "url": "https://alesund.friskus.com/events/08f7a3ae-1757-4a43-963c-91716ebee38e",
       "tags": [],
       "age_groups": [
         "senior"
@@ -2233,7 +2233,7 @@
       "city": "Ålesund",
       "organizer": "Skodje bibliotek",
       "image_url": "https://ucarecdn.com/c2233be4-f302-4434-8dc1-3eb46f58faf4/-/crop/653x178/0,138/-/preview/",
-      "url": "https://alesund.friskus.com/activities/skaparverstad-i-skodje-bibliotek",
+      "url": "https://alesund.friskus.com/events/4c72a7b7-e482-4cde-83d9-7d1c2b4f6dba",
       "tags": [],
       "age_groups": [
         "children",
@@ -2252,7 +2252,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_597176",
-      "url": "https://alesund.friskus.com/activities/foredrag-padling-pa-sunnmore-ved-sindre-slettestol",
+      "url": "https://alesund.friskus.com/events/oaafq8bV4eCrc",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2275,7 +2275,7 @@
       "city": "Ålesund",
       "organizer": "Sula bibliotek",
       "image_url": "https://ucarecdn.com/e75163cd-feb7-445a-95a3-8bc84f4eb153/-/crop/1920x523/0,556/-/preview/",
-      "url": "https://alesund.friskus.com/activities/litteratur-som-beredskap-forfattarmote-med-marit-daaland-lesjo-om-boka-normal-hverdag-med-okt-beredskap",
+      "url": "https://alesund.friskus.com/events/64d3a130-0b5e-45f0-adb4-af09c0e7c66a",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -2295,7 +2295,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_596806",
-      "url": "https://alesund.friskus.com/activities/friluftsforedrag-introduksjon-til-uteklatring-i-alesundsomradet",
+      "url": "https://alesund.friskus.com/events/oaahhRoSvmbd7",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2318,7 +2318,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_592176",
-      "url": "https://alesund.friskus.com/activities/sofaprat-pensjonist-og-glad-i-friluftsliv",
+      "url": "https://alesund.friskus.com/events/oaaP2-2eODXrl",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2340,7 +2340,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_600254",
-      "url": "https://alesund.friskus.com/activities/turverket-hyttetur-til-runde-fyr",
+      "url": "https://alesund.friskus.com/events/oaaIN3zCdBAoE",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2361,7 +2361,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_576500",
-      "url": "https://alesund.friskus.com/activities/grunnleggende-turlederkurs",
+      "url": "https://alesund.friskus.com/events/oaaa1IC8UlsH2",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2383,7 +2383,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund kulturskole",
       "image_url": "https://ucarecdn.com/753fc631-9caa-44db-862a-20b5fc601e04/-/crop/1587x434/0,375/-/preview/",
-      "url": "https://alesund.friskus.com/activities/gomerteateret-presenterer-snohvit",
+      "url": "https://alesund.friskus.com/events/3af2e2ab-d1c8-4900-a08a-9240ba80261b",
       "tags": [],
       "age_groups": [
         "children",
@@ -2403,7 +2403,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_598483",
-      "url": "https://alesund.friskus.com/activities/dugnadstur-til-kaldhusseter-vedlauget",
+      "url": "https://alesund.friskus.com/events/oaay7wahnkSqt",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2425,7 +2425,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund kommune",
       "image_url": "https://ucarecdn.com/31cfb8e6-7654-4ee6-9a44-a304e2cd498b/-/crop/1920x1004/0,76/-/preview/",
-      "url": "https://alesund.friskus.com/activities/autisme-ungdomsgruppe",
+      "url": "https://alesund.friskus.com/events/a1cf2108-6f48-4fef-9628-36d65c97611e",
       "tags": [],
       "age_groups": [
         "teenager"
@@ -2443,7 +2443,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/4b8c2d62-3d4a-4740-8f07-d2a97e3cfd01/-/crop/1332x520/0,248/-/preview/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/trimtur-til-fjortoftneset-pa-fjortofta",
+      "url": "https://alesund.friskus.com/events/1df2c60f-e23f-4ac0-8ee1-e19fce4d07bb",
       "tags": [],
       "age_groups": [
         "family",
@@ -2462,7 +2462,7 @@
       "city": "Ålesund",
       "organizer": "FAU Flisnes skole",
       "image_url": "https://ucarecdn.com/2b8d2c90-2e8e-40cb-a24c-41bcd044bb81/-/crop/772x211/0,258/-/preview/",
-      "url": "https://alesund.friskus.com/activities/disko-for-elever-pa-flisnes-skole",
+      "url": "https://alesund.friskus.com/events/b8cb2201-2c8b-451a-9f66-feb1a1f49ee3",
       "tags": [],
       "age_groups": [
         "children"
@@ -2480,7 +2480,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund bibliotek",
       "image_url": "https://ucarecdn.com/451fcbe6-a08e-4dbc-9f86-1fb616d214f4/-/crop/2048x559/0,341/-/preview/",
-      "url": "https://alesund.friskus.com/activities/livssyn-hva-forener-oss",
+      "url": "https://alesund.friskus.com/events/6ef40451-3a69-4eea-becb-e1c5d87558e6",
       "tags": [],
       "age_groups": [
         "senior"
@@ -2498,7 +2498,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_600605",
-      "url": "https://alesund.friskus.com/activities/kurs-for-frivillig-kart-og-kompass",
+      "url": "https://alesund.friskus.com/events/oaaxfcjDT5cE7",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2520,7 +2520,7 @@
       "city": "Ålesund",
       "organizer": "Havdur pensjonistforening",
       "image_url": "https://ucarecdn.com/db9f78aa-1754-4ac2-aa69-a1ac2b93eedc/-/crop/1280x349/0,9/-/preview/-/scale_crop/1100x300/smart/",
-      "url": "https://alesund.friskus.com/activities/havdur-pensjonistforening-ope-mote",
+      "url": "https://alesund.friskus.com/events/c76c836a-3641-4651-8ca1-13347d61488a",
       "tags": [],
       "age_groups": [
         "senior",
@@ -2539,7 +2539,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund og omegn hagelag",
       "image_url": "https://ucarecdn.com/dd4b81de-075d-4b98-bffa-377f109cd5f7/-/crop/1280x349/0,106/-/preview/",
-      "url": "https://alesund.friskus.com/activities/krukkedilla-hageforedrag-med-anders-royneberg-og-erik-schjerven",
+      "url": "https://alesund.friskus.com/events/7a210789-20b9-424a-a83c-b91e958e2a24",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -2560,7 +2560,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_597178",
-      "url": "https://alesund.friskus.com/activities/foredrag-friluftsliv-i-geiranger-opplevelser-i-verdensarven",
+      "url": "https://alesund.friskus.com/events/oaaHQnGvNVFi0",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2583,7 +2583,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_576511",
-      "url": "https://alesund.friskus.com/activities/fridykkerkurs-alesund",
+      "url": "https://alesund.friskus.com/events/oaalRPhog3ess",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2605,7 +2605,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/f57a4d8a-a0df-491b-8679-8810d053dd25/-/crop/2020x563/0,516/-/preview/",
-      "url": "https://alesund.friskus.com/activities/trimtur-til-nerstolen-pa-glomset",
+      "url": "https://alesund.friskus.com/events/619af84b-250e-43f5-b336-0a4da8013929",
       "tags": [],
       "age_groups": [
         "family",
@@ -2624,7 +2624,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_596929",
-      "url": "https://alesund.friskus.com/activities/turprat-60",
+      "url": "https://alesund.friskus.com/events/oaa24NyV8AmrR",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2646,7 +2646,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_600297",
-      "url": "https://alesund.friskus.com/activities/friluftsforedrag-stiloping",
+      "url": "https://alesund.friskus.com/events/oaaDcjQ8WL_EX",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2668,7 +2668,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_592074",
-      "url": "https://alesund.friskus.com/activities/seniortur-rundtur-pa-emblemsfjellet",
+      "url": "https://alesund.friskus.com/events/oaanGJ7MCnJJX",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2689,7 +2689,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund kulturskole",
       "image_url": "https://ucarecdn.com/7009be96-54e8-4ec3-9acf-cb74e3d6beb7/-/crop/1920x523/0,92/-/preview/",
-      "url": "https://alesund.friskus.com/activities/ok-men-seriost",
+      "url": "https://alesund.friskus.com/events/6ec7f32f-9d8a-4bd4-9e4e-5ae07f01c412",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -2708,7 +2708,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_592718",
-      "url": "https://alesund.friskus.com/activities/friluftshelg-i-alesund-med-dnt-ung-for-8-10trinn-gratis",
+      "url": "https://alesund.friskus.com/events/oaaK_qY6tCmtT",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2729,7 +2729,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_592717",
-      "url": "https://alesund.friskus.com/activities/friluftshelg-i-alesund-med-dnt-ung-for-5-7trinn-gratis",
+      "url": "https://alesund.friskus.com/events/oaazU12XSFXYD",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2750,7 +2750,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_595575",
-      "url": "https://alesund.friskus.com/activities/sondagstur-til-melshornet-fra-ulset",
+      "url": "https://alesund.friskus.com/events/oaanuxmNG6pUC",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2772,7 +2772,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/4fa437c8-2db9-4143-900a-05a243efe415/-/crop/3447x940/0,697/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/trimtur-pa-alvestadstien",
+      "url": "https://alesund.friskus.com/events/dfda6ae6-f21d-43a5-a985-cbebad0ab9a2",
       "tags": [],
       "age_groups": [
         "family",
@@ -2791,7 +2791,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_590124",
-      "url": "https://alesund.friskus.com/activities/fellestur-apen-for-alle-til-gjersetdalen-tirsdagstur-og-seniorgruppa",
+      "url": "https://alesund.friskus.com/events/oaac94iwylyH8",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2812,7 +2812,7 @@
       "city": "Ålesund",
       "organizer": "Nørvøy Ungdomskorps",
       "image_url": "https://ucarecdn.com/d3e3e35e-4dab-427d-83d4-33c9b0c3706e/-/crop/493x165/0,32/-/preview/",
-      "url": "https://alesund.friskus.com/activities/friendship",
+      "url": "https://alesund.friskus.com/events/c3545bde-2cbb-48f4-b26a-48a91bbe1f34",
       "tags": [],
       "age_groups": [
         "children",
@@ -2834,7 +2834,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_595576",
-      "url": "https://alesund.friskus.com/activities/sondagstur-til-svanshornet",
+      "url": "https://alesund.friskus.com/events/oaaj5aFLL-OV0",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2856,7 +2856,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_598900",
-      "url": "https://alesund.friskus.com/activities/grunnkurs-klatring-for-seniorer",
+      "url": "https://alesund.friskus.com/events/oaaX4ubdsvaK1",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2878,7 +2878,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/85a174fa-34a9-4415-8e8f-a48d2a3b5db6/-/crop/750x445/0,251/-/preview/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/trimtur-til-kvandalssaetra-og-dynjafossen",
+      "url": "https://alesund.friskus.com/events/af652335-a715-402a-a90a-3ff9157e868b",
       "tags": [],
       "age_groups": [
         "family",
@@ -2897,7 +2897,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_594472",
-      "url": "https://alesund.friskus.com/activities/introkurs-havkajakk-for-ungdom-15-20-ar",
+      "url": "https://alesund.friskus.com/events/oaawwpTTx4sbR",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2918,7 +2918,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_597074",
-      "url": "https://alesund.friskus.com/activities/friluftshangout-20-35ar-bal-og-bading-ved-emblemsanden",
+      "url": "https://alesund.friskus.com/events/oaa9Rw8FwHivl",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2940,7 +2940,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/f6f405a7-f7af-45fc-b8f3-757ae68f4124/-/crop/5184x2067/0,1021/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/trimtur-fra-tossa-til-kleivane",
+      "url": "https://alesund.friskus.com/events/7582a336-6005-429b-9e26-3e842abbb6bb",
       "tags": [],
       "age_groups": [
         "family",
@@ -2959,7 +2959,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_594496",
-      "url": "https://alesund.friskus.com/activities/introkurs-havkajakk",
+      "url": "https://alesund.friskus.com/events/oaam4W9wnU-TE",
       "tags": [
         "friluftsliv",
         "tur"
@@ -2981,7 +2981,7 @@
       "city": "Ålesund",
       "organizer": "Ørskog Frivilligsentral",
       "image_url": "https://ucarecdn.com/75fd7c83-ff69-42bb-a8f6-8bc9f2a38277/-/crop/664x398/8,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/juniorkveld-pa-orskog-frivilligsentral",
+      "url": "https://alesund.friskus.com/events/7417eaa1-dd9c-4a6b-afdf-cbcd2c849f2e",
       "tags": [],
       "age_groups": [
         "children"
@@ -2999,7 +2999,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_573574",
-      "url": "https://alesund.friskus.com/activities/aktivitetslederkurs-hav",
+      "url": "https://alesund.friskus.com/events/oaaDcQ6SHk7Lj",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3020,7 +3020,7 @@
       "city": "Ålesund",
       "organizer": "Jazzsirkelen 04",
       "image_url": "https://ucarecdn.com/3ff35baf-2a49-437a-a376-140fc13f24b7/-/crop/1522x797/0,49/-/preview/",
-      "url": "https://alesund.friskus.com/activities/joel-frahm-trio",
+      "url": "https://alesund.friskus.com/events/cb04f7f5-7761-4e48-bbe8-39932faed643",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -3040,7 +3040,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/ff65c453-72ca-44c5-92ff-9403cb82a98e/-/crop/4000x1091/0,756/-/preview/",
-      "url": "https://alesund.friskus.com/activities/trimtur-fra-kokersteinen-dyrkorn-til-stavneset",
+      "url": "https://alesund.friskus.com/events/736a9836-0f39-43d8-8561-d3d7ea0972de",
       "tags": [],
       "age_groups": [
         "family",
@@ -3059,7 +3059,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_572228",
-      "url": "https://alesund.friskus.com/activities/opptur-turdag-for-8-klassinger",
+      "url": "https://alesund.friskus.com/events/oaaF-IJSfCWGR",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3080,7 +3080,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_587154",
-      "url": "https://alesund.friskus.com/activities/frivilliglunsj-pa-naustet",
+      "url": "https://alesund.friskus.com/events/oaaAk3fKi2PSf",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3103,7 +3103,7 @@
       "city": "Ålesund",
       "organizer": "Jazzsirkelen 04",
       "image_url": "https://ucarecdn.com/148d946d-de4f-497e-9ff0-49737cbfa9ec/-/crop/1416x741/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/siril-malmedal-hauge-kjetil-mulelid",
+      "url": "https://alesund.friskus.com/events/853964ed-111a-45ee-bbe8-53d22f0626ee",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -3123,7 +3123,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_588575",
-      "url": "https://alesund.friskus.com/activities/grunnkurs-havkajakk-i-alesund",
+      "url": "https://alesund.friskus.com/events/oaay2PBGtCcp3",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3146,7 +3146,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_599019",
-      "url": "https://alesund.friskus.com/activities/barnas-turlag-sunnmore-eventyrskogen-pa-lepsoya",
+      "url": "https://alesund.friskus.com/events/oaady6n-1mIY8",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3167,7 +3167,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund kulturskole",
       "image_url": "https://ucarecdn.com/1b42a018-7bf8-49ea-8db9-f9d49dcc5a77/-/crop/2048x559/0,403/-/preview/",
-      "url": "https://alesund.friskus.com/activities/jugendteateret-vg3-avgangsforestilling",
+      "url": "https://alesund.friskus.com/events/a6a3a558-d162-4b57-b699-da00f5e6cbf5",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -3186,7 +3186,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_596762",
-      "url": "https://alesund.friskus.com/activities/friluftshangout-20-35ar-sommeravslutning-med-grilling-og-bading",
+      "url": "https://alesund.friskus.com/events/oaattqYjHMXs3",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3208,7 +3208,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/8f71527d-cc12-4e87-8a44-6139f281dfcf/-/crop/1293x673/0,318/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/trimtur-til-haroyburet-pa-haroy",
+      "url": "https://alesund.friskus.com/events/ce3ca04e-c980-4f63-8fb9-3ff82ee57917",
       "tags": [],
       "age_groups": [
         "family",
@@ -3227,7 +3227,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_600164",
-      "url": "https://alesund.friskus.com/activities/introkurs-havkajakk-for-unge-voksne-20-35ar",
+      "url": "https://alesund.friskus.com/events/oaa2XlH9cRuYo",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3249,7 +3249,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/5350dd52-e684-44d2-9765-864dfc5aa138/-/crop/2805x859/0,541/-/preview/-/resize/x300/",
-      "url": "https://alesund.friskus.com/activities/trimtur-i-fyllingslia",
+      "url": "https://alesund.friskus.com/events/0255f78c-05ed-4c2e-b001-02312460cd49",
       "tags": [],
       "age_groups": [
         "family",
@@ -3268,7 +3268,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_599703",
-      "url": "https://alesund.friskus.com/activities/introkurs-havkajakk-for-ungdom-15-25-ar",
+      "url": "https://alesund.friskus.com/events/oaao4obUArOc0",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3289,7 +3289,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_596280",
-      "url": "https://alesund.friskus.com/activities/turverket-hyttetur-til-patchellhytta",
+      "url": "https://alesund.friskus.com/events/oaa-wMe1g0sQ5",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3310,7 +3310,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/48c6bb63-0257-41ed-8396-4033bc5e4b69/-/crop/728x235/0,99/-/preview/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/trimtur-til-storrota-og-plassen",
+      "url": "https://alesund.friskus.com/events/a2fbc339-2325-4dad-afae-126269adc5a9",
       "tags": [],
       "age_groups": [
         "family",
@@ -3329,7 +3329,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_599647",
-      "url": "https://alesund.friskus.com/activities/stiloping-fra-geiranger-jentetur-i-tafjordfjella",
+      "url": "https://alesund.friskus.com/events/oaaoLUIuzEosa",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3350,7 +3350,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_598912",
-      "url": "https://alesund.friskus.com/activities/turledersamling-fjellsport-pa-velleseter",
+      "url": "https://alesund.friskus.com/events/oaabemZgibJKe",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3371,7 +3371,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_587116",
-      "url": "https://alesund.friskus.com/activities/padletur-trekanten-i-alesund-naustet-langevag-alesund",
+      "url": "https://alesund.friskus.com/events/oaaYSFND1Zblx",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3392,7 +3392,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund kommune",
       "image_url": "https://ucarecdn.com/0cc4be7c-3069-4be5-9ac1-7232ac276e27/-/crop/530x144/0,25/-/preview/",
-      "url": "https://alesund.friskus.com/activities/novu-2026-nordisk-venskapsutveksling-for-ungdom-i-alesund",
+      "url": "https://alesund.friskus.com/events/dd4feb83-9522-4ba6-a7aa-bb93ca6556d2",
       "tags": [],
       "age_groups": [
         "teenager"
@@ -3410,7 +3410,7 @@
       "city": "Ålesund",
       "organizer": "Ung i Ålesund",
       "image_url": "https://ucarecdn.com/146b11f5-ac9f-4f1e-b68e-ebc36e983138/-/crop/1392x591/0,607/-/preview/",
-      "url": "https://alesund.friskus.com/activities/drommesommer-2026",
+      "url": "https://alesund.friskus.com/events/01213650-0864-4261-8a1b-6ba0f4c09413",
       "tags": [],
       "age_groups": [
         "children",
@@ -3429,7 +3429,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_595740",
-      "url": "https://alesund.friskus.com/activities/basecamp-alesund-13-16-ar-uke-27",
+      "url": "https://alesund.friskus.com/events/oaaF0qucICAYe",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3450,7 +3450,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_595617",
-      "url": "https://alesund.friskus.com/activities/friluftsskole-alesund-5-7trinn-uke-27",
+      "url": "https://alesund.friskus.com/events/oaaXDexAwo5iv",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3472,7 +3472,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/b2f54677-cd8d-46c9-a667-08d86025bbc3/-/crop/4000x1091/0,535/-/preview/",
-      "url": "https://alesund.friskus.com/activities/trimtur-i-pensjonistrasa-i-sovik",
+      "url": "https://alesund.friskus.com/events/c6c11fe4-5aa3-47af-80f4-b296dbc568cf",
       "tags": [],
       "age_groups": [
         "family",
@@ -3491,7 +3491,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_592261",
-      "url": "https://alesund.friskus.com/activities/seniortur-til-blafjell-vaksvika",
+      "url": "https://alesund.friskus.com/events/oaaeRuX9PXhXy",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3512,7 +3512,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_588578",
-      "url": "https://alesund.friskus.com/activities/grunnkurs-havkajakk-i-alesund",
+      "url": "https://alesund.friskus.com/events/oaaGjc1MTeLwi",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3535,7 +3535,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/1be7fa23-26d5-45bd-87ca-2122c95c7037/-/crop/1500x409/0,296/-/preview/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/trimtur-pa-elveforebygginga-i-stordal",
+      "url": "https://alesund.friskus.com/events/192ada53-f354-4bba-b804-e7128ea47c95",
       "tags": [],
       "age_groups": [
         "family",
@@ -3554,7 +3554,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_594813",
-      "url": "https://alesund.friskus.com/activities/tirsdagstur-hogsvora",
+      "url": "https://alesund.friskus.com/events/oaavQNXb-qqX6",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3576,7 +3576,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_595593",
-      "url": "https://alesund.friskus.com/activities/sondagstur-til-hellandhornet",
+      "url": "https://alesund.friskus.com/events/oaaS1akOlJZ67",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3599,7 +3599,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_592263",
-      "url": "https://alesund.friskus.com/activities/seniortur-til-frostatinden",
+      "url": "https://alesund.friskus.com/events/oaaIAgGxtTks9",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3620,7 +3620,7 @@
       "city": "Ålesund",
       "organizer": "Sandøyakademiet",
       "image_url": "https://ucarecdn.com/13dd8193-9c8d-40eb-825f-8de0a26fb894/-/crop/1099x300/1,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/kystkulturfestivalen-den-bla-timen-pa-sandoya-apningskonsert-oles-musikalske-eventyr",
+      "url": "https://alesund.friskus.com/events/bf5b162d-da25-446c-8982-e495024ed757",
       "tags": [],
       "age_groups": [
         "children",
@@ -3642,7 +3642,7 @@
       "city": "Ålesund",
       "organizer": "Sandøyakademiet",
       "image_url": "https://ucarecdn.com/13dd8193-9c8d-40eb-825f-8de0a26fb894/-/crop/1099x300/1,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/kystkulturfestivalen-den-bla-timen-maritim-musikk-framfort-og-komponert-av-marine-life",
+      "url": "https://alesund.friskus.com/events/33aa5977-878d-4930-b25d-d2573d3231ff",
       "tags": [],
       "age_groups": [
         "children",
@@ -3664,7 +3664,7 @@
       "city": "Ålesund",
       "organizer": "Sandøyakademiet",
       "image_url": "https://ucarecdn.com/13dd8193-9c8d-40eb-825f-8de0a26fb894/-/crop/1099x300/1,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/kystkulturfestivalen-den-bla-timen-konsert-med-steinar-raknes-og-rita-eriksen",
+      "url": "https://alesund.friskus.com/events/01ef54c3-5a51-4633-8d5d-f4d0037e4843",
       "tags": [],
       "age_groups": [
         "children",
@@ -3686,7 +3686,7 @@
       "city": "Ålesund",
       "organizer": "Sandøyakademiet",
       "image_url": "https://ucarecdn.com/13dd8193-9c8d-40eb-825f-8de0a26fb894/-/crop/1099x300/1,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/kystkulturfestivalen-den-bla-timen-orgelmusikk-fra-norske-og-britiske-oyer-i-sandoy-kyrkje",
+      "url": "https://alesund.friskus.com/events/450ed7d8-0121-4206-ad68-da8c7e0901ce",
       "tags": [],
       "age_groups": [
         "children",
@@ -3708,7 +3708,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_595618",
-      "url": "https://alesund.friskus.com/activities/friluftsskole-alesund-5-7trinn-uke-32",
+      "url": "https://alesund.friskus.com/events/oaaC3BZQtuSGP",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3730,7 +3730,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_595744",
-      "url": "https://alesund.friskus.com/activities/basecamp-alesund-13-16-ar-uke-32",
+      "url": "https://alesund.friskus.com/events/oaavt8BnVlE-0",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3751,7 +3751,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_598485",
-      "url": "https://alesund.friskus.com/activities/yoga-og-pilates-weekend-pa-reindalseter",
+      "url": "https://alesund.friskus.com/events/oaau5PXNniGba",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3772,7 +3772,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_595619",
-      "url": "https://alesund.friskus.com/activities/friluftsskole-alesund-5-7trinn-uke-33",
+      "url": "https://alesund.friskus.com/events/oaaeqx_Oj7VNr",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3794,7 +3794,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/89b7c97a-ae6f-4039-ad9d-cf6a7c21e858/-/crop/2695x809/0,294/-/preview/",
-      "url": "https://alesund.friskus.com/activities/trimtur-fannedalen-pa-slyngstad",
+      "url": "https://alesund.friskus.com/events/8f6daebf-a4eb-4097-99e4-d3274c5fce87",
       "tags": [],
       "age_groups": [
         "family",
@@ -3813,7 +3813,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_596147",
-      "url": "https://alesund.friskus.com/activities/sondagstur-til-riksheimdalen-trandal-nf26",
+      "url": "https://alesund.friskus.com/events/oaa1QwoP__TWr",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3834,7 +3834,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/127fd005-6f49-45a2-ba5a-e3fff6d705a9/-/crop/3736x1390/0,474/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/trimtur-stoene-uri-flemsvege",
+      "url": "https://alesund.friskus.com/events/9fd48426-2d2e-4644-8730-8ee08dd56469",
       "tags": [],
       "age_groups": [
         "family",
@@ -3853,7 +3853,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/59a941bd-3b04-4310-82ce-9de38f702e07/-/crop/593x397/0,84/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/trimtur-til-ansok-og-kleberg-liabygda",
+      "url": "https://alesund.friskus.com/events/bfb4f350-c991-46fc-9fcb-163a70b510fc",
       "tags": [],
       "age_groups": [
         "family",
@@ -3872,7 +3872,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_592178",
-      "url": "https://alesund.friskus.com/activities/informasjonsmote-for-nye-frivillige-til-dnt-sunnmore-alesund",
+      "url": "https://alesund.friskus.com/events/oaaTXY8yXYi8-",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3895,7 +3895,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_596151",
-      "url": "https://alesund.friskus.com/activities/sondagstur-til-tindefjellet",
+      "url": "https://alesund.friskus.com/events/oaaOJYieEZ1Cj",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3918,7 +3918,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/870d934d-7441-4bb8-b7c9-2eabaa103c38/-/crop/3386x924/0,169/-/preview/",
-      "url": "https://alesund.friskus.com/activities/trimtur-tennfjordkaia-rundtur-i-tennfjord",
+      "url": "https://alesund.friskus.com/events/38f22eb1-ac61-4444-8ebf-99b3dd2128d5",
       "tags": [],
       "age_groups": [
         "family",
@@ -3937,7 +3937,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_600648",
-      "url": "https://alesund.friskus.com/activities/kom-deg-ut-dagen-pa-sunnmore-museum-gatefestivalen-alesund",
+      "url": "https://alesund.friskus.com/events/oaaKkZ4Ok7eJd",
       "tags": [
         "friluftsliv",
         "tur"
@@ -3960,7 +3960,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/6d275ded-653e-4a3a-931e-197d87714c5a/-/crop/1592x686/0,155/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/trimtur-til-liasetra-i-solnordalen-og-tjonnebru",
+      "url": "https://alesund.friskus.com/events/0d45114f-520b-4744-a7a4-b494616d1961",
       "tags": [],
       "age_groups": [
         "family",
@@ -3979,7 +3979,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/62f3fddb-369b-4a0d-b99d-f89eb71ebc01/-/crop/3969x1437/0,389/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/trimtur-til-hildredalen-pa-hildre",
+      "url": "https://alesund.friskus.com/events/de9a1100-ccb6-453a-a32f-c655ba7cc06c",
       "tags": [],
       "age_groups": [
         "family",
@@ -3998,7 +3998,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_599632",
-      "url": "https://alesund.friskus.com/activities/dugnadstur-til-vakkerstoylen-vedlauget",
+      "url": "https://alesund.friskus.com/events/oaaxHqx2uACfE",
       "tags": [
         "friluftsliv",
         "tur"
@@ -4020,7 +4020,7 @@
       "city": "Ålesund",
       "organizer": "Ålesund brannvesen KF",
       "image_url": "https://ucarecdn.com/f9b73141-87de-4c95-9d6e-2cb97a89e435/-/crop/1920x523/0,278/-/preview/",
-      "url": "https://alesund.friskus.com/activities/apen-dag-sjoholt-stasjon",
+      "url": "https://alesund.friskus.com/events/d8cad460-d629-49a6-8261-d3e890973725",
       "tags": [],
       "age_groups": [
         "children",
@@ -4039,7 +4039,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/c76ba9af-1f93-439b-a5c7-6e13d3e466c7/-/crop/1077x610/0,14/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/trimtur-haugsaetra-orskogfjellet",
+      "url": "https://alesund.friskus.com/events/63ab6d5f-13aa-4ae7-b55e-145aa752e963",
       "tags": [],
       "age_groups": [
         "family",
@@ -4058,7 +4058,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_601318",
-      "url": "https://alesund.friskus.com/activities/stiloping-i-tafjordfjella",
+      "url": "https://alesund.friskus.com/events/oaasxmxcoOHxl",
       "tags": [
         "friluftsliv",
         "tur"
@@ -4079,7 +4079,7 @@
       "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/d18bfa99-c09b-4800-863e-5940c18ae16b/-/crop/3938x1937/0,166/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/tur-i-lysloypa-pa-skodje",
+      "url": "https://alesund.friskus.com/events/0e95dab2-d6e1-4ac2-9ab1-ae2b7217143b",
       "tags": [],
       "age_groups": [
         "family",
@@ -4098,7 +4098,7 @@
       "city": "Ålesund",
       "organizer": "Harøykoret",
       "image_url": "https://ucarecdn.com/945c293a-0cfc-433d-90cd-baba059122f4/-/crop/1137x311/16,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/valentinskonsert",
+      "url": "https://alesund.friskus.com/events/3cb618eb-b41a-4603-a6c1-0e1e43f63177",
       "tags": [],
       "age_groups": [
         "children",
@@ -4120,7 +4120,7 @@
       "city": "Ålesund",
       "organizer": "SULA IDRETTSLAG",
       "image_url": "https://ucarecdn.com/b97796dc-72d3-4c6e-887e-f286fe6e1372/-/crop/1691x853/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/dansemoro-for-barn-unge-og-voksne-som-trenger-tilrettelegging",
+      "url": "https://alesund.friskus.com/events/b52b3da9-2d5d-48e2-8e73-4c704666e533",
       "tags": [],
       "age_groups": [
         "children",
@@ -4141,7 +4141,7 @@
       "city": "Ålesund",
       "organizer": "Sula frivilligsentral",
       "image_url": "https://ucarecdn.com/2c6fd9b4-08d9-4639-87bb-fe01b5153ffe/-/crop/850x231/0,42/-/preview/",
-      "url": "https://alesund.friskus.com/activities/sula-sportsbibliotek",
+      "url": "https://alesund.friskus.com/events/9431fe9b-7d5c-4c8f-9ca1-16e63fa3d8e6",
       "tags": [],
       "age_groups": [
         "children",
@@ -4163,7 +4163,7 @@
       "city": "Ålesund",
       "organizer": "Mauseidvåg Bedehusforening",
       "image_url": "https://ucarecdn.com/08f0be57-a8bb-40c8-bf3b-97e399325f11/-/crop/5312x1447/0,770/-/preview/",
-      "url": "https://alesund.friskus.com/activities/gjenbruksbutikk-mauseidvag-ti",
+      "url": "https://alesund.friskus.com/events/99fe4f7d-fdbb-4cdd-b2c7-64bc2c3389f3",
       "tags": [],
       "age_groups": [
         "children",
@@ -4185,7 +4185,7 @@
       "city": "Ålesund",
       "organizer": "Sula Frikirke",
       "image_url": "https://ucarecdn.com/3e5f378d-3bcc-4931-9e1c-5e6e0f69a4e8/-/crop/1917x448/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/barnekor",
+      "url": "https://alesund.friskus.com/events/ec4ae92a-a6b3-48af-afa0-51aa19126b50",
       "tags": [],
       "age_groups": [
         "children"
@@ -4203,7 +4203,7 @@
       "city": "Ålesund",
       "organizer": "Sula bibliotek",
       "image_url": "https://ucarecdn.com/e818ff3c-f74a-462c-9c8a-6ae5b4c5eb30/-/crop/1452x396/72,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/inspirasjonsforedrag-om-som-og-gjenbruk",
+      "url": "https://alesund.friskus.com/events/cdd99914-0bb9-44ef-a8cd-d23f5f0c2131",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -4223,7 +4223,7 @@
       "city": "Ålesund",
       "organizer": "Mauseidvåg Bedehusforening",
       "image_url": "https://ucarecdn.com/08f0be57-a8bb-40c8-bf3b-97e399325f11/-/crop/5312x1447/0,770/-/preview/",
-      "url": "https://alesund.friskus.com/activities/gjenbruksbutikk-mauseidvag-to",
+      "url": "https://alesund.friskus.com/events/30e35358-a4a5-47e4-b27a-d7c3dbf83b45",
       "tags": [],
       "age_groups": [
         "children",
@@ -4245,7 +4245,7 @@
       "city": "Ålesund",
       "organizer": "Tiltakseininga for barn og unge",
       "image_url": "https://ucarecdn.com/8340e348-7e44-4ad7-9e77-ab19ae43daa4/-/crop/784x214/0,13/-/preview/",
-      "url": "https://alesund.friskus.com/activities/pmto-foreldrekurs",
+      "url": "https://alesund.friskus.com/events/f727cc9f-74de-4add-9f79-fad2dddc3eec",
       "tags": [],
       "age_groups": [
         "family",
@@ -4264,7 +4264,7 @@
       "city": "Ålesund",
       "organizer": "Sula kommune",
       "image_url": "https://ucarecdn.com/177b67bb-64c0-4e87-903f-e78b2fa3cb58/-/crop/2481x794/0,915/-/preview/",
-      "url": "https://alesund.friskus.com/activities/open-hall",
+      "url": "https://alesund.friskus.com/events/48f37a39-d4ca-428d-a865-384b5c049f57",
       "tags": [],
       "age_groups": [
         "teenager"
@@ -4282,7 +4282,7 @@
       "city": "Ålesund",
       "organizer": "Mauseidvåg Bedehusforening",
       "image_url": "https://ucarecdn.com/08f0be57-a8bb-40c8-bf3b-97e399325f11/-/crop/5312x1447/0,770/-/preview/",
-      "url": "https://alesund.friskus.com/activities/gjenbruksbutikk-mauseidvag-lo",
+      "url": "https://alesund.friskus.com/events/bf8907e4-df55-4cce-a645-46f42167762d",
       "tags": [],
       "age_groups": [
         "children",
@@ -4304,7 +4304,7 @@
       "city": "Ålesund",
       "organizer": "Sula Frikirke",
       "image_url": "https://ucarecdn.com/4c115c49-6349-4447-abbf-fb8c70300fd1/-/crop/2045x559/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/connect",
+      "url": "https://alesund.friskus.com/events/c90a4a9e-3b46-461f-b728-080b34a008b5",
       "tags": [],
       "age_groups": [
         "teenager"
@@ -4322,7 +4322,7 @@
       "city": "Ålesund",
       "organizer": "Sula Frikirke",
       "image_url": "https://ucarecdn.com/bd8910e8-84f7-452b-86f7-c692f3fa6b06/-/crop/1920x523/0,556/-/preview/",
-      "url": "https://alesund.friskus.com/activities/sondagsskolen",
+      "url": "https://alesund.friskus.com/events/7ba9b0bd-5764-463a-9974-eb8695277d57",
       "tags": [],
       "age_groups": [
         "children",
@@ -4341,7 +4341,7 @@
       "city": "Ålesund",
       "organizer": "Sula bibliotek",
       "image_url": "https://ucarecdn.com/17bff5cc-5dcb-4784-84dc-5aa5a004c848/-/crop/960x262/0,122/-/preview/",
-      "url": "https://alesund.friskus.com/activities/samlesingshared-reading-pa-sula-bibliotek",
+      "url": "https://alesund.friskus.com/events/5132b4a5-5ffc-4a5c-9825-712027593413",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -4361,7 +4361,7 @@
       "city": "Ålesund",
       "organizer": "Sula Frikirke",
       "image_url": "https://ucarecdn.com/9d8ccced-091f-467d-863c-9e04f5fb8767/-/crop/1920x523/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/activities/barselkafe",
+      "url": "https://alesund.friskus.com/events/ccbae1b9-039b-4310-9b6d-1612a327a204",
       "tags": [],
       "age_groups": [
         "children",
@@ -4380,7 +4380,7 @@
       "city": "Ålesund",
       "organizer": "Sula bibliotek",
       "image_url": "https://ucarecdn.com/fef19017-7290-47af-abb4-983b19fcb207/-/crop/960x262/0,207/-/preview/",
-      "url": "https://alesund.friskus.com/activities/kaffevenn-pa-sula-bibliotek",
+      "url": "https://alesund.friskus.com/events/bca7d76a-0747-409f-a1ef-46d07ab85ea1",
       "tags": [],
       "age_groups": [
         "senior",
@@ -4399,7 +4399,7 @@
       "city": "Ålesund",
       "organizer": "Sula Husflidslag",
       "image_url": "https://ucarecdn.com/82067727-bf87-4389-8444-397bee65a79c/-/crop/720x197/0,188/-/preview/",
-      "url": "https://alesund.friskus.com/activities/husflidsmote",
+      "url": "https://alesund.friskus.com/events/bfa987e6-90b5-4c31-88cf-caebd2017f21",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -4420,7 +4420,7 @@
       "city": "Ålesund",
       "organizer": "Mauseidvåg Bedehusforening",
       "image_url": "https://ucarecdn.com/2c56eb4e-f1e0-4d76-91b8-562f0ae3aa84/-/crop/400x109/0,50/-/preview/",
-      "url": "https://alesund.friskus.com/activities/fellesmote-indre-sula",
+      "url": "https://alesund.friskus.com/events/5d5c4785-d51d-4065-b040-900a8f330a29",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -4440,7 +4440,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_595548",
-      "url": "https://alesund.friskus.com/activities/tirsdagstur-sulebakkhornet",
+      "url": "https://alesund.friskus.com/events/oaaB1ezA4Yn4P",
       "tags": [
         "friluftsliv",
         "tur"
@@ -4462,7 +4462,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_601603",
-      "url": "https://alesund.friskus.com/activities/workshop-stillas-for-frivillige",
+      "url": "https://alesund.friskus.com/events/oaa6F9xFt-BG_",
       "tags": [
         "friluftsliv",
         "tur"
@@ -4484,7 +4484,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_595696",
-      "url": "https://alesund.friskus.com/activities/friluftsskole-sula-5-7-trinn-uke-32",
+      "url": "https://alesund.friskus.com/events/oaalZK9VY7Qzb",
       "tags": [
         "friluftsliv",
         "tur"
@@ -4506,7 +4506,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_595698",
-      "url": "https://alesund.friskus.com/activities/friluftsskole-sula-5-7-trinn-uke-33",
+      "url": "https://alesund.friskus.com/events/oaaVlmKczVf_P",
       "tags": [
         "friluftsliv",
         "tur"
@@ -4528,7 +4528,7 @@
       "city": "Ålesund",
       "organizer": "Psykisk helse og rus, Sula kommune",
       "image_url": "https://ucarecdn.com/15ba02ed-c71f-406e-bf06-b82917b9d3c3/-/crop/1875x982/12,250/-/preview/",
-      "url": "https://alesund.friskus.com/activities/kurs-i-bekymringsmestring",
+      "url": "https://alesund.friskus.com/events/ffe3106d-d94d-4d48-99df-8461d769ce08",
       "tags": [],
       "age_groups": [
         "senior"
@@ -4546,7 +4546,7 @@
       "city": "Ålesund",
       "organizer": "Giske folkebibliotek",
       "image_url": "https://ucarecdn.com/291cb93f-fd25-460e-a4da-21b6d9547361/-/crop/1200x328/0,170/-/preview/",
-      "url": "https://alesund.friskus.com/activities/biblioteket-er-ope-i-dag",
+      "url": "https://alesund.friskus.com/events/4099e8e2-02df-4c0a-880e-02130c8fd1c7",
       "tags": [],
       "age_groups": [
         "children",
@@ -4568,7 +4568,7 @@
       "city": "Ålesund",
       "organizer": "Vigra Aktivitets og Frivillighetssentral VAF",
       "image_url": "https://ucarecdn.com/1a2a6ea2-a5a0-4192-a3a5-7df8680151dc/-/scale_crop/1100x300/smart/-/resize/x300/-/setfill/6E37CB/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/activities/formiddagstreff",
+      "url": "https://alesund.friskus.com/events/cb765ce4-6205-4627-95c9-32f0215b1e2c",
       "tags": [],
       "age_groups": [
         "children",
@@ -4590,7 +4590,7 @@
       "city": "Ålesund",
       "organizer": "Giske kyrkjelege fellesråd",
       "image_url": "https://ucarecdn.com/98cca98c-a6a9-4625-b40b-021a1eefb630/-/crop/1024x279/0,201/-/preview/",
-      "url": "https://alesund.friskus.com/activities/minikor",
+      "url": "https://alesund.friskus.com/events/2095e4ac-63f6-4252-9e69-490efc530db3",
       "tags": [],
       "age_groups": [
         "children",
@@ -4609,7 +4609,7 @@
       "city": "Ålesund",
       "organizer": "Giske kyrkjelege fellesråd",
       "image_url": "https://ucarecdn.com/18efeef8-e08f-4d27-81cd-8bc665abcc3b/-/crop/4032x1100/0,993/-/preview/",
-      "url": "https://alesund.friskus.com/activities/gospelkoroving",
+      "url": "https://alesund.friskus.com/events/92974dd2-6773-4f09-a567-387b8e963d9e",
       "tags": [],
       "age_groups": [
         "senior",
@@ -4628,7 +4628,7 @@
       "city": "Ålesund",
       "organizer": "Giske Rotaryklubb",
       "image_url": "https://ucarecdn.com/006f4c8d-bdab-4f87-817e-48703582ebc8/-/crop/444x233/0,317/-/preview/-/scale_crop/1100x300/smart/",
-      "url": "https://alesund.friskus.com/activities/varfest-pa-mjolner",
+      "url": "https://alesund.friskus.com/events/7d72d207-9797-43a6-b0e2-8a4a84cbeaad",
       "tags": [],
       "age_groups": [
         "senior"
@@ -4646,7 +4646,7 @@
       "city": "Ålesund",
       "organizer": "Vigra og Valderøy skulekorps",
       "image_url": "https://ucarecdn.com/41f0bedf-5905-4598-adb3-28a54963ec8b/-/crop/1592x435/0,243/-/preview/",
-      "url": "https://alesund.friskus.com/activities/varkonsert-med-4-korps",
+      "url": "https://alesund.friskus.com/events/b9f2b6c1-fdd8-4230-a422-52f9cd953737",
       "tags": [],
       "age_groups": [
         "children",
@@ -4668,7 +4668,7 @@
       "city": "Ålesund",
       "organizer": "Giske folkebibliotek",
       "image_url": "https://ucarecdn.com/3bde5b8e-356e-4d95-b9f7-3753fbb33af7/-/crop/1920x523/0,76/-/preview/",
-      "url": "https://alesund.friskus.com/activities/forfattermote-med-alf-kjetil-walgermo",
+      "url": "https://alesund.friskus.com/events/26e86e98-9974-42ad-9673-f03134038b3c",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -4688,7 +4688,7 @@
       "city": "Ålesund",
       "organizer": "Giske folkebibliotek",
       "image_url": "https://ucarecdn.com/4a0f2174-700c-4b92-9e5a-5946e5317584/-/crop/1536x419/0,182/-/preview/",
-      "url": "https://alesund.friskus.com/activities/sprakkafe-pa-biblioteket-language-cafe-in-the-library",
+      "url": "https://alesund.friskus.com/events/e559ead5-3d5e-4176-a2af-177e079b0e70",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -4708,7 +4708,7 @@
       "city": "Ålesund",
       "organizer": "Giske kyrkjelege fellesråd",
       "image_url": "https://ucarecdn.com/07aa8076-5289-45ae-965a-8a1d84155ba7/-/crop/4032x1100/0,744/-/preview/",
-      "url": "https://alesund.friskus.com/activities/varkonsert-med-kortoft",
+      "url": "https://alesund.friskus.com/events/319c8414-9864-4175-bdf5-4f22da3fca9c",
       "tags": [],
       "age_groups": [
         "children",
@@ -4730,7 +4730,7 @@
       "city": "Ålesund",
       "organizer": "Giske kyrkjelege fellesråd",
       "image_url": "https://ucarecdn.com/c36298b4-ac28-4e1a-a382-93ce8152d69f/-/crop/4032x1100/0,775/-/preview/",
-      "url": "https://alesund.friskus.com/activities/gospel-og-kafe-med-band",
+      "url": "https://alesund.friskus.com/events/0197cabe-36db-4625-b3e7-dc48cb45fe1a",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -4750,7 +4750,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_595573",
-      "url": "https://alesund.friskus.com/activities/sondagstur-til-storhornet-rundt-alnesvatnet",
+      "url": "https://alesund.friskus.com/events/oaa1WgxTdkuIj",
       "tags": [
         "friluftsliv",
         "tur"
@@ -4772,7 +4772,7 @@
       "city": "Ålesund",
       "organizer": "Giske Sogelag",
       "image_url": "https://ucarecdn.com/8c802385-cc1a-4286-a358-5f4927b67bc8/-/crop/1767x925/105,51/-/preview/",
-      "url": "https://alesund.friskus.com/activities/strikkekafe",
+      "url": "https://alesund.friskus.com/events/8f5f493a-647a-4486-9dde-f5564a77c5ee",
       "tags": [],
       "age_groups": [
         "senior"
@@ -4790,7 +4790,7 @@
       "city": "Ålesund",
       "organizer": "Giske kyrkjelege fellesråd",
       "image_url": "https://ucarecdn.com/f3511c22-5168-45f4-941e-cb4caa2b6fdb/-/crop/4032x1101/0,655/-/preview/",
-      "url": "https://alesund.friskus.com/activities/klang-i-kapellet",
+      "url": "https://alesund.friskus.com/events/3d31a892-18f1-48b0-ae5e-1b599ee28d7e",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -4810,7 +4810,7 @@
       "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_592315",
-      "url": "https://alesund.friskus.com/activities/seniortur-til-signalen-rundtur-nedom-skjonghelleren",
+      "url": "https://alesund.friskus.com/events/oaaZ26Gh2nx1m",
       "tags": [
         "friluftsliv",
         "tur"
@@ -4948,7 +4948,7 @@
       "location_name": "Sobra scene",
       "city": "Ålesund",
       "organizer": "KAULA",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_0f8c3e4091f12a60a5ce4fcfb4bc53cb.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_0f8c3e4091f12a60a5ce4fcfb4bc53cb.jpg?class=w768",
       "url": "https://tikkio.com/events/62563-sommeren-tatt-pa-sparket",
       "tags": [],
       "age_groups": [],
@@ -4965,7 +4965,7 @@
       "price_text": "NOK 89.00",
       "location_name": "Soi One Ålesund",
       "city": "Ålesund",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_804b7aed528b8a9bab47f83f3c84922e.png?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_804b7aed528b8a9bab47f83f3c84922e.png?class=w768",
       "url": "https://tikkio.com/events/62988-karrierekveld",
       "tags": [],
       "age_groups": [],
@@ -4984,7 +4984,7 @@
       "latitude": 62.4730488,
       "longitude": 6.1582367,
       "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_f4fed6b475d349374abac8cf1759412b.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_f4fed6b475d349374abac8cf1759412b.jpg?class=w768",
       "url": "https://tikkio.com/events/62636-film-med-mening-dialogpolisen-lovenvold-x-the-north-west",
       "tags": [],
       "age_groups": [],
@@ -5003,7 +5003,7 @@
       "latitude": 62.4730488,
       "longitude": 6.1582367,
       "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_c5ffd8367fd28e2b7b14318cefe152a1.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_c5ffd8367fd28e2b7b14318cefe152a1.webp?class=w768",
       "url": "https://tikkio.com/events/59845-dora-thorhallsdottir-livet-ass-lovenvold-theater",
       "tags": [],
       "age_groups": [],
@@ -5022,7 +5022,7 @@
       "latitude": 62.4730488,
       "longitude": 6.1582367,
       "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_84c415286c35579624ead3751e109600.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_84c415286c35579624ead3751e109600.jpeg?class=w768",
       "url": "https://tikkio.com/events/60487-standup-med-jorgen-ep-javad-el-bakali",
       "tags": [],
       "age_groups": [],
@@ -5041,7 +5041,7 @@
       "latitude": 62.4730488,
       "longitude": 6.1582367,
       "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_f36f3e45ed0fcea470d87abeaab7d092.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_f36f3e45ed0fcea470d87abeaab7d092.webp?class=w768",
       "url": "https://tikkio.com/events/63224-ekstrashow-standup-med-jorgen-ep-javad-el-bakali",
       "tags": [],
       "age_groups": [],
@@ -5060,7 +5060,7 @@
       "latitude": 62.4730488,
       "longitude": 6.1582367,
       "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_e2d2ba250f97f71d7c5787bb5c1db56e.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_e2d2ba250f97f71d7c5787bb5c1db56e.webp?class=w768",
       "url": "https://tikkio.com/events/61787-hjertesklag",
       "tags": [],
       "age_groups": [],
@@ -5079,7 +5079,7 @@
       "latitude": 62.4730488,
       "longitude": 6.1582367,
       "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_77782fc0c39646b783616ac6c55221e1.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_77782fc0c39646b783616ac6c55221e1.jpg?class=w768",
       "url": "https://tikkio.com/events/60557-daniela-reyes-lovenvold-theater",
       "tags": [],
       "age_groups": [],
@@ -5098,7 +5098,7 @@
       "latitude": 62.4730488,
       "longitude": 6.1582367,
       "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_3e1af7066f22079017df07744c310f90.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_3e1af7066f22079017df07744c310f90.webp?class=w768",
       "url": "https://tikkio.com/events/60886-bare-halvveis-et-show-om-veien-videre",
       "tags": [],
       "age_groups": [],
@@ -5116,7 +5116,7 @@
       "location_name": "Løvenvold Theater",
       "city": "Ålesund",
       "organizer": "THE NORTH WEST AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_48c633536c40c7c4307fe496a513df2b.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_48c633536c40c7c4307fe496a513df2b.jpg?class=w768",
       "url": "https://tikkio.com/events/62924-tingenes-tilstand-da-det-kom-til-norge",
       "tags": [],
       "age_groups": [],
@@ -5134,7 +5134,7 @@
       "location_name": "Løvenvold Theater",
       "city": "Ålesund",
       "organizer": "THE NORTH WEST AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_a0ef491989f85e4486ce9199fd3a4556.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_a0ef491989f85e4486ce9199fd3a4556.jpg?class=w768",
       "url": "https://tikkio.com/events/62912-norsken-svensken-og-dansken-live",
       "tags": [],
       "age_groups": [],
@@ -5152,7 +5152,7 @@
       "location_name": "Løvenvold Theater",
       "city": "Ålesund",
       "organizer": "THE NORTH WEST AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_c0acd481bc39c40e84e7cb13f055d937.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_c0acd481bc39c40e84e7cb13f055d937.jpg?class=w768",
       "url": "https://tikkio.com/events/62941-pop-politikk-live",
       "tags": [],
       "age_groups": [],
@@ -5171,7 +5171,7 @@
       "latitude": 62.4730488,
       "longitude": 6.1582367,
       "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_52517300151a46ad3a26a6dd1502b5be.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_52517300151a46ad3a26a6dd1502b5be.webp?class=w768",
       "url": "https://tikkio.com/events/60577-jo-nesbo-sanger-historier",
       "tags": [],
       "age_groups": [],
@@ -5190,7 +5190,7 @@
       "latitude": 62.4730488,
       "longitude": 6.1582367,
       "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_96f5af18cd7e84579e4faf1eba0db7b6.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_96f5af18cd7e84579e4faf1eba0db7b6.jpg?class=w768",
       "url": "https://tikkio.com/events/62361-isabel-skolmen",
       "tags": [],
       "age_groups": [],
@@ -5209,7 +5209,7 @@
       "latitude": 62.4730488,
       "longitude": 6.1582367,
       "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_35e5b58d1a5a60913655c546b97fbf63.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_35e5b58d1a5a60913655c546b97fbf63.jpg?class=w768",
       "url": "https://tikkio.com/events/58749-terje-sporsem-jon-brungot-hoy-og-mork-lovenvold-theater",
       "tags": [],
       "age_groups": [],
@@ -5226,7 +5226,7 @@
       "location_name": "Løvenvold Theater",
       "city": "Ålesund",
       "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_77b13bd8e2987324a3d37040cd032c1d.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_77b13bd8e2987324a3d37040cd032c1d.jpg?class=w768",
       "url": "https://tikkio.com/events/60564-maria-haukaas-mittet-lovenvold-theater",
       "tags": [],
       "age_groups": [],
@@ -5243,7 +5243,7 @@
       "location_name": "Løvenvold Theater",
       "city": "Ålesund",
       "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_788aac0baf0ff2974f78e44932264aa5.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_788aac0baf0ff2974f78e44932264aa5.jpg?class=w768",
       "url": "https://tikkio.com/events/61522-film-med-mening-agnes-mot-verden-lovenvold-x-the-north-west",
       "tags": [],
       "age_groups": [],
@@ -5260,7 +5260,7 @@
       "location_name": "Løvenvold Theater",
       "city": "Ålesund",
       "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_96713bb6be685bc393d34ef7d9914a2c.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_96713bb6be685bc393d34ef7d9914a2c.jpeg?class=w768",
       "url": "https://tikkio.com/events/61781-sostrene-talling-live-livredd",
       "tags": [],
       "age_groups": [],
@@ -5278,7 +5278,7 @@
       "location_name": "Thon Hotell Ålesund",
       "city": "Ålesund",
       "organizer": "Bypatrioten AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_b85a7e7ae3b32b00459b2555a59d8789.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_b85a7e7ae3b32b00459b2555a59d8789.jpg?class=w768",
       "url": "https://tikkio.com/events/61245-singeltreff-alesund-50",
       "tags": [],
       "age_groups": [],
@@ -5296,7 +5296,7 @@
       "location_name": "Dampsentralen",
       "city": "Ålesund",
       "organizer": "NÆRINGSLIVSUTVALGET NTNU ÅLESUND",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_8fcfda139557f90efd26ea1de2552756.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_8fcfda139557f90efd26ea1de2552756.jpg?class=w768",
       "url": "https://tikkio.com/events/63260-aksjer-og-pils",
       "tags": [],
       "age_groups": [],
@@ -5314,7 +5314,7 @@
       "location_name": "Dampsentralen",
       "city": "Ålesund",
       "organizer": "Bypatrioten AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_b1ae963ac226b3ee8b32ad12f9446b9f.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_b1ae963ac226b3ee8b32ad12f9446b9f.jpg?class=w768",
       "url": "https://tikkio.com/events/63185-singeltreff-alesund-pride",
       "tags": [],
       "age_groups": [],
@@ -5332,7 +5332,7 @@
       "location_name": "Pir",
       "city": "Ålesund",
       "organizer": "THE NORTH WEST AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_28588cb84b2a566b4546a1f448366c63.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_28588cb84b2a566b4546a1f448366c63.jpg?class=w768",
       "url": "https://tikkio.com/events/62666-folk-nok",
       "tags": [],
       "age_groups": [],
@@ -5352,7 +5352,7 @@
       "latitude": 62.4711327,
       "longitude": 6.1580999,
       "organizer": "Loran AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_c5868e0aba3953955418d8bd01e5ff7d.png?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_c5868e0aba3953955418d8bd01e5ff7d.png?class=w768",
       "url": "https://tikkio.com/events/63179-pirbygget-dampsentralen-og-loran-inviterer-til-varkonsert",
       "tags": [],
       "age_groups": [],
@@ -5372,7 +5372,7 @@
       "latitude": 62.4702872,
       "longitude": 6.1533313,
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_3761eaab7cd99d3149e11c699b7e94f5.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_3761eaab7cd99d3149e11c699b7e94f5.webp?class=w768",
       "url": "https://tikkio.com/events/63077-for-midnatt-club-terminalen",
       "tags": [],
       "age_groups": [],
@@ -5392,7 +5392,7 @@
       "latitude": 62.4702872,
       "longitude": 6.1533313,
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_00f099fff05e5a29e9b1817f126ff7d0.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_00f099fff05e5a29e9b1817f126ff7d0.webp?class=w768",
       "url": "https://tikkio.com/events/63068-spirekonsert-sleiken-x-hjorterund-alle-terminalen",
       "tags": [],
       "age_groups": [],
@@ -5412,7 +5412,7 @@
       "latitude": 62.4702872,
       "longitude": 6.1533313,
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_b732a00b54712c96d6ef576a6504e8c8.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_b732a00b54712c96d6ef576a6504e8c8.jpg?class=w768",
       "url": "https://tikkio.com/events/62791-sleiken-x-hjorterud-alle-terminalen",
       "tags": [],
       "age_groups": [],
@@ -5432,7 +5432,7 @@
       "latitude": 62.4702872,
       "longitude": 6.1533313,
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_215d44ef38ae7aa6607af394a1ed327e.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_215d44ef38ae7aa6607af394a1ed327e.webp?class=w768",
       "url": "https://tikkio.com/events/61932-gluecifer-terminalen-byscene",
       "tags": [],
       "age_groups": [],
@@ -5452,7 +5452,7 @@
       "latitude": 62.4702872,
       "longitude": 6.1533313,
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_4da6a6080838dd8e9d1a04d1756060a3.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_4da6a6080838dd8e9d1a04d1756060a3.webp?class=w768",
       "url": "https://tikkio.com/events/62713-fotball-vm-16-juni-vm-pa-terminalen",
       "tags": [],
       "age_groups": [],
@@ -5472,7 +5472,7 @@
       "latitude": 62.4702872,
       "longitude": 6.1533313,
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_a0dcf19785f28e242641a8a321010848.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_a0dcf19785f28e242641a8a321010848.webp?class=w768",
       "url": "https://tikkio.com/events/62716-fotball-vm-22-juni-vm-pa-terminalen",
       "tags": [],
       "age_groups": [],
@@ -5492,7 +5492,7 @@
       "latitude": 62.4702872,
       "longitude": 6.1533313,
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_8c0e246832563cdee99d1bc398c50f16.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_8c0e246832563cdee99d1bc398c50f16.webp?class=w768",
       "url": "https://tikkio.com/events/62718-fotball-vm-26-juni-vm-pa-terminalen",
       "tags": [],
       "age_groups": [],
@@ -5512,7 +5512,7 @@
       "latitude": 62.4702872,
       "longitude": 6.1533313,
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_f5a9555686741670079ffe5147fd83a6.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_f5a9555686741670079ffe5147fd83a6.webp?class=w768",
       "url": "https://tikkio.com/events/58409-spirefest-26",
       "tags": [],
       "age_groups": [],
@@ -5532,7 +5532,7 @@
       "latitude": 62.4702872,
       "longitude": 6.1533313,
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_03bc64a3eaff35629e609aa391158188.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_03bc64a3eaff35629e609aa391158188.webp?class=w768",
       "url": "https://tikkio.com/events/63095-axel-wold-lamborg-terminalen",
       "tags": [],
       "age_groups": [],
@@ -5552,7 +5552,7 @@
       "latitude": 62.4702872,
       "longitude": 6.1533313,
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_f2bacd23e1c6a96c598be7ece037e036.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_f2bacd23e1c6a96c598be7ece037e036.webp?class=w768",
       "url": "https://tikkio.com/events/62719-ozzy-tribute-blizzard-terminalen",
       "tags": [],
       "age_groups": [],
@@ -5572,7 +5572,7 @@
       "latitude": 62.4702872,
       "longitude": 6.1533313,
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_65b3baa5969c6c251e997e0e4aad20b5.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_65b3baa5969c6c251e997e0e4aad20b5.webp?class=w768",
       "url": "https://tikkio.com/events/62916-nazareth-terminalen",
       "tags": [],
       "age_groups": [],
@@ -5590,7 +5590,7 @@
       "location_name": "TERMINALEN",
       "city": "Ålesund",
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_607fcaaa16dbe1d6a9c7b92a487b49f0.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_607fcaaa16dbe1d6a9c7b92a487b49f0.webp?class=w768",
       "url": "https://tikkio.com/events/61218-superquiz-vol-5-terminalen",
       "tags": [],
       "age_groups": [],
@@ -5608,7 +5608,7 @@
       "location_name": "TERMINALEN",
       "city": "Ålesund",
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_051ef7781f966bf3d30209f3cfb36c47.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_051ef7781f966bf3d30209f3cfb36c47.jpg?class=w768",
       "url": "https://tikkio.com/events/58426-hagle-terminalen",
       "tags": [],
       "age_groups": [],
@@ -5626,7 +5626,7 @@
       "location_name": "TERMINALEN",
       "city": "Ålesund",
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_270fde5376cf64f9d361d89532057f1a.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_270fde5376cf64f9d361d89532057f1a.webp?class=w768",
       "url": "https://tikkio.com/events/61219-superquiz-vol-6-terminalen",
       "tags": [],
       "age_groups": [],
@@ -5644,7 +5644,7 @@
       "location_name": "TERMINALEN",
       "city": "Ålesund",
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_5bfae9bf2df689116ddb4d01eb99c282.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_5bfae9bf2df689116ddb4d01eb99c282.webp?class=w768",
       "url": "https://tikkio.com/events/61220-superquiz-vol-7-terminalen",
       "tags": [],
       "age_groups": [],
@@ -5662,7 +5662,7 @@
       "location_name": "TERMINALEN",
       "city": "Ålesund",
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_fe5f5235d5ef5a7c5d62b0bfe362e822.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_fe5f5235d5ef5a7c5d62b0bfe362e822.jpg?class=w768",
       "url": "https://tikkio.com/events/57294-warriors-of-steel-festival",
       "tags": [],
       "age_groups": [],
@@ -5680,7 +5680,7 @@
       "location_name": "TERMINALEN",
       "city": "Ålesund",
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_903ef7d25e0575eb7d2454d77d6c43f3.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_903ef7d25e0575eb7d2454d77d6c43f3.webp?class=w768",
       "url": "https://tikkio.com/events/60566-rick-grove-venterommet-live",
       "tags": [],
       "age_groups": [],
@@ -5698,7 +5698,7 @@
       "location_name": "TERMINALEN",
       "city": "Ålesund",
       "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_8a5a30dbf2b03ce55fc19152669b5ff5.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_8a5a30dbf2b03ce55fc19152669b5ff5.webp?class=w768",
       "url": "https://tikkio.com/events/61212-superquiz-finale-terminalen",
       "tags": [],
       "age_groups": [],
@@ -5718,7 +5718,7 @@
       "latitude": 62.4719155,
       "longitude": 6.1601977,
       "organizer": "Echo AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_ac8d6d6e78262170884e0146a6a8722a.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_ac8d6d6e78262170884e0146a6a8722a.webp?class=w768",
       "url": "https://tikkio.com/events/62453-konsert-med-marie-lovas-og-julie-henrikke",
       "tags": [],
       "age_groups": [],
@@ -5738,7 +5738,7 @@
       "latitude": 62.4722284,
       "longitude": 6.149482,
       "organizer": "Ålesund og Volsdalen menighet",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_3428e785f5af9526a96bb88fc8443a75.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_3428e785f5af9526a96bb88fc8443a75.jpg?class=w768",
       "url": "https://tikkio.com/events/62547-allsang-konserten-na-er-morketida-over",
       "tags": [],
       "age_groups": [],
@@ -5757,7 +5757,7 @@
       "latitude": 62.4729338,
       "longitude": 6.1603533,
       "organizer": "Converto AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_187dd7cb12a2e579eb5b8974ebe0dabc.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_187dd7cb12a2e579eb5b8974ebe0dabc.webp?class=w768",
       "url": "https://tikkio.com/events/63344-torsdagskvelden-brannen-pa-sukkertoppen-beredskap-og-tillitssamfunnet",
       "tags": [],
       "age_groups": [],
@@ -5776,7 +5776,7 @@
       "latitude": 62.4750203,
       "longitude": 6.1536567,
       "organizer": "TIKKIO AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_844a23c2bf3acccf40f7aa8c99626103.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_844a23c2bf3acccf40f7aa8c99626103.webp?class=w768",
       "url": "https://tikkio.com/events/56749-test-av-promo",
       "tags": [],
       "age_groups": [],
@@ -5794,7 +5794,7 @@
       "location_name": "Quality Hotel Waterfront, Ålesund",
       "city": "Ålesund",
       "organizer": "Quality Hotel™",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_11cf36b31c76ecfa097a34bb47b1a879.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_11cf36b31c76ecfa097a34bb47b1a879.jpg?class=w768",
       "url": "https://tikkio.com/events/60521-regnbuenatt-alesund-pride-adam-schjolberg",
       "tags": [],
       "age_groups": [],
@@ -5811,7 +5811,7 @@
       "location_name": "Ålesund bibliotek",
       "city": "Ålesund",
       "organizer": "THE NORTH WEST AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_d478f144e8dade6a1dff8c6bb34eff62.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_d478f144e8dade6a1dff8c6bb34eff62.jpg?class=w768",
       "url": "https://tikkio.com/events/62932-livssyn-hva-forener-oss",
       "tags": [],
       "age_groups": [],
@@ -5831,7 +5831,7 @@
       "latitude": 62.4699455,
       "longitude": 6.1837994,
       "organizer": "MOMENTIUM LIVE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_ed4fb3cb34a3b131d4d852fbf3d06af8.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_ed4fb3cb34a3b131d4d852fbf3d06af8.webp?class=w768",
       "url": "https://tikkio.com/events/59587-live-nation-momentium-presentsbrad-paisley",
       "tags": [],
       "age_groups": [],
@@ -5851,7 +5851,7 @@
       "latitude": 62.4699455,
       "longitude": 6.1837994,
       "organizer": "MOMENTIUM LIVE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_b6a2e34598bfa2c11af64227ba7431f3.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_b6a2e34598bfa2c11af64227ba7431f3.webp?class=w768",
       "url": "https://tikkio.com/events/62873-den-store-fotballfesten-norge-frankrike-alesund",
       "tags": [],
       "age_groups": [],
@@ -5869,7 +5869,7 @@
       "location_name": "Samfunnet i Ålesund - Sundebygget",
       "city": "Ålesund",
       "organizer": "SYNTAX LINJEFORENING",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_412b7a62edbab00a64b98b93b99257e9.png?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_412b7a62edbab00a64b98b93b99257e9.png?class=w768",
       "url": "https://tikkio.com/events/62980-syntax-lan-var-2026",
       "tags": [],
       "age_groups": [],
@@ -5886,7 +5886,7 @@
       "location_name": "Scensuren, Samfunnet",
       "city": "Ålesund",
       "organizer": "ÅSS - ÅLESUND STUDENTSAMFUNN",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_44c08232562b03f27039c78cc7ef1316.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_44c08232562b03f27039c78cc7ef1316.jpeg?class=w768",
       "url": "https://tikkio.com/events/63226-disco-gjennom-tidene",
       "tags": [],
       "age_groups": [],
@@ -5904,7 +5904,7 @@
       "location_name": "Standalhytta, Standalseidet",
       "city": "Ålesund",
       "organizer": "Frikjøring og Topptur - NTNU Ålesund",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_947f7dad052f42027b4d4088bf42802a.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_947f7dad052f42027b4d4088bf42802a.webp?class=w768",
       "url": "https://tikkio.com/events/62818-pasketur-pa-standahytta-frikjoring-topptur",
       "tags": [],
       "age_groups": [],
@@ -5921,7 +5921,7 @@
       "location_name": "Vakkerstøylen",
       "city": "Ålesund",
       "organizer": "AQUA TECTA",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_026c0635f53984f17d0456c257c4a760.png?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_026c0635f53984f17d0456c257c4a760.png?class=w768",
       "url": "https://tikkio.com/events/62986-hyttetur-til-vakkerstoylen",
       "tags": [],
       "age_groups": [],
@@ -5939,7 +5939,7 @@
       "location_name": "NTNU Ålesund",
       "city": "Ålesund",
       "organizer": "NTNUI-ÅLESUND - NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITETS IDRETTSFORENING I ÅLESUND",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_ec69343920b732fb17ec2c2eedd214aa.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_ec69343920b732fb17ec2c2eedd214aa.jpeg?class=w768",
       "url": "https://tikkio.com/events/62973-ultra-backyard",
       "tags": [],
       "age_groups": [],
@@ -5957,7 +5957,7 @@
       "location_name": "Alnes fyr og Opplevelsesenter",
       "city": "Ålesund",
       "organizer": "Alnes Fyr og Opplevelsessenter",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_8c893df924ab4a88beb4e92b980bb633.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_8c893df924ab4a88beb4e92b980bb633.jpg?class=w768",
       "url": "https://tikkio.com/events/63005-konsert-med-julieandreas",
       "tags": [],
       "age_groups": [],
@@ -5975,7 +5975,7 @@
       "location_name": "Sunde Fjord Hotel",
       "city": "Ålesund",
       "organizer": "Sunde Fjord Hotel",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_7822954cf68890cf0f761c7ea766f69f.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_7822954cf68890cf0f761c7ea766f69f.jpg?class=w768",
       "url": "https://tikkio.com/events/62403-orjan-buroe-uten-filter-pa-sunde-fjord-hotel",
       "tags": [],
       "age_groups": [],
@@ -5993,7 +5993,7 @@
       "location_name": "Sunde Fjord Hotel",
       "city": "Ålesund",
       "organizer": "Sunde Fjord Hotel",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_4ebf18049e465891d5d2d7096b293091.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_4ebf18049e465891d5d2d7096b293091.jpg?class=w768",
       "url": "https://tikkio.com/events/62509-orjan-buroe-uten-filter-pa-sunde-fjord-hotel-ekstraforestilling",
       "tags": [],
       "age_groups": [],
@@ -6012,7 +6012,7 @@
       "latitude": 62.3926335,
       "longitude": 6.5782684,
       "organizer": "Sykkylven Handelsforening",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_6fb6f82b106a07c6b3126f83057e2a8b.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_6fb6f82b106a07c6b3126f83057e2a8b.jpg?class=w768",
       "url": "https://tikkio.com/events/62389-bygdameisterskap-i-quiz",
       "tags": [],
       "age_groups": [],
@@ -6032,7 +6032,7 @@
       "latitude": 62.3926335,
       "longitude": 6.5782684,
       "organizer": "Sykkylven Handelsforening",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_33752ff510842ad62a2d28fb9dd06853.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_33752ff510842ad62a2d28fb9dd06853.jpeg?class=w768",
       "url": "https://tikkio.com/events/62294-kaifest",
       "tags": [],
       "age_groups": [],
@@ -6050,7 +6050,7 @@
       "location_name": "Sykkylven Kyrkje",
       "city": "Ålesund",
       "organizer": "MAGNE FREMMERLID",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_78c9f738d0495d680368002153ea3162.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_78c9f738d0495d680368002153ea3162.jpeg?class=w768",
       "url": "https://tikkio.com/events/62908-konsert-med-mannskoret-sunnmore",
       "tags": [],
       "age_groups": [],
@@ -6068,7 +6068,7 @@
       "location_name": "Sykkylven Kyrkje",
       "city": "Ålesund",
       "organizer": "SYKKYLVEN KYRKJELEGE FELLESRÅD",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_b167cf727abc2e3414aa16b3c809ec21.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_b167cf727abc2e3414aa16b3c809ec21.jpg?class=w768",
       "url": "https://tikkio.com/events/61286-oystein-pettersen-sma-grep-store-utslag",
       "tags": [],
       "age_groups": [],
@@ -6086,7 +6086,7 @@
       "location_name": "Eidet Skule",
       "city": "Ålesund",
       "organizer": "Pizzamani AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_8414824aa969ed01e6e2043e9a0f0399.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_8414824aa969ed01e6e2043e9a0f0399.jpg?class=w768",
       "url": "https://tikkio.com/events/61553-grunnkurs-i-napolitansk-pizza-bodo",
       "tags": [],
       "age_groups": [],
@@ -6104,7 +6104,7 @@
       "location_name": "Stette, Ålesund Kommune",
       "city": "Ålesund",
       "organizer": "Stettevik Sportsklubb",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_7bcd378ba1e40d51b607b4bb3ef02be0.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_7bcd378ba1e40d51b607b4bb3ef02be0.webp?class=w768",
       "url": "https://tikkio.com/events/60176-stettevikfestivalen-2026",
       "tags": [],
       "age_groups": [],
@@ -6122,7 +6122,7 @@
       "location_name": "Fagerheim, Ungdomshuset på Skodje",
       "city": "Ålesund",
       "organizer": "SKØYE TEATERLAG",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_8af593608727c47b0744cd33440e3a78.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_8af593608727c47b0744cd33440e3a78.jpeg?class=w768",
       "url": "https://tikkio.com/events/60157-skoye-teaterlag-det-store-jubileet-fredag-29-mai",
       "tags": [],
       "age_groups": [],
@@ -6140,7 +6140,7 @@
       "location_name": "Fagerheim, Ungdomshuset på Skodje",
       "city": "Ålesund",
       "organizer": "SKØYE TEATERLAG",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_8af593608727c47b0744cd33440e3a78.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_8af593608727c47b0744cd33440e3a78.jpeg?class=w768",
       "url": "https://tikkio.com/events/60159-skoye-teaterlag-framsyning-2-laurdag-det-store-jubileet",
       "tags": [],
       "age_groups": [],
@@ -6158,7 +6158,7 @@
       "location_name": "Christian Gaard Bygdetun",
       "city": "Ålesund",
       "organizer": "BRATT OG BLÅTT",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_1c95682068933c6bf27ddabaa309994f.JPG?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_1c95682068933c6bf27ddabaa309994f.JPG?class=w768",
       "url": "https://tikkio.com/events/62535-trandalblues-26",
       "tags": [],
       "age_groups": [],
@@ -6176,7 +6176,7 @@
       "location_name": "Christian Gaard Bygdetun",
       "city": "Ålesund",
       "organizer": "COUNTRYPÅTRANDAL",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_488c8695033c518c17c1181e05a756f3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_488c8695033c518c17c1181e05a756f3.jpeg?class=w768",
       "url": "https://tikkio.com/events/61451-trandal-countryfestival-2026",
       "tags": [],
       "age_groups": [],
@@ -6194,7 +6194,7 @@
       "location_name": "Stødt Bar & Scene",
       "city": "Ålesund",
       "organizer": "LØYE I LAG",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_ee1f04e3c797560bd525c1d7ad83ead7.png?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_ee1f04e3c797560bd525c1d7ad83ead7.png?class=w768",
       "url": "https://tikkio.com/events/62891-orsta-motorfest",
       "tags": [],
       "age_groups": [],
@@ -6213,7 +6213,7 @@
       "latitude": 62.3416393,
       "longitude": 5.6323808,
       "organizer": "SOMMARFESTEN I FOSNAVÅG",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_e395acf53264fdd91db0bd00b34136f1.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_e395acf53264fdd91db0bd00b34136f1.webp?class=w768",
       "url": "https://tikkio.com/events/62857-sommarfesten-i-fosnavag-2026",
       "tags": [],
       "age_groups": [],
@@ -6231,7 +6231,7 @@
       "location_name": "Stødt Scene",
       "city": "Ålesund",
       "organizer": "Musikk i Sentrum",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_f3ca15ef24be9c67416a37a628f38f92.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_f3ca15ef24be9c67416a37a628f38f92.webp?class=w768",
       "url": "https://tikkio.com/events/62489-tidstyv-torsdag-30april-stodt-bar-scene",
       "tags": [],
       "age_groups": [],
@@ -6249,7 +6249,7 @@
       "location_name": "Bogne Breseri",
       "city": "Ålesund",
       "organizer": "Raka-Fant AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_1097a679102a0b5e7e7b047d76adbc53.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_1097a679102a0b5e7e7b047d76adbc53.webp?class=w768",
       "url": "https://tikkio.com/events/56377-tom-roger-aadland-pa-bogne",
       "tags": [],
       "age_groups": [],
@@ -6269,7 +6269,7 @@
       "latitude": 62.3413767,
       "longitude": 5.631069,
       "organizer": "Raka-Fant AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_804ad6f7e02af6e5994b32a5cc792f95.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_804ad6f7e02af6e5994b32a5cc792f95.jpeg?class=w768",
       "url": "https://tikkio.com/events/62807-heine-totland",
       "tags": [],
       "age_groups": [],
@@ -6287,7 +6287,7 @@
       "location_name": "Fosnavåg",
       "city": "Ålesund",
       "organizer": "Horisont Fosnavåg",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_b3edf97cf0f56f2371f41a1c320d6643.JPG?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_b3edf97cf0f56f2371f41a1c320d6643.JPG?class=w768",
       "url": "https://tikkio.com/events/61721-spareribs-og-kunstapning-med-ornulf-opdahl",
       "tags": [],
       "age_groups": [],
@@ -6305,7 +6305,7 @@
       "location_name": "Christian Gaard Bygdetun, Trandal",
       "city": "Ålesund",
       "organizer": "LØYE I LAG",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_ddea282a5a0160adf11abf9cc7ea393b.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_ddea282a5a0160adf11abf9cc7ea393b.webp?class=w768",
       "url": "https://tikkio.com/events/60958-trandalrock-2026",
       "tags": [],
       "age_groups": [],
@@ -6323,7 +6323,7 @@
       "location_name": "Velledalen Grendahus",
       "city": "Ålesund",
       "organizer": "FOREININGA ELDSJEL",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_711f5ab14b37986dbef2817d9a253395.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_711f5ab14b37986dbef2817d9a253395.jpeg?class=w768",
       "url": "https://tikkio.com/events/63025-robuste-barn-vline-marie-warholm",
       "tags": [],
       "age_groups": [],
@@ -6341,7 +6341,7 @@
       "location_name": "Hjørundfjord kyrkje",
       "city": "Ålesund",
       "organizer": "COUNTRYPÅTRANDAL",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_cd17304e24a49cf66addc21f55edc19b.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_cd17304e24a49cf66addc21f55edc19b.jpeg?class=w768",
       "url": "https://tikkio.com/events/62828-countrygospel-konsert-torsdag-6august",
       "tags": [],
       "age_groups": [],
@@ -6358,7 +6358,7 @@
       "location_name": "Sunnmøre",
       "city": "Ålesund",
       "organizer": "X2 Festivalen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_c79cc5247b5425b2103ae1719e04d521.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_c79cc5247b5425b2103ae1719e04d521.jpg?class=w768",
       "url": "https://tikkio.com/events/62931-x2-sport-fee-2026",
       "tags": [],
       "age_groups": [],
@@ -6378,7 +6378,7 @@
       "latitude": 62.1472808,
       "longitude": 6.0668942,
       "organizer": "DEN NORSKE DOKUMENTARFILMFESTIVALEN",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/63085-dokfilm-festivalpass-studenthonnor",
       "tags": [],
       "age_groups": [],
@@ -6397,7 +6397,7 @@
       "latitude": 62.1444301,
       "longitude": 6.0728439,
       "organizer": "X2 Festivalen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_4b7536cbba4ef0a42ed54351737f564c.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_4b7536cbba4ef0a42ed54351737f564c.jpg?class=w768",
       "url": "https://tikkio.com/events/57234-x2-festivalen-2026",
       "tags": [],
       "age_groups": [],
@@ -6415,7 +6415,7 @@
       "location_name": "Studenthuset Rokken",
       "city": "Ålesund",
       "organizer": "STUDENTHUSET AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_9e03ee9c8e526e10375d7a6b3a4b8226.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_9e03ee9c8e526e10375d7a6b3a4b8226.webp?class=w768",
       "url": "https://tikkio.com/events/62325-faen-da-martha",
       "tags": [],
       "age_groups": [],
@@ -6433,7 +6433,7 @@
       "location_name": "Studenthuset Rokken",
       "city": "Ålesund",
       "organizer": "STUDENTHUSET AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_29effb555f7348ab11bd942bf9a36cf6.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_29effb555f7348ab11bd942bf9a36cf6.webp?class=w768",
       "url": "https://tikkio.com/events/62887-circuz-rokken",
       "tags": [],
       "age_groups": [],
@@ -6450,7 +6450,7 @@
       "location_name": "Patchellhytta",
       "city": "Ålesund",
       "organizer": "Sunnmøre Frikøyringsklubb",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_c28bd3d98ac83d614217ee13e6cb9c8c.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_c28bd3d98ac83d614217ee13e6cb9c8c.jpg?class=w768",
       "url": "https://tikkio.com/events/63280-hyttetur-til-patchellhytta",
       "tags": [],
       "age_groups": [],
@@ -6468,7 +6468,7 @@
       "location_name": "Idahall",
       "city": "Ålesund",
       "organizer": "Zenario AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_b6f43d1eb2d6806314004b8276ed4f6d.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_b6f43d1eb2d6806314004b8276ed4f6d.jpg?class=w768",
       "url": "https://tikkio.com/events/60020-hildegunn-leif-per-utan-kringkastingsorkestret-idahall-tomrefjord",
       "tags": [],
       "age_groups": [],
@@ -6486,7 +6486,7 @@
       "location_name": "Koie",
       "city": "Ålesund",
       "organizer": "Koie Lavvo",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_0d40251229282a04e385600f96f97333.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_0d40251229282a04e385600f96f97333.webp?class=w768",
       "url": "https://tikkio.com/events/58565-sytalaust-by-koie",
       "tags": [],
       "age_groups": [],
@@ -6506,7 +6506,7 @@
       "latitude": 62.3061002,
       "longitude": 6.9488962,
       "organizer": "Koie Lavvo",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_f969eda43df09b2fa176fc6f6ca52751.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_f969eda43df09b2fa176fc6f6ca52751.webp?class=w768",
       "url": "https://tikkio.com/events/61901-quiz-med-tommy-og-thomas-koie-lavvo",
       "tags": [],
       "age_groups": [],
@@ -6526,7 +6526,7 @@
       "latitude": 62.1005625,
       "longitude": 6.5594531,
       "organizer": "Silja Haddal Mork",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_185641505c53af5f335d42cddd749954.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_185641505c53af5f335d42cddd749954.webp?class=w768",
       "url": "https://tikkio.com/events/61796-indiefjord-2026",
       "tags": [],
       "age_groups": [],
@@ -6544,7 +6544,7 @@
       "location_name": "Myra Kulturbygg",
       "city": "Ålesund",
       "organizer": "VIKEPLIKT Anita Nyhagen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_489f1f58eee8357e82348543c167ca09.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_489f1f58eee8357e82348543c167ca09.webp?class=w768",
       "url": "https://tikkio.com/events/62621-seriost-betraktningar-over-ein-lav-sko",
       "tags": [],
       "age_groups": [],
@@ -6562,7 +6562,7 @@
       "location_name": "Vikebukt",
       "city": "Ålesund",
       "organizer": "VIKEPLIKT Anita Nyhagen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_9d59ec34492648d703f355ecfa26da68.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_9d59ec34492648d703f355ecfa26da68.jpeg?class=w768",
       "url": "https://tikkio.com/events/60370-6392-fjorefest-pa-vikeplikt",
       "tags": [],
       "age_groups": [],
@@ -6581,7 +6581,7 @@
       "latitude": 62.2618524,
       "longitude": 7.1737721,
       "organizer": "TINDRANDE EIDSDAL",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_056559a0714c4d2268d3617d09475e77.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_056559a0714c4d2268d3617d09475e77.jpeg?class=w768",
       "url": "https://tikkio.com/events/62939-folk-flest-til-eidsdalsrore",
       "tags": [],
       "age_groups": [],
@@ -6599,7 +6599,7 @@
       "location_name": "Honndalshallen",
       "city": "Ålesund",
       "organizer": "NORSK KORNØLFESTIVAL",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_a974c031f7f8e69a398c3d2452d82bd4.JPG?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_a974c031f7f8e69a398c3d2452d82bd4.JPG?class=w768",
       "url": "https://tikkio.com/events/60613-norsk-kornolfestival-2025",
       "tags": [],
       "age_groups": [],
@@ -6617,7 +6617,7 @@
       "location_name": "Reknesparken",
       "city": "Ålesund",
       "organizer": "Rabalderfestivalen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_3569259b713ba383075b9842adf72527.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_3569259b713ba383075b9842adf72527.jpg?class=w768",
       "url": "https://tikkio.com/events/60581-rabalderfestivalen-2026",
       "tags": [],
       "age_groups": [],
@@ -6635,7 +6635,7 @@
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_3b16e03ce0a6f914e8f2116d4b6c20a5.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_3b16e03ce0a6f914e8f2116d4b6c20a5.webp?class=w768",
       "url": "https://tikkio.com/events/62530-operapub-hallvar-djupvik-stephanie-lippert-die-tankstelle",
       "tags": [],
       "age_groups": [],
@@ -6653,7 +6653,7 @@
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_c935ebdebc44867b722980efe7f2d517.png?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_c935ebdebc44867b722980efe7f2d517.png?class=w768",
       "url": "https://tikkio.com/events/63091-korpub-die-tankstelle",
       "tags": [],
       "age_groups": [],
@@ -6670,7 +6670,7 @@
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_bb3567783e46337234818acdb3270274.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_bb3567783e46337234818acdb3270274.jpg?class=w768",
       "url": "https://tikkio.com/events/60669-standup-med-jorgen-ep-javad-el-bakali",
       "tags": [],
       "age_groups": [],
@@ -6687,7 +6687,7 @@
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_c5e08f6e1ab437f5e25640a671cbf1a0.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_c5e08f6e1ab437f5e25640a671cbf1a0.jpg?class=w768",
       "url": "https://tikkio.com/events/63221-ekstrashow-standup-med-jorgen-ep-javad-el-bakali",
       "tags": [],
       "age_groups": [],
@@ -6705,7 +6705,7 @@
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_e32ef10acc77b283d7365ba6c5617545.png?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_e32ef10acc77b283d7365ba6c5617545.png?class=w768",
       "url": "https://tikkio.com/events/63223-molde",
       "tags": [],
       "age_groups": [],
@@ -6722,7 +6722,7 @@
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_bac6f2dea0adcfcd76f017e94f1d6d1b.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_bac6f2dea0adcfcd76f017e94f1d6d1b.webp?class=w768",
       "url": "https://tikkio.com/events/60610-bare-egil-band",
       "tags": [],
       "age_groups": [],
@@ -6740,7 +6740,7 @@
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_358e8b1cf502efadd4e8c379b3444d0f.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_358e8b1cf502efadd4e8c379b3444d0f.webp?class=w768",
       "url": "https://tikkio.com/events/62844-tutti-frutti-40-ar",
       "tags": [],
       "age_groups": [],
@@ -6758,7 +6758,7 @@
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_06c35fd4a3f718c54054685012470c45.png?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_06c35fd4a3f718c54054685012470c45.png?class=w768",
       "url": "https://tikkio.com/events/63225-1940-45-krigen-moldes-byhistorie-med-historiker-anders-kvernberg",
       "tags": [],
       "age_groups": [],
@@ -6776,7 +6776,7 @@
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_cb03f46688a8451b2d266b7e7692a703.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_cb03f46688a8451b2d266b7e7692a703.jpg?class=w768",
       "url": "https://tikkio.com/events/61498-hildegunn-og-leif-per",
       "tags": [],
       "age_groups": [],
@@ -6793,7 +6793,7 @@
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_35cb2b3124e24ec49bf45a59cd9bca8a.png?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_35cb2b3124e24ec49bf45a59cd9bca8a.png?class=w768",
       "url": "https://tikkio.com/events/63094-johanna-reine-nilsen",
       "tags": [],
       "age_groups": [],
@@ -6811,7 +6811,7 @@
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_b66168e3357b5f783b4150d3d976d513.png?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_b66168e3357b5f783b4150d3d976d513.png?class=w768",
       "url": "https://tikkio.com/events/63264-raknesdagan-med-unni-wilhelmsen",
       "tags": [],
       "age_groups": [],
@@ -6829,7 +6829,7 @@
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_8181515c20ca469a340f9a72de17934a.png?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_8181515c20ca469a340f9a72de17934a.png?class=w768",
       "url": "https://tikkio.com/events/63266-raknesdagan-med-tuva-halse",
       "tags": [],
       "age_groups": [],
@@ -6847,7 +6847,7 @@
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_2d9f6e57f6c61c3e0eee5a7c4c126844.png?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_2d9f6e57f6c61c3e0eee5a7c4c126844.png?class=w768",
       "url": "https://tikkio.com/events/63267-raknesdagan-med-knut-reiersrud",
       "tags": [],
       "age_groups": [],
@@ -6865,7 +6865,7 @@
       "location_name": "Idretten hus Molde",
       "city": "Ålesund",
       "organizer": "Moldekameratene Bokseklubb",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_4bbf43dc3e8f31bf5eabd7e6e1f9e923.png?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_4bbf43dc3e8f31bf5eabd7e6e1f9e923.png?class=w768",
       "url": "https://tikkio.com/events/63152-topten-nm-i-kickboxing-2026",
       "tags": [],
       "age_groups": [],
@@ -6883,7 +6883,7 @@
       "location_name": "Molde Domkirke",
       "city": "Ålesund",
       "organizer": "MAGNE FREMMERLID",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_51c3d5622c73f5d7e5fe464ab356f4e2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_51c3d5622c73f5d7e5fe464ab356f4e2.jpeg?class=w768",
       "url": "https://tikkio.com/events/62907-mannskoret-sunnmore",
       "tags": [],
       "age_groups": [],
@@ -6901,7 +6901,7 @@
       "location_name": "Hoddevik, 6750 Stadlandet",
       "city": "Ålesund",
       "organizer": "THE NORTH WEST AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_428760d52da645691645213b1dd93fe6.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_428760d52da645691645213b1dd93fe6.jpeg?class=w768",
       "url": "https://tikkio.com/events/62578-foredrag-med-johanne-refseth-psykolog-med-sovepose",
       "tags": [],
       "age_groups": [],
@@ -6919,7 +6919,7 @@
       "location_name": "Per Bolstad Plass - Stryn sentrum",
       "city": "Ålesund",
       "organizer": "Basecamp Stryn - Hydlastova",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_a283dea3fe4f0bad5375f393187bafeb.png?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_a283dea3fe4f0bad5375f393187bafeb.png?class=w768",
       "url": "https://tikkio.com/events/63132-stryn-gummibatfestival-2026",
       "tags": [],
       "age_groups": [],
@@ -6937,7 +6937,7 @@
       "location_name": "Oktoberfest Stryn",
       "city": "Ålesund",
       "organizer": "STRYN PING PONG CLUB",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_b473d9dea73bb3ed3cb5918ae9b6a842.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_b473d9dea73bb3ed3cb5918ae9b6a842.jpg?class=w768",
       "url": "https://tikkio.com/events/58915-oktoberfest-stryn-2026",
       "tags": [],
       "age_groups": [],
@@ -6955,7 +6955,7 @@
       "location_name": "Gamle Innvik Ullvarefabrikk",
       "city": "Ålesund",
       "organizer": "Stiftelsen Gamle Innvik Ullvarefabrikk",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_82066336f21daa74fbc0eb9ea6d54256.jpg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_82066336f21daa74fbc0eb9ea6d54256.jpg?class=w768",
       "url": "https://tikkio.com/events/61521-konsert-med-thom-hell",
       "tags": [],
       "age_groups": [],
@@ -9900,6 +9900,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-33098-2026-04-20",
+      "title": "Lengting til vår",
+      "start_at": "2026-04-20T19:00:00",
+      "end_at": "2026-04-20T20:30:00",
+      "location_name": "Bymisjonssenteret",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/lengting-til-var/?occurrence=2026-04-20",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-22059-2026-04-21",
       "title": "Åpen barnehage",
       "start_at": "2026-04-21T09:00:00",
@@ -11483,83 +11496,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-5ec8bb2a-4cf7-4441-ab98-b183be6f43fa",
-      "title": "GOAT - Drøm stort",
-      "start_at": "2026-04-05T13:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
-      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7d038720-414f-4679-98ce-f72c8d021219",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-04-05T14:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e713dfca-115a-4960-9834-9345519c9aeb",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-04-05T14:45:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-74b2254a-e3d6-4111-aa85-24a595106182",
-      "title": "Project Hail Mary",
-      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
-      "start_at": "2026-04-05T15:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
-      "url": "https://www.odeonkino.no/film/project-hail-mary/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
