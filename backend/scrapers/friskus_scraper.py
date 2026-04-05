@@ -51,7 +51,7 @@ class FriskusScraper(BaseScraper):
                         organizer=org_name,
                         location_name=org_name,
                         image_url=item.get("thumbnail_url"),
-                        url=f"https://alesund.friskus.com/activities/{item.get('slug', '')}",
+                        url=f"https://alesund.friskus.com/events/{event_id}",
                         age_groups=item.get("age_group", []),
                         tags=tags,
                     ))
