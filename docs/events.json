@@ -1,82 +1,25 @@
 {
-  "generated_at": "2026-04-07T18:26:48.994472+00:00",
-  "total": 806,
+  "generated_at": "2026-04-08T00:42:50.635042+00:00",
+  "total": 800,
   "failed_sources": [],
   "events": [
     {
       "source": "friskus",
-      "source_id": "friskus-ad886f78-4387-4d8d-8e68-9a25b3fad309",
-      "title": "Skodje blandakor - korøving",
-      "start_at": "2026-04-07T18:30:00",
-      "end_at": "2026-06-16T21:00:00",
-      "is_free": false,
-      "location_name": "Skodje Blandakor",
-      "city": "Ålesund",
-      "organizer": "Skodje Blandakor",
-      "image_url": "https://ucarecdn.com/fe4864dc-8a51-4e1e-869d-ca65d76633e7/-/crop/960x262/0,229/-/preview/",
-      "url": "https://alesund.friskus.com/events/ad886f78-4387-4d8d-8e68-9a25b3fad309",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-d1009a85-1354-4ea9-b218-8b6f2adfbdfd",
-      "title": "Burlesk workshop - faste øvinger",
-      "start_at": "2026-04-07T18:30:00",
-      "end_at": "2026-04-28T21:30:00",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-04-08T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
       "is_free": true,
-      "location_name": "Kaula",
+      "location_name": "Harøy Hundepark",
       "city": "Ålesund",
-      "organizer": "Kaula",
-      "image_url": "https://ucarecdn.com/2e5cd7e8-738d-402b-a161-d54fd2253b86/-/crop/2048x559/0,474/-/preview/",
-      "url": "https://alesund.friskus.com/events/d1009a85-1354-4ea9-b218-8b6f2adfbdfd",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
       "tags": [],
       "age_groups": [
+        "children",
         "teenager",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-e76457eb-5c52-41a2-983f-52e0f68f6992",
-      "title": "Harøykoret - korøving",
-      "start_at": "2026-04-07T18:45:00",
-      "end_at": "2026-06-09T21:00:00",
-      "is_free": false,
-      "location_name": "Harøykoret",
-      "city": "Ålesund",
-      "organizer": "Harøykoret",
-      "image_url": "https://ucarecdn.com/4da4ccca-cc82-4d40-9712-d4e9c24cd529/-/crop/1130x308/13,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/e76457eb-5c52-41a2-983f-52e0f68f6992",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-650f99df-273e-4afa-96d4-efe0672a266d",
-      "title": "LHL -Vanntrim på Aspøy",
-      "start_at": "2026-04-07T19:15:00",
-      "end_at": "2026-05-26T21:15:00",
-      "is_free": true,
-      "location_name": "LHL Ålesund Sula og Giske",
-      "city": "Ålesund",
-      "organizer": "LHL Ålesund Sula og Giske",
-      "image_url": "https://ucarecdn.com/4781f658-3116-45a5-af31-3cedd1dbefcd/-/crop/3216x1684/378,452/-/preview/",
-      "url": "https://alesund.friskus.com/events/650f99df-273e-4afa-96d4-efe0672a266d",
-      "tags": [],
-      "age_groups": [
+        "family",
         "senior",
         "pensioner"
       ],
@@ -1535,6 +1478,66 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-ad886f78-4387-4d8d-8e68-9a25b3fad309",
+      "title": "Skodje blandakor - korøving",
+      "start_at": "2026-04-14T18:30:00",
+      "end_at": "2026-06-16T21:00:00",
+      "is_free": false,
+      "location_name": "Skodje Blandakor",
+      "city": "Ålesund",
+      "organizer": "Skodje Blandakor",
+      "image_url": "https://ucarecdn.com/fe4864dc-8a51-4e1e-869d-ca65d76633e7/-/crop/960x262/0,229/-/preview/",
+      "url": "https://alesund.friskus.com/events/ad886f78-4387-4d8d-8e68-9a25b3fad309",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-d1009a85-1354-4ea9-b218-8b6f2adfbdfd",
+      "title": "Burlesk workshop - faste øvinger",
+      "start_at": "2026-04-14T18:30:00",
+      "end_at": "2026-04-28T21:30:00",
+      "is_free": true,
+      "location_name": "Kaula",
+      "city": "Ålesund",
+      "organizer": "Kaula",
+      "image_url": "https://ucarecdn.com/2e5cd7e8-738d-402b-a161-d54fd2253b86/-/crop/2048x559/0,474/-/preview/",
+      "url": "https://alesund.friskus.com/events/d1009a85-1354-4ea9-b218-8b6f2adfbdfd",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-e76457eb-5c52-41a2-983f-52e0f68f6992",
+      "title": "Harøykoret - korøving",
+      "start_at": "2026-04-14T18:45:00",
+      "end_at": "2026-06-09T21:00:00",
+      "is_free": false,
+      "location_name": "Harøykoret",
+      "city": "Ålesund",
+      "organizer": "Harøykoret",
+      "image_url": "https://ucarecdn.com/4da4ccca-cc82-4d40-9712-d4e9c24cd529/-/crop/1130x308/13,0/-/preview/",
+      "url": "https://alesund.friskus.com/events/e76457eb-5c52-41a2-983f-52e0f68f6992",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-oaaRCr3qun-jw",
       "title": "Tirsdagsklatring Ålesund (18-35år)",
       "start_at": "2026-04-14T19:00:00",
@@ -1552,6 +1555,25 @@
       "age_groups": [
         "senior",
         "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-650f99df-273e-4afa-96d4-efe0672a266d",
+      "title": "LHL -Vanntrim på Aspøy",
+      "start_at": "2026-04-14T19:15:00",
+      "end_at": "2026-05-26T21:15:00",
+      "is_free": true,
+      "location_name": "LHL Ålesund Sula og Giske",
+      "city": "Ålesund",
+      "organizer": "LHL Ålesund Sula og Giske",
+      "image_url": "https://ucarecdn.com/4781f658-3116-45a5-af31-3cedd1dbefcd/-/crop/3216x1684/378,452/-/preview/",
+      "url": "https://alesund.friskus.com/events/650f99df-273e-4afa-96d4-efe0672a266d",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -6458,7 +6480,7 @@
       "latitude": 62.1472808,
       "longitude": 6.0668942,
       "organizer": "DEN NORSKE DOKUMENTARFILMFESTIVALEN",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3473/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3473/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/63085-dokfilm-festivalpass-studenthonnor",
       "tags": [],
       "age_groups": [],
@@ -6951,13 +6973,30 @@
     },
     {
       "source": "tikkio",
+      "source_id": "tikkio-5a162d10f2c59bd393f9dcaf3cbfac49",
+      "title": "TØFL // Die Tankstelle",
+      "description": "Bar åpner 18:00\r\nSalen åpner 20:00\r\nKonsertstart 21:00\r\n\r\nForhåndssalg via nyhetsbrev onsdag 08. april\r\nOrdinært salg fredag 10. april. \r\n\r\nTØFL slipper ny musikk og spiller sine største klubbkonserter over hele landet. Lørdag 26. september kommer de til Molde og Die Tankstelle!\r\n\r\nEnorm energi, relaterbare tekster og rungende allsang. Skillet mellom publikum og bandet opphører, og det er som om hele salen strekker seg mot noe større sammen.\r\n\r\nMed debut-EP-en “Eg ska” (2018) markerte TØFL seg raskt som et band med en unik evne til å sette ord på det mange føler. Debutalbumet “Eg fins, WTF!?” (2022) fikk sterke anmeldelser og ble fulgt av utsolgte konserter, blant annet på Rockefeller.\r\n\r\nDe har siden headlinet festivaler som Mablis og Fredvika, vært blant de mest etterspurte navnene på Balestrand Badeklubb, og solgt ut scener som Samfundet og Fiskepiren flere ganger.\r\n\r\n\"Hadde jeg vært bookingansvarlig for sommerfestivaler i vårt langstrakte land, hadde jeg gjort mitt ytterste for å få Tøfl så langt opp på plakaten som overhodet mulig. Hvorfor? Fordi publikum går bananas over alt de gjør.“ \r\nAftenbladet, om TØFL på Fiskepiren",
+      "start_at": "2026-09-26T21:00:00",
+      "end_at": "2026-09-26T23:00:00",
+      "is_free": true,
+      "location_name": "Die Tankstelle",
+      "city": "Ålesund",
+      "organizer": "MYLDR",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3473/uploads/event/c_65cd9f4a0fe2761a287ab738b3302fa2.png?class=w768",
+      "url": "https://tikkio.com/events/63406-tofl-die-tankstelle",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
       "source_id": "tikkio-e3038d359581024acbbfabc801afc35c",
       "title": "TOPTEN NM i Kickboxing 2026",
       "description": "NM i Kickboxing 2026 arrangeres i Molde av Moldekameratene Bokseklubb – Kickboxing 17.-18. april 2026.\r\n\r\nAdressen til hallen (Idrettens Hus): Idrettsvegen 6, 6413 Molde.",
       "start_at": "2026-04-17T18:00:00",
       "end_at": "2026-04-18T21:00:00",
       "is_free": false,
-      "price_text": "NOK 200.00",
+      "price_text": "NOK 50.00",
       "location_name": "Idretten hus Molde",
       "city": "Ålesund",
       "organizer": "Moldekameratene Bokseklubb",
@@ -7053,6 +7092,23 @@
       "organizer": "Stiftelsen Gamle Innvik Ullvarefabrikk",
       "image_url": "https://cdn.tikkio.com/static/1.0.3473/uploads/event/c_82066336f21daa74fbc0eb9ea6d54256.jpg?class=w768",
       "url": "https://tikkio.com/events/61521-konsert-med-thom-hell",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-e58f9c908082e4cc2bb5f3cb779a32cb",
+      "title": "Pecha Kucha",
+      "description": "Vi gjentar suksessen med Pecha Kucha på Sødahlhuset!\r\n\r\nBilletter legges ut for salg onsdag 8.4 kl 8.00\r\n\r\nPecha Kucha er korte presentasjoner av interessante tema hvor foredragsolderne har 20 slides til rådighet og 20 sekund per slide.\r\nDette er tolvte gang det arrangeres Pecha Kucha på Sødahlhuset.\r\n\r\nVi takker til Lise Fredrikke Engdahl og Ida Kjørholt som har vært vertskap og som startet dette opp på Sødahlhuset. Vi er heldige og har nå fått to nye tilflyttere til å være vertskap fremover: Anna Svare og Ragnhild Fagerslett velkommen til!\r\n\r\nKveldens foredragsholdere er klar:\r\nSynne Nord\r\nBård Amundsen\r\nEmbla Flaaris Vangsgaard\r\nGunnhild Digernes\r\nAnne Melbø\r\nStine Melbø\r\nJoar Nivfors\r\nHilde Mjelva\r\n\r\nForedragene kan handle om alt mulig mellom himmel og jord. Det kan være snevert og detaljert eller flytende og stort. Uansett kommer du til å sitte igjen med ny kunnskap du ikke visste at du manglet, trengte eller synes var interessant før du kom på denne kvelden!",
+      "start_at": "2026-04-15T18:00:00",
+      "end_at": "2026-04-15T23:00:00",
+      "is_free": true,
+      "location_name": "Sødahlhuset",
+      "city": "Ålesund",
+      "organizer": "SØDAHLHUSET AS",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3473/uploads/event/c_5af4059a0767f9861dfcb2cdbd8f0689.jpg?class=w768",
+      "url": "https://tikkio.com/events/63415-pecha-kucha",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -8076,58 +8132,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-31071-2026-04-07",
-      "title": "Tirsdagsklatring Ålesund (18-35år)",
-      "start_at": "2026-04-07T19:00:00",
-      "end_at": "2026-04-07T21:00:00",
-      "location_name": "Sparebanken Møre Arena",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/tirsdagsklatring-alesund-18-35ar/?occurrence=2026-04-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33060-2026-04-07",
-      "title": "Eliteserien 2026: Aalesund – Fredrikstad",
-      "start_at": "2026-04-07T19:00:00",
-      "end_at": "2026-04-07T21:00:00",
-      "location_name": "Color Line Stadion",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/eliteserien-aalesund-fredrikstad/?occurrence=2026-04-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33101-2026-04-07",
-      "title": "Power & flow",
-      "start_at": "2026-04-07T19:00:00",
-      "end_at": "2026-04-07T20:30:00",
-      "location_name": "Sobra scene",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/power-flow/?occurrence=2026-04-07&time=1775588400",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30663-2026-04-07",
-      "title": "Lavterskel fotball",
-      "start_at": "2026-04-07T20:30:00",
-      "end_at": "2026-04-07T22:00:00",
-      "location_name": "Sparebanken Møre Arena",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/lavterskel-fotball/?occurrence=2026-04-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-30926-2026-04-08",
       "title": "Seniorklatring i Ålesund",
       "start_at": "2026-04-08T08:00:00",
@@ -8174,6 +8178,19 @@
       "location_name": "Ålesund bibliotek",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/strikkekafe-pa-alesund-bibliotek-646-129-559/?occurrence=2026-04-08",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-33146-2026-04-08",
+      "title": "Babyomvisning i Vestlandsutstillingen 2026",
+      "start_at": "2026-04-08T12:00:00",
+      "end_at": "2026-04-08T13:00:00",
+      "location_name": "Jugendstilsenteret og KUBE",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/babyomvisning-i-vestlandsutstillingen-2026/?occurrence=2026-04-08",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -8637,14 +8654,14 @@
       "source": "bypatrioten",
       "source_id": "bypatrioten-33148-2026-04-11",
       "title": "Veibust Fiskeriselskap AS døper fiskebåt",
-      "start_at": "2026-04-11T14:00:00",
-      "end_at": "2026-04-11T23:55:00",
+      "start_at": "2026-04-11T00:00:00",
       "location_name": "",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/veibust-fiskeriselskap-as-doper-fiskebat/?occurrence=2026-04-11",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -8827,6 +8844,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-33154-2026-04-12",
+      "title": "Vårkonsert",
+      "start_at": "2026-04-12T00:00:00",
+      "location_name": "Valderøy barneskule",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/varkonsert-3/?occurrence=2026-04-12",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -11625,113 +11655,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-f93ccd8b-7cf9-486f-98d0-3670bb1381fa",
-      "title": "Minner om ham",
-      "description": "Etter en perfekt utflukt med kjæresten sin gjør Kenna en uutholdelig feil som sender henne i fengsel. Sju år senere vender Kenna tilbake til hjembyen, i håp om å bygge opp livet sitt på nytt og få en sjanse til å gjenforenes med datteren sin – som hun aldri fikk lære å kjenne. ",
-      "start_at": "2026-04-07T19:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2bf2134ab7364995b47dcebc0b6509d2.jpg?width=1440&version=3CADBBC2E0C8B819C7BBC95C42FFE91B",
-      "url": "https://www.odeonkino.no/film/minner-om-ham/",
-      "tags": [
-        "romantikk"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-89148097-04fc-418f-9ea9-3935b82f680d",
-      "title": "Project Hail Mary",
-      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
-      "start_at": "2026-04-07T20:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
-      "url": "https://www.odeonkino.no/film/project-hail-mary/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-12765101-075e-4860-b5d3-cba9f80c813e",
-      "title": "Wuthering Heights",
-      "start_at": "2026-04-07T20:15:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/bf5867482c8d43e28a06475ba84b1949.jpg?width=1440&version=A4CF25EFBA729204851356AC8C301270",
-      "url": "https://www.odeonkino.no/film/wuthering-heights/",
-      "tags": [
-        "luxe",
-        "romantikk",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-2febd944-dd5e-46b5-8777-7bcbeca29a32",
-      "title": "Scream 7",
-      "start_at": "2026-04-07T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/68794cdabcd74108b9a0d3fc12386789.jpg?width=1440&version=8362DAFB618153C5712C7C02B5EE71BB",
-      "url": "https://www.odeonkino.no/film/scream-7/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-340111a1-5179-4a1f-86d1-df930dd2c33a",
-      "title": "Ready or Not 2: Here I come",
-      "start_at": "2026-04-07T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c3e6004204c401ebbdc7fabb69a5f3e.jpg?width=1440&version=3DCC41343A627C9A84BEE6A0C14BDDEB",
-      "url": "https://www.odeonkino.no/film/ready-or-not-2-here-i-come/",
-      "tags": [
-        "luxe",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8f362e1e-71ba-4c28-9854-fbef300e7f37",
-      "title": "Kraken",
-      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
-      "start_at": "2026-04-07T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
-      "url": "https://www.odeonkino.no/film/kraken/",
-      "tags": [
-        "action",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-003ef36c-23a0-4337-ad9d-27abbf31e9ac",
       "title": "Havfolket",
       "start_at": "2026-04-08T12:00:00",
@@ -13576,24 +13499,6 @@
       "image_url": "https://s1.ticketm.net/dam/e/55c/31acef35-f462-4185-ad70-86df7eb6655c_RECOMENDATION_16_9.jpg",
       "url": "https://www.ticketmaster.no/event/sigvart-dagsland-det-er-makt-i-de-foldede-hender-salmekonsert-billetter/1722767880",
       "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "aafk",
-      "source_id": "aafk-fddb9561-7d47-443b-ad6d-8ad07b9b1dd5",
-      "title": "Eliteserien: Aalesund - Fredrikstad",
-      "start_at": "2026-04-07T19:00:00",
-      "is_free": false,
-      "price_text": "50 kr",
-      "location_name": "Color Line Stadion",
-      "city": "Ålesund",
-      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1067207/default_file-1773152417_2_.jpeg",
-      "url": "https://aafk.ticketco.events/no/nb/e/eliteserien_aalesund_-_fredrikstad",
-      "tags": [
-        "fotball"
-      ],
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
