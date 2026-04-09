@@ -1,44 +1,8 @@
 {
-  "generated_at": "2026-04-08T18:35:18.864106+00:00",
-  "total": 880,
+  "generated_at": "2026-04-09T00:36:19.322080+00:00",
+  "total": 878,
   "failed_sources": [],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7c59d5df-75f5-4fe2-9dc9-81d2d0ad9c90",
-      "title": "Hesetrim for damer og herrer på Bygdestova, Eidet kulturhall",
-      "start_at": "2026-04-08T19:00:00",
-      "end_at": "2026-04-22T20:30:00",
-      "is_free": false,
-      "location_name": "LHL Skodje, Ørskog og Haram",
-      "city": "Ålesund",
-      "organizer": "LHL Skodje, Ørskog og Haram",
-      "image_url": "https://ucarecdn.com/6417752f-b352-4944-8c88-3870c38da3cf/-/crop/3558x1295/0,249/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7c59d5df-75f5-4fe2-9dc9-81d2d0ad9c90",
-      "tags": [],
-      "age_groups": [
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-c4ff2a1f-6b78-44a4-9729-a4a3728e6e33",
-      "title": "Bønnemøte hver Onsdag 19:00",
-      "start_at": "2026-04-08T19:00:00",
-      "end_at": "2028-06-28T21:00:00",
-      "is_free": true,
-      "location_name": "Pinsekirka SARON",
-      "city": "Ålesund",
-      "organizer": "Pinsekirka SARON",
-      "image_url": "https://ucarecdn.com/0e615ca0-94fd-486f-bae0-63f4e30f469b/-/crop/2988x818/333,0/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/c4ff2a1f-6b78-44a4-9729-a4a3728e6e33",
-      "tags": [],
-      "age_groups": [
-        "family"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-28b10f66-dbb2-4b34-9f50-238530aa24d5",
@@ -54,6 +18,28 @@
       "tags": [],
       "age_groups": [
         "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-04-09T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
+      "city": "Ålesund",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -550,6 +536,25 @@
         "pensioner"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-8f25f86f-f187-4c17-a7e1-cbbfdb9cc7f8",
+      "title": "Biblioklubb",
+      "start_at": "2026-04-10T13:30:00",
+      "end_at": "2026-06-05T15:00:00",
+      "is_free": false,
+      "location_name": "Skodje bibliotek",
+      "city": "Ålesund",
+      "organizer": "Skodje bibliotek",
+      "image_url": "https://ucarecdn.com/31da2df3-7f5c-46c8-9fc7-4fe29b1986da/-/crop/1587x432/0,381/-/preview/",
+      "url": "https://alesund.friskus.com/events/8f25f86f-f187-4c17-a7e1-cbbfdb9cc7f8",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -1618,6 +1623,42 @@
       "tags": [],
       "age_groups": [
         "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-7c59d5df-75f5-4fe2-9dc9-81d2d0ad9c90",
+      "title": "Hesetrim for damer og herrer på Bygdestova, Eidet kulturhall",
+      "start_at": "2026-04-15T19:00:00",
+      "end_at": "2026-04-22T20:30:00",
+      "is_free": false,
+      "location_name": "LHL Skodje, Ørskog og Haram",
+      "city": "Ålesund",
+      "organizer": "LHL Skodje, Ørskog og Haram",
+      "image_url": "https://ucarecdn.com/6417752f-b352-4944-8c88-3870c38da3cf/-/crop/3558x1295/0,249/-/preview/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7c59d5df-75f5-4fe2-9dc9-81d2d0ad9c90",
+      "tags": [],
+      "age_groups": [
+        "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-c4ff2a1f-6b78-44a4-9729-a4a3728e6e33",
+      "title": "Bønnemøte hver Onsdag 19:00",
+      "start_at": "2026-04-15T19:00:00",
+      "end_at": "2028-06-28T21:00:00",
+      "is_free": true,
+      "location_name": "Pinsekirka SARON",
+      "city": "Ålesund",
+      "organizer": "Pinsekirka SARON",
+      "image_url": "https://ucarecdn.com/0e615ca0-94fd-486f-bae0-63f4e30f469b/-/crop/2988x818/333,0/-/preview/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/c4ff2a1f-6b78-44a4-9729-a4a3728e6e33",
+      "tags": [],
+      "age_groups": [
+        "family"
       ],
       "is_recurring": true
     },
@@ -6397,6 +6438,26 @@
     },
     {
       "source": "tikkio",
+      "source_id": "tikkio-1b76ff6129e4231d0723207499d12e0c",
+      "title": "Rotlaus, Hasundgot 50 år",
+      "description": "<p>Hasundgot feirer 50 år i 2026, i den forbindelse arrangerer vi konsert i vår nye storstue Hasundgot Arena.</p>",
+      "start_at": "2026-09-05T20:00:00",
+      "end_at": "2026-09-06T01:00:00",
+      "is_free": false,
+      "price_text": "NOK 595.00",
+      "location_name": "Hasundgot Arena",
+      "city": "Ålesund",
+      "latitude": 62.312702,
+      "longitude": 5.824871,
+      "organizer": "Hasundgot IL",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3480/uploads/event/c_a8ce858321bafae13a8b1affdb7b389a.webp?class=w768",
+      "url": "https://tikkio.com/events/63436-rotlaus",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
       "source_id": "tikkio-91404851ab8818260d95b2bc4da95487",
       "title": "Stettevikfestivalen 2026 - Lørdag",
       "description": "<p>Stettevikfestivalen feirer i år 5år!</p><p>Postgirobygget, Tone Damli, Daniel Kvammen og Green Machine til Stettevikfestivalen 2026&nbsp;<br><br>Postgirobygget blir en av hovedartistene på Stettevikfestivalen 2026, som går av stabelen 30. mai i Stettevika. I 2026 markerer bandet 30 år på veien, samtidig som Stettevikfestivalen feirer sitt 5-årsjubileum – en perfekt kombinasjon av norsk musikkhistorie og en ung festival i sterk vekst. &nbsp;<br><br>Postgirobygget er selve definisjonen på norsk sommernostalgi. At de velger å legge 30-årsfeiringen sin innom Stettevika på vårt 5-årsjubileum, betyr enormt mye. Vi kan love en kveld fylt med allsang, gode historier og ekte festivalmagi nede ved sjøkanten. &nbsp;</p><p>TONE DAMLI har vært en folkekjær artist og tv-personlighet siden hun slo gjennom i Idol i 2005. Hun har gjennom årene etablert seg som en av Norges mest populære popartister, med musikk som reflekterer både personlige erfaringer og følelsesmessige hendelser i livet.</p><p>Tone Damli har også markert seg på TV, blant annet gjennom deltakelse i MGP både i Norge og Sverige, Stjernekamp i 2023 og nylig i Maskorama på NRK. Nå er hun tilbake med fornyet energi og inspirasjon, klar til å levere uforglemmelige konserter og musikalske øyeblikk.</p><p><br>DANIEL KVAMMEN&nbsp; har sidan debuten i 2015 etablert seg som ein av dei mest markante stemmene i norsk pop. Med over 45 millionar strøyemingar, ein Spellemannspris, Målprisen, og ei rekkje radioslegar har han verkeleg funne sin eigen store personlege uttrykk – ein signatur som umiddelbart treffer. Så fort ein høyrer \"Du fortenar ein som meg\" til det kritikarroste albumet Guta som gret, har Kvammen levert musikk som rører og fangar lytteren. &nbsp;</p><p>I Kvammen sitt musikalske univers møtest bygda, byen og tenåringsangsten i eit poetisk og fengjande uttrykk. Han har samarbeidd med namn som Lars Vaular, Gabrielle, Eva Weel Skram og Hellbillies, og vist ein stor musikalsk spennvidde på tvers av sjangrar. Med si ærlege og sårbare formidling har Kvammen blitt ein artist som ikkje berre underheld, men også verkeleg når djupare inn i sitt eige publikum – enten det er i klubblokalet eller på dei største festivalscenene.</p><p>Årets lokale band er: Green Machine</p><p>Green Machine er et unik, sjangerutforskende og kraftfullt band fra hjertet av Ålesund. Med en lyd som forener rock, pop, R&amp;B og progressive elementer, skaper bandet et uttrykk som både overrasker og engasjerer.&nbsp;</p><p>Inspirert av det vakre, rå og værbitte Vestlandet, lar Green Machine naturens kontraster speile seg i musikken. Tekstene veksler mellom melankoli og eufori, og bandets låter drives av et sterkt ønske om å formidle ekte følelser og grenseløs spilleglede.</p><p>Vi kommer til å presentere flere artister til 2026 festivalen på nyåret</p><p>Etter å ha vært utsolgt 2 år på rad(!) må en være smart å sikre seg billetter til&nbsp; årets festival tidlig!.&nbsp;</p><p>Datoen er lørdag 30.mai! Vi garanterer super festivalstemning nok en gang! Vi gleder oss til å møtes i Stettevika!</p>",
@@ -6681,7 +6742,7 @@
       "latitude": 62.1472808,
       "longitude": 6.0668942,
       "organizer": "DEN NORSKE DOKUMENTARFILMFESTIVALEN",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/63085-dokfilm-festivalpass-studenthonnor",
       "tags": [],
       "age_groups": [],
@@ -6844,7 +6905,7 @@
       "latitude": 62.3061002,
       "longitude": 6.9488962,
       "organizer": "Koie Lavvo",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/62495-quiz-med-ingvild-og-marte",
       "tags": [],
       "age_groups": [],
@@ -11780,96 +11841,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f309e9c5-f89c-4f02-af6d-451fd10a7cd6",
-      "title": "Project Hail Mary",
-      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
-      "start_at": "2026-04-08T20:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
-      "url": "https://www.odeonkino.no/film/project-hail-mary/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-037789b1-3719-499c-b589-01109e9997e3",
-      "title": "Wuthering Heights",
-      "start_at": "2026-04-08T20:15:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/bf5867482c8d43e28a06475ba84b1949.jpg?width=1440&version=A4CF25EFBA729204851356AC8C301270",
-      "url": "https://www.odeonkino.no/film/wuthering-heights/",
-      "tags": [
-        "luxe",
-        "romantikk",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-01df5184-293d-4427-a05e-9ad7336166dd",
-      "title": "Scream 7",
-      "start_at": "2026-04-08T20:50:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/68794cdabcd74108b9a0d3fc12386789.jpg?width=1440&version=8362DAFB618153C5712C7C02B5EE71BB",
-      "url": "https://www.odeonkino.no/film/scream-7/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-123de23c-53e5-4004-a0b5-92e9c79af506",
-      "title": "Ready or Not 2: Here I come",
-      "start_at": "2026-04-08T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c3e6004204c401ebbdc7fabb69a5f3e.jpg?width=1440&version=3DCC41343A627C9A84BEE6A0C14BDDEB",
-      "url": "https://www.odeonkino.no/film/ready-or-not-2-here-i-come/",
-      "tags": [
-        "luxe",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d564b932-c7c8-4ae9-8fb3-43ac4117898f",
-      "title": "Kraken",
-      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
-      "start_at": "2026-04-08T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
-      "url": "https://www.odeonkino.no/film/kraken/",
-      "tags": [
-        "action",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
