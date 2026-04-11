@@ -1,107 +1,8 @@
 {
-  "generated_at": "2026-04-11T06:30:27.314039+00:00",
-  "total": 827,
+  "generated_at": "2026-04-11T12:18:41.940730+00:00",
+  "total": 811,
   "failed_sources": [],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-04-11T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-1e440d14-48a1-46df-8b34-531996c374c0",
-      "title": "Norsk kurs for eldre ukrainere",
-      "start_at": "2026-04-11T10:00:00",
-      "end_at": "2026-05-30T12:00:00",
-      "is_free": true,
-      "location_name": "Foreningen for Ukrainsk kreativitet og identitet",
-      "city": "Ålesund",
-      "organizer": "Foreningen for Ukrainsk kreativitet og identitet",
-      "image_url": "https://ucarecdn.com/a8b29cd9-f743-4f11-a33c-be45bf57390a/-/crop/1536x419/0,815/-/preview/",
-      "url": "https://alesund.friskus.com/events/1e440d14-48a1-46df-8b34-531996c374c0",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-6d526987-6ef8-4cdb-b483-ed59d3590983",
-      "title": "Button-verksted i Moa bibliotek",
-      "start_at": "2026-04-11T12:00:00",
-      "end_at": "2026-04-11T14:00:00",
-      "is_free": true,
-      "location_name": "Moa Bibliotek",
-      "city": "Ålesund",
-      "organizer": "Moa Bibliotek",
-      "image_url": "https://ucarecdn.com/78688737-08a5-48af-ab85-af8f4a4c3eb0/-/crop/1920x523/0,8/-/preview/",
-      "url": "https://alesund.friskus.com/events/6d526987-6ef8-4cdb-b483-ed59d3590983",
-      "tags": [],
-      "age_groups": [
-        "children"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-04-11T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-0f5387eb-3fc2-4433-8c0a-2e35e42aebbc",
-      "title": "Barneridning",
-      "start_at": "2026-04-11T12:30:00",
-      "end_at": "2026-04-11T13:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/b9b71a07-351a-486d-ba8f-c804c8bdb809/-/crop/3877x2028/177,600/-/preview/",
-      "url": "https://alesund.friskus.com/events/0f5387eb-3fc2-4433-8c0a-2e35e42aebbc",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "family"
-      ],
-      "is_recurring": false
-    },
     {
       "source": "friskus",
       "source_id": "friskus-5b4554c8-fa52-40b4-93ef-c9e236e2f576",
@@ -1623,6 +1524,24 @@
       "tags": [],
       "age_groups": [
         "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-1e440d14-48a1-46df-8b34-531996c374c0",
+      "title": "Norsk kurs for eldre ukrainere",
+      "start_at": "2026-04-18T10:00:00",
+      "end_at": "2026-05-30T12:00:00",
+      "is_free": true,
+      "location_name": "Foreningen for Ukrainsk kreativitet og identitet",
+      "city": "Ålesund",
+      "organizer": "Foreningen for Ukrainsk kreativitet og identitet",
+      "image_url": "https://ucarecdn.com/a8b29cd9-f743-4f11-a33c-be45bf57390a/-/crop/1536x419/0,815/-/preview/",
+      "url": "https://alesund.friskus.com/events/1e440d14-48a1-46df-8b34-531996c374c0",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -4291,28 +4210,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-bf8907e4-df55-4cce-a645-46f42167762d",
-      "title": "GJENBRUKSBUTIKK MAUSEIDVÅG (LØ)",
-      "start_at": "2026-04-11T11:00:00",
-      "end_at": "2026-06-20T15:00:00",
-      "is_free": false,
-      "location_name": "Mauseidvåg Bedehusforening",
-      "city": "Ålesund",
-      "organizer": "Mauseidvåg Bedehusforening",
-      "image_url": "https://ucarecdn.com/08f0be57-a8bb-40c8-bf3b-97e399325f11/-/crop/5312x1447/0,770/-/preview/",
-      "url": "https://alesund.friskus.com/events/bf8907e4-df55-4cce-a645-46f42167762d",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-c90a4a9e-3b46-461f-b728-080b34a008b5",
       "title": "Connect",
       "start_at": "2026-04-11T20:30:00",
@@ -5725,7 +5622,8 @@
       "description": "<p>Fagernes Yacht Klubb er endelig tilbake i Ålesund!</p><p></p><p>Vil du ha billetter før alle andre? Meld deg på nyhetsbrevet vårt og få tilgang til pre-salg fredag 10. april kl. 11:00. Påmelding finner du på nettsiden vår.</p><p>Ordinært salg starter lørdag 11. april kl. 11:00.</p><p></p><p>Igjen får vi høre lyden av saltvann, solskinn og sommer. Av udødelige hits, gitarsoloer og allsang. Siden 2009 har de gledet konsert- og festivalgjengere med tolkninger av noen av de største Yacht Rock-klassikerne gjennom tidene og blitt et av Norges mest etterspurte og populære liveband.<br><br>Yacht Rock er en samlebetegnelse på musikk som ble popularisert på USAs vestkyst på sent 70 og tidlig 80 tall. Med artister som Toto, Hall &amp; Oates, Kenny Loggins og Steely Dan regjerte Yacht Rockerne hitlistene med silkemyk, melodisk rockemusikk ispedd R&amp;B og jazz.</p><p>Med en virtuos samling musikere fra Bergens hyllede musikkmiljø gjør Fagernes Yacht Klubb hommage til sjangerens største hits med enorm respekt for kildematerialet, med et ti persons band. Med tidløse hits som «All Night Long», «Don&#039;t Stop Believin&#039;», «Africa» og «Rosanna» er scenen satt for en uforglemmelig kveld!</p>",
       "start_at": "2026-06-13T20:00:00",
       "end_at": "2026-06-13T23:30:00",
-      "is_free": true,
+      "is_free": false,
+      "price_text": "NOK 200.00",
       "location_name": "Terminalen",
       "city": "Ålesund",
       "latitude": 62.4702872,
@@ -6103,24 +6001,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-6635fa41792968fd5f855e7deb4709cc",
-      "title": "Ridning, is og inngang på Borgund Dyreklubb lørdag 11.04.26",
-      "description": "Velkommen til en koselig lørdag på gården med barneridning (for barn i alderen 2-12 år), dyrekos og is :-) Kos deg på hesteryggen med to store og en liten runde på Dyreklubbens ridebane. Ta med egen ride/sykkelhjelm om du har! Å hilse på hest, kose litt med hesten og ta bilder er inkludert i billetten. Gode minner for store og små :-) Etter ridningen kan rytteren hilse på resten av dyregjengen som tasser rundt på tunet og får en is eller kakao i kiosken.  Pakkeprisen inkluderer: ridning for ett barn, inngang for rytteren og en voksen, is til rytteren. \r\nBarn må møte opp til avtalt/bestilt tidspunkt med en voksen som kan hjelpe rytteren til å komme opp på hesten og som følger barn evt. på runderidning (gjelder særlig småbarn).  \r\n\r\nVi har dessverre ikke mulighet til å refundere kjøpte billetter eller endre på tidspunkt. Vi gjør oppmerksom på at all deltakelse skjer på eget ansvar og egen risiko. Borgund Dyreklubb frasier seg alt ansvar for skader på deltakere og deres utstyr/klær.\r\nDet tas bilder/situasjonsbilder under arrangement som brukes til markedsføring av aktiviteten. Dersom du ikke ønsker å bli med på bilde, si fra ved registreringen.",
-      "start_at": "2026-04-11T12:30:00",
-      "end_at": "2026-04-11T13:00:00",
-      "is_free": false,
-      "price_text": "NOK 139.00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3473/uploads/event/c_059b0e7128df1d6ae2ed8f2ba565d2cb.jpg?class=w768",
-      "url": "https://tikkio.com/events/63470-ridning-is-og-inngang-pa-borgund-dyreklubb-lordag-110426",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-89191487f6baa2e76815212aa047ed02",
       "title": "ULTRA BACKYARD",
       "description": "Ultra Backyard er et utholdenhetsløp der deltakerne løper én runde hver time. Du kan velge mellom en runde på 6,7 km eller 4 km, og runden må fullføres innen én time for å kunne starte på neste runde.\r\n\r\nEnten du sikter mot 10 km, 25 km, 50 km eller kanskje hele 80 km, handler dette løpet om viljestyrke og å utfordre egne grenser. Du bestemmer selv hvor mange runder du vil prøve deg på – men husk: hver runde må fullføres innen timen før neste start.\r\n\r\nEnten du vil teste grensene dine, løpe din første ultra, eller bare oppleve stemningen, er dette et arrangement for deg.\r\n\r\nVelkommen til en hel dag med løpeglede, fellesskap og viljestyrke. Alle prestasjoner feires!\r\n\r\nAnsvarsfraskrivelse(VIKTIG!)\r\nDeltakelse i arrangementet skjer på eget ansvar. Ved påmelding bekrefter deltaker at han eller hun er i tilstrekkelig fysisk form til å gjennomføre løpet og selv tar ansvar for egen helse og sikkerhet under arrangementet.\r\n\r\nArrangøren kan ikke holdes ansvarlig for skader, ulykker, sykdom eller andre hendelser som måtte oppstå før, under eller etter løpet. Deltakerne er selv ansvarlige for å følge gjeldende regler, vise hensyn til andre deltakere og bruke nødvendig utstyr tilpasset forholdene.\r\n\r\nVed påmelding godtar deltakeren denne ansvarsfraskrivelsen.",
@@ -6187,6 +6067,24 @@
       "organizer": "Sunde Fjord Hotel",
       "image_url": "https://cdn.tikkio.com/static/1.0.3473/uploads/event/c_4ebf18049e465891d5d2d7096b293091.jpg?class=w768",
       "url": "https://tikkio.com/events/62509-orjan-buroe-uten-filter-pa-sunde-fjord-hotel-ekstraforestilling",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-5d4863ad828b7fea70621a58bb8ed5a7",
+      "title": "Heine Totland, Karianne Kjærnes og Gisle Børge Styve",
+      "description": "Meir info (presseskriv) kjem! \r\n\r\nIntimkonsert i Bjørndals Minne. \r\nDet blir salg av øl/vin.",
+      "start_at": "2026-08-13T19:00:00",
+      "end_at": "2026-08-13T23:00:00",
+      "is_free": false,
+      "price_text": "NOK 942.00",
+      "location_name": "Bjørndals Minne",
+      "city": "Ålesund",
+      "organizer": "Raka-Fant AS",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3473/uploads/event/c_be4313dbb0013fcdea2a000db16e00f6.jpeg?class=w768",
+      "url": "https://tikkio.com/events/63187-heine-totland-karianne-kjaernes-og-gisle-borge-styve",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -6572,7 +6470,7 @@
       "latitude": 62.1472808,
       "longitude": 6.0668942,
       "organizer": "DEN NORSKE DOKUMENTARFILMFESTIVALEN",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3473/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3473/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/63085-dokfilm-festivalpass-studenthonnor",
       "tags": [],
       "age_groups": [],
@@ -7176,24 +7074,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-1663c98b77504ff5959ae39ae98f14fd",
-      "title": "Foredrag med Johanne Refseth / Psykolog med sovepose",
-      "description": "The North West inviterer til foredrag under Bølgepust helgen i Hoddevik 17-19 April.\r\nJohanne Refseth er psykologen som kurerte sin egen kjærlighetssorg ved å flytte følelsene ut i naturen , med kaffebål, fiskestang og mosegrodde skoger.\r\n\r\nI dette foredraget utforsker hun hvorfor livets nedturer kan kjennes lettere ute i skogen. Hva sier forskningen om naturens effekt på stress, smerte og vanskelige følelser? Og hvorfor setter følelsene våre seg ofte i kroppen?\r\n\r\nRefseth kobler psykologiforskning og friluftsliv  og viser hvordan naturen kan hjelpe oss å møte det som foregår inni oss, i stedet for å unngå det. Kanskje er det nettopp der vi hører hjemme.\r\n\r\nForedraget vil være på Yoga Låven ved Stad Surfing i Hoddevik.",
-      "start_at": "2026-04-18T15:30:00",
-      "end_at": "2026-04-18T18:00:00",
-      "is_free": false,
-      "price_text": "NOK 270.00",
-      "location_name": "Hoddevik, 6750 Stadlandet",
-      "city": "Ålesund",
-      "organizer": "THE NORTH WEST AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3473/uploads/event/c_428760d52da645691645213b1dd93fe6.jpeg?class=w768",
-      "url": "https://tikkio.com/events/62578-foredrag-med-johanne-refseth-psykolog-med-sovepose",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-0f32b5c12972e6e3a155125488afdffb",
       "title": "Stryn Gummibåtfestival 2026",
       "description": "Den tradisjonsrike gummibåtfestivalen går av stabelen 24-25 juli, midt i Stryn sentrum. Stor utescene og stryn sin største nattklubb blir en realitet når over 1000 glade gummibåtarar dansar inn i dei seine nattetimane!\r\n\r\nProgram kjem!\r\n18 års aldersgrense\r\nEarlybird til 1.mai.",
@@ -7261,6 +7141,42 @@
       "image_url": "https://cdn.tikkio.com/static/1.0.3473/uploads/event/c_5af4059a0767f9861dfcb2cdbd8f0689.jpg?class=w768",
       "url": "https://tikkio.com/events/63415-pecha-kucha",
       "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-bfbc54843962243f119455db7e04a499",
+      "title": "Foredrag med Tuva Stavø",
+      "description": "Bli med på en inspirerende klatrekveld på Romsdal Lodge! \r\n\r\nVi har gleden av å invitere til foredrag med Tuva Stavø, som vil dele sin reise inn i klatringen på Storpillaren i Lofoten.\r\n\r\nTuva er uten tvil en av Norges fremste tradklatrere, med en rekke imponerende prestasjoner som fascinerer og inspirerer. De siste årene har hun gått flere tradruter på 9-tallet og vi gleder vi oss til å få et innblikk i hva som driver henne i fjellveggen. \r\n\r\n📍 Låven på Tømmerhuset, Romsdal Lodge,   \r\n📅 17.04 \r\n🕒 Dørene åpner 1900. Start 20.00 \r\n\r\nMed stor entusiasme forklarer Tuva; \r\n«For en klatrer er Storpillaren i Lofoten med sine rene diederformasjoner usedvanlig tiltrekkende. Jeg har alltid sett på flere av rutene her med en viss ærefrykt – men motivasjonen for god klatring har til slutt fått meg til å legge den til side. Det har gitt opplevelser og historier som er vel verdt å fortelle.\r\n\r\nTil tross for at rutene holder ekstremt høy kvalitet, får de overraskende lite trafikk. Med dette foredraget ønsker jeg å gi denne pillaren i verdensklasse den oppmerksomheten den fortjener.» \r\n\r\nDette er kvelden for deg som liker fjell, klatring – eller bare vil høre en skikkelig bra historie.",
+      "start_at": "2026-04-17T19:00:00",
+      "end_at": "2026-04-17T23:00:00",
+      "is_free": false,
+      "price_text": "NOK 150.00",
+      "location_name": "Romsdal Logde Tømmerhuset",
+      "city": "Ålesund",
+      "organizer": "Romsdal Lodge As",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3473/uploads/event/c_835e96493c1f298fd3ef12f30e3b0f10.jpeg?class=w768",
+      "url": "https://tikkio.com/events/63488-foredrag-med-tuva-stavo",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-46186-knuff-verdens-verste-kaptein",
+      "title": "Knuff – Verdens verste kaptein",
+      "start_at": "2026-04-11T14:00:00",
+      "end_at": "2026-04-11T14:40:00",
+      "location_name": "Parken kulturhus – Foajeen",
+      "city": "Ålesund",
+      "organizer": "Åpen dag på kulturhuset",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F46186%2Fweb-square.webp?version=DT9Lsl+Va5+H2N5XErjy4A==",
+      "url": "https://www.parkenkulturhus.no/program/46186-knuff-verdens-verste-kaptein/",
+      "tags": [
+        "barn",
+        "teater"
+      ],
       "age_groups": [],
       "is_recurring": false
     },
@@ -7631,7 +7547,8 @@
       "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F45212%2Fweb-square.webp?version=YAC1KihxF1m61h00XkUZ1A==",
       "url": "https://www.parkenkulturhus.no/program/45212-a-studio/",
       "tags": [
-        "barn"
+        "barn",
+        "få billetter igjen"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -8098,21 +8015,6 @@
     },
     {
       "source": "bibliotek",
-      "source_id": "bibliotek-33561",
-      "title": "Button-verkstad",
-      "start_at": "2026-04-11T12:00:00",
-      "is_free": true,
-      "location_name": "Moa bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i31367aa9-4942-43b1-a06b-ec914a40d336/w300/k0d7b4f0ce077/buttonverksted.jpg",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33561&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bibliotek",
       "source_id": "bibliotek-33338",
       "title": "Leksehjelp for vaksne",
       "start_at": "2026-04-13T14:30:00",
@@ -8232,69 +8134,19 @@
       "end_at": null
     },
     {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-25486-2026-04-11",
-      "title": "Aalesunds Museum",
-      "start_at": "2026-04-11T11:00:00",
-      "end_at": "2026-04-11T15:30:00",
-      "location_name": "Aalesunds Museum",
+      "source": "bibliotek",
+      "source_id": "bibliotek-33566",
+      "title": "Menneskemøter i ei krevjande tid",
+      "start_at": "2026-04-15T18:30:00",
+      "is_free": true,
+      "location_name": "Moa bibliotek",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum/?occurrence=2026-04-11",
+      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i39367dd5-085a-4b6b-af36-ded104c92201/w300/k513b4826498c/menneskemoter-i-ei-krevande-tid-inntrykk-fra-jerusalem-og-betlehem-i-2026-1.png",
+      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33566&lang=1&MId1=18377",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33143-2026-04-11",
-      "title": "Åpen dag på kulturhuset",
-      "start_at": "2026-04-11T11:00:00",
-      "end_at": "2026-04-11T16:00:00",
-      "location_name": "Parken kulturhus, Foajeen",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-dag-pa-kulturhuset/?occurrence=2026-04-11",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33224-2026-04-11",
-      "title": "Loppemarked Hessa og Aspøy skolekorps",
-      "start_at": "2026-04-11T11:00:00",
-      "end_at": "2026-04-11T15:00:00",
-      "location_name": "Hessa skole",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/loppemarked-hessa-og-aspoy-skolekorps/?occurrence=2026-04-11",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-04-11",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-04-11T12:00:00",
-      "end_at": "2026-04-11T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-04-11",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33164-2026-04-11",
-      "title": "Pop-up loppemarked",
-      "start_at": "2026-04-11T12:00:00",
-      "end_at": "2026-04-11T16:00:00",
-      "location_name": "",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/pop-up-loppemarked/?occurrence=2026-04-11",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -11392,157 +11244,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-280e2a4f-ebb6-433c-9f42-871271c704d6",
-      "title": "Da Mumbo Jumbo ble kjempestor",
-      "description": "Mumbo Jumbo bor trygt og godt hjemme hos moren sin i den lille dalen. Men en dag blir alt snudd opp ned når Mumbo kommer i skade for å spise en magisk sopp og blir kjempestor.",
-      "start_at": "2026-04-11T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/28794756920c4993b7968b7ecbe86b39.jpg?width=1440&version=2520CB2E5FEE357BB577CF74A5E4EAAD",
-      "url": "https://www.odeonkino.no/film/da-mumbo-jumbo-ble-kjempestor/",
-      "tags": [
-        "luxe",
-        "familiefilm",
-        "eventyr",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-3380a0a3-16e9-4456-b350-87c2d5000fea",
-      "title": "Pelle pus får en ny venn",
-      "description": "En vinterdag gjør Pelle Pus og vennen hans Pusemus en utrolig oppdagelse: snø! Men de oppdager også en ny nabo: en stor, bråkete hund som heter Voff. Og katter og hunder, de går ikke så godt sammen, gjør de vel? Mens Pelle Pus og Pusemus flykter fra hunden, finner de en kjelke. De aker mot åsene og på veien treffer de sine gamle venner, sauene og ekornene. De får også nye venner i harene. I mellomtiden er Voff like bak dem. Men er han egentlig så skremmende, eller vil han bare være venner?",
-      "start_at": "2026-04-11T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c3bdbdfe2e3f423db39144e12172706e.jpg?width=1440&version=61137B9E1C123161086D762752EC3346",
-      "url": "https://www.odeonkino.no/film/pelle-pus-far-en-ny-venn/",
-      "tags": [
-        "luxe",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6f8f0840-c551-4bb2-a9d2-9487000c1c94",
-      "title": "Flåklypa - Fra Paris til pyramidene",
-      "description": " Il Tempo Gigante skal ut på veien og det blir full gass, høy puls og sjarmerende moro i det trioen forlater den trygge bygda og skal ut i den store verden.",
-      "start_at": "2026-04-11T11:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/240a12815f774068a9d873acacccb4cb.jpg?width=1440&version=1CD261FD58DC034C00D3E10D718E896A",
-      "url": "https://www.odeonkino.no/film/flaklypa-fra-paris-til-pyramidene/",
-      "tags": [
-        "luxe",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c2acf59b-4f79-48c7-ae16-229c9a44f260",
-      "title": "BTS World Tour 'Arirang' in Goyang: Live Viewing",
-      "start_at": "2026-04-11T11:45:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/327deb245f254e09835925d05ad89853.jpg?width=1440&version=41EEC945745F783865F2CAB3DFC4E501",
-      "url": "https://www.odeonkino.no/film/bts-world-tour-arirang-in-goyang-live-viewing/",
-      "tags": [
-        "isense",
-        "konsert"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-da6496bb-ce32-410b-b7c6-ac7c00d65357",
-      "title": "GOAT - Drøm stort",
-      "start_at": "2026-04-11T11:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
-      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-fdaa375e-8020-4ad4-931a-6f53affbf861",
-      "title": "Da Mumbo Jumbo ble kjempestor",
-      "description": "Mumbo Jumbo bor trygt og godt hjemme hos moren sin i den lille dalen. Men en dag blir alt snudd opp ned når Mumbo kommer i skade for å spise en magisk sopp og blir kjempestor.",
-      "start_at": "2026-04-11T12:15:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/28794756920c4993b7968b7ecbe86b39.jpg?width=1440&version=2520CB2E5FEE357BB577CF74A5E4EAAD",
-      "url": "https://www.odeonkino.no/film/da-mumbo-jumbo-ble-kjempestor/",
-      "tags": [
-        "luxe",
-        "familiefilm",
-        "eventyr",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-723ab71a-3514-4c24-a1cc-23377fc8a779",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-04-11T12:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7bc7712a-9296-429e-9030-3d213358b412",
-      "title": "Jesu siste måltid",
-      "start_at": "2026-04-11T13:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/da88de8e945148ee9efdefb8b18b905d.jpg?width=1440&version=5E330A4879D64BED5D87B9BFB14D6544",
-      "url": "https://www.odeonkino.no/film/jesu-siste-maltid/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-19cfaeb2-c96e-4b9c-ae17-110e92d6446e",
       "title": "Super Mario Galaxy Filmen",
       "start_at": "2026-04-11T13:30:00",
@@ -11700,6 +11401,25 @@
       "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
       "tags": [
         "luxe",
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-67407130-1ae4-4812-9572-307d5424ff88",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-04-11T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "isense",
         "eventyr",
         "familiefilm",
         "animasjon"
