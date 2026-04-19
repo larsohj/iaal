@@ -1,113 +1,8 @@
 {
-  "generated_at": "2026-04-19T06:42:54.848914+00:00",
-  "total": 677,
+  "generated_at": "2026-04-19T12:19:33.256864+00:00",
+  "total": 662,
   "failed_sources": [],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-04-19T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-9af72422-5866-4caa-b159-512c83a4550a",
-      "title": "Fordypningskurs i skuespillerteknikk",
-      "start_at": "2026-04-19T11:00:00",
-      "end_at": "2026-05-08T18:00:00",
-      "is_free": false,
-      "location_name": "Ålesund kulturskole",
-      "city": "Ålesund",
-      "organizer": "Ålesund kulturskole",
-      "image_url": "https://ucarecdn.com/aed38d48-ff32-40fc-92f6-1e3e9285f53f/-/crop/1920x524/0,61/-/preview/",
-      "url": "https://alesund.friskus.com/events/9af72422-5866-4caa-b159-512c83a4550a",
-      "tags": [],
-      "age_groups": [
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-oaaQYAxkAsSQo",
-      "title": "Søndagstur til Otrefjellet",
-      "start_at": "2026-04-19T11:00:00",
-      "end_at": "2026-04-19T15:00:00",
-      "is_free": false,
-      "location_name": "DNT Sunnmøre",
-      "city": "Ålesund",
-      "organizer": "DNT Sunnmøre",
-      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_595570",
-      "url": "https://alesund.friskus.com/events/oaaQYAxkAsSQo",
-      "tags": [
-        "friluftsliv",
-        "tur"
-      ],
-      "age_groups": [
-        "senior",
-        "pensioner",
-        "teenager"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-856f0722-e12e-426c-a461-f4e15002ad04",
-      "title": "Prøv klatring",
-      "start_at": "2026-04-19T12:00:00",
-      "end_at": "2026-12-20T14:00:00",
-      "is_free": true,
-      "location_name": "Klatreklubben Ålesund",
-      "city": "Ålesund",
-      "organizer": "Klatreklubben Ålesund",
-      "image_url": "https://ucarecdn.com/323a9799-8c45-4fe8-a5da-2c9f84d2f4d1/-/crop/6870x2630/0,9/-/preview/",
-      "url": "https://alesund.friskus.com/events/856f0722-e12e-426c-a461-f4e15002ad04",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-04-19T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-249dd123-1a8b-4af1-b297-87736ddfbafa",
@@ -314,43 +209,6 @@
       "tags": [],
       "age_groups": [
         "children"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-ff93bbe8-8919-439c-9dee-a05a785c0efa",
-      "title": "Leksehjelp for vaksne",
-      "start_at": "2026-04-20T14:30:00",
-      "end_at": "2026-06-08T17:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "organizer": "Ålesund bibliotek",
-      "image_url": "https://ucarecdn.com/d81765ee-fc26-4f68-b4f6-ccb1524a792f/-/crop/1099x300/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/ff93bbe8-8919-439c-9dee-a05a785c0efa",
-      "tags": [],
-      "age_groups": [
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-da1e45c2-1e1b-41d2-bef1-ea926e8a3d14",
-      "title": "LHL - Styrke, balanse og avspenning",
-      "start_at": "2026-04-20T15:15:00",
-      "end_at": "2026-05-25T16:30:00",
-      "is_free": true,
-      "location_name": "LHL Ålesund Sula og Giske",
-      "city": "Ålesund",
-      "organizer": "LHL Ålesund Sula og Giske",
-      "image_url": "https://ucarecdn.com/a76ee936-ab0b-4484-828c-97442a214089/-/crop/3217x1684/521,401/-/preview/",
-      "url": "https://alesund.friskus.com/events/da1e45c2-1e1b-41d2-bef1-ea926e8a3d14",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
       ],
       "is_recurring": true
     },
@@ -3928,25 +3786,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-7487d7a0-c8b3-47e9-8537-b80991a90e04",
-      "title": "Søndagsskule",
-      "start_at": "2026-04-19T11:00:00",
-      "end_at": "2026-04-26T12:00:00",
-      "is_free": false,
-      "location_name": "Langevåg søndagsskule",
-      "city": "Ålesund",
-      "organizer": "Langevåg søndagsskule",
-      "image_url": "https://ucarecdn.com/c93520f2-558c-4ea6-b25e-17edb01f7d35/-/crop/765x401/0,174/-/preview/",
-      "url": "https://alesund.friskus.com/events/7487d7a0-c8b3-47e9-8537-b80991a90e04",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "family"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-b52b3da9-2d5d-48e2-8e73-4c704666e533",
       "title": "DANSEMORO - for barn, unge og voksne som trenger tilrettelegging",
       "start_at": "2026-04-20T18:45:00",
@@ -4165,6 +4004,25 @@
       "tags": [],
       "age_groups": [
         "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-7487d7a0-c8b3-47e9-8537-b80991a90e04",
+      "title": "Søndagsskule",
+      "start_at": "2026-04-26T11:00:00",
+      "end_at": "2026-04-26T12:00:00",
+      "is_free": false,
+      "location_name": "Langevåg søndagsskule",
+      "city": "Ålesund",
+      "organizer": "Langevåg søndagsskule",
+      "image_url": "https://ucarecdn.com/c93520f2-558c-4ea6-b25e-17edb01f7d35/-/crop/765x401/0,174/-/preview/",
+      "url": "https://alesund.friskus.com/events/7487d7a0-c8b3-47e9-8537-b80991a90e04",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "family"
       ],
       "is_recurring": true
     },
@@ -4707,22 +4565,6 @@
       "age_groups": [
         "pensioner"
       ],
-      "is_recurring": false
-    },
-    {
-      "source": "viti",
-      "source_id": "viti-foredrag-aa-male-et-liv-om-kunstnaren-terje-fagermo-0",
-      "title": "Foredrag:  \"Å male et liv\" - om kunstnaren Terje Fagermo",
-      "start_at": "2026-04-19T13:00:00",
-      "end_at": "2026-04-19T14:00:00",
-      "location_name": "Sunnmøre museum",
-      "city": "Ålesund",
-      "image_url": "https://cdn.sanity.io/images/1fl8byel/viti/6dcf9844e6d9935ae02c94a2b88d83a29e9c5c5c-1500x1200.jpg",
-      "url": "https://www.vitimusea.no/arrangement/foredrag-aa-male-et-liv-om-kunstnaren-terje-fagermo",
-      "tags": [
-        "kunst"
-      ],
-      "age_groups": [],
       "is_recurring": false
     },
     {
@@ -6166,7 +6008,7 @@
       "latitude": 62.1472808,
       "longitude": 6.0668942,
       "organizer": "DEN NORSKE DOKUMENTARFILMFESTIVALEN",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/63085-dokfilm-festivalpass-studenthonnor",
       "tags": [],
       "age_groups": [],
@@ -7720,45 +7562,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33166-2026-04-19",
-      "title": "MTG: Secrets of Strixhaven Prerelease",
-      "start_at": "2026-04-19T10:00:00",
-      "end_at": "2026-04-19T18:00:00",
-      "location_name": "Thon Hotel Ålesund",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/mtg-secrets-of-strixhaven-prerelease/?occurrence=2026-04-19",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-25486-2026-04-19",
-      "title": "Aalesunds Museum",
-      "start_at": "2026-04-19T11:00:00",
-      "end_at": "2026-04-19T15:30:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum/?occurrence=2026-04-19",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-04-19",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-04-19T12:00:00",
-      "end_at": "2026-04-19T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-04-19",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -9826,83 +9629,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-45849d07-aa05-4956-8465-0941f84c9ab8",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-04-19T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ac8f63e0-b157-4bd7-bfb2-d3a5c603db23",
-      "title": "Flåklypa - Fra Paris til pyramidene",
-      "description": " Il Tempo Gigante skal ut på veien og det blir full gass, høy puls og sjarmerende moro i det trioen forlater den trygge bygda og skal ut i den store verden.",
-      "start_at": "2026-04-19T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/240a12815f774068a9d873acacccb4cb.jpg?width=1440&version=1CD261FD58DC034C00D3E10D718E896A",
-      "url": "https://www.odeonkino.no/film/flaklypa-fra-paris-til-pyramidene/",
-      "tags": [
-        "luxe",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a775533f-c302-423c-b13a-8795242cdf9e",
-      "title": "Da Mumbo Jumbo ble kjempestor",
-      "description": "Mumbo Jumbo bor trygt og godt hjemme hos moren sin i den lille dalen. Men en dag blir alt snudd opp ned når Mumbo kommer i skade for å spise en magisk sopp og blir kjempestor.",
-      "start_at": "2026-04-19T13:10:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/28794756920c4993b7968b7ecbe86b39.jpg?width=1440&version=2520CB2E5FEE357BB577CF74A5E4EAAD",
-      "url": "https://www.odeonkino.no/film/da-mumbo-jumbo-ble-kjempestor/",
-      "tags": [
-        "luxe",
-        "familiefilm",
-        "eventyr",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-fa548c6e-cd57-493c-bb30-d8b804029b3c",
-      "title": "Bamse og havets hemmelighet",
-      "start_at": "2026-04-19T13:10:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
-      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
-      "tags": [
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
