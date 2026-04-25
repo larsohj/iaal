@@ -1,90 +1,8 @@
 {
-  "generated_at": "2026-04-25T06:38:33.325681+00:00",
-  "total": 649,
+  "generated_at": "2026-04-25T12:22:02.716113+00:00",
+  "total": 628,
   "failed_sources": [],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-04-25T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-1e440d14-48a1-46df-8b34-531996c374c0",
-      "title": "Norsk kurs for eldre ukrainere",
-      "start_at": "2026-04-25T10:00:00",
-      "end_at": "2026-05-30T12:00:00",
-      "is_free": true,
-      "location_name": "Foreningen for Ukrainsk kreativitet og identitet",
-      "city": "Ålesund",
-      "organizer": "Foreningen for Ukrainsk kreativitet og identitet",
-      "image_url": "https://ucarecdn.com/a8b29cd9-f743-4f11-a33c-be45bf57390a/-/crop/1536x419/0,815/-/preview/",
-      "url": "https://alesund.friskus.com/events/1e440d14-48a1-46df-8b34-531996c374c0",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-aa6affe3-e40b-4fce-b6b3-786a66450709",
-      "title": "Aktivitetsdag i biblioteket",
-      "start_at": "2026-04-25T10:00:00",
-      "end_at": "2026-04-25T15:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "organizer": "Ålesund bibliotek",
-      "image_url": "https://ucarecdn.com/408d4740-1c1b-4bff-b821-6c222c4349cd/-/crop/4762x1299/0,2135/-/preview/",
-      "url": "https://alesund.friskus.com/events/aa6affe3-e40b-4fce-b6b3-786a66450709",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-04-25T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-3af2e2ab-d1c8-4900-a08a-9240ba80261b",
@@ -1479,6 +1397,24 @@
         "teenager"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-1e440d14-48a1-46df-8b34-531996c374c0",
+      "title": "Norsk kurs for eldre ukrainere",
+      "start_at": "2026-05-02T10:00:00",
+      "end_at": "2026-05-30T12:00:00",
+      "is_free": true,
+      "location_name": "Foreningen for Ukrainsk kreativitet og identitet",
+      "city": "Ålesund",
+      "organizer": "Foreningen for Ukrainsk kreativitet og identitet",
+      "image_url": "https://ucarecdn.com/a8b29cd9-f743-4f11-a33c-be45bf57390a/-/crop/1536x419/0,815/-/preview/",
+      "url": "https://alesund.friskus.com/events/1e440d14-48a1-46df-8b34-531996c374c0",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -3716,28 +3652,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-bf8907e4-df55-4cce-a645-46f42167762d",
-      "title": "GJENBRUKSBUTIKK MAUSEIDVÅG (LØ)",
-      "start_at": "2026-04-25T11:00:00",
-      "end_at": "2026-06-20T15:00:00",
-      "is_free": false,
-      "location_name": "Mauseidvåg Bedehusforening",
-      "city": "Ålesund",
-      "organizer": "Mauseidvåg Bedehusforening",
-      "image_url": "https://ucarecdn.com/08f0be57-a8bb-40c8-bf3b-97e399325f11/-/crop/5312x1447/0,770/-/preview/",
-      "url": "https://alesund.friskus.com/events/bf8907e4-df55-4cce-a645-46f42167762d",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-c90a4a9e-3b46-461f-b728-080b34a008b5",
       "title": "Connect",
       "start_at": "2026-04-25T20:30:00",
@@ -5640,23 +5554,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-89191487f6baa2e76815212aa047ed02",
-      "title": "ULTRA BACKYARD",
-      "description": "Ultra Backyard er et utholdenhetsløp der deltakerne løper én runde hver time. Du kan velge mellom en runde på 6,7 km eller 4 km, og runden må fullføres innen én time for å kunne starte på neste runde.\r\n\r\nEnten du sikter mot 10 km, 25 km, 50 km eller kanskje hele 80 km, handler dette løpet om viljestyrke og å utfordre egne grenser. Du bestemmer selv hvor mange runder du vil prøve deg på – men husk: hver runde må fullføres innen timen før neste start.\r\n\r\nEnten du vil teste grensene dine, løpe din første ultra, eller bare oppleve stemningen, er dette et arrangement for deg.\r\n\r\nVelkommen til en hel dag med løpeglede, fellesskap og viljestyrke. Alle prestasjoner feires!\r\n\r\nAnsvarsfraskrivelse(VIKTIG!)\r\nDeltakelse i arrangementet skjer på eget ansvar. Ved påmelding bekrefter deltaker at han eller hun er i tilstrekkelig fysisk form til å gjennomføre løpet og selv tar ansvar for egen helse og sikkerhet under arrangementet.\r\n\r\nArrangøren kan ikke holdes ansvarlig for skader, ulykker, sykdom eller andre hendelser som måtte oppstå før, under eller etter løpet. Deltakerne er selv ansvarlige for å følge gjeldende regler, vise hensyn til andre deltakere og bruke nødvendig utstyr tilpasset forholdene.\r\n\r\nVed påmelding godtar deltakeren denne ansvarsfraskrivelsen.",
-      "start_at": "2026-04-25T07:30:00",
-      "end_at": "2026-04-25T20:30:00",
-      "is_free": true,
-      "location_name": "NTNU Ålesund",
-      "city": "Ålesund",
-      "organizer": "NTNUI-ÅLESUND - NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITETS IDRETTSFORENING I ÅLESUND",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3480/uploads/event/c_ec69343920b732fb17ec2c2eedd214aa.jpeg?class=w768",
-      "url": "https://tikkio.com/events/62973-ultra-backyard",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-c080bea59fb29ab7d8b3240b4cc8be67",
       "title": "Hver gang vi møtes på Sunde Fjord Hotel",
       "description": "Verdenspremiere på Hver gang vi møtes - på Sunde Fjordhotell. Fredag 8. mai. Pris 150kr. En kveld med allsang, lokale songarar, husband og sosialt samvere. Dørene opnar kl 20.00. Konsertstart kl 21.00. Allsang og nydelig stemning🔥🤩",
@@ -6038,7 +5935,7 @@
       "latitude": 62.1472808,
       "longitude": 6.0668942,
       "organizer": "DEN NORSKE DOKUMENTARFILMFESTIVALEN",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/63085-dokfilm-festivalpass-studenthonnor",
       "tags": [],
       "age_groups": [],
@@ -6166,6 +6063,24 @@
       "organizer": "STUDENTHUSET AS",
       "image_url": "https://cdn.tikkio.com/static/1.0.3480/uploads/event/c_e0253935bb9b638b980e05fad16acb5f.jpg?class=w768",
       "url": "https://tikkio.com/events/62237-standup-espen-abrahamsen",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-3dd6007453c224ebb64fb9795a3ec827",
+      "title": "VAMP TIL STRANDA - SOMMER KONSERT PÅ KOIE",
+      "description": "VAMP TIL STRANDA – SOMMERKONSERT PÅ KOIE 🎶\r\n\r\nLørdag 13. juni kommer Vamp til Koie for en helt spesiell sommerkonsert.\r\n\r\nVi åpner allerede kl. 15:00 med grillmat, kaker og god stemning – før konserten starter kl. 18:00.\r\n\r\nEtter konserten fortsetter kvelden med etterfest i lavvoen 🔥\r\n\r\nDette blir en kveld for både venner, familie og alle som elsker norsk musikk.\r\n\r\n🎟️ Billetter ute nå – sikre deg plass\r\n\r\nArtist og billetter til etterfest kommer",
+      "start_at": "2026-06-13T15:00:00",
+      "end_at": "2026-06-14T02:00:00",
+      "is_free": false,
+      "price_text": "NOK 579.00",
+      "location_name": "KOIE - Strandvegen 17, 6200 Stranda",
+      "city": "Ålesund",
+      "organizer": "Koie Lavvo",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3480/uploads/event/c_6caacf13e9e48820e79c753c0289cce4.png?class=w768",
+      "url": "https://tikkio.com/events/63804-vamp-til-stranda-sommer-konsert-pa-koie",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -7519,36 +7434,6 @@
     },
     {
       "source": "bibliotek",
-      "source_id": "bibliotek-33568",
-      "title": "Aktivitetsdag i barneavdelinga",
-      "start_at": "2026-04-25T10:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i9dc6c63b-8fe2-4acb-9cb2-c28181320d1b/w300/ke4fd22bebed7/aktivitetsdag-desktop-wallpaper.png",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33568&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bibliotek",
-      "source_id": "bibliotek-33570",
-      "title": "Familieallsang",
-      "start_at": "2026-04-25T12:00:00",
-      "is_free": true,
-      "location_name": "Moa bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/icb1b0426-2471-4f26-969a-ccb2aab8f162/w300/k9599e97b319d/2_familieallsang-skjerm.jpg",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33570&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bibliotek",
       "source_id": "bibliotek-33340",
       "title": "Leksehjelp for vaksne",
       "start_at": "2026-04-27T14:30:00",
@@ -7653,82 +7538,19 @@
       "end_at": null
     },
     {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-31489-2026-04-25",
-      "title": "Flamingo Danseklubb – dansefest 25.4.26",
-      "start_at": "2026-04-25T08:00:00",
-      "end_at": "2026-04-25T18:00:00",
-      "location_name": "Ivar Aasen selskapslokaler",
+      "source": "bibliotek",
+      "source_id": "bibliotek-33520",
+      "title": "Les Vegas, baby!",
+      "start_at": "2026-04-30T11:00:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/flamingo-danseklubb-dansefest-25-4-26/?occurrence=2026-04-25",
+      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/iedf04949-f74f-485c-b6bd-f1f1ed601462/w300/k86b8563f9e8e/header-alesund_fb.png",
+      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33520&lang=1&MId1=18377",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33604-2026-04-25",
-      "title": "Midtnorsk Motorshow 2026",
-      "start_at": "2026-04-25T10:00:00",
-      "end_at": "2026-04-25T18:00:00",
-      "location_name": "Sparebanken Møre Arena",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/midtnorsk-motorshow-2026/?occurrence=2026-04-25&time=1777111200",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-25486-2026-04-25",
-      "title": "Aalesunds Museum",
-      "start_at": "2026-04-25T11:00:00",
-      "end_at": "2026-04-25T15:30:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum/?occurrence=2026-04-25",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-04-25",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-04-25T12:00:00",
-      "end_at": "2026-04-25T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-04-25",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33210-2026-04-25",
-      "title": "Familieallsang på Moa bibliotek",
-      "start_at": "2026-04-25T12:00:00",
-      "end_at": "2026-04-25T13:00:00",
-      "location_name": "Moa bibliotek",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/familieallsang-pa-moa-bibliotek-2/?occurrence=2026-04-25",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33435-2026-04-25",
-      "title": "Modelljernbaneanlegget Devoldbanen",
-      "start_at": "2026-04-25T12:00:00",
-      "end_at": "2026-04-25T16:00:00",
-      "location_name": "Devoldfabrikken",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/modelljernbaneanlegget-devoldbanen/?occurrence=2026-04-25",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -8925,195 +8747,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-19a98d31-303b-4d66-a2a5-fabcf1b9b699",
-      "title": "Det lille spøkelset Laban",
-      "start_at": "2026-04-25T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2ce1afa7db504465abaad2acdbb5e739.jpg?width=1440&version=EC55055BECEBCAFC59B6AFB2D8856C28",
-      "url": "https://www.odeonkino.no/film/det-lille-spokelset-laban/",
-      "tags": [
-        "luxe",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-5e4318cc-b48d-432a-9fc1-daf03dfa1f77",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-04-25T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b039b6db-06b8-4543-a16e-d63bda3a4d77",
-      "title": "Bamse og havets hemmelighet",
-      "start_at": "2026-04-25T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
-      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
-      "tags": [
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-46217dd2-ee8f-48ed-92fe-8ba299f4a588",
-      "title": "Krølle Bølle",
-      "start_at": "2026-04-25T10:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/4c1dae47c47e41b69fad82830bfd5270.jpg?width=1440&version=C73F28473228923778DD7CF0C96740BA",
-      "url": "https://www.odeonkino.no/film/krolle-bolle/",
-      "tags": [
-        "animasjon",
-        "familiefilm",
-        "fantasy"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-9d3f0cbe-eedd-4a70-96a6-ce020325aec7",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-04-25T11:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-0910b84f-5883-49a5-a7bc-7aa0ce5c36c8",
-      "title": "GOAT - Drøm stort",
-      "start_at": "2026-04-25T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
-      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-982cb634-7ed5-4063-a78c-ba32b84b8f34",
-      "title": "Project Hail Mary",
-      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
-      "start_at": "2026-04-25T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
-      "url": "https://www.odeonkino.no/film/project-hail-mary/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-66748297-af40-4f55-9470-64404960cf58",
-      "title": "Bamse og havets hemmelighet",
-      "start_at": "2026-04-25T12:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
-      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
-      "tags": [
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-9a8abf8b-8d18-4a5a-9f6e-4d4e64e4bbbf",
-      "title": "Da Mumbo Jumbo ble kjempestor",
-      "description": "Mumbo Jumbo bor trygt og godt hjemme hos moren sin i den lille dalen. Men en dag blir alt snudd opp ned når Mumbo kommer i skade for å spise en magisk sopp og blir kjempestor.",
-      "start_at": "2026-04-25T12:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/28794756920c4993b7968b7ecbe86b39.jpg?width=1440&version=2520CB2E5FEE357BB577CF74A5E4EAAD",
-      "url": "https://www.odeonkino.no/film/da-mumbo-jumbo-ble-kjempestor/",
-      "tags": [
-        "familiefilm",
-        "eventyr",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-78e5f67f-fc1d-4e61-9387-3d0b53b3a30d",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-04-25T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
