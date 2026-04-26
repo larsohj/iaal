@@ -1,72 +1,8 @@
 {
-  "generated_at": "2026-04-26T06:46:33.621535+00:00",
-  "total": 603,
+  "generated_at": "2026-04-26T12:23:38.856896+00:00",
+  "total": 594,
   "failed_sources": [],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-04-26T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-856f0722-e12e-426c-a461-f4e15002ad04",
-      "title": "Prøv klatring",
-      "start_at": "2026-04-26T12:00:00",
-      "end_at": "2026-12-20T14:00:00",
-      "is_free": true,
-      "location_name": "Klatreklubben Ålesund",
-      "city": "Ålesund",
-      "organizer": "Klatreklubben Ålesund",
-      "image_url": "https://ucarecdn.com/323a9799-8c45-4fe8-a5da-2c9f84d2f4d1/-/crop/6870x2630/0,9/-/preview/",
-      "url": "https://alesund.friskus.com/events/856f0722-e12e-426c-a461-f4e15002ad04",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-04-26T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-5ee80dab-cdc1-4fdf-a7f7-2f6eaaa4d744",
@@ -1442,6 +1378,26 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-856f0722-e12e-426c-a461-f4e15002ad04",
+      "title": "Prøv klatring",
+      "start_at": "2026-05-03T12:00:00",
+      "end_at": "2026-12-20T14:00:00",
+      "is_free": true,
+      "location_name": "Klatreklubben Ålesund",
+      "city": "Ålesund",
+      "organizer": "Klatreklubben Ålesund",
+      "image_url": "https://ucarecdn.com/323a9799-8c45-4fe8-a5da-2c9f84d2f4d1/-/crop/6870x2630/0,9/-/preview/",
+      "url": "https://alesund.friskus.com/events/856f0722-e12e-426c-a461-f4e15002ad04",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-17345db4-d274-41dd-ae8d-28ba802cdf2a",
       "title": "Gåtur - Aksla",
       "start_at": "2026-05-04T12:00:00",
@@ -2441,8 +2397,8 @@
       "source": "friskus",
       "source_id": "friskus-cb04f7f5-7761-4e48-bbe8-39932faed643",
       "title": "Joel Frahm trio",
-      "start_at": "2026-05-31T20:00:00",
-      "end_at": "2026-05-31T21:15:00",
+      "start_at": "2026-05-31T21:00:00",
+      "end_at": "2026-05-31T22:15:00",
       "is_free": false,
       "location_name": "Jazzsirkelen 04",
       "city": "Ålesund",
@@ -3676,44 +3632,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-7487d7a0-c8b3-47e9-8537-b80991a90e04",
-      "title": "Søndagsskule",
-      "start_at": "2026-04-26T11:00:00",
-      "end_at": "2026-04-26T12:00:00",
-      "is_free": false,
-      "location_name": "Langevåg søndagsskule",
-      "city": "Ålesund",
-      "organizer": "Langevåg søndagsskule",
-      "image_url": "https://ucarecdn.com/c93520f2-558c-4ea6-b25e-17edb01f7d35/-/crop/765x401/0,174/-/preview/",
-      "url": "https://alesund.friskus.com/events/7487d7a0-c8b3-47e9-8537-b80991a90e04",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "family"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-7ba9b0bd-5764-463a-9974-eb8695277d57",
-      "title": "Søndagsskolen",
-      "start_at": "2026-04-26T11:00:00",
-      "end_at": "2026-06-07T13:00:00",
-      "is_free": true,
-      "location_name": "Sula Frikirke",
-      "city": "Ålesund",
-      "organizer": "Sula Frikirke",
-      "image_url": "https://ucarecdn.com/bd8910e8-84f7-452b-86f7-c692f3fa6b06/-/crop/1920x523/0,556/-/preview/",
-      "url": "https://alesund.friskus.com/events/7ba9b0bd-5764-463a-9974-eb8695277d57",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-b52b3da9-2d5d-48e2-8e73-4c704666e533",
       "title": "DANSEMORO - for barn, unge og voksne som trenger tilrettelegging",
       "start_at": "2026-04-27T18:45:00",
@@ -3930,6 +3848,25 @@
       "url": "https://alesund.friskus.com/events/c90a4a9e-3b46-461f-b728-080b34a008b5",
       "tags": [],
       "age_groups": [
+        "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-7ba9b0bd-5764-463a-9974-eb8695277d57",
+      "title": "Søndagsskolen",
+      "start_at": "2026-05-03T11:00:00",
+      "end_at": "2026-06-07T13:00:00",
+      "is_free": true,
+      "location_name": "Sula Frikirke",
+      "city": "Ålesund",
+      "organizer": "Sula Frikirke",
+      "image_url": "https://ucarecdn.com/bd8910e8-84f7-452b-86f7-c692f3fa6b06/-/crop/1920x523/0,556/-/preview/",
+      "url": "https://alesund.friskus.com/events/7ba9b0bd-5764-463a-9974-eb8695277d57",
+      "tags": [],
+      "age_groups": [
+        "children",
         "teenager"
       ],
       "is_recurring": true
@@ -7543,45 +7480,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-33604-2026-04-26",
-      "title": "Midtnorsk Motorshow 2026",
-      "start_at": "2026-04-26T10:00:00",
-      "end_at": "2026-04-26T16:00:00",
-      "location_name": "Sparebanken Møre Arena",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/midtnorsk-motorshow-2026/?occurrence=2026-04-26&time=1777197600",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-25486-2026-04-26",
-      "title": "Aalesunds Museum",
-      "start_at": "2026-04-26T11:00:00",
-      "end_at": "2026-04-26T15:30:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum/?occurrence=2026-04-26",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-04-26",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-04-26T12:00:00",
-      "end_at": "2026-04-26T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-04-26",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-30907-2026-04-26",
       "title": "Teatret Vårt: Pippi Langstrømpe",
       "start_at": "2026-04-26T14:00:00",
@@ -8671,61 +8569,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-341b3487-bd6d-4aa1-a760-57607ec180a2",
-      "title": "Det lille spøkelset Laban",
-      "start_at": "2026-04-26T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2ce1afa7db504465abaad2acdbb5e739.jpg?width=1440&version=EC55055BECEBCAFC59B6AFB2D8856C28",
-      "url": "https://www.odeonkino.no/film/det-lille-spokelset-laban/",
-      "tags": [
-        "luxe",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7a5868b9-9382-4b3e-8fcf-7a8c3a5abda6",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-04-26T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ffe08ebb-c070-48bd-89f9-bafa54f596c1",
-      "title": "Bamse og havets hemmelighet",
-      "start_at": "2026-04-26T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
-      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
-      "tags": [
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
