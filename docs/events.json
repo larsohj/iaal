@@ -1,205 +1,8 @@
 {
-  "generated_at": "2026-04-27T07:03:40.961310+00:00",
-  "total": 565,
+  "generated_at": "2026-04-27T12:42:53.146862+00:00",
+  "total": 551,
   "failed_sources": [],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-04-27T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-eb565430-b4ac-476a-8742-922a8bf7342f",
-      "title": "Malergruppe",
-      "start_at": "2026-04-27T10:00:00",
-      "end_at": "2026-06-29T11:00:00",
-      "is_free": true,
-      "location_name": "Klipra seniorsenter",
-      "city": "Ålesund",
-      "organizer": "Klipra seniorsenter",
-      "image_url": "https://ucarecdn.com/bd998b12-a843-4688-ad56-39cb535f07d8/-/crop/1796x940/69,476/-/preview/",
-      "url": "https://alesund.friskus.com/events/eb565430-b4ac-476a-8742-922a8bf7342f",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-fd3cf089-fd4b-4773-85d6-707e40071b55",
-      "title": "Få hjelp av Kreftforeningens hverdagshjelp i Ålesund",
-      "start_at": "2026-04-27T10:00:00",
-      "end_at": "2028-06-05T22:00:00",
-      "is_free": true,
-      "location_name": "Kreftforeningen",
-      "city": "Ålesund",
-      "organizer": "Kreftforeningen",
-      "image_url": "https://ucarecdn.com/a788b2e4-169e-4d6c-a754-3bdb22a9c2d7/-/crop/1181x322/0,106/-/preview/",
-      "url": "https://alesund.friskus.com/events/fd3cf089-fd4b-4773-85d6-707e40071b55",
-      "tags": [],
-      "age_groups": [
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-3386f68b-7039-4343-9c44-ecdb87a5e5de",
-      "title": "Helsetrim damer",
-      "start_at": "2026-04-27T11:00:00",
-      "end_at": "2026-05-04T12:30:00",
-      "is_free": false,
-      "location_name": "LHL Skodje, Ørskog og Haram",
-      "city": "Ålesund",
-      "organizer": "LHL Skodje, Ørskog og Haram",
-      "image_url": "https://ucarecdn.com/af9acee0-d5c0-4992-b89d-7d82df90f4bf/-/crop/2869x967/0,15/-/preview/",
-      "url": "https://alesund.friskus.com/events/3386f68b-7039-4343-9c44-ecdb87a5e5de",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-68a19a59-6f4e-4a99-8b19-a0ddc82e8d90",
-      "title": "LHL - Krakketrim - Nivå 1",
-      "start_at": "2026-04-27T11:00:00",
-      "end_at": "2026-05-25T13:00:00",
-      "is_free": false,
-      "location_name": "LHL Ålesund Sula og Giske",
-      "city": "Ålesund",
-      "organizer": "LHL Ålesund Sula og Giske",
-      "image_url": "https://ucarecdn.com/7e85608e-01d2-49bb-9218-52fd347763f6/-/crop/550x288/0,9/-/preview/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/68a19a59-6f4e-4a99-8b19-a0ddc82e8d90",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-d8a9efef-3378-4fad-b16c-11c630541273",
-      "title": "Seniorkoret på Sjøholt faste øvingar på Kulturhuset",
-      "start_at": "2026-04-27T11:00:00",
-      "end_at": "2026-05-04T13:00:00",
-      "is_free": true,
-      "location_name": "Ørskog Pensjonistlag",
-      "city": "Ålesund",
-      "organizer": "Ørskog Pensjonistlag",
-      "image_url": "https://ucarecdn.com/92dd6db9-0879-4a25-8189-73cbb40a9547/-/crop/1500x409/0,30/-/preview/",
-      "url": "https://alesund.friskus.com/events/d8a9efef-3378-4fad-b16c-11c630541273",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-5ee60961-e8fd-4263-88e8-940882b9565c",
-      "title": "Bingo",
-      "start_at": "2026-04-27T11:30:00",
-      "end_at": "2026-06-22T12:30:00",
-      "is_free": false,
-      "location_name": "Klipra seniorsenter",
-      "city": "Ålesund",
-      "organizer": "Klipra seniorsenter",
-      "image_url": "https://ucarecdn.com/8b801fde-4545-4402-b108-bc996feea63c/-/crop/650x177/0,79/-/preview/",
-      "url": "https://alesund.friskus.com/events/5ee60961-e8fd-4263-88e8-940882b9565c",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-a8b0578b-c4b7-4985-bd81-e82a280fc2e7",
-      "title": "Dans med Aspøy Seniordansering",
-      "start_at": "2026-04-27T12:00:00",
-      "end_at": "2026-06-15T14:30:00",
-      "is_free": true,
-      "location_name": "Ålesund frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Ålesund frivilligsentral",
-      "image_url": "https://ucarecdn.com/f048d761-23cd-4ddf-b774-53d7113c0588/-/crop/500x136/0,151/-/preview/",
-      "url": "https://alesund.friskus.com/events/a8b0578b-c4b7-4985-bd81-e82a280fc2e7",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-04-27T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-oaay7wahnkSqt",
-      "title": "Dugnadstur til Kaldhusseter – Vedlauget",
-      "start_at": "2026-04-27T12:00:00",
-      "end_at": "2026-04-29T12:00:00",
-      "is_free": true,
-      "location_name": "DNT Sunnmøre",
-      "city": "Ålesund",
-      "organizer": "DNT Sunnmøre",
-      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_598483",
-      "url": "https://alesund.friskus.com/events/oaay7wahnkSqt",
-      "tags": [
-        "friluftsliv",
-        "tur"
-      ],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
     {
       "source": "friskus",
       "source_id": "friskus-52ff2260-1ef3-4022-ae78-cfe7c3c53d52",
@@ -388,28 +191,6 @@
         "senior"
       ],
       "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-6beda765-1c82-45af-a1f5-537ebd54778b",
-      "title": "Språkkafé på Harøy",
-      "start_at": "2026-04-27T18:00:00",
-      "end_at": "2026-06-15T19:30:00",
-      "is_free": true,
-      "location_name": "Frivilliggruppa på Harøya",
-      "city": "Ålesund",
-      "organizer": "Frivilliggruppa på Harøya",
-      "image_url": "https://ucarecdn.com/80eca3b0-782e-43f6-8e4f-612b51bcfed4/-/crop/1587x2102/0,76/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/6beda765-1c82-45af-a1f5-537ebd54778b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -944,7 +725,7 @@
       "location_name": "Havdur pensjonistforening",
       "city": "Ålesund",
       "organizer": "Havdur pensjonistforening",
-      "image_url": "https://ucarecdn.com/db9f78aa-1754-4ac2-aa69-a1ac2b93eedc/-/crop/1280x349/0,9/-/preview/",
+      "image_url": "https://ucarecdn.com/5b12b9f8-638d-40f9-a96c-0989dbd1b6b7/-/crop/720x196/0,513/-/preview/",
       "url": "https://alesund.friskus.com/events/87dc8818-8257-4560-a5b9-b206082a8385",
       "tags": [],
       "age_groups": [
@@ -1453,6 +1234,99 @@
         "children",
         "teenager",
         "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-eb565430-b4ac-476a-8742-922a8bf7342f",
+      "title": "Malergruppe",
+      "start_at": "2026-05-04T10:00:00",
+      "end_at": "2026-06-29T11:00:00",
+      "is_free": true,
+      "location_name": "Klipra seniorsenter",
+      "city": "Ålesund",
+      "organizer": "Klipra seniorsenter",
+      "image_url": "https://ucarecdn.com/bd998b12-a843-4688-ad56-39cb535f07d8/-/crop/1796x940/69,476/-/preview/",
+      "url": "https://alesund.friskus.com/events/eb565430-b4ac-476a-8742-922a8bf7342f",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-3386f68b-7039-4343-9c44-ecdb87a5e5de",
+      "title": "Helsetrim damer",
+      "start_at": "2026-05-04T11:00:00",
+      "end_at": "2026-05-04T12:30:00",
+      "is_free": false,
+      "location_name": "LHL Skodje, Ørskog og Haram",
+      "city": "Ålesund",
+      "organizer": "LHL Skodje, Ørskog og Haram",
+      "image_url": "https://ucarecdn.com/af9acee0-d5c0-4992-b89d-7d82df90f4bf/-/crop/2869x967/0,15/-/preview/",
+      "url": "https://alesund.friskus.com/events/3386f68b-7039-4343-9c44-ecdb87a5e5de",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-68a19a59-6f4e-4a99-8b19-a0ddc82e8d90",
+      "title": "LHL - Krakketrim - Nivå 1",
+      "start_at": "2026-05-04T11:00:00",
+      "end_at": "2026-05-25T13:00:00",
+      "is_free": false,
+      "location_name": "LHL Ålesund Sula og Giske",
+      "city": "Ålesund",
+      "organizer": "LHL Ålesund Sula og Giske",
+      "image_url": "https://ucarecdn.com/7e85608e-01d2-49bb-9218-52fd347763f6/-/crop/550x288/0,9/-/preview/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/68a19a59-6f4e-4a99-8b19-a0ddc82e8d90",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-d8a9efef-3378-4fad-b16c-11c630541273",
+      "title": "Seniorkoret på Sjøholt faste øvingar på Kulturhuset",
+      "start_at": "2026-05-04T11:00:00",
+      "end_at": "2026-05-04T13:00:00",
+      "is_free": true,
+      "location_name": "Ørskog Pensjonistlag",
+      "city": "Ålesund",
+      "organizer": "Ørskog Pensjonistlag",
+      "image_url": "https://ucarecdn.com/92dd6db9-0879-4a25-8189-73cbb40a9547/-/crop/1500x409/0,30/-/preview/",
+      "url": "https://alesund.friskus.com/events/d8a9efef-3378-4fad-b16c-11c630541273",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-5ee60961-e8fd-4263-88e8-940882b9565c",
+      "title": "Bingo",
+      "start_at": "2026-05-04T11:30:00",
+      "end_at": "2026-06-22T12:30:00",
+      "is_free": false,
+      "location_name": "Klipra seniorsenter",
+      "city": "Ålesund",
+      "organizer": "Klipra seniorsenter",
+      "image_url": "https://ucarecdn.com/8b801fde-4545-4402-b108-bc996feea63c/-/crop/650x177/0,79/-/preview/",
+      "url": "https://alesund.friskus.com/events/5ee60961-e8fd-4263-88e8-940882b9565c",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -2740,6 +2614,24 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-0fec4349-7e16-4702-acfa-2359834d2bdc",
+      "title": "PENSJONISTFORENING HAVDUR, Harøy - BUSSTUR",
+      "start_at": "2026-06-11T08:15:00",
+      "end_at": "2026-06-11T20:00:00",
+      "is_free": false,
+      "location_name": "Havdur pensjonistforening",
+      "city": "Ålesund",
+      "organizer": "Havdur pensjonistforening",
+      "image_url": "https://ucarecdn.com/0639b8d5-efd6-4303-9211-e5168b87b624/-/crop/1024x1515/0,21/-/preview/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/0fec4349-7e16-4702-acfa-2359834d2bdc",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-08f7a3ae-1757-4a43-963c-91716ebee38e",
       "title": "Foreldrekurs i emosjonsfokusert ferdigheitstrening (Barn 0-18 år)",
       "start_at": "2026-06-11T09:00:00",
@@ -3297,7 +3189,7 @@
     {
       "source": "friskus",
       "source_id": "friskus-oaaVXQd0UeSq2",
-      "title": "Internasjonal hyttetur til Reindalseter",
+      "title": "ikke publisert: Internasjonal hyttetur til Reindalseter",
       "start_at": "2026-08-07T00:00:00",
       "end_at": "2026-08-09T01:00:00",
       "is_free": false,
@@ -4629,24 +4521,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-17b35ccef4ddafcd1e346586ed227a71",
-      "title": "Pop & Politikk – live",
-      "description": "Verden er komplisert. Populærkulturen hjelper.\r\n\r\nAsbjørn Slettemark og Marte Heian-Engdal har gjort det til en kunst å forklare det som skjer i verden – gjennom film, musikk, serier og alt det andre vi egentlig bare tenkte var underholdning. I podkasten Pop & Politikk sorterer de ukentlig i det store bildet, med populærkulturen som kompass.\r\n\r\n30. april gjør de det live på Løvenvold Theater, som del av The North West-festivalen Røtter.\r\nUnummererte sitteplasser. – velg sete selv ved ankomst.",
-      "start_at": "2026-04-30T18:30:00",
-      "end_at": "2026-04-30T19:00:00",
-      "is_free": false,
-      "price_text": "NOK 165.00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "organizer": "THE NORTH WEST AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_c0acd481bc39c40e84e7cb13f055d937.jpg?class=w768",
-      "url": "https://tikkio.com/events/62941-pop-politikk-live",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-4313999690a7a411c4fce2cd11b2a99a",
       "title": "Jo Nesbø - Sanger & Historier",
       "description": "<p>Mannen som har gitt oss landeplager som «Jenter» og «Rumba med Gunn (1–2–3)», og som siden har blitt en av verdens mest leste krimforfattere, inviterer nå publikum med på en sjelden og intim kveld.</p><p>Jo Nesbø og multiinstrumentalist Lars Jones, side om side på scenen i Ålesund: med en gitar, en bass, et munnspill og to stemmer. Her blir det gode historier, lune øyeblikk og musikalsk nærhet.</p><p>Nesbø deler fortellinger fra et langt liv med musikk og krim, og vever dem tett sammen med sanger fra både Di Derre-katalogen og sin egen solokarriere. Alt i en form som er like uformell som den er skarpsindig, og like personlig som den er underholdende.</p><p>Ved hans side står Lars Jones, en av landets mest ettertraktede musikere, kjent for sitt arbeid med blant andre Anne Grete Preus, Dronning Mauds Land og Di Derre. Med sin følsomhet og musikalitet løfter han kvelden til noe helt spesielt.</p><p>Resultatet kan kun oppleves live. Når Jo Nesbø entrer scenen, skjer det noe helt eget. Og du bør være tilstede!</p>",
@@ -5353,6 +5227,26 @@
     },
     {
       "source": "tikkio",
+      "source_id": "tikkio-5d82278d33a904f041db4b8daf14360f",
+      "title": "Sommerfest Galleonen",
+      "description": "<p></p>",
+      "start_at": "2026-05-19T20:00:00",
+      "end_at": "2026-05-20T01:00:00",
+      "is_free": false,
+      "price_text": "NOK 112.00",
+      "location_name": "Molo",
+      "city": "Ålesund",
+      "latitude": 62.4696333,
+      "longitude": 6.1531858,
+      "organizer": "Galleonen - Linjeforening for shipping management",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-1.jpeg?class=w768",
+      "url": "https://tikkio.com/events/63820-sommerfest-galleonen",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
       "source_id": "tikkio-9669effae515c33fd27f84a3cfee152e",
       "title": "Stormjazz 2026: Jazzcafé - Kjetil Mulelid trio",
       "description": "Kjetil Mulelid Trio regnes i dag som en av de fremste pianotrioene i Europa, og har siden debuten i 2017 markert seg med et særegent og gjenkjennelig uttrykk. Med tre kritikerroste album og omfattende internasjonal turnévirksomhet har trioen etablert seg som en sentral stemme i den nordiske jazztradisjonen.\r\n\r\nMusikken tar utgangspunkt i Mulelids egne komposisjoner, der melodisk klarhet møter rytmisk kompleksitet og harmonisk dybde. Uttrykket balanserer det energiske og det stillferdige, og lar vakre, åpne melodier vokse frem i et lydbilde som stadig er i bevegelse. Det er en musikk som tar seg tid – som utvikler seg lag for lag, med en ro og ettertenksomhet som samtidig rommer stor intensitet.\r\n\r\nSammen med bassist Rune Nergaard og trommeslager Andreas Winther skaper Mulelid et tett og intuitivt samspill. Trioformatet er klassisk, men uttrykket er levende og fleksibelt, med stor vekt på kollektiv improvisasjon og felles formidling. Her oppstår et klangunivers preget av nyanser, dynamikk og en tydelig skandinavisk sensibilitet.\r\n\r\nReferanser til pianister som Keith Jarrett og Bill Evans trekkes ofte frem, men trioen har samtidig utviklet et tydelig eget språk. Resultatet er musikk som både er tilgjengelig og dyptgående – et uttrykk som inviterer lytteren inn, og som stadig åpner nye rom.\r\n\r\nKjetil Mulelid slekter fra Skaret på Valderøya, og tilbrakte mye tid der i barndommen. Denne tilknytningen til Sunnmøre gir konserten en ekstra lokal dimensjon. Da Jazzsirkelen anskaffet nytt piano i 2025, var det nettopp Mulelid som prøvespilte og valgte ut instrumentet – et Schimmel K122E. Under Stormjazz får han endelig anledning til å utforske dette pianoet i konsertsammenheng, noe som gir en ekstra dimensjon til møtet mellom musiker og instrument.\r\n\r\nDet er et bevisst valg å presentere denne stjernetrioen i en intim «Jazzsirkelen jazzcafé»-setting. En jazzfestival i Ålesund er vanskelig å tenke seg uten denne rammen – tett på musikken, tett på utøverne, og med rom for den konsentrerte lytteopplevelsen.\r\n\r\nPå Stormjazz presenteres Kjetil Mulelid Trio i et format som legger til rette for nær lytting og tilstedeværelse. Dette er en konsert der detaljene får plass, og hvor samspillet står i sentrum.\r\n\r\nKjetil Mulelid – piano\r\nRune Nergaard – kontrabass\r\nAndreas Winther – trommer\r\n\r\nBilletter kan kjøpes via Tikkio. Eventuelle restbilletter selges i døren ved bruk av Vipps.\r\n\r\nKjøpte billetter refunderes ikke. Våre konserter fotograferes. Deltakere under 18 år, må være i følge med en ansvarlig voksen.",
@@ -5901,7 +5795,7 @@
       "latitude": 62.1472808,
       "longitude": 6.0668942,
       "organizer": "DEN NORSKE DOKUMENTARFILMFESTIVALEN",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/63085-dokfilm-festivalpass-studenthonnor",
       "tags": [],
       "age_groups": [],
@@ -6017,27 +5911,9 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-3dd6007453c224ebb64fb9795a3ec827",
-      "title": "VAMP TIL STRANDA - SOMMER KONSERT PÅ KOIE",
-      "description": "VAMP TIL STRANDA – SOMMERKONSERT PÅ KOIE 🎶\r\n\r\nLørdag 13. juni kommer Vamp til Koie for en helt spesiell sommerkonsert.\r\n\r\nVi åpner allerede kl. 15:00 med grillmat, kaker og god stemning – før konserten starter kl. 18:00.\r\n\r\nEtter konserten fortsetter kvelden med etterfest i lavvoen 🔥\r\n\r\nDette blir en kveld for både venner, familie og alle som elsker norsk musikk.\r\n\r\n🎟️ Billetter ute nå – sikre deg plass\r\n\r\nArtist og billetter til etterfest kommer",
-      "start_at": "2026-06-13T15:00:00",
-      "end_at": "2026-06-14T02:00:00",
-      "is_free": false,
-      "price_text": "NOK 579.00",
-      "location_name": "KOIE - Strandvegen 17, 6200 Stranda",
-      "city": "Ålesund",
-      "organizer": "Koie Lavvo",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_6caacf13e9e48820e79c753c0289cce4.png?class=w768",
-      "url": "https://tikkio.com/events/63804-vamp-til-stranda-sommer-konsert-pa-koie",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-fef6b5ae448979bb8a14a7637b5551af",
       "title": "Sytalaust 2026",
-      "description": "<p>Ein helt ny festival på Stranda, Sunnmøre. To dagar fylt med musikk, gode folk, mat og festivalstemning omgitt av fjord og fjell.</p><p></p><p>Artistar:</p><p>STAUT</p><p>MADELÉNE</p><p>HALVA PRISET</p><p>EL PAPI</p><p>MAY</p><p>OGRAS</p><p>CARINA DAHL</p><p>ANGELICA</p><p>LUXUS LEVERPOSTEI</p><p>MARCI</p><p>KNEKT</p><p>MARTi</p><p>KALVEDANS</p><p>SIMON BRUNE BAND</p><p></p><p>Aldersgrense: 18 år</p><p></p><p>OBS! Det blir tatt bilder og video på området.</p><p></p><p>Programendringer kan forekomme. Kansellering av artist/band og følgende programendringer vil ikke medføre rett til refusjon av billett. Refusjon gis kun ved avlysning av hele arrangementet. Billettavgiften blir ikke refundert ved avlysning.</p>",
+      "description": "<p>Ein helt ny festival på Stranda, Sunnmøre. To dagar fylt med musikk, gode folk, mat og festivalstemning omgitt av fjord og fjell.</p><p></p><p>FREDAG<br>Halva Priset<br>Madeléne<br>Angelica<br>El Papi<br>Ogras</p><p></p><p>LØRDAG<br>MARTi<br>Simon Brune Band<br>Kalvedans<br>Marci<br>Staut<br>Knekt<br>May<br>Carina Dahl<br>Luxus Leverpostei</p><p></p><p>Aldersgrense: 18 år</p><p></p><p>OBS! Det blir tatt bilder og video på området.</p><p></p><p>Programendringer kan forekomme. Kansellering av artist/band og følgende programendringer vil ikke medføre rett til refusjon av billett. Refusjon gis kun ved avlysning av hele arrangementet. Billettavgiften blir ikke refundert ved avlysning.</p>",
       "start_at": "2026-05-29T17:00:00",
       "end_at": "2026-05-31T02:00:00",
       "is_free": false,
@@ -6067,6 +5943,26 @@
       "organizer": "Koie Lavvo",
       "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_11cf689811d12853449bf34eb1afb8f0.webp?class=w768",
       "url": "https://tikkio.com/events/61901-quiz-med-tommy-og-thomas-koie-lavvo",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-3dd6007453c224ebb64fb9795a3ec827",
+      "title": "Vamp // Koie Lavvo",
+      "description": "<p>VAMP TIL STRANDA – SOMMERKONSERT PÅ KOIE 🎶</p><p>Lørdag 13. juni kommer Vamp til Koie for en helt spesiell sommerkonsert.</p><p>Vi åpner allerede kl. 15:00 med grillmat, kaker og god stemning – før konserten starter kl. 18:00.</p><p>Etter konserten fortsetter kvelden med etterfest i lavvoen 🔥</p><p>Dette blir en kveld for både venner, familie og alle som elsker norsk musikk.</p><p>🎟️ Billetter ute nå – sikre deg plass</p><p>Artist og billetter til etterfest kommer</p>",
+      "start_at": "2026-06-13T15:00:00",
+      "end_at": "2026-06-14T02:00:00",
+      "is_free": false,
+      "price_text": "NOK 579.00",
+      "location_name": "Koie Lavvo",
+      "city": "Ålesund",
+      "latitude": 62.3061002,
+      "longitude": 6.9488962,
+      "organizer": "Koie Lavvo",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_6caacf13e9e48820e79c753c0289cce4.png?class=w768",
+      "url": "https://tikkio.com/events/63804-vamp-til-stranda-sommer-konsert-pa-koie",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -6636,7 +6532,7 @@
       "location_name": "Parken kulturhus – Hovedscene",
       "city": "Ålesund",
       "organizer": "Nasjonal festkonsert",
-      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F43177%2Fweb-square.webp?version=GcXWrzSL/NoaGchjdcdynQ==",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F43177%2Fweb-square.webp?version=MuiJQHWMRDulOzJo++Skvg==",
       "url": "https://www.parkenkulturhus.no/program/43177-alesund-symfoniorkester/",
       "tags": [
         "klassisk"
@@ -7497,45 +7393,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-23231-2026-04-27",
-      "title": "Seniorsvømming",
-      "start_at": "2026-04-27T08:00:00",
-      "end_at": "2026-04-27T11:00:00",
-      "location_name": "Bybadet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/seniorsvomming/?occurrence=2026-04-27",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32362-2026-04-27",
-      "title": "Sommerfuglen Aktivitet",
-      "start_at": "2026-04-27T10:00:00",
-      "end_at": "2026-04-27T15:00:00",
-      "location_name": "Sommerfuglen Aktivitet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerfuglen-aktivitet/?occurrence=2026-04-27",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-04-27",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-04-27T12:00:00",
-      "end_at": "2026-04-27T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-04-27",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -8472,114 +8329,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-56a5e5fd-c29a-4411-84f6-b4306f78ecf9",
-      "title": "The Drama",
-      "start_at": "2026-04-27T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b2ed403caa0343b8bdec1a62afb738af.jpg?width=1440&version=403CC209711B01B1A4C13BE8F6AF7C23",
-      "url": "https://www.odeonkino.no/film/the-drama/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e3d9d5ed-12c3-4f3d-8af1-27e1360d45b6",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-04-27T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e83b01da-987a-4534-807a-53a465fac6fe",
-      "title": "Bamse og havets hemmelighet",
-      "start_at": "2026-04-27T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
-      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-437770c8-e02b-4ef4-bf70-caa20d764bf9",
-      "title": "Michael",
-      "start_at": "2026-04-27T12:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "isense",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6ee26b4f-36f1-492e-8bc9-fbc81a6d44ca",
-      "title": "I Swear",
-      "description": "Den sanne historien om John Davidson: Diagnostisert med Tourettes syndrom i ung alder, ble han fremmedgjort fra jevnaldrende og kjempet med en tilstand få hadde sett før.",
-      "start_at": "2026-04-27T13:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3002494eb5c7418d92b6edea318d9994.jpg?width=1440&version=6A8A9AD9A1F17C7D1716DB38FE5185C9",
-      "url": "https://www.odeonkino.no/film/i-swear/",
-      "tags": [
-        "drama",
-        "biografi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-86e8f2f8-10fd-418e-ac1a-9cf6bd2e1eeb",
-      "title": "The Drama",
-      "start_at": "2026-04-27T13:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b2ed403caa0343b8bdec1a62afb738af.jpg?width=1440&version=403CC209711B01B1A4C13BE8F6AF7C23",
-      "url": "https://www.odeonkino.no/film/the-drama/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
@@ -10178,7 +9927,7 @@
       "price_text": "50 kr",
       "location_name": "Color Line Stadion",
       "city": "Ålesund",
-      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1084504/default_default_event_image.png",
+      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1084504/default_file-1777281374.jpeg",
       "url": "https://aafk.ticketco.events/no/nb/e/toppserien_aafk_kvinner_-_lyn",
       "tags": [
         "fotball"
