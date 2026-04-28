@@ -1,207 +1,8 @@
 {
-  "generated_at": "2026-04-28T07:03:54.907650+00:00",
-  "total": 595,
+  "generated_at": "2026-04-28T12:45:30.290509+00:00",
+  "total": 646,
   "failed_sources": [],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-04-28T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-9df6482a-c133-4c20-9b2b-854f8fd43ee0",
-      "title": "En dag i Åpen barnehage",
-      "start_at": "2026-04-28T09:00:00",
-      "end_at": "2026-06-30T15:00:00",
-      "is_free": true,
-      "location_name": "Åpen barnehage",
-      "city": "Ålesund",
-      "organizer": "Åpen barnehage",
-      "image_url": "https://ucarecdn.com/4bd05e03-f99d-496e-ab68-afa955c0036f/-/crop/1200x327/0,349/-/preview/",
-      "url": "https://alesund.friskus.com/events/9df6482a-c133-4c20-9b2b-854f8fd43ee0",
-      "tags": [],
-      "age_groups": [
-        "children"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-243dd4df-516a-4877-bf4a-32085f125533",
-      "title": "Innføringskurs for nye frivillige medarbeidere",
-      "start_at": "2026-04-28T10:00:00",
-      "end_at": "2026-06-30T13:00:00",
-      "is_free": true,
-      "location_name": "Kirkens SOS",
-      "city": "Ålesund",
-      "organizer": "Kirkens SOS",
-      "image_url": "https://ucarecdn.com/c3a5c986-698d-4ef9-b6b0-fce6e31ed5d7/-/crop/2460x671/0,205/-/preview/",
-      "url": "https://alesund.friskus.com/events/243dd4df-516a-4877-bf4a-32085f125533",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-08ee5f1a-ace8-4d35-9b18-d2adfdb1094d",
-      "title": "Tirsdagstrim",
-      "start_at": "2026-04-28T11:00:00",
-      "end_at": "2026-06-23T11:30:00",
-      "is_free": false,
-      "location_name": "Klipra seniorsenter",
-      "city": "Ålesund",
-      "organizer": "Klipra seniorsenter",
-      "image_url": "https://ucarecdn.com/6ad18d94-bd20-4e82-83f7-5e2246577b14/-/crop/589x160/0,44/-/preview/",
-      "url": "https://alesund.friskus.com/events/08ee5f1a-ace8-4d35-9b18-d2adfdb1094d",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-4564a894-b162-498e-b547-b73037f3d6da",
-      "title": "Bokkino i Moa bibliotek",
-      "start_at": "2026-04-28T11:00:00",
-      "end_at": "2026-06-16T11:30:00",
-      "is_free": true,
-      "location_name": "Moa Bibliotek",
-      "city": "Ålesund",
-      "organizer": "Moa Bibliotek",
-      "image_url": "https://ucarecdn.com/bfd760c4-daf3-48d9-ab4e-c034ae79fc2c/-/crop/1920x523/0,157/-/preview/",
-      "url": "https://alesund.friskus.com/events/4564a894-b162-498e-b547-b73037f3d6da",
-      "tags": [],
-      "age_groups": [
-        "children"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-49c50319-a5a8-41a4-a76e-d01c69665d23",
-      "title": "Naturmøteplassen på Aksla",
-      "start_at": "2026-04-28T12:00:00",
-      "end_at": "2026-06-23T14:00:00",
-      "is_free": true,
-      "location_name": "Ålesund frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Ålesund frivilligsentral",
-      "image_url": "https://ucarecdn.com/684e5dbf-3c57-44fd-a42b-0ccf1df6bab0/-/crop/2016x550/0,469/-/preview/",
-      "url": "https://alesund.friskus.com/events/49c50319-a5a8-41a4-a76e-d01c69665d23",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-68fe8a55-4401-42b9-a96c-eef10d7dc601",
-      "title": "Strikkekafe kvar tysdag 12-15",
-      "start_at": "2026-04-28T12:00:00",
-      "end_at": "2026-06-16T15:00:00",
-      "is_free": true,
-      "location_name": "Harøy bibliotek",
-      "city": "Ålesund",
-      "organizer": "Harøy bibliotek",
-      "image_url": "https://ucarecdn.com/eefbead1-5f59-49b4-8854-06348d450fc8/-/crop/1517x414/0,37/-/preview/",
-      "url": "https://alesund.friskus.com/events/68fe8a55-4401-42b9-a96c-eef10d7dc601",
-      "tags": [],
-      "age_groups": [
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-a3d2b9fa-92cd-4358-9084-3fc6567472bf",
-      "title": "Naturmøteplass ved Elvaløa på Sjøholt",
-      "start_at": "2026-04-28T12:00:00",
-      "end_at": "2026-06-30T14:00:00",
-      "is_free": true,
-      "location_name": "Ørskog Frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Ørskog Frivilligsentral",
-      "image_url": "https://ucarecdn.com/21188cc4-6a9d-47bf-a831-2d5a9cb65d40/-/crop/632x488/0,272/-/preview/-/resize/x300/",
-      "url": "https://alesund.friskus.com/events/a3d2b9fa-92cd-4358-9084-3fc6567472bf",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-04-28T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-2669cee5-2b1d-42cf-abd7-16c498f1cbcf",
-      "title": "LHL - Bowling i Vika",
-      "start_at": "2026-04-28T12:01:00",
-      "end_at": "2026-06-30T14:00:00",
-      "is_free": false,
-      "location_name": "LHL Ålesund Sula og Giske",
-      "city": "Ålesund",
-      "organizer": "LHL Ålesund Sula og Giske",
-      "image_url": "https://ucarecdn.com/079a8715-a113-4ddf-9396-bfdf82098d49/-/crop/1149x601/73,84/-/preview/",
-      "url": "https://alesund.friskus.com/events/2669cee5-2b1d-42cf-abd7-16c498f1cbcf",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
@@ -764,6 +565,26 @@
       "tags": [],
       "age_groups": [
         "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-243dd4df-516a-4877-bf4a-32085f125533",
+      "title": "Innføringskurs for nye frivillige medarbeidere",
+      "start_at": "2026-04-30T10:00:00",
+      "end_at": "2026-06-30T13:00:00",
+      "is_free": true,
+      "location_name": "Kirkens SOS",
+      "city": "Ålesund",
+      "organizer": "Kirkens SOS",
+      "image_url": "https://ucarecdn.com/c3a5c986-698d-4ef9-b6b0-fce6e31ed5d7/-/crop/2460x671/0,205/-/preview/",
+      "url": "https://alesund.friskus.com/events/243dd4df-516a-4877-bf4a-32085f125533",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -1427,6 +1248,105 @@
       "organizer": "LHL Ålesund Sula og Giske",
       "image_url": "https://ucarecdn.com/8e9535d5-16c8-46f1-9745-efc71ed152b3/-/crop/3217x1684/326,418/-/preview/",
       "url": "https://alesund.friskus.com/events/b7d9b698-a137-4254-9725-9f408cba62b6",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-08ee5f1a-ace8-4d35-9b18-d2adfdb1094d",
+      "title": "Tirsdagstrim",
+      "start_at": "2026-05-05T11:00:00",
+      "end_at": "2026-06-23T11:30:00",
+      "is_free": false,
+      "location_name": "Klipra seniorsenter",
+      "city": "Ålesund",
+      "organizer": "Klipra seniorsenter",
+      "image_url": "https://ucarecdn.com/6ad18d94-bd20-4e82-83f7-5e2246577b14/-/crop/589x160/0,44/-/preview/",
+      "url": "https://alesund.friskus.com/events/08ee5f1a-ace8-4d35-9b18-d2adfdb1094d",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-4564a894-b162-498e-b547-b73037f3d6da",
+      "title": "Bokkino i Moa bibliotek",
+      "start_at": "2026-05-05T11:00:00",
+      "end_at": "2026-06-16T11:30:00",
+      "is_free": true,
+      "location_name": "Moa Bibliotek",
+      "city": "Ålesund",
+      "organizer": "Moa Bibliotek",
+      "image_url": "https://ucarecdn.com/bfd760c4-daf3-48d9-ab4e-c034ae79fc2c/-/crop/1920x523/0,157/-/preview/",
+      "url": "https://alesund.friskus.com/events/4564a894-b162-498e-b547-b73037f3d6da",
+      "tags": [],
+      "age_groups": [
+        "children"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-49c50319-a5a8-41a4-a76e-d01c69665d23",
+      "title": "Naturmøteplassen på Aksla",
+      "start_at": "2026-05-05T12:00:00",
+      "end_at": "2026-06-23T14:00:00",
+      "is_free": true,
+      "location_name": "Ålesund frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Ålesund frivilligsentral",
+      "image_url": "https://ucarecdn.com/684e5dbf-3c57-44fd-a42b-0ccf1df6bab0/-/crop/2016x550/0,469/-/preview/",
+      "url": "https://alesund.friskus.com/events/49c50319-a5a8-41a4-a76e-d01c69665d23",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-a3d2b9fa-92cd-4358-9084-3fc6567472bf",
+      "title": "Naturmøteplass ved Elvaløa på Sjøholt",
+      "start_at": "2026-05-05T12:00:00",
+      "end_at": "2026-06-30T14:00:00",
+      "is_free": true,
+      "location_name": "Ørskog Frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Ørskog Frivilligsentral",
+      "image_url": "https://ucarecdn.com/21188cc4-6a9d-47bf-a831-2d5a9cb65d40/-/crop/632x488/0,272/-/preview/-/resize/x300/",
+      "url": "https://alesund.friskus.com/events/a3d2b9fa-92cd-4358-9084-3fc6567472bf",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-2669cee5-2b1d-42cf-abd7-16c498f1cbcf",
+      "title": "LHL - Bowling i Vika",
+      "start_at": "2026-05-05T12:01:00",
+      "end_at": "2026-06-30T14:00:00",
+      "is_free": false,
+      "location_name": "LHL Ålesund Sula og Giske",
+      "city": "Ålesund",
+      "organizer": "LHL Ålesund Sula og Giske",
+      "image_url": "https://ucarecdn.com/079a8715-a113-4ddf-9396-bfdf82098d49/-/crop/1149x601/73,84/-/preview/",
+      "url": "https://alesund.friskus.com/events/2669cee5-2b1d-42cf-abd7-16c498f1cbcf",
       "tags": [],
       "age_groups": [
         "senior",
@@ -3729,47 +3649,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-oaaB1ezA4Yn4P",
-      "title": "Tirsdagstur: Sulebakkhornet",
-      "start_at": "2026-04-28T10:00:00",
-      "end_at": "2026-04-28T15:00:00",
-      "is_free": false,
-      "location_name": "DNT Sunnmøre",
-      "city": "Ålesund",
-      "organizer": "DNT Sunnmøre",
-      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_595548",
-      "url": "https://alesund.friskus.com/events/oaaB1ezA4Yn4P",
-      "tags": [
-        "friluftsliv",
-        "tur"
-      ],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-ccbae1b9-039b-4310-9b6d-1612a327a204",
-      "title": "Barselkafe",
-      "start_at": "2026-04-28T11:00:00",
-      "end_at": "2026-06-09T13:00:00",
-      "is_free": true,
-      "location_name": "Sula Frikirke",
-      "city": "Ålesund",
-      "organizer": "Sula Frikirke",
-      "image_url": "https://ucarecdn.com/9d8ccced-091f-467d-863c-9e04f5fb8767/-/crop/1920x523/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/ccbae1b9-039b-4310-9b6d-1612a327a204",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-99fe4f7d-fdbb-4cdd-b2c7-64bc2c3389f3",
       "title": "GJENBRUKSBUTIKK MAUSEIDVÅG (TI)",
       "start_at": "2026-04-28T13:00:00",
@@ -3974,6 +3853,47 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-5da5184d-9e0f-474a-81a6-e956ad5622ca",
+      "title": "Markering av frigjerings- og veterandagen 2026",
+      "start_at": "2026-05-08T13:00:00",
+      "end_at": "2026-05-08T13:30:00",
+      "is_free": true,
+      "location_name": "Sula kommune",
+      "city": "Ålesund",
+      "organizer": "Sula kommune",
+      "image_url": "https://ucarecdn.com/da10bea0-5629-40be-8266-aaaee267bf9c/-/crop/4032x1100/0,1361/-/preview/",
+      "url": "https://alesund.friskus.com/events/5da5184d-9e0f-474a-81a6-e956ad5622ca",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-ccbae1b9-039b-4310-9b6d-1612a327a204",
+      "title": "Barselkafe",
+      "start_at": "2026-05-12T11:00:00",
+      "end_at": "2026-06-09T13:00:00",
+      "is_free": true,
+      "location_name": "Sula Frikirke",
+      "city": "Ålesund",
+      "organizer": "Sula Frikirke",
+      "image_url": "https://ucarecdn.com/9d8ccced-091f-467d-863c-9e04f5fb8767/-/crop/1920x523/0,0/-/preview/",
+      "url": "https://alesund.friskus.com/events/ccbae1b9-039b-4310-9b6d-1612a327a204",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-15b6413d-ec66-4e71-8d18-dea79f2ca299",
       "title": "Gåtur - Mausavatnet rundt",
       "start_at": "2026-06-01T12:00:00",
@@ -4091,50 +4011,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-4099e8e2-02df-4c0a-880e-02130c8fd1c7",
-      "title": "Biblioteket er ope i dag!",
-      "start_at": "2026-04-28T10:30:00",
-      "end_at": "2026-05-13T15:30:00",
-      "is_free": true,
-      "location_name": "Giske folkebibliotek",
-      "city": "Ålesund",
-      "organizer": "Giske folkebibliotek",
-      "image_url": "https://ucarecdn.com/291cb93f-fd25-460e-a4da-21b6d9547361/-/crop/1200x328/0,170/-/preview/",
-      "url": "https://alesund.friskus.com/events/4099e8e2-02df-4c0a-880e-02130c8fd1c7",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-cb765ce4-6205-4627-95c9-32f0215b1e2c",
-      "title": "Formiddagstreff",
-      "start_at": "2026-04-28T11:00:00",
-      "end_at": "2026-12-31T14:00:00",
-      "is_free": false,
-      "location_name": "Vigra Aktivitets og Frivillighetssentral VAF",
-      "city": "Ålesund",
-      "organizer": "Vigra Aktivitets og Frivillighetssentral VAF",
-      "image_url": "https://ucarecdn.com/1a2a6ea2-a5a0-4192-a3a5-7df8680151dc/-/scale_crop/1100x300/smart/-/resize/x300/-/setfill/6E37CB/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/cb765ce4-6205-4627-95c9-32f0215b1e2c",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-319c8414-9864-4175-bdf5-4f22da3fca9c",
       "title": "Vårkonsert med KorTøft!",
       "start_at": "2026-04-29T18:00:00",
@@ -4154,6 +4030,28 @@
         "pensioner"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-cb765ce4-6205-4627-95c9-32f0215b1e2c",
+      "title": "Formiddagstreff",
+      "start_at": "2026-04-30T11:00:00",
+      "end_at": "2026-12-31T14:00:00",
+      "is_free": false,
+      "location_name": "Vigra Aktivitets og Frivillighetssentral VAF",
+      "city": "Ålesund",
+      "organizer": "Vigra Aktivitets og Frivillighetssentral VAF",
+      "image_url": "https://ucarecdn.com/1a2a6ea2-a5a0-4192-a3a5-7df8680151dc/-/scale_crop/1100x300/smart/-/resize/x300/-/setfill/6E37CB/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/cb765ce4-6205-4627-95c9-32f0215b1e2c",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -4236,6 +4134,27 @@
         "senior"
       ],
       "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-aabaf3f9-923b-453b-8a47-c3299be321eb",
+      "title": "Språkkafe` på biblioteket            Language Cafè in the library",
+      "start_at": "2026-05-11T17:00:00",
+      "end_at": "2026-05-11T18:30:00",
+      "is_free": true,
+      "location_name": "Giske folkebibliotek",
+      "city": "Ålesund",
+      "organizer": "Giske folkebibliotek",
+      "image_url": "https://ucarecdn.com/37c2fa62-56f4-4494-ae27-4ea3a002f32d/-/crop/1184x323/0,342/-/preview/",
+      "url": "https://alesund.friskus.com/events/aabaf3f9-923b-453b-8a47-c3299be321eb",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": false
     },
     {
       "source": "friskus",
@@ -5286,7 +5205,7 @@
       "latitude": 62.4696333,
       "longitude": 6.1531858,
       "organizer": "Galleonen - Linjeforening for shipping management",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/63820-sommerfest-galleonen",
       "tags": [],
       "age_groups": [],
@@ -5763,8 +5682,7 @@
       "description": "Vi inviterer til en stemningsfull åpningsmiddag i forbindelse med utstillingen til Ørnulf Opdahl på Galleri R/ART. Dette er en sjelden anledning til å bli kjent med kunstneren før den offisielle åpningen.\r\n\r\nMiddagen serveres kl. 16:00, med Sunnmøres kanskje beste spareribstallerken. Under middagen vil Ørnulf Opdahl dele fortellinger fra sitt liv og kunstnerskap, og gi publikum et personlig innblikk i arbeidet bak bildene.\r\n\r\nKvelden fortsetter kl. 18:00 med den offisielle åpningen av utstillingen, ved kunstneren selv.\r\n\r\n🎟 Denne billetten gjelder åpningsmiddagen kl. 16:00.\r\nUtstillingsåpningen kl. 18:00 er åpen for alle.",
       "start_at": "2026-05-01T16:00:00",
       "end_at": "2026-05-01T23:00:00",
-      "is_free": false,
-      "price_text": "NOK 539.00",
+      "is_free": true,
       "location_name": "Fosnavåg",
       "city": "Ålesund",
       "organizer": "Horisont Fosnavåg",
@@ -6499,6 +6417,40 @@
       "url": "https://www.parkenkulturhus.no/program/46572-tre-radikale-kamerater-foredrag-av-oyvind-storm-bjerke/",
       "tags": [
         "foredrag"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-47039-steinerskolen",
+      "title": "Steinerskolen",
+      "start_at": "2026-04-30T18:00:00",
+      "end_at": "2026-04-30T19:00:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Momos sirkus",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F47039%2Fweb-square.webp?version=ZHKLAGdGsIwL1X5TAF/2Jg==",
+      "url": "https://www.parkenkulturhus.no/program/47039-steinerskolen/",
+      "tags": [
+        "forestilling"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-47031-feel-it",
+      "title": "Feel it",
+      "start_at": "2026-05-06T18:00:00",
+      "end_at": "2026-05-06T20:30:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Ålesund VGS",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F47031%2Fweb-square.webp?version=2o1B4+XQLimS4zQLCBkgXQ==",
+      "url": "https://www.parkenkulturhus.no/program/47031-feel-it/",
+      "tags": [
+        "konsert"
       ],
       "age_groups": [],
       "is_recurring": false
@@ -7308,21 +7260,6 @@
     },
     {
       "source": "bibliotek",
-      "source_id": "bibliotek-33465",
-      "title": "Bokkino",
-      "start_at": "2026-04-28T11:00:00",
-      "is_free": true,
-      "location_name": "Moa bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/ief1bd429-71bc-4f9c-91be-3a9fa64de754/w300/kaca423903a60/bokkino.jpg",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33465&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bibliotek",
       "source_id": "bibliotek-33559",
       "title": "Livssyn - hva forener oss?",
       "start_at": "2026-04-28T17:30:00",
@@ -7442,82 +7379,19 @@
       "end_at": null
     },
     {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-22059-2026-04-28",
-      "title": "Åpen barnehage",
-      "start_at": "2026-04-28T09:00:00",
-      "end_at": "2026-04-28T15:00:00",
-      "location_name": "Steinbua",
+      "source": "bibliotek",
+      "source_id": "bibliotek-33341",
+      "title": "Leksehjelp for vaksne",
+      "start_at": "2026-05-04T14:30:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-barnehage/?occurrence=2026-04-28",
+      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/ic5357640-bf91-4d7b-9d77-68cf479eaca8/w300/kc7c915fede5a/kopi-av-kopi-av-2024_var_sprakkafe-i-alesund-bibliotek-1920-x-1080-px.png",
+      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33341&lang=1&MId1=18377",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33363-2026-04-28",
-      "title": "The North West 2026: The North West frokost",
-      "start_at": "2026-04-28T09:15:00",
-      "end_at": "2026-04-28T10:30:00",
-      "location_name": "PIR",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/the-north-west-2026-the-north-west-frokost/?occurrence=2026-04-28",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32362-2026-04-28",
-      "title": "Sommerfuglen Aktivitet",
-      "start_at": "2026-04-28T10:00:00",
-      "end_at": "2026-04-28T15:00:00",
-      "location_name": "Sommerfuglen Aktivitet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerfuglen-aktivitet/?occurrence=2026-04-28",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-13430-2026-04-28",
-      "title": "Naturmøteplass på Aksla",
-      "start_at": "2026-04-28T12:00:00",
-      "end_at": "2026-04-28T14:00:00",
-      "location_name": "Aksla, Dam 2",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/naturmoteplass-pa-aksla/?occurrence=2026-04-28",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-04-28",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-04-28T12:00:00",
-      "end_at": "2026-04-28T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-04-28",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33770-2026-04-28",
-      "title": "Utstilling – Mette Stausland + Robert Wood",
-      "start_at": "2026-04-28T12:00:00",
-      "end_at": "2026-04-28T17:00:00",
-      "location_name": "Khåk Kunsthall",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/utstillingsapning-mette-stausland-robert-wood-330/?occurrence=2026-04-28&time=1777377600",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -8415,114 +8289,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-35a093f5-269d-4b8c-a713-8896464a25ae",
-      "title": "Agnes mot verden",
-      "start_at": "2026-04-28T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/8d627bc0a69541ebbca10e68972b8cb0.jpg?width=1440&version=37C770F1F28F98A2125380653A30CC00",
-      "url": "https://www.odeonkino.no/film/agnes-mot-verden/",
-      "tags": [
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ce5cd939-bbbd-471f-94a4-9a796a1ef0e7",
-      "title": "Minner om ham",
-      "description": "Etter en perfekt utflukt med kjæresten sin gjør Kenna en uutholdelig feil som sender henne i fengsel. Sju år senere vender Kenna tilbake til hjembyen, i håp om å bygge opp livet sitt på nytt og få en sjanse til å gjenforenes med datteren sin – som hun aldri fikk lære å kjenne. ",
-      "start_at": "2026-04-28T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2bf2134ab7364995b47dcebc0b6509d2.jpg?width=1440&version=3CADBBC2E0C8B819C7BBC95C42FFE91B",
-      "url": "https://www.odeonkino.no/film/minner-om-ham/",
-      "tags": [
-        "luxe",
-        "romantikk"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a27e465d-ea9a-4d0c-812b-8d7f3c6d3bcf",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-04-28T12:15:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f4ca977e-62a4-4834-974c-8caaa8be2d5c",
-      "title": "Michael",
-      "start_at": "2026-04-28T12:15:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "isense",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-84b9aa56-b022-4e96-923f-e70307148268",
-      "title": "The Drama",
-      "start_at": "2026-04-28T13:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b2ed403caa0343b8bdec1a62afb738af.jpg?width=1440&version=403CC209711B01B1A4C13BE8F6AF7C23",
-      "url": "https://www.odeonkino.no/film/the-drama/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8f9edd1d-123a-4d72-bc91-cc6632444c77",
-      "title": "Project Hail Mary",
-      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
-      "start_at": "2026-04-28T13:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
-      "url": "https://www.odeonkino.no/film/project-hail-mary/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
@@ -9436,6 +9202,25 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-2e32ccba-f5d5-4489-a175-de58d5df166f",
+      "title": "Bamse og havets hemmelighet",
+      "start_at": "2026-04-30T15:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
+      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "barnefilm",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-cbece3fb-86c5-4df3-ad52-4c3ec7f79e90",
       "title": "Michael",
       "start_at": "2026-04-30T15:00:00",
@@ -9467,25 +9252,6 @@
         "eventyr",
         "familiefilm",
         "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a77af741-dfb7-450a-a73a-a7ab324199a8",
-      "title": "Bamse og havets hemmelighet",
-      "start_at": "2026-04-30T15:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
-      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -9539,23 +9305,6 @@
         "eventyr",
         "familiefilm",
         "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-5abc40b9-d9a6-4569-83d6-4c7194bb6a1d",
-      "title": "The Drama",
-      "start_at": "2026-04-30T17:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b2ed403caa0343b8bdec1a62afb738af.jpg?width=1440&version=403CC209711B01B1A4C13BE8F6AF7C23",
-      "url": "https://www.odeonkino.no/film/the-drama/",
-      "tags": [
-        "luxe",
-        "drama"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -10676,6 +10425,1203 @@
       "end_at": null
     },
     {
+      "source": "odeon",
+      "source_id": "odeon-97d719bb-ae4a-401a-a7a4-4d8e60f814e8",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-05-04T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ecf001d2-6c13-44f3-9046-ea5408415d0a",
+      "title": "Saltstien",
+      "start_at": "2026-05-04T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9d3e239764e6476aad32d2d80e15090c.jpg?width=1440&version=CBDF669C18F838FC4CD756200DA60497",
+      "url": "https://www.odeonkino.no/film/saltstien/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0e21c88e-85ed-4712-aef1-5b7479bf594d",
+      "title": "Michael",
+      "start_at": "2026-05-04T12:15:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "isense",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-30f145cf-8462-49a1-b700-397924a016f3",
+      "title": "The Drama",
+      "start_at": "2026-05-04T12:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b2ed403caa0343b8bdec1a62afb738af.jpg?width=1440&version=403CC209711B01B1A4C13BE8F6AF7C23",
+      "url": "https://www.odeonkino.no/film/the-drama/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ee414fbc-124e-4c0d-b51a-cb027809adaf",
+      "title": "The Housemaid",
+      "description": "I et forsøk på å unnslippe fortiden starter Millie som hushjelp hos rike Nina og Andrew Winchester. Det som virker som en drømmejobb blir raskt et farlig spill fylt av hemmeligheter, makt og sjokkerende avsløringer.",
+      "start_at": "2026-05-04T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/8be1ca6437e845a6853b9ec52e27b024.jpg?width=1440&version=B45BB3EE9372C05AB54CDE5B86E2D6EC",
+      "url": "https://www.odeonkino.no/film/the-housemaid/",
+      "tags": [
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4a2f4d3e-8094-4150-814b-9c08b1067422",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-05-04T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-d76c85d6-ce25-40e5-83fd-f25c4fe70ff3",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-05-04T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9e15f4f3-3bf2-4fe8-b80b-3f131b8462c4",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-05-04T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f266269e-4e0d-455a-8ecb-77883e3b5fff",
+      "title": "Michael",
+      "start_at": "2026-05-04T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-08e7b049-3862-44df-ba3c-9a95c645658e",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-05-04T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-825ba988-99aa-4730-b86d-0dac2bb033de",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-05-04T17:15:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8f716e53-cde4-47f1-ac96-6dc3f7efc22f",
+      "title": "The Drama",
+      "start_at": "2026-05-04T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b2ed403caa0343b8bdec1a62afb738af.jpg?width=1440&version=403CC209711B01B1A4C13BE8F6AF7C23",
+      "url": "https://www.odeonkino.no/film/the-drama/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-da9427a3-20f6-430e-8f28-dc0753dd694c",
+      "title": "Michael",
+      "start_at": "2026-05-04T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f32548c1-fc06-4538-9bb7-c54693dcc740",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-05-04T18:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-92899955-4949-43be-8e40-4ffa7df20b82",
+      "title": "Michael",
+      "start_at": "2026-05-04T19:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-eb160694-312a-40e1-a964-c3a4aaa62c7b",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-05-04T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8dda46d4-596f-416a-becd-86632e253934",
+      "title": "Michael",
+      "start_at": "2026-05-04T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-767dc5dc-76e7-4498-923f-536512b0408e",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-05-05T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-de25dc05-fbb7-4280-8d54-9cd71a55e712",
+      "title": "Saltstien",
+      "start_at": "2026-05-05T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9d3e239764e6476aad32d2d80e15090c.jpg?width=1440&version=CBDF669C18F838FC4CD756200DA60497",
+      "url": "https://www.odeonkino.no/film/saltstien/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-cf8d6f16-b977-46e1-9557-7f383dc3b33d",
+      "title": "Michael",
+      "start_at": "2026-05-05T12:15:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "isense",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-786a2a6d-705d-4aa6-a062-6b345d5af674",
+      "title": "The Drama",
+      "start_at": "2026-05-05T12:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b2ed403caa0343b8bdec1a62afb738af.jpg?width=1440&version=403CC209711B01B1A4C13BE8F6AF7C23",
+      "url": "https://www.odeonkino.no/film/the-drama/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-de7a4423-2e55-421a-a098-bb714a5bc813",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-05-05T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-eac4f592-69c5-41c6-8600-83fa3bf3dc9b",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-05-05T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-16fe6545-3065-412d-8ab1-85de969e47e1",
+      "title": "Michael",
+      "start_at": "2026-05-05T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-661900aa-93e9-4aab-a448-1eb0b51b9b12",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-05-05T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9a839289-bf37-4494-897e-e9202b52eb9a",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-05-05T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a7f1166a-5ee6-47a2-80cc-24a3fec1e17f",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-05-05T17:15:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-401d2a2a-fc39-4f9b-ad70-4ef4b2981bd7",
+      "title": "Michael",
+      "start_at": "2026-05-05T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b06cae52-d0fa-43c1-ac5e-089197ee5596",
+      "title": "The Drama",
+      "start_at": "2026-05-05T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b2ed403caa0343b8bdec1a62afb738af.jpg?width=1440&version=403CC209711B01B1A4C13BE8F6AF7C23",
+      "url": "https://www.odeonkino.no/film/the-drama/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7e75f309-655f-403a-9871-cb93cd0bde76",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-05-05T18:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2f9dcc64-4b3d-4ff7-a0cc-ee49eeba4a85",
+      "title": "Michael",
+      "start_at": "2026-05-05T19:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ea0e66ac-5152-4776-8c6f-88de61acf69a",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-05-05T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-23e04553-1943-4330-bc4b-8bef4adef722",
+      "title": "Michael",
+      "start_at": "2026-05-05T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-72998d84-025b-445b-9673-011d20d5c0b7",
+      "title": "Saltstien",
+      "start_at": "2026-05-06T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9d3e239764e6476aad32d2d80e15090c.jpg?width=1440&version=CBDF669C18F838FC4CD756200DA60497",
+      "url": "https://www.odeonkino.no/film/saltstien/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0309eac6-29a9-4add-a5e7-3909272fb7ca",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-05-06T12:15:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-573ee8a9-914f-4fa7-bd2f-b29e9c8a2d36",
+      "title": "Michael",
+      "start_at": "2026-05-06T12:15:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "isense",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2975060c-6b43-44e5-b318-a0e10291e852",
+      "title": "The Drama",
+      "start_at": "2026-05-06T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b2ed403caa0343b8bdec1a62afb738af.jpg?width=1440&version=403CC209711B01B1A4C13BE8F6AF7C23",
+      "url": "https://www.odeonkino.no/film/the-drama/",
+      "tags": [
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-467eea25-5dc0-4b6c-9a05-16bff849c7fd",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-05-06T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-d2b3f02b-cfc5-4a80-9983-8e6d15c53dd8",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-05-06T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-54510c38-8197-49ba-ad07-d2be516d8cb5",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-05-06T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a7e8b98c-c292-4447-8c17-d4883b9d420f",
+      "title": "Michael",
+      "start_at": "2026-05-06T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a93165df-f7be-4592-8ed8-f64837a4db27",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-05-06T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9c11ea07-5a1b-440b-ae4c-ab54b365a2fa",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-05-06T17:15:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ac66fee5-fa28-4faa-8f00-4a8d110e64c3",
+      "title": "The Drama",
+      "start_at": "2026-05-06T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b2ed403caa0343b8bdec1a62afb738af.jpg?width=1440&version=403CC209711B01B1A4C13BE8F6AF7C23",
+      "url": "https://www.odeonkino.no/film/the-drama/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ed829887-3150-4e78-a1ec-26e89c8e622f",
+      "title": "Michael",
+      "start_at": "2026-05-06T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b8552f35-a920-401e-9ee2-2b5dd28a4fdf",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-05-06T18:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-bb80f0bb-52c3-462e-b6dd-d9533840e908",
+      "title": "Michael",
+      "start_at": "2026-05-06T19:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8f68b99d-793c-49a3-bf18-66edd48eedf4",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-05-06T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a7ca89f1-c530-4f99-b1e0-e6724d7b0623",
+      "title": "Michael",
+      "start_at": "2026-05-06T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-91805f09-d008-43a7-931d-a42d189591f6",
+      "title": "Affeksjonsverdi",
+      "description": "To søstre må håndtere sin fraværende far og en Hollywood-stjerne midt i et intenst familiedrama.",
+      "start_at": "2026-05-07T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/ed64de67b2bb4d14ad1f101b9059919c.jpg?width=1440&version=0B6C79BFA2CA7808BD2D46E796D831DC",
+      "url": "https://www.odeonkino.no/film/affeksjonsverdi/",
+      "tags": [
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-cdef3f7c-de81-4918-be48-e046e21a9011",
+      "title": "Michael",
+      "start_at": "2026-05-07T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e99f74b8-0e61-4448-94fe-875e12020ca3",
+      "title": "Father Mother Sister Brother",
+      "description": "Vinner av Gulløven for Beste Film på Venezia Film Festival.\n\nJim Jarmusch vender tilbake til antologiformatet med en tredelt historie om familiegjenforeninger, som kretser rundt temaer som aldring, forpliktelse og den emosjonelle ugjennomtrengeligheten til de som oppdro oss.",
+      "start_at": "2026-05-07T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6318d50cbe843df8e7c9b6d24198b5a.jpg?width=1440&version=BAB12E74D2291F427C9EF319FE42E8F3",
+      "url": "https://www.odeonkino.no/film/father-mother-sister-brother/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-71f0d510-5c4c-4159-9a6c-28f59fda4fe1",
+      "title": "Michael",
+      "start_at": "2026-05-07T12:15:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "isense",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-87524650-c49d-4eef-be3e-b2bc2ea533cc",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-05-07T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-d9726c1a-5380-4830-b03a-b1a0b3f8d7a7",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-05-07T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-5c917fae-8ffe-4850-99c9-ee6c6e2b5049",
+      "title": "Michael",
+      "start_at": "2026-05-07T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c8617ef1-fd26-4d4a-947b-a663b3d0314c",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-05-07T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2bfa659d-da22-44fc-abbd-3db957b32a1b",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-05-07T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1061e564-a991-4519-9a45-53cd9ae327b6",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-05-07T17:15:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2eed0572-6bef-49f6-bdfe-082a5cfa60ec",
+      "title": "Michael",
+      "start_at": "2026-05-07T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-d3d27b93-2514-4eea-bdcf-9a9e450ccdc1",
+      "title": "The Drama",
+      "start_at": "2026-05-07T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b2ed403caa0343b8bdec1a62afb738af.jpg?width=1440&version=403CC209711B01B1A4C13BE8F6AF7C23",
+      "url": "https://www.odeonkino.no/film/the-drama/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7891d679-ddb4-42ce-98dd-87b53b9e1685",
+      "title": "Kraken",
+      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
+      "start_at": "2026-05-07T18:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
+      "url": "https://www.odeonkino.no/film/kraken/",
+      "tags": [
+        "action",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-346a3880-9027-4117-a557-e1985e6a5cf7",
+      "title": "Michael",
+      "start_at": "2026-05-07T19:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e80e2fd6-6dc3-458f-a4cf-744b6a46631a",
+      "title": "Project Hail Mary",
+      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
+      "start_at": "2026-05-07T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
+      "url": "https://www.odeonkino.no/film/project-hail-mary/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-db7fc79f-08ba-4de1-8dd9-e08562331180",
+      "title": "Michael",
+      "start_at": "2026-05-07T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
       "source": "ticketmaster",
       "source_id": "ticketmaster-Z698xZb_Z16vu0qgZN",
       "title": "Magic Men",
@@ -10742,6 +11688,24 @@
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1084504/default_file-1777281374.jpeg",
       "url": "https://aafk.ticketco.events/no/nb/e/toppserien_aafk_kvinner_-_lyn",
+      "tags": [
+        "fotball"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "aafk",
+      "source_id": "aafk-d06044eb-4b2e-4acd-b05b-372c0fe5893d",
+      "title": "Toppserien: Buss t\\u002Fr Molde - AaFK Kvinner",
+      "start_at": "2026-05-02T11:00:00",
+      "is_free": false,
+      "price_text": "0 kr",
+      "location_name": "Color Line Stadion",
+      "city": "Ålesund",
+      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1118189/default_file-1777372642.jpeg",
+      "url": "https://aafk.ticketco.events/no/nb/e/toppserien_buss_tu002fr_molde_-_aafk_kvinner",
       "tags": [
         "fotball"
       ],
