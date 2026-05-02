@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T12:26:24.375077+00:00",
-  "total": 810,
+  "generated_at": "2026-05-02T18:25:31.760409+00:00",
+  "total": 798,
   "failed_sources": [],
   "events": [
     {
@@ -20,6 +20,28 @@
         "children",
         "teenager",
         "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-05-03T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -3730,6 +3752,28 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-bf8907e4-df55-4cce-a645-46f42167762d",
+      "title": "GJENBRUKSBUTIKK MAUSEIDVÅG (LØ)",
+      "start_at": "2026-05-09T11:00:00",
+      "end_at": "2026-06-20T15:00:00",
+      "is_free": false,
+      "location_name": "Mauseidvåg Bedehusforening",
+      "city": "Ålesund",
+      "organizer": "Mauseidvåg Bedehusforening",
+      "image_url": "https://ucarecdn.com/08f0be57-a8bb-40c8-bf3b-97e399325f11/-/crop/5312x1447/0,770/-/preview/",
+      "url": "https://alesund.friskus.com/events/bf8907e4-df55-4cce-a645-46f42167762d",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-ccbae1b9-039b-4310-9b6d-1612a327a204",
       "title": "Barselkafe",
       "start_at": "2026-05-12T11:00:00",
@@ -4991,7 +5035,7 @@
       "latitude": 62.4696333,
       "longitude": 6.1531858,
       "organizer": "Galleonen - Linjeforening for shipping management",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/63820-sommerfest-galleonen",
       "tags": [],
       "age_groups": [],
@@ -5255,7 +5299,7 @@
       "latitude": 62.312702,
       "longitude": 5.824871,
       "organizer": "Hasundgot IL",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/uploads/event/c_a8ce858321bafae13a8b1affdb7b389a.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/uploads/event/c_4c45a892a250c98720aa12ca03330159.png?class=w768",
       "url": "https://tikkio.com/events/63436-rotlaus",
       "tags": [],
       "age_groups": [],
@@ -5422,6 +5466,24 @@
       "organizer": "Raka-Fant AS",
       "image_url": "https://cdn.tikkio.com/static/1.0.3476/uploads/event/c_09959eb4c9b5b6a705c16a185540210d.jpeg?class=w768",
       "url": "https://tikkio.com/events/63879-frida-minikonsert-raka-fant-pa-telttur",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-fd520a70be1e329161be99ad45355b12",
+      "title": "Rhythm of my heart - Tribute to Rod Stewart - Raka Fant på telttur!",
+      "description": "Telt i sentrum med konserter fredag og lørdag. \r\n\r\nRod Stewart er kjent for, og har hatt stor suksess med sin karakteristiske og lett gjenkjennelige hese stemme. Siden karrieren hans startet, tidlig på 1960-tallet, har han solgt over 250 millioner album. Til tross for sine 80 år, turnerer han fortsatt, fyller konsertarenaer verden over, og spilte for stinn brakke i Norge så sent som i 2024.\r\n\r\nRhythm of My Heart-konserten i teltet i Fosnavåg sentrum blir spekket med Rod Stewart-hits som bl.a.: «Sailing», «Don’t Wanna Talk About It», «Maggie May», «Da Ya Think I&#039;m Sexy», «The First Cut is the\r\n\r\nDeepest», «You&#039;re in My Heart», «Tonight&#039;s the Night», «People Get Ready» og mange flere.\r\n\r\nTribute-bandet består av: Maria Vik, saksofon - Galyna Bondarenko, fiolin - Kåre Stig Nøstdal, vokal - Geir Nakken, gitar - Håvar Kvangardsnes, bass - Roar Heggstad, keyboard - Torger Lødemel, trommer og Svein Løvold, gitar.\r\n\r\nDørene åpner 18:00 - konsertstart ca. 21.",
+      "start_at": "2026-08-29T18:00:00",
+      "end_at": "2026-08-30T01:00:00",
+      "is_free": false,
+      "price_text": "NOK 523.00",
+      "location_name": "Fosnavåg ",
+      "city": "Ålesund",
+      "organizer": "Raka-Fant AS",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/uploads/event/c_167dc975e7f6f0386ec11818290b6234.webp?class=w768",
+      "url": "https://tikkio.com/events/63755-rhythm-of-my-heart-tribute-to-rod-stewart",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -5884,24 +5946,6 @@
       "organizer": "MYLDR",
       "image_url": "https://cdn.tikkio.com/static/1.0.3476/uploads/event/c_06c35fd4a3f718c54054685012470c45.png?class=w768",
       "url": "https://tikkio.com/events/63225-1940-45-krigen-moldes-byhistorie-med-historiker-anders-kvernberg",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-e6ca12ae0cd46a506280e441a42270f6",
-      "title": "Siw Bergsås: Penga og livet - \"Slik blir du helt sjef i egen økonomi\"",
-      "description": "Penga & Livet – med Siw Bergsås\r\n\r\nVelkommen til Penga & Livet med Siw Bergsås\r\n\r\nKveldens tema: \r\nSlik blir du helt sjef i egen økonomi\r\n\r\nDette er et praktisk og relevant foredrag for deg som ønsker bedre kontroll på egen økonomi – enten du er midt i hverdagen, planlegger fremover eller står i endringer i livet.\r\n\r\nSiw Bergsås tar deg gjennom:\r\n\r\n- Smarte grep i hverdagsøkonomien\r\n- Kjøp og salg av bolig\r\n- Pensjon og arv\r\n- Samlivsbrudd og økonomiske konsekvenser\r\n- Viktige samtaler mange utsetter\r\n\r\nDu får også innsikt i dokumenter alle bør kjenne til, som:\r\nfremtidsfullmakt, testamente, samboerkontrakt og ektepakt.\r\n\r\nDette er en kveld som gir deg oversikt, trygghet og konkrete verktøy du kan bruke med én gang.",
-      "start_at": "2026-05-21T18:00:00",
-      "end_at": "2026-05-21T23:00:00",
-      "is_free": false,
-      "price_text": "NOK 158.00",
-      "location_name": "Die Tankstelle",
-      "city": "Ålesund",
-      "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/uploads/event/c_b7e6fc493444f3abd28acfb3b362298c.png?class=w768",
-      "url": "https://tikkio.com/events/63453-siw-bergsas-penga-og-livet-slik-blir-du-helt-sjef-i-egen-okonomi",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -7149,32 +7193,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-29547-2026-05-02",
-      "title": "Tedans – vår vri på Afternoon Tea",
-      "start_at": "2026-05-02T14:00:00",
-      "end_at": "2026-05-02T16:30:00",
-      "location_name": "Hotel Brosundet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/tedans-var-vri-pa-afternoon-tea/?occurrence=2026-05-02",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32516-2026-05-02",
-      "title": "Krystall – Hotel 1904",
-      "start_at": "2026-05-02T17:00:00",
-      "end_at": "2026-05-02T23:55:00",
-      "location_name": "Hotel 1904",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/krystall-hotel-1904-358/?occurrence=2026-05-02",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-32771-2026-05-02",
       "title": "Damenes Aften – The Devil Wears Prada 2",
       "start_at": "2026-05-02T20:00:00",
@@ -7793,6 +7811,19 @@
       "location_name": "O'Connor's Irish Pub",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/quiz/?occurrence=2026-05-07",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-33904-2026-05-07",
+      "title": "Groove Gerilja",
+      "start_at": "2026-05-07T20:30:00",
+      "end_at": "2026-05-07T23:30:00",
+      "location_name": "Dirty Nelly",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/groove-gerilja/?occurrence=2026-05-07",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -10903,248 +10934,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-80500b77-6685-4597-b749-8464a06f5dab",
-      "title": "Krølle Bølle",
-      "start_at": "2026-05-02T14:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/4c1dae47c47e41b69fad82830bfd5270.jpg?width=1440&version=C73F28473228923778DD7CF0C96740BA",
-      "url": "https://www.odeonkino.no/film/krolle-bolle/",
-      "tags": [
-        "animasjon",
-        "familiefilm",
-        "fantasy"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-38856f8b-62f0-4d2b-a67c-2947350f09cc",
-      "title": "Project Hail Mary",
-      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
-      "start_at": "2026-05-02T14:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
-      "url": "https://www.odeonkino.no/film/project-hail-mary/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-19af48ae-6813-4c5f-b73f-451b3512fcc9",
-      "title": "GOAT - Drøm stort",
-      "start_at": "2026-05-02T14:45:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
-      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4ae7b97f-eefa-4a8c-9280-a5275e2ac7af",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-05-02T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-9bc34455-338d-428d-8b90-37c8199dafec",
-      "title": "Michael",
-      "start_at": "2026-05-02T15:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ed8a4f41-0213-4d4b-b73e-863c1c4e5281",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-02T15:45:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-2b92099a-f1d7-475f-8997-97c6e6b44ff9",
-      "title": "Kraken",
-      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
-      "start_at": "2026-05-02T16:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
-      "url": "https://www.odeonkino.no/film/kraken/",
-      "tags": [
-        "action",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-3f2755f7-33d6-45d6-814f-503c7317f48a",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-05-02T17:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-5bde1eda-359d-4da0-8f74-d7179a1e7283",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-02T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "isense",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-11bce4fe-e07c-4c35-a14d-f37ca85171e5",
-      "title": "Michael",
-      "start_at": "2026-05-02T18:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-963f1a72-2a44-4dc6-93ce-2873772a1a85",
-      "title": "The Drama",
-      "start_at": "2026-05-02T18:15:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b2ed403caa0343b8bdec1a62afb738af.jpg?width=1440&version=403CC209711B01B1A4C13BE8F6AF7C23",
-      "url": "https://www.odeonkino.no/film/the-drama/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-45a69e95-6d8a-44e2-bf86-6958f8c869db",
-      "title": "Kraken",
-      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
-      "start_at": "2026-05-02T18:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
-      "url": "https://www.odeonkino.no/film/kraken/",
-      "tags": [
-        "action",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b707f1eb-f63a-448d-9179-ef761c70936d",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-02T18:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
