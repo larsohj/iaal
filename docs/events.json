@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-05-01T18:31:24.191200+00:00",
-  "total": 838,
+  "generated_at": "2026-05-02T00:50:24.088850+00:00",
+  "total": 829,
   "failed_sources": [],
   "events": [
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-05-02T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
+      "city": "Ålesund",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
     {
       "source": "friskus",
       "source_id": "friskus-oaalRPhog3ess",
@@ -5057,7 +5079,7 @@
       "latitude": 62.4696333,
       "longitude": 6.1531858,
       "organizer": "Galleonen - Linjeforening for shipping management",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/63820-sommerfest-galleonen",
       "tags": [],
       "age_groups": [],
@@ -5656,6 +5678,26 @@
     },
     {
       "source": "tikkio",
+      "source_id": "tikkio-b58d0c561dd9e01782263703ac3a06a7",
+      "title": "SOMMERKONSERT",
+      "description": "<p>SOMMERKONSERTOG FESTMIDDAG// Tomra Brass Band i samarbeid med Musikkens Venner TomrefjordOpplev en stemningsfull sommerkveld i Tomrefjord når Tomra Brass Band, under ledelse av Arnfinn Dalhaug, inviterer til tradisjonsrike sommerkonsert –i samarbeid med Musikkens Venner Tomrefjord.Publikum kan se frem til en varm og levende musikalsk opplevelse, med kjente melodier, sterke solistprestasjoner og ekte spilleglede. Sammen med dyktige gjestesolister skaper vi en konsert som både rører, underholder og setter deg i den gode sommerstemningen.På scenen møter du blant andre:-Bjørn Tomren, med sin særegne stil og glimt i øyet -Amalie Haugen Øvstedal, med en uttrykksfull og vakker vokal -Heine Bugge, med sin briljante musikalitet og formidlingsevne Alt bindes sammen av kveldens konferansier, Hallvar Djupvik.</p><p>For de som ønsker å forlenge kvelden, inviterer vi videre til sommerfest fra kl. 21:00.Dette er kvelden for deg som vil oppleve god musikk, god stemning og ekte fellesskap i sommerlige omgivelser.Sikre deg billetter nå –dette er en sommerkveld du ikke vil gå glipp av.Billetpriser: Konsert:NOK 350 –Fest: NOK 500 –Fellesbillett: NOK 750</p>",
+      "start_at": "2026-06-13T18:00:00",
+      "end_at": "2026-06-14T02:00:00",
+      "is_free": false,
+      "price_text": "NOK 350.00",
+      "location_name": "Kulturhuset idahall",
+      "city": "Ålesund",
+      "latitude": 62.5824355,
+      "longitude": 6.9307675,
+      "organizer": "TOMRA BRASS BAND",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_9be0afb250dcb5bea9b7081dc4d10bf7.webp?class=w768",
+      "url": "https://tikkio.com/events/63898-sommerkonsert",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
       "source_id": "tikkio-fef6b5ae448979bb8a14a7637b5551af",
       "title": "Sytalaust 2026",
       "description": "<p>Ein helt ny festival på Stranda, Sunnmøre. To dagar fylt med musikk, gode folk, mat og festivalstemning omgitt av fjord og fjell.</p><p></p><p>FREDAG<br>Halva Priset<br>Madeléne<br>Angelica<br>El Papi<br>Ogras</p><p></p><p>LØRDAG<br>MARTi<br>Simon Brune Band<br>Kalvedans<br>Marci<br>Staut<br>Knekt<br>May<br>Carina Dahl<br>Luxus Leverpostei</p><p></p><p>Aldersgrense: 18 år</p><p></p><p>OBS! Det blir tatt bilder og video på området.</p><p></p><p>Programendringer kan forekomme. Kansellering av artist/band og følgende programendringer vil ikke medføre rett til refusjon av billett. Refusjon gis kun ved avlysning av hele arrangementet. Billettavgiften blir ikke refundert ved avlysning.</p>",
@@ -5696,11 +5738,10 @@
       "source": "tikkio",
       "source_id": "tikkio-3dd6007453c224ebb64fb9795a3ec827",
       "title": "Vamp // Koie Lavvo",
-      "description": "<p>VAMP TIL STRANDA – SOMMERKONSERT PÅ KOIE 🎶</p><p>Lørdag 13. juni kommer Vamp til Koie for en helt spesiell sommerkonsert.</p><p>Vi åpner allerede kl. 15:00 med grillmat, kaker og god stemning – før konserten starter kl. 18:00.</p><p>Etter konserten fortsetter kvelden med etterfest i lavvoen 🔥</p><p>Dette blir en kveld for både venner, familie og alle som elsker norsk musikk.</p><p>🎟️ Billetter ute nå – sikre deg plass</p><p>Artist og billetter til etterfest kommer</p>",
+      "description": "VAMP TIL STRANDA – SOMMERKONSERT PÅ KOIE 🎶\r\n\r\nLørdag 13. juni kommer Vamp til Koie for en helt spesiell sommerkonsert.\r\n\r\nVi åpner allerede kl. 15:00 med grillmat, kaker og god stemning – før konserten starter kl. 18:00.\r\n\r\nEtter konserten fortsetter kvelden med etterfest i lavvoen 🔥\r\n\r\nDette blir en kveld for både venner, familie og alle som elsker norsk musikk.\r\n\r\n🎟️ Billetter ute nå – sikre deg plass\r\n\r\nArtist og billetter til etterfest kommer",
       "start_at": "2026-06-13T15:00:00",
       "end_at": "2026-06-14T02:00:00",
-      "is_free": false,
-      "price_text": "NOK 579.00",
+      "is_free": true,
       "location_name": "Koie Lavvo",
       "city": "Ålesund",
       "latitude": 62.3061002,
@@ -6154,8 +6195,7 @@
       "description": "<p>Den tradisjonsrike gummibåtfestivalen går av stabelen 24-25 juli, midt i Stryn sentrum. Stor utescene og stryn sin største nattklubb blir en realitet når over 1000 glade gummibåtarar dansar inn i dei seine nattetimane!</p><p>Program kjem!</p><p>18 års aldersgrense</p><p>Earlybird til 1.mai.</p>",
       "start_at": "2026-07-24T15:39:00",
       "end_at": "2026-07-26T02:00:00",
-      "is_free": false,
-      "price_text": "NOK 500.00",
+      "is_free": true,
       "location_name": "Per Bolstadplass",
       "city": "Ålesund",
       "organizer": "Basecamp Stryn - Hydlastova",
@@ -7197,45 +7237,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-33113-2026-05-01",
-      "title": "Byting – Support: Axel W Lamborg",
-      "start_at": "2026-05-01T21:00:00",
-      "end_at": "2026-05-01T23:00:00",
-      "location_name": "Fabrikken Kulturscene",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/byting-2-585/?occurrence=2026-05-01",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-28717-2026-05-02",
-      "title": "Helgeprogram i Atlanterhavsparken – akvarium og vitensenter",
-      "start_at": "2026-05-02T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/helgeprogram-i-atlanterhavsparken-akvarium-og-vitensenter-2/?occurrence=2026-05-02",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33744-2026-05-02",
-      "title": "Polarstar til Hodr Hjørungavåg Vikingsete og til Spansk aften på Ishavsmuseet",
-      "start_at": "2026-05-02T00:00:00",
-      "location_name": "Skansekaia",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/polarstar-til-hodr-hjorungavag-vikingsete-og-til-spansk-aften-pa-ishavsmuseet/?occurrence=2026-05-02",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-25486-2026-05-02",
       "title": "Aalesunds Museum",
       "start_at": "2026-05-02T11:00:00",
@@ -7337,32 +7338,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33722-2026-05-02",
-      "title": "KORSA – DnB & Techno i Korsatunellen",
-      "start_at": "2026-05-02T00:00:00",
-      "location_name": "Korsatunnelen",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/korsa-dnb-techno-i-korsatunellen/?occurrence=2026-05-02&time=1777759200",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-31337-2026-05-02",
-      "title": "Damp Natt",
-      "start_at": "2026-05-02T00:00:00",
-      "location_name": "Dampsentralen",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/damp-natt-3/?occurrence=2026-05-02",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -11068,115 +11043,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-145e3505-e03d-4dc8-b139-7750a71ffd01",
-      "title": "Michael",
-      "start_at": "2026-05-01T19:45:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-23e531c9-3948-4bb3-9ed7-299f64cc2098",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-01T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "isense",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-5c924dcb-8ec5-43f6-bb94-e1cea39313bc",
-      "title": "Project Hail Mary",
-      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
-      "start_at": "2026-05-01T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
-      "url": "https://www.odeonkino.no/film/project-hail-mary/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-920855b2-a3c9-4e89-acf6-48a0c706459b",
-      "title": "Whistle",
-      "start_at": "2026-05-01T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/870c959414f345d18102ef446ee3acb2.jpg?width=1440&version=67F3F945781812A19CB1985704891ED0",
-      "url": "https://www.odeonkino.no/film/whistle/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4c72fcb7-c228-4627-9c1f-3cba8be74ab7",
-      "title": "HOKUM",
-      "start_at": "2026-05-01T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f2fa555b4ae34a50b68150b3b5bd8f0d.jpg?width=1440&version=E523513A44A27F1FEECB21F2D02C830E",
-      "url": "https://www.odeonkino.no/film/hokum/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-9814fa3e-33b9-4343-a5bc-fca52630565f",
-      "title": "Michael",
-      "start_at": "2026-05-01T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
