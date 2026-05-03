@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-05-02T18:25:31.760409+00:00",
-  "total": 798,
+  "generated_at": "2026-05-03T00:54:15.319987+00:00",
+  "total": 789,
   "failed_sources": [],
   "events": [
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-05-03T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
+      "city": "Ålesund",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
     {
       "source": "friskus",
       "source_id": "friskus-856f0722-e12e-426c-a461-f4e15002ad04",
@@ -3510,24 +3532,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-c90a4a9e-3b46-461f-b728-080b34a008b5",
-      "title": "Connect",
-      "start_at": "2026-05-02T20:30:00",
-      "end_at": "2026-06-13T23:59:00",
-      "is_free": true,
-      "location_name": "Sula Frikirke",
-      "city": "Ålesund",
-      "organizer": "Sula Frikirke",
-      "image_url": "https://ucarecdn.com/4c115c49-6349-4447-abbf-fb8c70300fd1/-/crop/2045x559/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/c90a4a9e-3b46-461f-b728-080b34a008b5",
-      "tags": [],
-      "age_groups": [
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-7ba9b0bd-5764-463a-9974-eb8695277d57",
       "title": "Søndagsskolen",
       "start_at": "2026-05-03T11:00:00",
@@ -3788,6 +3792,24 @@
       "age_groups": [
         "children",
         "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-c90a4a9e-3b46-461f-b728-080b34a008b5",
+      "title": "Connect",
+      "start_at": "2026-05-16T20:30:00",
+      "end_at": "2026-06-13T23:59:00",
+      "is_free": true,
+      "location_name": "Sula Frikirke",
+      "city": "Ålesund",
+      "organizer": "Sula Frikirke",
+      "image_url": "https://ucarecdn.com/4c115c49-6349-4447-abbf-fb8c70300fd1/-/crop/2045x559/0,0/-/preview/",
+      "url": "https://alesund.friskus.com/events/c90a4a9e-3b46-461f-b728-080b34a008b5",
+      "tags": [],
+      "age_groups": [
+        "teenager"
       ],
       "is_recurring": true
     },
@@ -5035,7 +5057,7 @@
       "latitude": 62.4696333,
       "longitude": 6.1531858,
       "organizer": "Galleonen - Linjeforening for shipping management",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/63820-sommerfest-galleonen",
       "tags": [],
       "age_groups": [],
@@ -5892,24 +5914,6 @@
       "organizer": "Rabalderfestivalen",
       "image_url": "https://cdn.tikkio.com/static/1.0.3476/uploads/event/c_3569259b713ba383075b9842adf72527.jpg?class=w768",
       "url": "https://tikkio.com/events/60581-rabalderfestivalen-2026",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-2efb52d6abd0ed35afc0a70638594920",
-      "title": "TUTTI FRUTTI - 40 år",
-      "description": "Baren er åpen fra 18:00, Showstart 20:00\r\n\r\nOverskuddet går til Kreftforeningen, Det er også mulig å vippse ekstra til Kreftforeningen vippsnummer: 2277 Merk: Tutti Frutti\r\n\r\nLITT TUTTI FRUTTI HISTORIE\r\n\r\nTUTTI FRUTTI - viden kjent og elsket av mange - som godteri, fruktdrops, fruktis, brus, tysk tv-serie - og nå også som betegnelsen på den fargerike støttekoalisjonen av politiske partier til dagens AP-regjering - men aller mest som debutlåta til Little Richard fra 1955, innspilt i New Orleans med bandet til Fats Domino og covret av bla Elvis i 1956.\r\n\r\nMen for Moldefolk flest (de som har levd ei stund) forbindes Tutti Frutti med musikk-konseptet til to amatørDJer og lidenskapelige musikkelskere, Sivert og Peder (Sverre Sivertsen og Jan IngarPedersen (som våren 1986 startet å spille voksen dansemusikk (50's & 60's,  blues, swing, country & rock'n roll for voksne natteranglere på Vertshuset Gamle Molde i regi av Storyville Jazzclub.\r\nKøen for å komme inn snodde seg til tider langt nedover Amtm. Kroghs gt. og rundt Bistroen!\r\n\r\n\"Dansingen\" ( swing, twist, shake og div ukontrollerte sprell) mellom trebjelkene på dansegolvet var til tider så vill at arr. måtte sette opp kraftige sperretau foran scena så ikke rå-danserne skulle havne oppi platespillerne!\r\nSenere ble Tutti Frutti lydteppe på utallige festligheter på alle byens og distriktets festlokaler (bryllup, vennefester, nabofester, gatefester, kurvfester, firmafester, klubbfester, årsfester, bursdagsfester, julebord, nyttårsball og slektsstevner etc) i flere tiår.\r\n  \t\r\nNå har det gått 40 år og det er tid for comeback! En snart pensjonert postmann og en pensjonert lærer og oldefar(!!) skal igjen snurre plater ute på byen!",
-      "start_at": "2026-05-02T20:00:00",
-      "end_at": "2026-05-02T23:59:00",
-      "is_free": false,
-      "price_text": "NOK 158.00",
-      "location_name": "Die Tankstelle",
-      "city": "Ålesund",
-      "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/uploads/event/c_358e8b1cf502efadd4e8c379b3444d0f.webp?class=w768",
-      "url": "https://tikkio.com/events/62844-tutti-frutti-40-ar",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -7186,45 +7190,6 @@
       "city": "Ålesund",
       "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/ice878ddf-6449-494f-8883-ea2a49cc8de4/w300/k323ab014cb14/peder-kjos_infoskjerm.png",
       "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33404&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32771-2026-05-02",
-      "title": "Damenes Aften – The Devil Wears Prada 2",
-      "start_at": "2026-05-02T20:00:00",
-      "end_at": "2026-05-02T22:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/damenes-aften-the-devil-wears-prada-2/?occurrence=2026-05-02",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33747-2026-05-02",
-      "title": "Rock ved Molja // Tidstyv m/support Sjándi",
-      "start_at": "2026-05-02T21:00:00",
-      "end_at": "2026-05-02T23:00:00",
-      "location_name": "Fabrikken Kulturscene",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/rock-ved-molja-tidstyv-m-support-sjandi/?occurrence=2026-05-02",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-28717-2026-05-03",
-      "title": "Helgeprogram i Atlanterhavsparken – akvarium og vitensenter",
-      "start_at": "2026-05-03T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/helgeprogram-i-atlanterhavsparken-akvarium-og-vitensenter-2/?occurrence=2026-05-03",
       "tags": [],
       "age_groups": [],
       "is_recurring": false,
@@ -10934,115 +10899,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e6df74f7-5a98-4637-b971-91bc3e40c32a",
-      "title": "Michael",
-      "start_at": "2026-05-02T19:45:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7680fe22-c7c0-4361-b2ff-21fe8624cf4d",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-02T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "isense",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-012f78d6-006e-4bc4-91f7-4713904d1f3c",
-      "title": "Project Hail Mary",
-      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
-      "start_at": "2026-05-02T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
-      "url": "https://www.odeonkino.no/film/project-hail-mary/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-708ea1b9-a46c-4101-8f9f-0031983128e0",
-      "title": "Whistle",
-      "start_at": "2026-05-02T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/870c959414f345d18102ef446ee3acb2.jpg?width=1440&version=67F3F945781812A19CB1985704891ED0",
-      "url": "https://www.odeonkino.no/film/whistle/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-677b4468-4542-4bf3-ad65-94dcc8a19f14",
-      "title": "HOKUM",
-      "start_at": "2026-05-02T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f2fa555b4ae34a50b68150b3b5bd8f0d.jpg?width=1440&version=E523513A44A27F1FEECB21F2D02C830E",
-      "url": "https://www.odeonkino.no/film/hokum/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c76239cc-fdd2-4ab6-bc02-ea692be24cc8",
-      "title": "Michael",
-      "start_at": "2026-05-02T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
