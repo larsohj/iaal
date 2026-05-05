@@ -1,22 +1,25 @@
 {
-  "generated_at": "2026-05-04T18:41:09.632614+00:00",
-  "total": 743,
+  "generated_at": "2026-05-05T00:48:48.345499+00:00",
+  "total": 745,
   "failed_sources": [],
   "events": [
     {
       "source": "friskus",
-      "source_id": "friskus-b7d9b698-a137-4254-9725-9f408cba62b6",
-      "title": "LHL - Vanntrim på Moa",
-      "start_at": "2026-05-04T19:30:00",
-      "end_at": "2026-06-22T21:30:00",
-      "is_free": false,
-      "location_name": "LHL Ålesund Sula og Giske",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-05-05T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
       "city": "Ålesund",
-      "organizer": "LHL Ålesund Sula og Giske",
-      "image_url": "https://ucarecdn.com/8e9535d5-16c8-46f1-9745-efc71ed152b3/-/crop/3217x1684/326,418/-/preview/",
-      "url": "https://alesund.friskus.com/events/b7d9b698-a137-4254-9725-9f408cba62b6",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
       "tags": [],
       "age_groups": [
+        "children",
+        "teenager",
+        "family",
         "senior",
         "pensioner"
       ],
@@ -331,6 +334,25 @@
         "family"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-0577e9f9-35ce-4281-b75d-b47e18ea3017",
+      "title": "Tirsdagsturnering Ålesund biljardklubb",
+      "start_at": "2026-05-05T18:00:00",
+      "end_at": "2026-12-29T22:00:00",
+      "is_free": false,
+      "location_name": "Ålesund biljardklubb",
+      "city": "Ålesund",
+      "organizer": "Ålesund biljardklubb",
+      "image_url": "https://ucarecdn.com/f5ad6aaa-8f98-4c18-a4b0-e74a885eec94/-/crop/2048x559/0,671/-/preview/",
+      "url": "https://alesund.friskus.com/events/0577e9f9-35ce-4281-b75d-b47e18ea3017",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "senior"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -1396,6 +1418,26 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-fd3cf089-fd4b-4773-85d6-707e40071b55",
+      "title": "Få hjelp av Kreftforeningens hverdagshjelp i Ålesund",
+      "start_at": "2026-05-11T10:00:00",
+      "end_at": "2028-06-05T22:00:00",
+      "is_free": true,
+      "location_name": "Kreftforeningen",
+      "city": "Ålesund",
+      "organizer": "Kreftforeningen",
+      "image_url": "https://ucarecdn.com/a788b2e4-169e-4d6c-a754-3bdb22a9c2d7/-/crop/1181x322/0,106/-/preview/",
+      "url": "https://alesund.friskus.com/events/fd3cf089-fd4b-4773-85d6-707e40071b55",
+      "tags": [],
+      "age_groups": [
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-68a19a59-6f4e-4a99-8b19-a0ddc82e8d90",
       "title": "LHL - Krakketrim - Nivå 1",
       "start_at": "2026-05-11T11:00:00",
@@ -1542,6 +1584,25 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-ac34af04-cbe9-4857-8bdb-a0b3b62b81bb",
+      "title": "Gamingkveld Skarbøvika",
+      "start_at": "2026-05-11T17:00:00",
+      "end_at": "2026-06-15T21:00:00",
+      "is_free": true,
+      "location_name": "E-Teams",
+      "city": "Ålesund",
+      "organizer": "E-Teams",
+      "image_url": "https://ucarecdn.com/96ff7bbc-ef60-4907-ad68-680c3d2e7812/-/crop/1080x295/0,430/-/preview/",
+      "url": "https://alesund.friskus.com/events/ac34af04-cbe9-4857-8bdb-a0b3b62b81bb",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-6beda765-1c82-45af-a1f5-537ebd54778b",
       "title": "Språkkafé på Harøy",
       "start_at": "2026-05-11T18:00:00",
@@ -1580,6 +1641,25 @@
         "senior"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-b7d9b698-a137-4254-9725-9f408cba62b6",
+      "title": "LHL - Vanntrim på Moa",
+      "start_at": "2026-05-11T19:30:00",
+      "end_at": "2026-06-22T21:30:00",
+      "is_free": false,
+      "location_name": "LHL Ålesund Sula og Giske",
+      "city": "Ålesund",
+      "organizer": "LHL Ålesund Sula og Giske",
+      "image_url": "https://ucarecdn.com/8e9535d5-16c8-46f1-9745-efc71ed152b3/-/crop/3217x1684/326,418/-/preview/",
+      "url": "https://alesund.friskus.com/events/b7d9b698-a137-4254-9725-9f408cba62b6",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -2058,6 +2138,29 @@
       "tags": [],
       "age_groups": [
         "children"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-oaanwnpS2GSaI",
+      "title": "Informasjonsmøte for nye frivillige til DNT Sunnmøre - Ålesund",
+      "start_at": "2026-05-28T18:00:00",
+      "end_at": "2026-05-28T19:30:00",
+      "is_free": false,
+      "location_name": "DNT Sunnmøre",
+      "city": "Ålesund",
+      "organizer": "DNT Sunnmøre",
+      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_607482",
+      "url": "https://alesund.friskus.com/events/oaanwnpS2GSaI",
+      "tags": [
+        "friluftsliv",
+        "tur"
+      ],
+      "age_groups": [
+        "senior",
+        "pensioner",
+        "teenager"
       ],
       "is_recurring": false
     },
@@ -3043,6 +3146,29 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-oaaAQ5rmlKZe6",
+      "title": "Grunnkurs havkajakk - Eikesund (NF26)",
+      "start_at": "2026-08-15T09:30:00",
+      "end_at": "2026-08-16T17:30:00",
+      "is_free": false,
+      "location_name": "DNT Sunnmøre",
+      "city": "Ålesund",
+      "organizer": "DNT Sunnmøre",
+      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_607295",
+      "url": "https://alesund.friskus.com/events/oaaAQ5rmlKZe6",
+      "tags": [
+        "friluftsliv",
+        "tur"
+      ],
+      "age_groups": [
+        "senior",
+        "pensioner",
+        "teenager"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-oaa1QwoP__TWr",
       "title": "Søndagstur til Riksheimdalen -Trandal (NF26)",
       "start_at": "2026-08-16T08:20:00",
@@ -3415,28 +3541,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-9431fe9b-7d5c-4c8f-9ca1-16e63fa3d8e6",
-      "title": "Sula sportsbibliotek",
-      "start_at": "2026-05-04T19:00:00",
-      "end_at": "2027-01-07T22:00:00",
-      "is_free": true,
-      "location_name": "Sula frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Sula frivilligsentral",
-      "image_url": "https://ucarecdn.com/2c6fd9b4-08d9-4639-87bb-fe01b5153ffe/-/crop/850x231/0,42/-/preview/",
-      "url": "https://alesund.friskus.com/events/9431fe9b-7d5c-4c8f-9ca1-16e63fa3d8e6",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-99fe4f7d-fdbb-4cdd-b2c7-64bc2c3389f3",
       "title": "GJENBRUKSBUTIKK MAUSEIDVÅG (TI)",
       "start_at": "2026-05-05T13:00:00",
@@ -3546,6 +3650,28 @@
       "organizer": "Mauseidvåg Bedehusforening",
       "image_url": "https://ucarecdn.com/08f0be57-a8bb-40c8-bf3b-97e399325f11/-/crop/5312x1447/0,770/-/preview/",
       "url": "https://alesund.friskus.com/events/30e35358-a4a5-47e4-b27a-d7c3dbf83b45",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-9431fe9b-7d5c-4c8f-9ca1-16e63fa3d8e6",
+      "title": "Sula sportsbibliotek",
+      "start_at": "2026-05-07T19:00:00",
+      "end_at": "2027-01-07T22:00:00",
+      "is_free": true,
+      "location_name": "Sula frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Sula frivilligsentral",
+      "image_url": "https://ucarecdn.com/2c6fd9b4-08d9-4639-87bb-fe01b5153ffe/-/crop/850x231/0,42/-/preview/",
+      "url": "https://alesund.friskus.com/events/9431fe9b-7d5c-4c8f-9ca1-16e63fa3d8e6",
       "tags": [],
       "age_groups": [
         "children",
@@ -6841,7 +6967,8 @@
       "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F46413%2Fweb-square.webp?version=eH2RQ2yJfUsFAv/5yi8Qfw==",
       "url": "https://www.parkenkulturhus.no/program/46413-storefri/",
       "tags": [
-        "humor"
+        "humor",
+        "få billetter igjen"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -7265,19 +7392,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-21930-2026-05-05",
-      "title": "STUDIECAFÉ!",
-      "start_at": "2026-05-05T00:00:00",
-      "location_name": "Fellesverket Ålesund",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/studiecafe/?occurrence=2026-05-05",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-30449",
       "title": "Samlesing i Ålesund bibliotek",
       "location_name": "Ålesund bibliotek",
@@ -7408,6 +7522,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-33905-2026-05-06",
+      "title": "Avslutning på vårsemesteret med quiz m.m.",
+      "start_at": "2026-05-06T17:30:00",
+      "end_at": "2026-05-06T20:00:00",
+      "location_name": "Moa bibliotek",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/avslutning-pa-varsemesteret-med-quiz-m-m/?occurrence=2026-05-06",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-29533-2026-05-06",
       "title": "Brosundet etter seks",
       "start_at": "2026-05-06T18:00:00",
@@ -7496,6 +7623,19 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-33919-2026-05-06",
+      "title": "Levende tro – Faith Alive",
+      "start_at": "2026-05-06T19:00:00",
+      "end_at": "2026-05-06T21:00:00",
+      "location_name": "Katedralen (Ålesund Bedehus)",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/levende-tro-faith-alive-7/?occurrence=2026-05-06",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -7652,6 +7792,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-33906-2026-05-07",
+      "title": "Folkemøte til støtte for spesialisthelsetenesta i Møre og Romsdal",
+      "start_at": "2026-05-07T00:00:00",
+      "location_name": "Ålesund rådhus",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/folkemote-til-stotte-for-spesialisthelsetenesta-i-more-og-romsdal/?occurrence=2026-05-07",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -10788,115 +10941,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-92899955-4949-43be-8e40-4ffa7df20b82",
-      "title": "Michael",
-      "start_at": "2026-05-04T19:45:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a160958c-9148-4765-bb52-28659191d84d",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-04T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "isense",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-2eb3a9df-6922-4ef9-a195-213ff0df071e",
-      "title": "Whistle",
-      "start_at": "2026-05-04T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/870c959414f345d18102ef446ee3acb2.jpg?width=1440&version=67F3F945781812A19CB1985704891ED0",
-      "url": "https://www.odeonkino.no/film/whistle/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-eb160694-312a-40e1-a964-c3a4aaa62c7b",
-      "title": "Project Hail Mary",
-      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
-      "start_at": "2026-05-04T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
-      "url": "https://www.odeonkino.no/film/project-hail-mary/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8dda46d4-596f-416a-becd-86632e253934",
-      "title": "Michael",
-      "start_at": "2026-05-04T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-983bff2c-ebb6-4d73-820c-cec47634219c",
-      "title": "HOKUM",
-      "start_at": "2026-05-04T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f2fa555b4ae34a50b68150b3b5bd8f0d.jpg?width=1440&version=E523513A44A27F1FEECB21F2D02C830E",
-      "url": "https://www.odeonkino.no/film/hokum/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-767dc5dc-76e7-4498-923f-536512b0408e",
       "title": "Super Mario Galaxy Filmen",
       "start_at": "2026-05-05T12:00:00",
@@ -12337,8 +12381,9 @@
       "source": "aafk",
       "source_id": "aafk-b4e0ca63-1450-49cd-b98f-510f587753a9",
       "title": "Toppserien: AaFK Kvinner - Lyn",
+      "start_at": "2026-05-08T18:00:00",
       "is_free": false,
-      "price_text": "NOK 50",
+      "price_text": "50 kr",
       "location_name": "Color Line Stadion",
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1084504/default_file-1777281374.jpeg",
@@ -12348,15 +12393,15 @@
       ],
       "age_groups": [],
       "is_recurring": false,
-      "start_at": null,
       "end_at": null
     },
     {
       "source": "aafk",
       "source_id": "aafk-dde062cc-e950-4442-83fd-00ea0cc40ecd",
       "title": "Toppserien: AaFK Kvinner - Hønefoss",
+      "start_at": "2026-05-15T18:00:00",
       "is_free": false,
-      "price_text": "NOK 50",
+      "price_text": "50 kr",
       "location_name": "Color Line Stadion",
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1084505/default_default_event_image.png",
@@ -12366,15 +12411,15 @@
       ],
       "age_groups": [],
       "is_recurring": false,
-      "start_at": null,
       "end_at": null
     },
     {
       "source": "aafk",
       "source_id": "aafk-ef3b85e4-e3cf-460e-ba7b-6af0f0f7cd81",
       "title": "Eliteserien: Aalesund - HamKam",
+      "start_at": "2026-05-29T19:00:00",
       "is_free": false,
-      "price_text": "NOK 50",
+      "price_text": "50 kr",
       "location_name": "Color Line Stadion",
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1067214/default_file-1777895714.jpeg",
@@ -12384,7 +12429,6 @@
       ],
       "age_groups": [],
       "is_recurring": false,
-      "start_at": null,
       "end_at": null
     },
     {
@@ -12393,7 +12437,7 @@
       "title": "OBOS-camp Sommerproff 2026",
       "start_at": "2026-08-03T08:30:00",
       "is_free": false,
-      "price_text": "NOK 1,125",
+      "price_text": "1 125 kr",
       "location_name": "Sparebanken Møre Arena",
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1105424/default_file-1747823817.jpeg",
