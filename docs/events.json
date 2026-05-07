@@ -1,26 +1,8 @@
 {
-  "generated_at": "2026-05-06T18:42:30.822116+00:00",
-  "total": 803,
+  "generated_at": "2026-05-07T00:52:02.308743+00:00",
+  "total": 795,
   "failed_sources": [],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-c4ff2a1f-6b78-44a4-9729-a4a3728e6e33",
-      "title": "Bønnemøte hver Onsdag 19:00",
-      "start_at": "2026-05-06T19:00:00",
-      "end_at": "2028-06-28T21:00:00",
-      "is_free": true,
-      "location_name": "Pinsekirka SARON",
-      "city": "Ålesund",
-      "organizer": "Pinsekirka SARON",
-      "image_url": "https://ucarecdn.com/0e615ca0-94fd-486f-bae0-63f4e30f469b/-/crop/2988x818/333,0/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/c4ff2a1f-6b78-44a4-9729-a4a3728e6e33",
-      "tags": [],
-      "age_groups": [
-        "family"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-28b10f66-dbb2-4b34-9f50-238530aa24d5",
@@ -36,6 +18,28 @@
       "tags": [],
       "age_groups": [
         "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-05-07T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
+      "city": "Ålesund",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -1599,6 +1603,24 @@
         "teenager",
         "senior",
         "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-c4ff2a1f-6b78-44a4-9729-a4a3728e6e33",
+      "title": "Bønnemøte hver Onsdag 19:00",
+      "start_at": "2026-05-13T19:00:00",
+      "end_at": "2028-06-28T21:00:00",
+      "is_free": true,
+      "location_name": "Pinsekirka SARON",
+      "city": "Ålesund",
+      "organizer": "Pinsekirka SARON",
+      "image_url": "https://ucarecdn.com/0e615ca0-94fd-486f-bae0-63f4e30f469b/-/crop/2988x818/333,0/-/preview/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/c4ff2a1f-6b78-44a4-9729-a4a3728e6e33",
+      "tags": [],
+      "age_groups": [
+        "family"
       ],
       "is_recurring": true
     },
@@ -3713,6 +3735,24 @@
       "tags": [],
       "age_groups": [
         "children"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-4f1fbd1e-7b81-4808-8dee-95816d182bef",
+      "title": "Donken-ungdomsklubb onsdag",
+      "start_at": "2026-05-13T14:30:00",
+      "end_at": "2026-05-27T21:00:00",
+      "is_free": true,
+      "location_name": "Fritidsklubbane Sula",
+      "city": "Ålesund",
+      "organizer": "Fritidsklubbane Sula",
+      "image_url": "https://ucarecdn.com/169c501c-eb04-403d-accd-21bf9c66e485/-/crop/1440x870/0,95/-/preview/",
+      "url": "https://alesund.friskus.com/events/4f1fbd1e-7b81-4808-8dee-95816d182bef",
+      "tags": [],
+      "age_groups": [
+        "teenager"
       ],
       "is_recurring": true
     },
@@ -7333,45 +7373,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-33919-2026-05-06",
-      "title": "Levende tro – Faith Alive",
-      "start_at": "2026-05-06T19:00:00",
-      "end_at": "2026-05-06T21:00:00",
-      "location_name": "Katedralen (Ålesund Bedehus)",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/levende-tro-faith-alive-7/?occurrence=2026-05-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32568-2026-05-07",
-      "title": "Barnas Dager i Ålesund Sentrum",
-      "start_at": "2026-05-07T00:00:00",
-      "location_name": "Ålesund sentrum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/barnas-dager-i-alesund-sentrum/?occurrence=2026-05-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33773-2026-05-07",
-      "title": "Barnas dager på Ålesund Storsenter",
-      "start_at": "2026-05-07T00:00:00",
-      "location_name": "Ålesund Storsenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/barnas-dager-pa-alesund-storsenter/?occurrence=2026-05-07&time=1778140800",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-22059-2026-05-07",
       "title": "Åpen barnehage",
       "start_at": "2026-05-07T09:00:00",
@@ -7499,19 +7500,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33906-2026-05-07",
-      "title": "Folkemøte til støtte for spesialisthelsetenesta i Møre og Romsdal",
-      "start_at": "2026-05-07T00:00:00",
-      "location_name": "Ålesund rådhus",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/folkemote-til-stotte-for-spesialisthelsetenesta-i-more-og-romsdal/?occurrence=2026-05-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -10671,115 +10659,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-bb80f0bb-52c3-462e-b6dd-d9533840e908",
-      "title": "Michael",
-      "start_at": "2026-05-06T19:45:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7eb9ed24-213d-48b1-b849-b37fcbadeb3d",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-06T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "isense",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8f68b99d-793c-49a3-bf18-66edd48eedf4",
-      "title": "Project Hail Mary",
-      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
-      "start_at": "2026-05-06T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
-      "url": "https://www.odeonkino.no/film/project-hail-mary/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e0f6e220-5a36-40a5-8daa-2cebc8b82b38",
-      "title": "Whistle",
-      "start_at": "2026-05-06T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/870c959414f345d18102ef446ee3acb2.jpg?width=1440&version=67F3F945781812A19CB1985704891ED0",
-      "url": "https://www.odeonkino.no/film/whistle/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6593f2da-57b7-4e1f-a471-c6b668b019bd",
-      "title": "HOKUM",
-      "start_at": "2026-05-06T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f2fa555b4ae34a50b68150b3b5bd8f0d.jpg?width=1440&version=E523513A44A27F1FEECB21F2D02C830E",
-      "url": "https://www.odeonkino.no/film/hokum/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a7ca89f1-c530-4f99-b1e0-e6724d7b0623",
-      "title": "Michael",
-      "start_at": "2026-05-06T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
