@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-05-10T18:26:32.378299+00:00",
-  "total": 804,
+  "generated_at": "2026-05-11T00:55:48.874790+00:00",
+  "total": 800,
   "failed_sources": [],
   "events": [
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-05-11T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
+      "city": "Ålesund",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
     {
       "source": "friskus",
       "source_id": "friskus-eb565430-b4ac-476a-8742-922a8bf7342f",
@@ -3130,6 +3152,27 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-oaadCFLZIUMbp",
+      "title": "Tur fra Ørskogfjellet til Sollisætra på Vaksvikfjellet",
+      "start_at": "2026-09-19T08:00:00",
+      "end_at": "2026-09-19T18:00:00",
+      "is_free": false,
+      "location_name": "DNT Romsdal",
+      "city": "Ålesund",
+      "organizer": "DNT Romsdal",
+      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_608248",
+      "url": "https://alesund.friskus.com/events/oaadCFLZIUMbp",
+      "tags": [
+        "friluftsliv",
+        "tur"
+      ],
+      "age_groups": [
+        "senior"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-d8cad460-d629-49a6-8261-d3e890973725",
       "title": "Åpen dag - Sjøholt Stasjon",
       "start_at": "2026-09-20T11:00:00",
@@ -4924,7 +4967,7 @@
       "latitude": 62.4696333,
       "longitude": 6.1531858,
       "organizer": "Galleonen - Linjeforening for shipping management",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/63820-sommerfest-galleonen",
       "tags": [],
       "age_groups": [],
@@ -7093,19 +7136,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-24474-2026-05-10",
-      "title": "Brettspillkveld",
-      "start_at": "2026-05-10T19:00:00",
-      "end_at": "2026-05-10T23:55:00",
-      "location_name": "O'Connor's Irish Pub",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/brettspillkveld/?occurrence=2026-05-10",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-23231-2026-05-11",
       "title": "Seniorsvømming",
       "start_at": "2026-05-11T08:00:00",
@@ -7129,19 +7159,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33749-2026-05-11",
-      "title": "Utstilling med Bjørg Thorhallsdottir",
-      "start_at": "2026-05-11T00:00:00",
-      "location_name": "Alnes Fyr og Opplevelsessenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/utstilling-med-bjorg-thorhallsdottir/?occurrence=2026-05-11",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -9134,6 +9151,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-34066-2026-05-28",
+      "title": "Empati for djevelen",
+      "start_at": "2026-05-28T08:00:00",
+      "end_at": "2026-05-28T20:00:00",
+      "location_name": "Kommandosentralen",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/empati-for-djevelen/?occurrence=2026-05-28",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-22059-2026-05-28",
       "title": "Åpen barnehage",
       "start_at": "2026-05-28T09:00:00",
@@ -9258,6 +9288,19 @@
       "location_name": "Parken kulturhus, Foajeen",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/alesund-pride-2026-apning-skeive-ikoner/?occurrence=2026-05-28",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-34066-2026-05-29",
+      "title": "Empati for djevelen",
+      "start_at": "2026-05-29T08:00:00",
+      "end_at": "2026-05-29T20:00:00",
+      "location_name": "Kommandosentralen",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/empati-for-djevelen/?occurrence=2026-05-29",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -9703,118 +9746,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-9d9a857a-c5cf-4232-8cf2-fe6fa21b9e8d",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-10T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "isense",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8e8a52d9-7b50-441a-b285-7232df5dd726",
-      "title": "Project Hail Mary",
-      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
-      "start_at": "2026-05-10T20:40:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
-      "url": "https://www.odeonkino.no/film/project-hail-mary/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-918f4dfb-d3f2-4672-8933-ea5bfacc3ac6",
-      "title": "Billie Eilish - Hit Me Hard and Soft: The Tour",
-      "description": "James Cameron og Billie Eilish står bak en unik konsertopplevelse satt til det store lerretet - nemlig hennes turné Hit Me Hard and Soft i 3D.",
-      "start_at": "2026-05-10T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/41c7a294d48349b9a83978b99a29e012.jpg?width=1440&version=72A75115F338DFE948750EDF16B9C024",
-      "url": "https://www.odeonkino.no/film/billie-eilish-hit-me-hard-and-soft-the-tour/",
-      "tags": [
-        "musikkfilm",
-        "konsert"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-861b06df-6156-4f51-8258-bd554e5995d4",
-      "title": "Michael",
-      "start_at": "2026-05-10T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d3ca0687-9e45-4953-8735-7babe2c4ab9e",
-      "title": "Mortal Kombat II",
-      "start_at": "2026-05-10T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/23d3d1a5771a462a8fb6ad80b0548ce5.jpg?width=1440&version=531D69784AC31E9A355A5ED26A57723F",
-      "url": "https://www.odeonkino.no/film/mortal-kombat-ii/",
-      "tags": [
-        "spenning",
-        "fantasy",
-        "eventyr",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-bbebc5d1-ff14-47ce-8702-a673979f648b",
-      "title": "HOKUM",
-      "start_at": "2026-05-10T21:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f2fa555b4ae34a50b68150b3b5bd8f0d.jpg?width=1440&version=E523513A44A27F1FEECB21F2D02C830E",
-      "url": "https://www.odeonkino.no/film/hokum/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
