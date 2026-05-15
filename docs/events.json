@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-05-14T18:45:00.006106+00:00",
-  "total": 698,
+  "generated_at": "2026-05-15T00:54:31.634196+00:00",
+  "total": 695,
   "failed_sources": [],
   "events": [
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-05-15T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
+      "city": "Ålesund",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
     {
       "source": "friskus",
       "source_id": "friskus-006c7c00-d4f5-46fe-9f75-5dae47136a14",
@@ -242,26 +264,6 @@
         "pensioner"
       ],
       "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-856f0722-e12e-426c-a461-f4e15002ad04",
-      "title": "Prøv klatring",
-      "start_at": "2026-05-17T12:00:00",
-      "end_at": "2026-12-20T14:00:00",
-      "is_free": true,
-      "location_name": "Klatreklubben Ålesund",
-      "city": "Ålesund",
-      "organizer": "Klatreklubben Ålesund",
-      "image_url": "https://ucarecdn.com/323a9799-8c45-4fe8-a5da-2c9f84d2f4d1/-/crop/6870x2630/0,9/-/preview/",
-      "url": "https://alesund.friskus.com/events/856f0722-e12e-426c-a461-f4e15002ad04",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family"
-      ],
-      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -548,6 +550,26 @@
       ],
       "age_groups": [
         "children"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-6953cdaf-666b-456a-8278-699075e72604",
+      "title": "Vil du lære å spille biljard?",
+      "start_at": "2026-05-18T18:00:00",
+      "end_at": "2026-12-31T22:00:00",
+      "is_free": false,
+      "location_name": "Ålesund biljardklubb",
+      "city": "Ålesund",
+      "organizer": "Ålesund biljardklubb",
+      "image_url": "https://ucarecdn.com/6cfb5d74-04b6-43a5-9968-bb9a7bc81306/-/crop/2048x558/0,613/-/preview/",
+      "url": "https://alesund.friskus.com/events/6953cdaf-666b-456a-8278-699075e72604",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "senior"
       ],
       "is_recurring": true
     },
@@ -1191,6 +1213,24 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-28b10f66-dbb2-4b34-9f50-238530aa24d5",
+      "title": "Vil du hjelpe personer berørt av kreft?",
+      "start_at": "2026-05-21T08:00:00",
+      "end_at": "2027-12-30T21:00:00",
+      "is_free": true,
+      "location_name": "Kreftforeningen",
+      "city": "Ålesund",
+      "organizer": "Kreftforeningen",
+      "image_url": "https://ucarecdn.com/00920590-3bfb-40c1-b480-5d52aad6da65/-/crop/1181x322/0,103/-/preview/",
+      "url": "https://alesund.friskus.com/events/28b10f66-dbb2-4b34-9f50-238530aa24d5",
+      "tags": [],
+      "age_groups": [
+        "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-9f4f7c7d-0c81-43dd-9e54-6d6a313deb1d",
       "title": "Bridge på Frivilligsentralen",
       "start_at": "2026-05-21T10:30:00",
@@ -1529,6 +1569,26 @@
       "age_groups": [
         "children",
         "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-856f0722-e12e-426c-a461-f4e15002ad04",
+      "title": "Prøv klatring",
+      "start_at": "2026-05-24T12:00:00",
+      "end_at": "2026-12-20T14:00:00",
+      "is_free": true,
+      "location_name": "Klatreklubben Ålesund",
+      "city": "Ålesund",
+      "organizer": "Klatreklubben Ålesund",
+      "image_url": "https://ucarecdn.com/323a9799-8c45-4fe8-a5da-2c9f84d2f4d1/-/crop/6870x2630/0,9/-/preview/",
+      "url": "https://alesund.friskus.com/events/856f0722-e12e-426c-a461-f4e15002ad04",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family"
       ],
       "is_recurring": true
     },
@@ -1922,29 +1982,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-oaanwnpS2GSaI",
-      "title": "Informasjonsmøte for nye frivillige til DNT Sunnmøre",
-      "start_at": "2026-06-04T18:00:00",
-      "end_at": "2026-06-04T19:30:00",
-      "is_free": false,
-      "location_name": "DNT Sunnmøre",
-      "city": "Ålesund",
-      "organizer": "DNT Sunnmøre",
-      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_607482",
-      "url": "https://alesund.friskus.com/events/oaanwnpS2GSaI",
-      "tags": [
-        "friluftsliv",
-        "tur"
-      ],
-      "age_groups": [
-        "senior",
-        "pensioner",
-        "teenager"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-853964ed-111a-45ee-bbe8-53d22f0626ee",
       "title": "Siril Malmedal Hauge & Kjetil Mulelid",
       "start_at": "2026-06-04T21:00:00",
@@ -2165,6 +2202,29 @@
         "senior"
       ],
       "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-oaanwnpS2GSaI",
+      "title": "Informasjonsmøte for nye frivillige til DNT Sunnmøre",
+      "start_at": "2026-06-11T18:00:00",
+      "end_at": "2026-06-11T19:30:00",
+      "is_free": false,
+      "location_name": "DNT Sunnmøre",
+      "city": "Ålesund",
+      "organizer": "DNT Sunnmøre",
+      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_607482",
+      "url": "https://alesund.friskus.com/events/oaanwnpS2GSaI",
+      "tags": [
+        "friluftsliv",
+        "tur"
+      ],
+      "age_groups": [
+        "senior",
+        "pensioner",
+        "teenager"
+      ],
+      "is_recurring": false
     },
     {
       "source": "friskus",
@@ -3238,28 +3298,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-9431fe9b-7d5c-4c8f-9ca1-16e63fa3d8e6",
-      "title": "Sula sportsbibliotek",
-      "start_at": "2026-05-14T19:00:00",
-      "end_at": "2027-01-07T22:00:00",
-      "is_free": true,
-      "location_name": "Sula frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Sula frivilligsentral",
-      "image_url": "https://ucarecdn.com/2c6fd9b4-08d9-4639-87bb-fe01b5153ffe/-/crop/850x231/0,42/-/preview/",
-      "url": "https://alesund.friskus.com/events/9431fe9b-7d5c-4c8f-9ca1-16e63fa3d8e6",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-bf8907e4-df55-4cce-a645-46f42167762d",
       "title": "GJENBRUKSBUTIKK MAUSEIDVÅG (LØ)",
       "start_at": "2026-05-16T11:00:00",
@@ -3333,6 +3371,28 @@
       "age_groups": [
         "children",
         "teenager",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-9431fe9b-7d5c-4c8f-9ca1-16e63fa3d8e6",
+      "title": "Sula sportsbibliotek",
+      "start_at": "2026-05-18T19:00:00",
+      "end_at": "2027-01-07T22:00:00",
+      "is_free": true,
+      "location_name": "Sula frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Sula frivilligsentral",
+      "image_url": "https://ucarecdn.com/2c6fd9b4-08d9-4639-87bb-fe01b5153ffe/-/crop/850x231/0,42/-/preview/",
+      "url": "https://alesund.friskus.com/events/9431fe9b-7d5c-4c8f-9ca1-16e63fa3d8e6",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
         "senior",
         "pensioner"
       ],
@@ -5489,26 +5549,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-bd1ed7a13146c22d4b2458121c26c226",
-      "title": "Knaggenprisen 2026 🏆",
-      "description": "<p>Vårsemesteret med studentmediene i Volda skal hedres!<br>Stor prisutdeling hvor det beste av det beste fra Student-TV i Volda, Peikestokken Studentavis og Volda studentradio skal hedres.</p><p>Dette blir en heidundranes festaften!</p><p>Dører: 19:00.<br>Showstart: 20:00</p>",
-      "start_at": "2026-05-14T19:00:00",
-      "end_at": "2026-05-14T23:59:00",
-      "is_free": false,
-      "price_text": "NOK 150.00",
-      "location_name": "Studenthuset Rokken",
-      "city": "Ålesund",
-      "latitude": 62.1445565,
-      "longitude": 6.072145,
-      "organizer": "Student-TV i Volda",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_69e5ae51d06be48c1ae725e61421ee7c.webp?class=w768",
-      "url": "https://tikkio.com/events/63487-knaggenprisen-2026",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-e9ab4bb94b80dfdd0fc784c5eca4cb3e",
       "title": "Kløbb Ka2 // ROKKEN",
       "description": "På den mørkare og meir mystiske sida av universet til duoen Ka2 finn du Kløbb Ka2. Musikk som er laga for å ta deg med på ei reise, anten det er på dansegolvet eller heime i di eiga stove med lukka auge og headset på. Inspirert av norsk natur, mytar og urmusikk, kombinert med rytmar frå techno, house og elektronisk musikk, er låtane ofte ei reise som utforskar dei eksistensielle spørsmåla i livet.\r\n\r\nÅ oppleve Ka2 bak DJ-spakane er ei reise i seg sjølv. Duoen er kjend for sine energiske DJ-sett med livevokal, der dei kombinerer sine eigne låtar med dansbar musikk som dei sjølve elskar. Målet er som alltid å spreie kjærleik, fridom og krafta i det å berre vere.\r\n\r\nMed internasjonal merksemd og over 6 millionar avspelingar på klubbmusikken åleine, og ei rekkje utselde Kløbb-opptredenar, er duoen eit veksande fenomen.\r\n\r\nDersom du enno ikkje har fått det med deg, kan du sjekke ut Ka2 sitt live DJ-set frå Geirangerfjorden her.\r\n\r\nOm det skulle vere nokon tvil … festen held fram.\r\n\r\nBillettar i sal no!!\r\n\r\nDører: 21:45\r\nShow: 22:00\r\n18 års aldersgrense\r\n\r\n\r\n//ENGLISH//\r\n\r\n\r\nOn the darker and more mysterious side of the universe of the duo Ka2, you’ll find Kløbb Ka2. Music created to take you on a journey—whether on the dance floor or at home in your own living room with your eyes closed and headphones on. Inspired by Norwegian nature, myths, and primal music, combined with rhythms from techno, house, and electronic music, the tracks often become a journey exploring the existential questions of life.\r\n\r\nExperiencing Ka2 behind the DJ decks is a journey in itself. The duo is known for their energetic DJ sets with live vocals, where they combine their own tracks with danceable music they truly love. The goal, as always, is to spread love, freedom, and the power of simply being.\r\n\r\nWith international attention and over 6 million plays from their club music alone, along with a series of sold-out Kløbb performances, the duo is a growing phenomenon.\r\n\r\nIf you haven’t discovered it yet, you can check out Ka2’s live DJ set from the Geirangerfjord here.\r\n\r\nIf there were any doubt… the party continues.\r\n\r\nTickets on sale now!\r\nDoors: 21:45\r\nShow: 22:00\r\nID: 18+",
@@ -7111,19 +7151,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-33664-2026-05-14",
-      "title": "Magic Men Australia i Ålesund",
-      "start_at": "2026-05-14T20:00:00",
-      "end_at": "2026-05-14T23:00:00",
-      "location_name": "Sparebanken Møre Arena",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/magic-men-australia-i-alesund/?occurrence=2026-05-14",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-32362-2026-05-15",
       "title": "Sommerfuglen Aktivitet",
       "start_at": "2026-05-15T10:00:00",
@@ -7134,19 +7161,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33749-2026-05-15",
-      "title": "Utstilling med Bjørg Thorhallsdottir",
-      "start_at": "2026-05-15T00:00:00",
-      "location_name": "Alnes Fyr og Opplevelsessenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/utstilling-med-bjorg-thorhallsdottir/?occurrence=2026-05-15",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -7225,19 +7239,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34234-2026-05-15",
-      "title": "Friendship- vennskapskonsert i Ålesund Kirke",
-      "start_at": "2026-05-15T00:00:00",
-      "location_name": "Ålesund kirke",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/friendship-vennskapskonsert-i-alesund-kirke/?occurrence=2026-05-15",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -9477,112 +9478,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-0c34a0c5-7108-47cc-8ef1-3a297af78baa",
-      "title": "Michael",
-      "start_at": "2026-05-14T20:15:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-0fec07ac-fb7d-4e88-9013-6c3e83a217bc",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-14T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b2dc56d1-eaa4-48aa-a54b-31917b82705d",
-      "title": "Michael",
-      "start_at": "2026-05-14T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "isense",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b435d1e4-5049-489b-ae5b-5153cfb1dc29",
-      "title": "Iron Maiden: Burning Ambition",
-      "start_at": "2026-05-14T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/d883e23af80b4723bfa65a121f9ba53f.jpg?width=1440&version=9160E0A2809125937731E22070EBF133",
-      "url": "https://www.odeonkino.no/film/iron-maiden-burning-ambition/",
-      "tags": [
-        "luxe",
-        "dokumentar"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f322a9fa-68be-4d19-856f-369bf7f48d3d",
-      "title": "HOKUM",
-      "start_at": "2026-05-14T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f2fa555b4ae34a50b68150b3b5bd8f0d.jpg?width=1440&version=E523513A44A27F1FEECB21F2D02C830E",
-      "url": "https://www.odeonkino.no/film/hokum/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-92e58ab7-3172-4b64-b46f-2c801f3d2f73",
-      "title": "In the Grey",
-      "start_at": "2026-05-14T21:20:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f981fcc6763a483b816bec94632fe9b3.jpg?width=1440&version=48B2F68948F2205022F0841A7B1CF124",
-      "url": "https://www.odeonkino.no/film/in-the-grey/",
-      "tags": [
-        "luxe",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-2d7fe681-6ce2-47bc-95a6-817d8410a7d3",
       "title": "Super Mario Galaxy Filmen",
       "start_at": "2026-05-15T12:00:00",
@@ -9837,6 +9732,23 @@
         "eventyr",
         "sci-fi",
         "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2952ec03-70c0-43d3-8ede-3ddb72829631",
+      "title": "Kenny Dalglish",
+      "start_at": "2026-05-15T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6ad93b3ed21c4bd6bfd73219b3fac3d9.jpg?width=1440&version=E5833305D29465752B10DB1E4BC57E39",
+      "url": "https://www.odeonkino.no/film/kenny-dalglish/",
+      "tags": [
+        "luxe",
+        "dokumentar"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -10384,6 +10296,23 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-f82e678b-725c-4039-9813-669a9fafc801",
+      "title": "Kenny Dalglish",
+      "start_at": "2026-05-16T18:10:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6ad93b3ed21c4bd6bfd73219b3fac3d9.jpg?width=1440&version=E5833305D29465752B10DB1E4BC57E39",
+      "url": "https://www.odeonkino.no/film/kenny-dalglish/",
+      "tags": [
+        "luxe",
+        "dokumentar"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-fbf4c586-691e-457a-aeba-952c894a4926",
       "title": "The Devil Wears Prada 2",
       "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
@@ -10521,6 +10450,23 @@
       "url": "https://www.odeonkino.no/film/tidevannet-pa-amrum/",
       "tags": [
         "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6651a63d-aa7a-41d1-a82f-8fbabb267a84",
+      "title": "Kenny Dalglish",
+      "start_at": "2026-05-18T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6ad93b3ed21c4bd6bfd73219b3fac3d9.jpg?width=1440&version=E5833305D29465752B10DB1E4BC57E39",
+      "url": "https://www.odeonkino.no/film/kenny-dalglish/",
+      "tags": [
+        "luxe",
+        "dokumentar"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -10736,6 +10682,23 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-6ae6ab72-1189-4c80-8fef-d9b89f4f98a3",
+      "title": "Kenny Dalglish",
+      "start_at": "2026-05-18T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6ad93b3ed21c4bd6bfd73219b3fac3d9.jpg?width=1440&version=E5833305D29465752B10DB1E4BC57E39",
+      "url": "https://www.odeonkino.no/film/kenny-dalglish/",
+      "tags": [
+        "luxe",
+        "dokumentar"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-30a15046-c595-4972-9ada-0fc3016ac8f0",
       "title": "The Devil Wears Prada 2",
       "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
@@ -10909,6 +10872,23 @@
       "url": "https://www.odeonkino.no/film/tidevannet-pa-amrum/",
       "tags": [
         "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-5e68de96-b081-4939-b638-2737d473d5ed",
+      "title": "Kenny Dalglish",
+      "start_at": "2026-05-19T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6ad93b3ed21c4bd6bfd73219b3fac3d9.jpg?width=1440&version=E5833305D29465752B10DB1E4BC57E39",
+      "url": "https://www.odeonkino.no/film/kenny-dalglish/",
+      "tags": [
+        "luxe",
+        "dokumentar"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -11944,25 +11924,6 @@
     },
     {
       "source": "ticketmaster",
-      "source_id": "ticketmaster-Z698xZb_Z16vu0qgZN",
-      "title": "Magic Men",
-      "start_at": "2026-05-14T20:00:00",
-      "location_name": "Ålesund Arena",
-      "address": "Sjømannsvegen 16",
-      "city": "Ålesund",
-      "latitude": 62.47006,
-      "longitude": 6.18377,
-      "image_url": "https://s1.ticketm.net/dam/a/192/637db474-7bf4-4596-97a0-f375e1198192_RECOMENDATION_16_9.jpg",
-      "url": "https://www.ticketmaster.no/event/magic-men-billetter/1364775023",
-      "tags": [
-        "spektakulær"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "ticketmaster",
       "source_id": "ticketmaster-Z698xZb_Z16vjxqExZ",
       "title": "Sigvart Dagsland - Det er makt i de foldede hender - Salmekonsert",
       "start_at": "2026-09-13T19:00:00",
@@ -12002,9 +11963,8 @@
       "source": "aafk",
       "source_id": "aafk-dde062cc-e950-4442-83fd-00ea0cc40ecd",
       "title": "Toppserien: AaFK Kvinner - Hønefoss",
-      "start_at": "2026-05-15T18:00:00",
       "is_free": false,
-      "price_text": "50 kr",
+      "price_text": "NOK 50",
       "location_name": "Color Line Stadion",
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1084505/default_file-1777997631.jpeg",
@@ -12014,15 +11974,15 @@
       ],
       "age_groups": [],
       "is_recurring": false,
+      "start_at": null,
       "end_at": null
     },
     {
       "source": "aafk",
       "source_id": "aafk-e22e7a15-7654-433a-b65b-3b866b4c048d",
       "title": "Eliteserien: Aalesund - Brann",
-      "start_at": "2026-05-20T20:00:00",
       "is_free": false,
-      "price_text": "50 kr",
+      "price_text": "NOK 50",
       "location_name": "Color Line Stadion",
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1068658/default_file-1778422112.jpeg",
@@ -12032,15 +11992,15 @@
       ],
       "age_groups": [],
       "is_recurring": false,
+      "start_at": null,
       "end_at": null
     },
     {
       "source": "aafk",
       "source_id": "aafk-ef3b85e4-e3cf-460e-ba7b-6af0f0f7cd81",
       "title": "Eliteserien: Aalesund - HamKam",
-      "start_at": "2026-05-29T19:00:00",
       "is_free": false,
-      "price_text": "50 kr",
+      "price_text": "NOK 50",
       "location_name": "Color Line Stadion",
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1067214/default_file-1777895714.jpeg",
@@ -12050,6 +12010,7 @@
       ],
       "age_groups": [],
       "is_recurring": false,
+      "start_at": null,
       "end_at": null
     },
     {
@@ -12058,7 +12019,7 @@
       "title": "OBOS-camp Sommerproff 2026",
       "start_at": "2026-08-03T08:30:00",
       "is_free": false,
-      "price_text": "1 125 kr",
+      "price_text": "NOK 1,125",
       "location_name": "Sparebanken Møre Arena",
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1105424/default_file-1747823817.jpeg",
