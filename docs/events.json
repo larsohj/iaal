@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-05-16T18:25:59.442918+00:00",
-  "total": 633,
+  "generated_at": "2026-05-17T00:57:35.645149+00:00",
+  "total": 617,
   "failed_sources": [],
   "events": [
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-05-17T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
+      "city": "Ålesund",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
     {
       "source": "friskus",
       "source_id": "friskus-oaaj5aFLL-OV0",
@@ -3232,24 +3254,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-c90a4a9e-3b46-461f-b728-080b34a008b5",
-      "title": "Connect",
-      "start_at": "2026-05-16T20:30:00",
-      "end_at": "2026-06-13T23:59:00",
-      "is_free": true,
-      "location_name": "Sula Frikirke",
-      "city": "Ålesund",
-      "organizer": "Sula Frikirke",
-      "image_url": "https://ucarecdn.com/4c115c49-6349-4447-abbf-fb8c70300fd1/-/crop/2045x559/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/c90a4a9e-3b46-461f-b728-080b34a008b5",
-      "tags": [],
-      "age_groups": [
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-da1e45c2-1e1b-41d2-bef1-ea926e8a3d14",
       "title": "LHL - Styrke, balanse og avspenning",
       "start_at": "2026-05-18T15:15:00",
@@ -3433,6 +3437,24 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-c90a4a9e-3b46-461f-b728-080b34a008b5",
+      "title": "Connect",
+      "start_at": "2026-05-23T20:30:00",
+      "end_at": "2026-06-13T23:59:00",
+      "is_free": true,
+      "location_name": "Sula Frikirke",
+      "city": "Ålesund",
+      "organizer": "Sula Frikirke",
+      "image_url": "https://ucarecdn.com/4c115c49-6349-4447-abbf-fb8c70300fd1/-/crop/2045x559/0,0/-/preview/",
+      "url": "https://alesund.friskus.com/events/c90a4a9e-3b46-461f-b728-080b34a008b5",
+      "tags": [],
+      "age_groups": [
+        "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-7ba9b0bd-5764-463a-9974-eb8695277d57",
       "title": "Søndagsskolen",
       "start_at": "2026-05-24T11:00:00",
@@ -3581,116 +3603,6 @@
       "url": "https://alesund.friskus.com/events/4678ff73-52d8-4f03-b95c-dd752c1cfc8b",
       "tags": [],
       "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-4618279c-522b-470c-9752-c36b4e8f7b0b",
-      "title": "17. mai-program - Alnes",
-      "start_at": "2026-05-17T00:00:00",
-      "end_at": "2026-05-17T23:59:00",
-      "is_free": false,
-      "location_name": "Giske kommune",
-      "city": "Ålesund",
-      "organizer": "Giske kommune",
-      "image_url": "https://ucarecdn.com/5fac9a79-a007-4c2b-b9c4-bd93dce9d22e/-/crop/1099x300/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/4618279c-522b-470c-9752-c36b4e8f7b0b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-4f418c27-a227-4b84-a6b7-b2c231bd330c",
-      "title": "17. mai-program - Vigra",
-      "start_at": "2026-05-17T00:00:00",
-      "end_at": "2026-05-17T23:59:00",
-      "is_free": false,
-      "location_name": "Giske kommune",
-      "city": "Ålesund",
-      "organizer": "Giske kommune",
-      "image_url": "https://ucarecdn.com/d0ead8ea-7b62-4e9c-a7a1-bb1f8a1bbfb8/-/crop/1099x300/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/4f418c27-a227-4b84-a6b7-b2c231bd330c",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-cdad81c8-c983-4a01-8212-90a9ccdeba94",
-      "title": "17. mai-program - Valderøya",
-      "start_at": "2026-05-17T00:00:00",
-      "end_at": "2026-05-17T23:59:00",
-      "is_free": false,
-      "location_name": "Giske kommune",
-      "city": "Ålesund",
-      "organizer": "Giske kommune",
-      "image_url": "https://ucarecdn.com/6ab24d77-87a3-4a43-a3dd-605d6f5e730b/-/crop/1099x300/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/cdad81c8-c983-4a01-8212-90a9ccdeba94",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-d07abd8f-032b-455c-9b2e-9600271543ae",
-      "title": "17. mai-program i Giske kommune",
-      "start_at": "2026-05-17T00:00:00",
-      "end_at": "2026-05-17T23:59:00",
-      "is_free": false,
-      "location_name": "Giske kommune",
-      "city": "Ålesund",
-      "organizer": "Giske kommune",
-      "image_url": "https://ucarecdn.com/1f69ca1a-62ce-4c9e-8502-d85920ddf31b/-/crop/1099x300/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/d07abd8f-032b-455c-9b2e-9600271543ae",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f0175e32-39a5-4d4c-bd4b-133a0f4ff184",
-      "title": "17. mai-program - Giske",
-      "start_at": "2026-05-17T00:00:00",
-      "end_at": "2026-05-17T23:59:00",
-      "is_free": false,
-      "location_name": "Giske kommune",
-      "city": "Ålesund",
-      "organizer": "Giske kommune",
-      "image_url": "https://ucarecdn.com/ca2540e3-2bcc-4e73-bef0-fb8d96bb423b/-/crop/1099x300/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/f0175e32-39a5-4d4c-bd4b-133a0f4ff184",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
         "senior",
         "pensioner"
       ],
@@ -4405,24 +4317,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-20278b568630fa0efd1cabaad8fae145",
-      "title": "KLUBB DAMP // 16.mai",
-      "description": "16.MAI = ÅRETS 3/4 KLUBB DAMP 🔥🇳🇴\r\nVi tjuvstarter nasjonaldagen med klubb, dansegulv og DJ!\r\n\r\nDet er sommer i lufta, bedre humør og lysere kvelder (men mørkt inne 😉) \r\n\r\n📅 16.mai\r\n🕚23:00-02:00\r\n🎧 Dj Phongsak\r\n🪪 23 +",
-      "start_at": "2026-05-16T23:00:00",
-      "end_at": "2026-05-17T02:00:00",
-      "is_free": false,
-      "price_text": "NOK 100.00",
-      "location_name": "Dampsentralen",
-      "city": "Ålesund",
-      "organizer": "Dampsentralen AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/uploads/event/c_31e2745571ae19d3b07f4046d10891a8.png?class=w768",
-      "url": "https://tikkio.com/events/63718-klubb-damp-16mai",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-6b89446765bfd267f9d47b522a15fdaf",
       "title": "Singeltreff Ålesund - Pride",
       "description": "Singeltreff Ålesund - Pride\r\n\r\nVelkommen til en sosial, trygg og inkluderende kveld under PRIDE Ålesund 27.  mai. \r\n\r\nDenne kvelden byr vi på artige aktiviteter, god stemning og en fin mulighet til å møte nye mennesker i et uformelt og avslappet miljø.\r\n\r\nDet skal være lett å bli kjent, lett å delta, og ingen skal bli stående alene når Singeltreff Ålesund inntar Dampsentralen. \r\n\r\nNull press, null stress, kun en hyggelig og inkluderende møteplass for skeive under årets PRIDE markering i Ålesund. \r\n\r\nDato: 27.05.26\r\nSted: Dampsentralen\r\nDørene åpner: 18.30\r\nStart: 19.00\r\nAldersgrense: Fra 18 år \r\n\r\nHusk å ta ut billett!",
@@ -5016,7 +4910,7 @@
       "latitude": 62.4696333,
       "longitude": 6.1531858,
       "organizer": "Galleonen - Linjeforening for shipping management",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/63820-sommerfest-galleonen",
       "tags": [],
       "age_groups": [],
@@ -5276,24 +5170,6 @@
       "organizer": "Raka-Fant AS",
       "image_url": "https://cdn.tikkio.com/static/1.0.3476/uploads/event/c_be4313dbb0013fcdea2a000db16e00f6.jpeg?class=w768",
       "url": "https://tikkio.com/events/63187-heine-totland-karianne-kjaernes-og-gisle-borge-styve",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-f04992afe5bbe78d4b548eb6e39b826b",
-      "title": "Johan Gielen - Past, present & future",
-      "description": "På sjølvaste 16. mai – dagen før dagen – kjem legenda tilbake til Ulsteinvik. 🔥\r\n\r\nPå Kaffebaren blir det fullt trøkk frå start til slutt, med dei råaste trance classics, høg energi og garantert rennande svette på dansegolvet.\r\n\r\nJohan Gielen er ein ekte pioner i det internasjonale trance-miljøet. Med prosjekt som Svenson & Gielen, Airscape og Balearic Bill, og opptredenar på nokre av verdas største scener – inkludert Tomorrowland og Trance Energy – veit du at dette blir noko heilt spesielt.\r\n\r\nDette blir ei natt for dei ekte trance-elskarane. 🚀\r\n\r\nCC: 200,- : ID: 20 år",
-      "start_at": "2026-05-16T22:00:00",
-      "end_at": "2026-05-17T02:00:00",
-      "is_free": false,
-      "price_text": "NOK 200.00",
-      "location_name": "Kaffebaren Ulsteinvik",
-      "city": "Ålesund",
-      "organizer": "Skeide Invest",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/uploads/event/c_2922d4a281caa30b54bd9a2bdc6efb1c.png?class=w768",
-      "url": "https://tikkio.com/events/63715-johan-gielen-past-present-future",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -7199,19 +7075,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-33163-2026-05-16",
-      "title": "Flyt-Bar til kai",
-      "start_at": "2026-05-16T19:00:00",
-      "end_at": "2026-05-16T23:00:00",
-      "location_name": "Molo Brew",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/flyt-bar-til-kai-5/?occurrence=2026-05-16",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-32382-2026-05-17",
       "title": "17. Mai hos Hotel 1904",
       "start_at": "2026-05-17T07:00:00",
@@ -7235,45 +7098,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-28717-2026-05-17",
-      "title": "Helgeprogram i Atlanterhavsparken – akvarium og vitensenter",
-      "start_at": "2026-05-17T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/helgeprogram-i-atlanterhavsparken-akvarium-og-vitensenter-2/?occurrence=2026-05-17",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32481-2026-05-17",
-      "title": "17. mai feiring på Skansekaia",
-      "start_at": "2026-05-17T00:00:00",
-      "location_name": "Quality Hotel Ålesund",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/17-mai-feiring-pa-skansekaia/?occurrence=2026-05-17",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33749-2026-05-17",
-      "title": "Utstilling med Bjørg Thorhallsdottir",
-      "start_at": "2026-05-17T00:00:00",
-      "location_name": "Alnes Fyr og Opplevelsessenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/utstilling-med-bjorg-thorhallsdottir/?occurrence=2026-05-17",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -7365,19 +7189,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33459-2026-05-17",
-      "title": "Cirkus Arnardo",
-      "start_at": "2026-05-17T00:00:00",
-      "location_name": "Color Line Stadion",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/cirkus-arnardo-2/?occurrence=2026-05-17&time=1779040800",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -9263,96 +9074,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-fbf4c586-691e-457a-aeba-952c894a4926",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-16T20:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "isense",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-1a54806d-6712-4f3b-b260-77b8e4dce7ae",
-      "title": "Michael",
-      "start_at": "2026-05-16T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-28da4001-ca8c-4b21-9271-8fc671393547",
-      "title": "Mortal Kombat II",
-      "start_at": "2026-05-16T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/23d3d1a5771a462a8fb6ad80b0548ce5.jpg?width=1440&version=531D69784AC31E9A355A5ED26A57723F",
-      "url": "https://www.odeonkino.no/film/mortal-kombat-ii/",
-      "tags": [
-        "spenning",
-        "fantasy",
-        "eventyr",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-99f5998d-75b2-4afa-a3ff-798f36983f26",
-      "title": "HOKUM",
-      "start_at": "2026-05-16T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f2fa555b4ae34a50b68150b3b5bd8f0d.jpg?width=1440&version=E523513A44A27F1FEECB21F2D02C830E",
-      "url": "https://www.odeonkino.no/film/hokum/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d6862e14-2cf5-4520-985c-d88f08b7ec5e",
-      "title": "In the Grey",
-      "start_at": "2026-05-16T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f981fcc6763a483b816bec94632fe9b3.jpg?width=1440&version=48B2F68948F2205022F0841A7B1CF124",
-      "url": "https://www.odeonkino.no/film/in-the-grey/",
-      "tags": [
-        "luxe",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
