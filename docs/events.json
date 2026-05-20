@@ -1,88 +1,8 @@
 {
-  "generated_at": "2026-05-20T13:03:29.854691+00:00",
-  "total": 689,
+  "generated_at": "2026-05-20T18:55:47.275756+00:00",
+  "total": 673,
   "failed_sources": [],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-c5eb4067-8844-4592-a6df-62866cae4d14",
-      "title": "Seniordans på Ørskog Frivillighetssenter",
-      "start_at": "2026-05-20T16:45:00",
-      "end_at": "2026-06-24T19:15:00",
-      "is_free": false,
-      "location_name": "LHL Skodje, Ørskog og Haram",
-      "city": "Ålesund",
-      "organizer": "LHL Skodje, Ørskog og Haram",
-      "image_url": "https://ucarecdn.com/6c85314c-e8f1-426b-82dc-0e2fb6fe303d/-/crop/2312x802/0,601/-/preview/",
-      "url": "https://alesund.friskus.com/events/c5eb4067-8844-4592-a6df-62866cae4d14",
-      "tags": [],
-      "age_groups": [
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-6454eff5-8c64-41e5-859a-eed1d7fa1b44",
-      "title": "Gamingkveld Volsdalen",
-      "start_at": "2026-05-20T17:00:00",
-      "end_at": "2026-06-17T19:00:00",
-      "is_free": true,
-      "location_name": "E-Teams",
-      "city": "Ålesund",
-      "organizer": "E-Teams",
-      "image_url": "https://ucarecdn.com/120c43eb-2f84-48f5-948b-19930d5b2071/-/crop/1080x295/0,408/-/preview/",
-      "url": "https://alesund.friskus.com/events/6454eff5-8c64-41e5-859a-eed1d7fa1b44",
-      "tags": [],
-      "age_groups": [
-        "children"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-oaa6vpgHk6BLY",
-      "title": "DNT x SIT: Aktivitetskveld på Naustet",
-      "start_at": "2026-05-20T17:00:00",
-      "end_at": "2026-05-20T20:00:00",
-      "is_free": true,
-      "location_name": "DNT Sunnmøre",
-      "city": "Ålesund",
-      "organizer": "DNT Sunnmøre",
-      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_605645",
-      "url": "https://alesund.friskus.com/events/oaa6vpgHk6BLY",
-      "tags": [
-        "friluftsliv",
-        "tur"
-      ],
-      "age_groups": [
-        "senior",
-        "teenager"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-oaa9Rw8FwHivl",
-      "title": "OBS! flytta til DNT  naustet - Friluftshangout/ Samarbeid med SIT-  Bål og bading ved DNT Naustet",
-      "start_at": "2026-05-20T17:00:00",
-      "end_at": "2026-05-20T20:00:00",
-      "is_free": true,
-      "location_name": "DNT Sunnmøre",
-      "city": "Ålesund",
-      "organizer": "DNT Sunnmøre",
-      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_597074",
-      "url": "https://alesund.friskus.com/events/oaa9Rw8FwHivl",
-      "tags": [
-        "friluftsliv",
-        "tur"
-      ],
-      "age_groups": [
-        "senior",
-        "teenager"
-      ],
-      "is_recurring": false
-    },
     {
       "source": "friskus",
       "source_id": "friskus-c4ff2a1f-6b78-44a4-9729-a4a3728e6e33",
@@ -264,6 +184,28 @@
       "organizer": "Skodje frivilligsentral",
       "image_url": "https://ucarecdn.com/8830820c-b542-4a52-85bc-07d2d1c201c9/-/crop/640x174/0,38/-/preview/",
       "url": "https://alesund.friskus.com/events/a28eb8b7-da9c-464c-a838-a7a352e88326",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-05-21T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
       "tags": [],
       "age_groups": [
         "children",
@@ -1258,6 +1200,24 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-6454eff5-8c64-41e5-859a-eed1d7fa1b44",
+      "title": "Gamingkveld Volsdalen",
+      "start_at": "2026-05-27T17:00:00",
+      "end_at": "2026-06-17T19:00:00",
+      "is_free": true,
+      "location_name": "E-Teams",
+      "city": "Ålesund",
+      "organizer": "E-Teams",
+      "image_url": "https://ucarecdn.com/120c43eb-2f84-48f5-948b-19930d5b2071/-/crop/1080x295/0,408/-/preview/",
+      "url": "https://alesund.friskus.com/events/6454eff5-8c64-41e5-859a-eed1d7fa1b44",
+      "tags": [],
+      "age_groups": [
+        "children"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-c76c836a-3641-4651-8ca1-13347d61488a",
       "title": "Havdur pensjonistforening.  Ope møte",
       "start_at": "2026-05-27T17:00:00",
@@ -1674,6 +1634,24 @@
       "tags": [],
       "age_groups": [
         "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-c5eb4067-8844-4592-a6df-62866cae4d14",
+      "title": "Seniordans på Ørskog Frivillighetssenter",
+      "start_at": "2026-06-03T16:45:00",
+      "end_at": "2026-06-24T19:15:00",
+      "is_free": false,
+      "location_name": "LHL Skodje, Ørskog og Haram",
+      "city": "Ålesund",
+      "organizer": "LHL Skodje, Ørskog og Haram",
+      "image_url": "https://ucarecdn.com/6c85314c-e8f1-426b-82dc-0e2fb6fe303d/-/crop/2312x802/0,601/-/preview/",
+      "url": "https://alesund.friskus.com/events/c5eb4067-8844-4592-a6df-62866cae4d14",
+      "tags": [],
+      "age_groups": [
+        "senior"
       ],
       "is_recurring": true
     },
@@ -3094,24 +3072,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-4f1fbd1e-7b81-4808-8dee-95816d182bef",
-      "title": "Donken-ungdomsklubb onsdag",
-      "start_at": "2026-05-20T14:30:00",
-      "end_at": "2026-05-27T21:00:00",
-      "is_free": true,
-      "location_name": "Fritidsklubbane Sula",
-      "city": "Ålesund",
-      "organizer": "Fritidsklubbane Sula",
-      "image_url": "https://ucarecdn.com/169c501c-eb04-403d-accd-21bf9c66e485/-/crop/1440x870/0,95/-/preview/",
-      "url": "https://alesund.friskus.com/events/4f1fbd1e-7b81-4808-8dee-95816d182bef",
-      "tags": [],
-      "age_groups": [
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-30e35358-a4a5-47e4-b27a-d7c3dbf83b45",
       "title": "GJENBRUKSBUTIKK MAUSEIDVÅG (TO)",
       "start_at": "2026-05-21T16:00:00",
@@ -3528,6 +3488,28 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-4099e8e2-02df-4c0a-880e-02130c8fd1c7",
+      "title": "Biblioteket er ope i dag!",
+      "start_at": "2026-05-21T13:00:00",
+      "end_at": "2026-06-19T15:30:00",
+      "is_free": true,
+      "location_name": "Giske folkebibliotek",
+      "city": "Ålesund",
+      "organizer": "Giske folkebibliotek",
+      "image_url": "https://ucarecdn.com/291cb93f-fd25-460e-a4da-21b6d9547361/-/crop/1200x328/0,170/-/preview/",
+      "url": "https://alesund.friskus.com/events/4099e8e2-02df-4c0a-880e-02130c8fd1c7",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-d5506892-f0a1-4988-9f24-be1968946796",
       "title": "Naturmøteplass i Sandvika på Roald",
       "start_at": "2026-05-27T12:00:00",
@@ -3904,7 +3886,7 @@
       "source": "tikkio",
       "source_id": "tikkio-3c5981661ae9000dc06914d00af42637",
       "title": "☀️ SOMMEREN TATT PÅ SPARKET ☀️",
-      "description": "Velkommen til en morsom og fullstendig uforutsigbar sommerforestilling! ☀️\r\n\r\nDenne kvelden inviterer vi deg til en helt spesiell teateropplevelse der sommerfølelsen oppstår i øyeblikket.\r\n\r\nI stedet for et ferdig manus skaper skuespillerne forestillingen på sparket. Det betyr at handlingen, relasjonene, ferieromanser, vennskap, misforståelser, sangene og humoren blir til på stedet – ofte inspirert av forslag fra publikum. Ingen vet hva som kommer til å skje… heller ikke skuespillerne! 🌊🌞\r\n\r\nKanskje havner vi på en strand langt borte, på en svett roadtrip, på hyttetur med mygg og mystikk – eller midt i en uventet sommerforelskelse? Alt kan skje når fantasien får fritt spillerom.\r\n\r\nPasser for alle som liker varme kvelder, latter og god stemning – enten du kommer med venner, familie eller alene. \r\n\r\nBli med på en sommerfeiring full av fantasi, lek, varme – og kanskje litt dramatikk? 🌺\r\n\r\nDette er teater slik du aldri har sett det før – og aldri får se igjen!\r\n\r\n📌 Sobra Scene | Korsegata 6\r\n📅 Lørdag 6. juni kl 20:00 | Dørene åpner kl 19:30\r\n💰 195 // 140 || Morgenfugl 115",
+      "description": "Velkommen til en morsom og fullstendig uforutsigbar sommerforestilling! ☀️\r\n\r\nDenne kvelden inviterer vi deg til en helt spesiell teateropplevelse der sommerfølelsen oppstår i øyeblikket.\r\n\r\nI stedet for et ferdig manus skaper skuespillerne forestillingen på sparket. Det betyr at handlingen, relasjonene, ferieromanser, vennskap, misforståelser, sangene og humoren blir til på stedet – ofte inspirert av forslag fra publikum. Ingen vet hva som kommer til å skje… heller ikke skuespillerne! 🌊🌞\r\n\r\nKanskje havner vi på en strand langt borte, på en svett roadtrip, på hyttetur med mygg og mystikk – eller midt i en uventet sommerforelskelse? Alt kan skje når fantasien får fritt spillerom.\r\n\r\nPasser for alle som liker varme kvelder, latter og god stemning – enten du kommer med venner, familie eller alene. \r\n\r\nBli med på en sommerfeiring full av fantasi, lek, varme – og kanskje litt dramatikk? 🌺\r\n\r\nDette er teater slik du aldri har sett det før – og aldri får se igjen!\r\n\r\n📌 Sobra Scene | Korsegata 6\r\n📅 Lørdag 6. juni kl 20:00 | Dørene åpner kl 19:30",
       "start_at": "2026-06-06T19:30:00",
       "end_at": "2026-06-06T23:00:00",
       "is_free": false,
@@ -4275,6 +4257,44 @@
       "organizer": "Løvenvold Theater",
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_5b6e4e0bf49f2f12a6ef1de0ac58d6a8.webp?class=w768",
       "url": "https://tikkio.com/events/62681-juleshow-pa-lovenvold-vol-4-1911",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-2b669f7856ad09d113e5035297a920ce",
+      "title": "Juleshow på Løvenvold Vol. 4 / 20.11",
+      "description": "<p><strong>Et drømmelag inntar Løvenvold Theater julen 2026! </strong></p><p>Når du ikke trodde juleshow kunne bli bedre, så serverer vi dere tre av Norges alle beste komikere:</p><p>Møt Ørjan Liavåg, Are Kalvø og Marit Voldsæter når de for første gang står på samme scene. Det skjer på Løvenvold Theater! I et show skrevet for oss og til vårt publikum.</p><p>Juleshow på Løvenvold Vol 4 byr på alt dette! Det blir garantert latter, følelse av høytid og morsomme overraskelser. Det blir mye jul, det blir litt alvor, det blir definitivt sang og musikk. Med en trio som behersker alt, fra revy til dans - her kan jo alt skje! Are, Ørjan og Marit har alle et stort repertoar av sketsjer, parodier og karakterer, dette blir tidenes show! Når tre av våre aller beste komikere som bare gleder seg til å dele scenen med akkurat hverandre, er kjemien til å ta og føle på.</p><p>Og som ikke tre julestjerner var nok: På piano og vokal får du Elise Nærø, en av landets aller beste stemmer, som vil løfte taket og inviterer til allsang.</p><p><strong>MARIT VOLDSÆTER</strong> fra Bergen en av landets mest populære scenekomikere, med flere gigantsuksesser både som soloartist og som en del av Kvinner på randen i et tiår. Hennes siste show «Hei, jeg heter Marit» spilte for utsolgte hus i hjembyen Bergen hele 2024. Marit har mottatt flere Komipriser og fikk Leif Juster sin ærespris i 2025. Marit har et stort og variert repertoar av sketsjer, parodier, sang og mimikk, og tar med hele bagasjen til Ålesund.</p><p><strong>ARE KALVØ</strong> er en av våre fremste komikere, og i over tretti år har han briljert enten det er med humør, som satiriker, forfatter eller programleder. Are skriver musikaler, teater og satire, og gjør standup. Hans siste suksesser «Berre bønder lengar heim» og «Hyttebok frå helvete», toppet alle salgslister. Han har fått flere priser, noen av de er fortjent. Are Kalvø er født og oppvokst på Stranda, og spilte for utsolgte hus på Løvenvold sitt aller første juleshow i 2023.</p><p><strong>ØRJAN LIAVÅG</strong> er en av våre største komikere fra Ålesund, og en levende legende som karakteren «Leif-Per» i humorduoen Hildegunn og Leif-Per. Ørjan er også en fremragende gitarist og leverer musikalske innslag som veksler mellom humor og alvor. Han har samarbeidet med alle i norsk humor-bransje, og det skjønner vi godt: Alle elsker Ørjan!</p><p>Årets musiker er <strong>Elise Nærø </strong>fra Fosnavåg. Elise Nærø er en erfaren sceneartist og pianist med en egen evne til å skape musikalsk magi.</p><p>Regi er ved <strong>Karina Aase.</strong></p>",
+      "start_at": "2026-11-20T17:30:00",
+      "end_at": "2026-11-20T20:00:00",
+      "is_free": true,
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "latitude": 62.4730488,
+      "longitude": 6.1582367,
+      "organizer": "Løvenvold Theater",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_aa3adf2170a6a240b16a239032822ac3.webp?class=w768",
+      "url": "https://tikkio.com/events/62682-juleshow-pa-lovenvold-vol-4-1911",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-a1f21165b450e69ab773dd5c2dde2333",
+      "title": "Ekstrashow! Juleshow på Løvenvold Vol. 4 / 20.11",
+      "description": "<p><em>Billettsalget starter torsdag 30. april, klokken 12:00!</em></p><p><strong>Et drømmelag inntar Løvenvold Theater julen 2026! </strong></p><p>Når du ikke trodde juleshow kunne bli bedre, så serverer vi dere tre av Norges alle beste komikere:</p><p>Møt Ørjan Liavåg, Are Kalvø og Marit Voldsæter når de for første gang står på samme scene. Det skjer på Løvenvold Theater! I et show skrevet for oss og til vårt publikum.</p><p>Juleshow på Løvenvold Vol 4 byr på alt dette! Det blir garantert latter, følelse av høytid og morsomme overraskelser. Det blir mye jul, det blir litt alvor, det blir definitivt sang og musikk. Med en trio som behersker alt, fra revy til dans - her kan jo alt skje! Are, Ørjan og Marit har alle et stort repertoar av sketsjer, parodier og karakterer, dette blir tidenes show! Når tre av våre aller beste komikere som bare gleder seg til å dele scenen med akkurat hverandre, er kjemien til å ta og føle på.</p><p>Og som ikke tre julestjerner var nok: På piano og vokal får du Elise Nærø, en av landets aller beste stemmer, som vil løfte taket og inviterer til allsang.</p><p><strong>MARIT VOLDSÆTER</strong> fra Bergen en av landets mest populære scenekomikere, med flere gigantsuksesser både som soloartist og som en del av Kvinner på randen i et tiår. Hennes siste show «Hei, jeg heter Marit» spilte for utsolgte hus i hjembyen Bergen hele 2024. Marit har mottatt flere Komipriser og fikk Leif Juster sin ærespris i 2025. Marit har et stort og variert repertoar av sketsjer, parodier, sang og mimikk, og tar med hele bagasjen til Ålesund.</p><p><strong>ARE KALVØ</strong> er en av våre fremste komikere, og i over tretti år har han briljert enten det er med humør, som satiriker, forfatter eller programleder. Are skriver musikaler, teater og satire, og gjør standup. Hans siste suksesser «Berre bønder lengar heim» og «Hyttebok frå helvete», toppet alle salgslister. Han har fått flere priser, noen av de er fortjent. Are Kalvø er født og oppvokst på Stranda, og spilte for utsolgte hus på Løvenvold sitt aller første juleshow i 2023.</p><p><strong>ØRJAN LIAVÅG</strong> er en av våre største komikere fra Ålesund, og en levende legende som karakteren «Leif-Per» i humorduoen Hildegunn og Leif-Per. Ørjan er også en fremragende gitarist og leverer musikalske innslag som veksler mellom humor og alvor. Han har samarbeidet med alle i norsk humor-bransje, og det skjønner vi godt: Alle elsker Ørjan!</p><p>Årets musiker er <strong>Elise Nærø </strong>fra Fosnavåg. Elise Nærø er en erfaren sceneartist og pianist med en egen evne til å skape musikalsk magi.</p><p>Regi er ved <strong>Karina Aase.</strong></p>",
+      "start_at": "2026-11-20T20:00:00",
+      "end_at": "2026-11-20T23:00:00",
+      "is_free": true,
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "latitude": 62.4730488,
+      "longitude": 6.1582367,
+      "organizer": "Løvenvold Theater",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_a7c47b56047969d353d6ea44049b6449.webp?class=w768",
+      "url": "https://tikkio.com/events/62697-ekstrashow-juleshow-pa-lovenvold-vol-4-2011",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -7052,58 +7072,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-32363-2026-05-20",
-      "title": "Mental Helse Skodje og Ørskog",
-      "start_at": "2026-05-20T17:00:00",
-      "end_at": "2026-05-20T20:30:00",
-      "location_name": "Sommerfuglen Aktivitet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/mental-helse-skodje-og-orskog/?occurrence=2026-05-20",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-29533-2026-05-20",
-      "title": "Brosundet etter seks",
-      "start_at": "2026-05-20T18:00:00",
-      "end_at": "2026-05-20T20:00:00",
-      "location_name": "Hotel Brosundet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/brosundet-etter-seks-5/?occurrence=2026-05-20",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-31072-2026-05-20",
-      "title": "DNT Junior Ålesund (11-14år)",
-      "start_at": "2026-05-20T18:00:00",
-      "end_at": "2026-05-20T20:00:00",
-      "location_name": "Nørvasundet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/dnt-junior-alesund-11-14ar/?occurrence=2026-05-20",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32931-2026-05-20",
-      "title": "Riesling verden rundt!",
-      "start_at": "2026-05-20T18:00:00",
-      "end_at": "2026-05-20T20:00:00",
-      "location_name": "Vino Bar",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/riesling-verden-rundt/?occurrence=2026-05-20",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-34353-2026-05-20",
       "title": "Eliteserien 2026: Aalesund – Brann",
       "start_at": "2026-05-20T20:00:00",
@@ -8739,253 +8707,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6430c38f-fc06-48dd-9743-0c8096e671fb",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-20T14:15:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-bf993288-fa7f-4253-b518-4b957c01c320",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-05-20T14:50:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "isense",
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7c3a2d5e-2bf2-4536-bba2-fdf2644f4391",
-      "title": "Krølle Bølle",
-      "start_at": "2026-05-20T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/4c1dae47c47e41b69fad82830bfd5270.jpg?width=1440&version=C73F28473228923778DD7CF0C96740BA",
-      "url": "https://www.odeonkino.no/film/krolle-bolle/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "familiefilm",
-        "fantasy"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a2c5d4e3-c026-4a67-8133-0570e9f69fe8",
-      "title": "GOAT - Drøm stort",
-      "start_at": "2026-05-20T15:10:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
-      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-52a98dac-0296-4165-bc11-86d90790acc7",
-      "title": "Kraken",
-      "description": "Mystiske fenomener i Sognefjorden tvinger Johanne til å avsløre en skjult trussel fra dypet – før det er for sent.",
-      "start_at": "2026-05-20T16:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/72697debbcf048099f752ae62c34eee3.jpg?width=1440&version=B46A8070F5424F6EBBD17C5F17038521",
-      "url": "https://www.odeonkino.no/film/kraken/",
-      "tags": [
-        "action",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-baaa6cfa-95bc-4bc4-b2f0-d96287fb8af3",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-05-20T16:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-723bb073-a478-4103-81a5-e6b17c85d93b",
-      "title": "Michael",
-      "start_at": "2026-05-20T17:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-da00619d-35f2-450a-bfbe-7698d348489d",
-      "title": "Project Hail Mary",
-      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
-      "start_at": "2026-05-20T17:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
-      "url": "https://www.odeonkino.no/film/project-hail-mary/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-877a6bfe-f272-4738-bb7b-e9e4fc170cc5",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-20T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-9c35a6d9-5aed-4b3d-87f4-99f024faeae9",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-05-20T17:45:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "isense",
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ef0c6e5a-5734-4f6b-ad42-22291ea5c1ab",
-      "title": "Billie Eilish - Hit Me Hard and Soft: The Tour",
-      "description": "James Cameron og Billie Eilish står bak en unik konsertopplevelse satt til det store lerretet - nemlig hennes turné Hit Me Hard and Soft i 3D.",
-      "start_at": "2026-05-20T18:15:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/41c7a294d48349b9a83978b99a29e012.jpg?width=1440&version=72A75115F338DFE948750EDF16B9C024",
-      "url": "https://www.odeonkino.no/film/billie-eilish-hit-me-hard-and-soft-the-tour/",
-      "tags": [
-        "musikkfilm",
-        "konsert"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a302ea00-60e9-4029-9b69-e8367b7336a7",
-      "title": "In the Grey",
-      "description": "Guy Ritchie er tilbake.",
-      "start_at": "2026-05-20T18:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f981fcc6763a483b816bec94632fe9b3.jpg?width=1440&version=48B2F68948F2205022F0841A7B1CF124",
-      "url": "https://www.odeonkino.no/film/in-the-grey/",
-      "tags": [
-        "luxe",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-deccfe82-9972-4913-b981-c267f2796c91",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-05-20T19:45:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
