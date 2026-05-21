@@ -1,225 +1,8 @@
 {
-  "generated_at": "2026-05-21T07:28:06.302885+00:00",
-  "total": 666,
+  "generated_at": "2026-05-21T13:18:09.770614+00:00",
+  "total": 656,
   "failed_sources": [],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-28b10f66-dbb2-4b34-9f50-238530aa24d5",
-      "title": "Vil du hjelpe personer berørt av kreft?",
-      "start_at": "2026-05-21T08:00:00",
-      "end_at": "2027-12-30T21:00:00",
-      "is_free": true,
-      "location_name": "Kreftforeningen",
-      "city": "Ålesund",
-      "organizer": "Kreftforeningen",
-      "image_url": "https://ucarecdn.com/00920590-3bfb-40c1-b480-5d52aad6da65/-/crop/1181x322/0,103/-/preview/",
-      "url": "https://alesund.friskus.com/events/28b10f66-dbb2-4b34-9f50-238530aa24d5",
-      "tags": [],
-      "age_groups": [
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-05-21T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-9df6482a-c133-4c20-9b2b-854f8fd43ee0",
-      "title": "En dag i Åpen barnehage",
-      "start_at": "2026-05-21T09:00:00",
-      "end_at": "2026-06-30T15:00:00",
-      "is_free": true,
-      "location_name": "Åpen barnehage",
-      "city": "Ålesund",
-      "organizer": "Åpen barnehage",
-      "image_url": "https://ucarecdn.com/4bd05e03-f99d-496e-ab68-afa955c0036f/-/crop/1200x327/0,349/-/preview/",
-      "url": "https://alesund.friskus.com/events/9df6482a-c133-4c20-9b2b-854f8fd43ee0",
-      "tags": [],
-      "age_groups": [
-        "children"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-243dd4df-516a-4877-bf4a-32085f125533",
-      "title": "Innføringskurs for nye frivillige medarbeidere",
-      "start_at": "2026-05-21T10:00:00",
-      "end_at": "2026-06-30T13:00:00",
-      "is_free": true,
-      "location_name": "Kirkens SOS",
-      "city": "Ålesund",
-      "organizer": "Kirkens SOS",
-      "image_url": "https://ucarecdn.com/c3a5c986-698d-4ef9-b6b0-fce6e31ed5d7/-/crop/2460x671/0,205/-/preview/",
-      "url": "https://alesund.friskus.com/events/243dd4df-516a-4877-bf4a-32085f125533",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-9f4f7c7d-0c81-43dd-9e54-6d6a313deb1d",
-      "title": "Bridge på Frivilligsentralen",
-      "start_at": "2026-05-21T10:30:00",
-      "end_at": "2026-06-18T13:00:00",
-      "is_free": true,
-      "location_name": "Ålesund frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Ålesund frivilligsentral",
-      "image_url": "https://ucarecdn.com/3969bbaa-da9e-4c85-8893-294a021bf36a/-/crop/526x143/0,71/-/preview/",
-      "url": "https://alesund.friskus.com/events/9f4f7c7d-0c81-43dd-9e54-6d6a313deb1d",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-297c87c1-d08e-4eb2-84e6-523745633a85",
-      "title": "GÅ MED OSS - PÅ HARØY",
-      "start_at": "2026-05-21T11:00:00",
-      "end_at": "2026-06-25T12:00:00",
-      "is_free": true,
-      "location_name": "Harøy Helselag. Nasjonalforeningen for folkehelsen.",
-      "city": "Ålesund",
-      "organizer": "Harøy Helselag. Nasjonalforeningen for folkehelsen.",
-      "image_url": "https://ucarecdn.com/ad062c5b-6899-494c-95a7-646802581ed5/-/crop/480x405/0,144/-/preview/-/resize/x300/-/scale_crop/1100x300/smart/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/297c87c1-d08e-4eb2-84e6-523745633a85",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-32b52f93-20c5-4124-a16a-b5179d042c26",
-      "title": "Les Vegas, baby!",
-      "start_at": "2026-05-21T11:00:00",
-      "end_at": "2026-06-11T12:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "organizer": "Ålesund bibliotek",
-      "image_url": "https://ucarecdn.com/23123a0d-c6f6-457e-84c0-b646f13ad6db/-/crop/1920x523/0,137/-/preview/-/scale_crop/1100x300/smart/",
-      "url": "https://alesund.friskus.com/events/32b52f93-20c5-4124-a16a-b5179d042c26",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "family"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-98db1e98-dfd0-4753-89e6-abbb19f14900",
-      "title": "Ålesund seniorkor",
-      "start_at": "2026-05-21T11:00:00",
-      "end_at": "2026-06-18T12:30:00",
-      "is_free": false,
-      "location_name": "Klipra seniorsenter",
-      "city": "Ålesund",
-      "organizer": "Klipra seniorsenter",
-      "image_url": "https://ucarecdn.com/25da3466-3886-46b7-82e9-20e3005b2ba3/-/crop/2016x550/0,481/-/preview/",
-      "url": "https://alesund.friskus.com/events/98db1e98-dfd0-4753-89e6-abbb19f14900",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-6801a7dd-6e1a-4a2a-a768-06fa17a4cd8c",
-      "title": "Fole kjekt å vere sosial og digital - datakafé i Moa bibliotek",
-      "start_at": "2026-05-21T12:00:00",
-      "end_at": "2026-05-21T14:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "organizer": "Ålesund bibliotek",
-      "image_url": "https://ucarecdn.com/8188c30f-199e-4a9c-abdd-1d8b4dd513fe/-/crop/1920x523/0,134/-/preview/",
-      "url": "https://alesund.friskus.com/events/6801a7dd-6e1a-4a2a-a768-06fa17a4cd8c",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-a28eb8b7-da9c-464c-a838-a7a352e88326",
-      "title": "Naturmøteplassen ved Gomerløa",
-      "start_at": "2026-05-21T12:00:00",
-      "end_at": "2027-09-16T14:00:00",
-      "is_free": true,
-      "location_name": "Skodje frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Skodje frivilligsentral",
-      "image_url": "https://ucarecdn.com/8830820c-b542-4a52-85bc-07d2d1c201c9/-/crop/640x174/0,38/-/preview/",
-      "url": "https://alesund.friskus.com/events/a28eb8b7-da9c-464c-a838-a7a352e88326",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-05-21T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
@@ -430,24 +213,6 @@
       "age_groups": [
         "family",
         "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-006c7c00-d4f5-46fe-9f75-5dae47136a14",
-      "title": "Fredagstrim",
-      "start_at": "2026-05-22T10:30:00",
-      "end_at": "2026-06-26T11:00:00",
-      "is_free": false,
-      "location_name": "Spjelkavik seniorsenter",
-      "city": "Ålesund",
-      "organizer": "Spjelkavik seniorsenter",
-      "image_url": "https://ucarecdn.com/463810e7-d870-4c7f-a565-dd0d242edc8a/-/crop/589x160/0,44/-/preview/",
-      "url": "https://alesund.friskus.com/events/006c7c00-d4f5-46fe-9f75-5dae47136a14",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
       ],
       "is_recurring": true
     },
@@ -787,6 +552,26 @@
       "url": "https://alesund.friskus.com/events/b7d9b698-a137-4254-9725-9f408cba62b6",
       "tags": [],
       "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-243dd4df-516a-4877-bf4a-32085f125533",
+      "title": "Innføringskurs for nye frivillige medarbeidere",
+      "start_at": "2026-05-26T10:00:00",
+      "end_at": "2026-06-30T13:00:00",
+      "is_free": true,
+      "location_name": "Kirkens SOS",
+      "city": "Ålesund",
+      "organizer": "Kirkens SOS",
+      "image_url": "https://ucarecdn.com/c3a5c986-698d-4ef9-b6b0-fce6e31ed5d7/-/crop/2460x671/0,205/-/preview/",
+      "url": "https://alesund.friskus.com/events/243dd4df-516a-4877-bf4a-32085f125533",
+      "tags": [],
+      "age_groups": [
+        "teenager",
         "senior",
         "pensioner"
       ],
@@ -1279,6 +1064,105 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-9f4f7c7d-0c81-43dd-9e54-6d6a313deb1d",
+      "title": "Bridge på Frivilligsentralen",
+      "start_at": "2026-05-28T10:30:00",
+      "end_at": "2026-06-18T13:00:00",
+      "is_free": true,
+      "location_name": "Ålesund frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Ålesund frivilligsentral",
+      "image_url": "https://ucarecdn.com/3969bbaa-da9e-4c85-8893-294a021bf36a/-/crop/526x143/0,71/-/preview/",
+      "url": "https://alesund.friskus.com/events/9f4f7c7d-0c81-43dd-9e54-6d6a313deb1d",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-297c87c1-d08e-4eb2-84e6-523745633a85",
+      "title": "GÅ MED OSS - PÅ HARØY",
+      "start_at": "2026-05-28T11:00:00",
+      "end_at": "2026-06-25T12:00:00",
+      "is_free": true,
+      "location_name": "Harøy Helselag. Nasjonalforeningen for folkehelsen.",
+      "city": "Ålesund",
+      "organizer": "Harøy Helselag. Nasjonalforeningen for folkehelsen.",
+      "image_url": "https://ucarecdn.com/ad062c5b-6899-494c-95a7-646802581ed5/-/crop/480x405/0,144/-/preview/-/resize/x300/-/scale_crop/1100x300/smart/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/297c87c1-d08e-4eb2-84e6-523745633a85",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-32b52f93-20c5-4124-a16a-b5179d042c26",
+      "title": "Les Vegas, baby!",
+      "start_at": "2026-05-28T11:00:00",
+      "end_at": "2026-06-11T12:00:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
+      "city": "Ålesund",
+      "organizer": "Ålesund bibliotek",
+      "image_url": "https://ucarecdn.com/23123a0d-c6f6-457e-84c0-b646f13ad6db/-/crop/1920x523/0,137/-/preview/-/scale_crop/1100x300/smart/",
+      "url": "https://alesund.friskus.com/events/32b52f93-20c5-4124-a16a-b5179d042c26",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-98db1e98-dfd0-4753-89e6-abbb19f14900",
+      "title": "Ålesund seniorkor",
+      "start_at": "2026-05-28T11:00:00",
+      "end_at": "2026-06-18T12:30:00",
+      "is_free": false,
+      "location_name": "Klipra seniorsenter",
+      "city": "Ålesund",
+      "organizer": "Klipra seniorsenter",
+      "image_url": "https://ucarecdn.com/25da3466-3886-46b7-82e9-20e3005b2ba3/-/crop/2016x550/0,481/-/preview/",
+      "url": "https://alesund.friskus.com/events/98db1e98-dfd0-4753-89e6-abbb19f14900",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-a28eb8b7-da9c-464c-a838-a7a352e88326",
+      "title": "Naturmøteplassen ved Gomerløa",
+      "start_at": "2026-05-28T12:00:00",
+      "end_at": "2027-09-16T14:00:00",
+      "is_free": true,
+      "location_name": "Skodje frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Skodje frivilligsentral",
+      "image_url": "https://ucarecdn.com/8830820c-b542-4a52-85bc-07d2d1c201c9/-/crop/640x174/0,38/-/preview/",
+      "url": "https://alesund.friskus.com/events/a28eb8b7-da9c-464c-a838-a7a352e88326",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-a91ad9d8-e768-4556-9cfa-8a7a756e5537",
       "title": "innafor-utafor: En møteplass for alle som vil styrke inkludering og deltakelse i samfunnet vårt",
       "start_at": "2026-05-28T17:00:00",
@@ -1743,6 +1627,26 @@
       "organizer": "Jazzsirkelen 04",
       "image_url": "https://ucarecdn.com/148d946d-de4f-497e-9ff0-49737cbfa9ec/-/crop/1416x741/0,0/-/preview/",
       "url": "https://alesund.friskus.com/events/853964ed-111a-45ee-bbe8-53d22f0626ee",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-d51b62dc-2927-44a5-a26d-4d249854a6cb",
+      "title": "Verdas miljødag 2026",
+      "start_at": "2026-06-05T13:00:00",
+      "end_at": "2026-06-05T14:00:00",
+      "is_free": true,
+      "location_name": "Moa Bibliotek",
+      "city": "Ålesund",
+      "organizer": "Moa Bibliotek",
+      "image_url": "https://ucarecdn.com/10d45ec4-2928-4d6b-a78e-8e75e540c270/-/crop/1099x300/0,0/-/preview/",
+      "url": "https://alesund.friskus.com/events/d51b62dc-2927-44a5-a26d-4d249854a6cb",
       "tags": [],
       "age_groups": [
         "teenager",
@@ -3508,7 +3412,7 @@
       "source": "friskus",
       "source_id": "friskus-cb765ce4-6205-4627-95c9-32f0215b1e2c",
       "title": "Formiddagstreff",
-      "start_at": "2026-05-21T11:00:00",
+      "start_at": "2026-05-26T11:00:00",
       "end_at": "2026-12-31T14:00:00",
       "is_free": false,
       "location_name": "Vigra Aktivitets og Frivillighetssentral VAF",
@@ -3516,28 +3420,6 @@
       "organizer": "Vigra Aktivitets og Frivillighetssentral VAF",
       "image_url": "https://ucarecdn.com/1a2a6ea2-a5a0-4192-a3a5-7df8680151dc/-/scale_crop/1100x300/smart/-/resize/x300/-/setfill/6E37CB/-/crop/1100x300/center/",
       "url": "https://alesund.friskus.com/events/cb765ce4-6205-4627-95c9-32f0215b1e2c",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-4099e8e2-02df-4c0a-880e-02130c8fd1c7",
-      "title": "Biblioteket er ope i dag!",
-      "start_at": "2026-05-21T13:00:00",
-      "end_at": "2026-06-19T15:30:00",
-      "is_free": true,
-      "location_name": "Giske folkebibliotek",
-      "city": "Ålesund",
-      "organizer": "Giske folkebibliotek",
-      "image_url": "https://ucarecdn.com/291cb93f-fd25-460e-a4da-21b6d9547361/-/crop/1200x328/0,170/-/preview/",
-      "url": "https://alesund.friskus.com/events/4099e8e2-02df-4c0a-880e-02130c8fd1c7",
       "tags": [],
       "age_groups": [
         "children",
@@ -4412,6 +4294,26 @@
       "organizer": "TERMINALEN BYSCENE AS",
       "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_fe5f5235d5ef5a7c5d62b0bfe362e822.jpg?class=w768",
       "url": "https://tikkio.com/events/57294-warriors-of-steel-festival",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-894523a1fa7516709f3be29073bfb2e6",
+      "title": "Country Afterparty med Diddi Velle // Terminalen",
+      "description": "<p>Velkommen til Country Afterparty med Diddi Velle!</p><p>Når lysene slukkes på Sparebanken Møre Arena, fortsetter festen på Terminalen Byscene! Stikkord for kvelden er Nashville-stemning, boots på dansegulvet og countryhits langt utover natta.</p><p>Diddi Velle er et norsk countryfenomen og regnes som en av landets sterkeste vokalister. Etter å ha gått viralt med millioner av visninger spilte hun nylig inn debutalbumet sitt i Nashville sammen med et stjernelag av musikere og produsenter, og signerte med bookingbyrået Live Nation-tilknyttede TimeOut. Med kjærlighet for den tradisjonelle countrylyden er Diddi med på å forme neste æra av autentisk countrymusikk.</p>",
+      "start_at": "2026-06-11T22:00:00",
+      "end_at": "2026-06-12T01:00:00",
+      "is_free": false,
+      "price_text": "NOK 300.00",
+      "location_name": "Terminalen",
+      "city": "Ålesund",
+      "latitude": 62.4702872,
+      "longitude": 6.1533313,
+      "organizer": "TERMINALEN BYSCENE AS",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_f85abd30ec7f0c5be201ad08320b2a0b.webp?class=w768",
+      "url": "https://tikkio.com/events/64200-country-afterparty-med-diddi-velle-terminalen",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -5546,7 +5448,7 @@
       "source": "tikkio",
       "source_id": "tikkio-fef6b5ae448979bb8a14a7637b5551af",
       "title": "Sytalaust 2026",
-      "description": "<p>Ein helt ny festival på Stranda, Sunnmøre. To dagar fylt med musikk, gode folk, mat og festivalstemning omgitt av fjord og fjell.</p><p></p><p>FREDAG<br>Halva Priset<br>Madeléne<br>Angelica<br>El Papi<br>Ogras</p><p></p><p>LØRDAG<br>MARTi<br>Simon Brune Band<br>Kalvedans<br>Marci<br>Staut<br>Knekt<br>May<br>Carina Dahl<br>Luxus Leverpostei</p><p></p><p>Aldersgrense: 18 år</p><p></p><p>OBS! Det blir tatt bilder og video på området.</p><p></p><p>Programendringer kan forekomme. Kansellering av artist/band og følgende programendringer vil ikke medføre rett til refusjon av billett. Refusjon gis kun ved avlysning av hele arrangementet. Billettavgiften blir ikke refundert ved avlysning.</p>",
+      "description": "<p>Ein helt ny festival på Stranda, Sunnmøre. To dagar fylt med musikk, gode folk, mat og festivalstemning omgitt av fjord og fjell.</p><p></p><p>FREDAG<br>Halva Priset<br>Madeléne<br>Angelica<br>El Papi<br>Ogras</p><p></p><p>LØRDAG<br>MARTi<br>Simon Brune Band<br>Kalvedans<br>Axel Wold Lamborg<br>Staut<br>Knekt<br>May<br>Carina Dahl<br>Luxus Leverpostei</p><p></p><p>Aldersgrense: 18 år</p><p></p><p>OBS! Det blir tatt bilder og video på området.</p><p></p><p>Programendringer kan forekomme. Kansellering av artist/band og følgende programendringer vil ikke medføre rett til refusjon av billett. Refusjon gis kun ved avlysning av hele arrangementet. Billettavgiften blir ikke refundert ved avlysning.</p>",
       "start_at": "2026-05-29T17:00:00",
       "end_at": "2026-05-31T02:00:00",
       "is_free": false,
@@ -6960,36 +6862,6 @@
     },
     {
       "source": "bibliotek",
-      "source_id": "bibliotek-33523",
-      "title": "Les Vegas, baby!",
-      "start_at": "2026-05-21T11:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/iedf04949-f74f-485c-b6bd-f1f1ed601462/w300/k86b8563f9e8e/header-alesund_fb.png",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33523&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bibliotek",
-      "source_id": "bibliotek-33259",
-      "title": "Fole kjekt å vere sosial og digital - datakafé i Moa bibliotek",
-      "start_at": "2026-05-21T12:00:00",
-      "is_free": true,
-      "location_name": "Moa bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/ice57dbd8-0608-493a-9335-32b9f8929b90/w300/k62f1861be763/fole-kjekt-var-25-infoskjerm-alesund.png",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33259&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bibliotek",
       "source_id": "bibliotek-33405",
       "title": "Språk- og litteraturkafé",
       "start_at": "2026-05-21T17:30:00",
@@ -7094,56 +6966,34 @@
       "end_at": null
     },
     {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-22059-2026-05-21",
-      "title": "Åpen barnehage",
-      "start_at": "2026-05-21T09:00:00",
-      "end_at": "2026-05-21T15:00:00",
-      "location_name": "Steinbua",
+      "source": "bibliotek",
+      "source_id": "bibliotek-33384",
+      "title": "Strikkekafé på Ålesund bibliotek",
+      "start_at": "2026-05-27T12:00:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-barnehage/?occurrence=2026-05-21",
+      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i7f510fbf-a028-4425-a1ee-aa8cf108e7d3/w300/k93329448176c/strikkekafe.jpg",
+      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33384&lang=1&MId1=18377",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "end_at": null
     },
     {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32362-2026-05-21",
-      "title": "Sommerfuglen Aktivitet",
-      "start_at": "2026-05-21T10:00:00",
-      "end_at": "2026-05-21T15:00:00",
-      "location_name": "Sommerfuglen Aktivitet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerfuglen-aktivitet/?occurrence=2026-05-21",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-05-21",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-05-21T12:00:00",
-      "end_at": "2026-05-21T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-05-21",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30752-2026-05-21",
-      "title": "Fole kjekt – datakafé i Moa bibliotek",
-      "start_at": "2026-05-21T12:00:00",
-      "end_at": "2026-05-21T14:00:00",
+      "source": "bibliotek",
+      "source_id": "bibliotek-33276",
+      "title": "Språkkafe",
+      "start_at": "2026-05-27T17:30:00",
+      "is_free": true,
       "location_name": "Moa bibliotek",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/fole-kjekt-datakafe-i-moa-bibliotek/?occurrence=2026-05-21&time=1779364800",
+      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/ic93c1d69-aa2d-452a-9765-34f0b3254a62/w300/k1f1655c5c163/sprakkafe-facebook-arrangementforside-3.png",
+      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33276&lang=1&MId1=18377",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -8694,133 +8544,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-1fc7deb5-c01d-4be5-a969-730188e06d2d",
-      "title": "Saltstien",
-      "start_at": "2026-05-21T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9d3e239764e6476aad32d2d80e15090c.jpg?width=1440&version=CBDF669C18F838FC4CD756200DA60497",
-      "url": "https://www.odeonkino.no/film/saltstien/",
-      "tags": [
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a964c9c5-a543-4201-9407-b2259153e3dd",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-05-21T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "isense",
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ad8905aa-dbcd-43b0-9b52-034fb1e87452",
-      "title": "In the Grey",
-      "description": "Guy Ritchie er tilbake.",
-      "start_at": "2026-05-21T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f981fcc6763a483b816bec94632fe9b3.jpg?width=1440&version=48B2F68948F2205022F0841A7B1CF124",
-      "url": "https://www.odeonkino.no/film/in-the-grey/",
-      "tags": [
-        "luxe",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b4bfe99d-606a-4fd5-89dd-41efd183cb0d",
-      "title": "Tidevannet på Amrum",
-      "start_at": "2026-05-21T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/ba5940e851ec49db8edf1b4b01278b1e.jpg?width=1440&version=2F5D7B1F9E3188C1CB833502E85FEA2D",
-      "url": "https://www.odeonkino.no/film/tidevannet-pa-amrum/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f30c8b72-a4ae-4d63-94a9-345f634f9c75",
-      "title": "In the Grey",
-      "description": "Guy Ritchie er tilbake.",
-      "start_at": "2026-05-21T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f981fcc6763a483b816bec94632fe9b3.jpg?width=1440&version=48B2F68948F2205022F0841A7B1CF124",
-      "url": "https://www.odeonkino.no/film/in-the-grey/",
-      "tags": [
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-83cda4ba-ff4b-4b2b-9635-d18ad3451500",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-05-21T13:15:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7cbf5f4e-64ba-4c03-a7e3-aeb8f872a514",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-21T14:15:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-dd15f37a-bfb2-4370-99c8-4e8c51d625ce",
       "title": "Sauedetektivene",
       "start_at": "2026-05-21T14:30:00",
@@ -9503,6 +9226,25 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-c7430a82-f572-4332-a46b-dc169559611b",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-05-23T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-cca39355-e222-4b70-ace8-393666289f07",
       "title": "GOAT - Drøm stort",
       "start_at": "2026-05-23T11:00:00",
@@ -9561,26 +9303,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-69945d24-7eb2-4fbf-b7ba-5c2dbd1a24c2",
-      "title": "Mortal Kombat II",
-      "start_at": "2026-05-23T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/23d3d1a5771a462a8fb6ad80b0548ce5.jpg?width=1440&version=531D69784AC31E9A355A5ED26A57723F",
-      "url": "https://www.odeonkino.no/film/mortal-kombat-ii/",
-      "tags": [
-        "luxe",
-        "spenning",
-        "fantasy",
-        "eventyr",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-bc407667-0a59-4185-bd3b-968f76688632",
       "title": "Super Mario Galaxy Filmen",
       "start_at": "2026-05-23T12:30:00",
@@ -9599,14 +9321,35 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-187dc4db-1a93-4472-90b2-c326e1f65df7",
-      "title": "Sauedetektivene",
-      "start_at": "2026-05-23T13:15:00",
+      "source_id": "odeon-8c61c08d-0e27-4ed9-8586-03eed7ff3d54",
+      "title": "Bamse og havets hemmelighet",
+      "start_at": "2026-05-23T12:50:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
+      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "barnefilm",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4e6f64ee-e3b3-42d0-a6fe-31862f1de67b",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-05-23T13:30:00",
       "location_name": "ODEON Ålesund – Sal 3",
       "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/74f86cdf03fc453b971f9c0043bdb84f.jpg?width=1440&version=06072C6BE247FAADBC66ABD1BF1EC21B",
-      "url": "https://www.odeonkino.no/film/sauedetektivene/",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
       "tags": [
+        "animasjon",
+        "eventyr",
         "komedie",
         "familiefilm"
       ],
@@ -9616,18 +9359,18 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-32057fbe-d78c-4dfb-8dcc-c1000fb4ea8e",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-23T13:30:00",
+      "source_id": "odeon-38ddc7c8-effa-4a35-bc56-88a4c420c2a8",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-05-23T13:45:00",
       "location_name": "ODEON Ålesund – Sal 5 LUXE",
       "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
       "tags": [
         "luxe",
-        "komedie",
-        "drama"
+        "eventyr",
+        "familiefilm",
+        "animasjon"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -9647,6 +9390,24 @@
         "biografi",
         "drama",
         "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f619deab-176d-4221-9134-2b1ad81e5dec",
+      "title": "Sauedetektivene",
+      "start_at": "2026-05-23T14:40:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/74f86cdf03fc453b971f9c0043bdb84f.jpg?width=1440&version=06072C6BE247FAADBC66ABD1BF1EC21B",
+      "url": "https://www.odeonkino.no/film/sauedetektivene/",
+      "tags": [
+        "luxe",
+        "komedie",
+        "familiefilm"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -10281,9 +10042,64 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-e15895f5-048c-454d-87c6-19040a89d903",
+      "source_id": "odeon-ae2d9367-15e5-4c21-ab37-e8b5e106dedd",
+      "title": "Bamse og havets hemmelighet",
+      "start_at": "2026-05-25T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
+      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
+      "tags": [
+        "animasjon",
+        "barnefilm",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3c082e91-354a-4d84-854e-25ca6412825f",
+      "title": "Sauedetektivene",
+      "start_at": "2026-05-25T10:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/74f86cdf03fc453b971f9c0043bdb84f.jpg?width=1440&version=06072C6BE247FAADBC66ABD1BF1EC21B",
+      "url": "https://www.odeonkino.no/film/sauedetektivene/",
+      "tags": [
+        "luxe",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4e01c87c-385e-4148-93a3-5fac8cf55fb7",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-05-25T10:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-92a6a7de-7370-4966-8395-0cb5f04c02c2",
       "title": "Krølle Bølle",
-      "start_at": "2026-05-25T12:00:00",
+      "start_at": "2026-05-25T11:45:00",
       "location_name": "ODEON Ålesund – Sal 2 LUXE",
       "city": "Ålesund",
       "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/4c1dae47c47e41b69fad82830bfd5270.jpg?width=1440&version=C73F28473228923778DD7CF0C96740BA",
@@ -10319,26 +10135,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-6af4ef51-8e7d-49bd-b70d-a9bbb8972c80",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-05-25T12:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-9cd9576b-8205-4643-84c6-ba2ffe75f730",
       "title": "Super Mario Galaxy Filmen",
       "start_at": "2026-05-25T12:30:00",
@@ -10357,14 +10153,36 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-641a4e3e-134c-41bb-8418-50f00135f369",
-      "title": "Sauedetektivene",
+      "source_id": "odeon-7e96ea88-3f95-44ee-aac7-444800258f60",
+      "title": "The Mandalorian and Grogu",
+      "start_at": "2026-05-25T12:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
+      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-71d296d7-5426-48fd-9c77-4d2666ca6aae",
+      "title": "GOAT - Drøm stort",
       "start_at": "2026-05-25T13:15:00",
       "location_name": "ODEON Ålesund – Sal 3",
       "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/74f86cdf03fc453b971f9c0043bdb84f.jpg?width=1440&version=06072C6BE247FAADBC66ABD1BF1EC21B",
-      "url": "https://www.odeonkino.no/film/sauedetektivene/",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
       "tags": [
+        "animasjon",
+        "eventyr",
         "komedie",
         "familiefilm"
       ],
@@ -10374,7 +10192,26 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-736b5afd-93b7-4a10-8016-f7ec75a885c4",
+      "source_id": "odeon-8fa5d484-6423-44dd-8aa2-743d69fe5aeb",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-05-25T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-78507480-22bc-41d4-a096-ac632ee6f3f3",
       "title": "Michael",
       "start_at": "2026-05-25T14:00:00",
       "location_name": "ODEON Ålesund – Sal 2 LUXE",
@@ -10431,18 +10268,17 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-3b811981-bd1c-437d-b3bc-bbac0754e128",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-25T15:00:00",
+      "source_id": "odeon-85a63d74-9957-415e-a9ad-cfdd20e87a8d",
+      "title": "Sauedetektivene",
+      "start_at": "2026-05-25T15:35:00",
       "location_name": "ODEON Ålesund – Sal 6 LUXE",
       "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/74f86cdf03fc453b971f9c0043bdb84f.jpg?width=1440&version=06072C6BE247FAADBC66ABD1BF1EC21B",
+      "url": "https://www.odeonkino.no/film/sauedetektivene/",
       "tags": [
         "luxe",
         "komedie",
-        "drama"
+        "familiefilm"
       ],
       "age_groups": [],
       "is_recurring": false,
