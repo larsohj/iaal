@@ -1,26 +1,8 @@
 {
-  "generated_at": "2026-05-20T18:55:47.275756+00:00",
-  "total": 673,
+  "generated_at": "2026-05-21T01:00:27.356568+00:00",
+  "total": 666,
   "failed_sources": [],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-c4ff2a1f-6b78-44a4-9729-a4a3728e6e33",
-      "title": "Bønnemøte hver Onsdag 19:00",
-      "start_at": "2026-05-20T19:00:00",
-      "end_at": "2028-06-28T21:00:00",
-      "is_free": true,
-      "location_name": "Pinsekirka SARON",
-      "city": "Ålesund",
-      "organizer": "Pinsekirka SARON",
-      "image_url": "https://ucarecdn.com/0e615ca0-94fd-486f-bae0-63f4e30f469b/-/crop/2988x818/333,0/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/c4ff2a1f-6b78-44a4-9729-a4a3728e6e33",
-      "tags": [],
-      "age_groups": [
-        "family"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-28b10f66-dbb2-4b34-9f50-238530aa24d5",
@@ -36,6 +18,28 @@
       "tags": [],
       "age_groups": [
         "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-05-21T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
+      "city": "Ålesund",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -1252,6 +1256,24 @@
         "teenager",
         "senior",
         "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-c4ff2a1f-6b78-44a4-9729-a4a3728e6e33",
+      "title": "Bønnemøte hver Onsdag 19:00",
+      "start_at": "2026-05-27T19:00:00",
+      "end_at": "2028-06-28T21:00:00",
+      "is_free": true,
+      "location_name": "Pinsekirka SARON",
+      "city": "Ålesund",
+      "organizer": "Pinsekirka SARON",
+      "image_url": "https://ucarecdn.com/0e615ca0-94fd-486f-bae0-63f4e30f469b/-/crop/2988x818/333,0/-/preview/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/c4ff2a1f-6b78-44a4-9729-a4a3728e6e33",
+      "tags": [],
+      "age_groups": [
+        "family"
       ],
       "is_recurring": true
     },
@@ -3293,6 +3315,24 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-4f1fbd1e-7b81-4808-8dee-95816d182bef",
+      "title": "Donken-ungdomsklubb onsdag",
+      "start_at": "2026-05-27T14:30:00",
+      "end_at": "2026-05-27T21:00:00",
+      "is_free": true,
+      "location_name": "Fritidsklubbane Sula",
+      "city": "Ålesund",
+      "organizer": "Fritidsklubbane Sula",
+      "image_url": "https://ucarecdn.com/169c501c-eb04-403d-accd-21bf9c66e485/-/crop/1440x870/0,95/-/preview/",
+      "url": "https://alesund.friskus.com/events/4f1fbd1e-7b81-4808-8dee-95816d182bef",
+      "tags": [],
+      "age_groups": [
+        "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-15b6413d-ec66-4e71-8d18-dea79f2ca299",
       "title": "Gåtur - Mausavatnet rundt",
       "start_at": "2026-06-01T12:00:00",
@@ -3666,23 +3706,6 @@
       "age_groups": [
         "pensioner"
       ],
-      "is_recurring": false
-    },
-    {
-      "source": "viti",
-      "source_id": "viti-naturkafè-fuglesongtur-til-hovdestoelen-0",
-      "title": "Naturkafè – Fuglesongtur til Hovdestølen",
-      "description": "Bli med fugleentusiasten Kjetil Svenkerud på tur til Hovdestølen ein fin maikveld. ",
-      "start_at": "2026-05-20T19:00:00",
-      "end_at": "2026-05-20T20:30:00",
-      "location_name": "Naturmuseet",
-      "city": "Sykkylven",
-      "image_url": "https://cdn.sanity.io/images/1fl8byel/viti/466c52ab204ecb63e7883c3bf1ec5075a373d8a3-2573x2725.jpg",
-      "url": "https://www.vitimusea.no/arrangement/naturkafè-fuglesongtur-til-hovdestoelen",
-      "tags": [
-        "natur"
-      ],
-      "age_groups": [],
       "is_recurring": false
     },
     {
@@ -5600,7 +5623,7 @@
       "source": "tikkio",
       "source_id": "tikkio-846aee0f3ce2d555365ced3831f7981c",
       "title": "Indiefjord 2026",
-      "description": "Save the dates! Indiefjord 2026!\r\n____\r\n\r\n\r\nBands and DJs announced so far:\r\n\r\nGaffa Tape Sandy (EN)\r\nRoller Derby (DE)\r\nMattias Alkberg (SE)\r\nLande Hekt (EN)\r\nMisty Coast (NO)\r\nVeps (NO)\r\nSoot Sprite (EN)\r\nMarie Løvås (NO)\r\nThe Ethnobabes + Selma (NO)\r\nComic Sans (EN)\r\nJon Olav (NO)\r\nMuttering (EN)\r\nEngla Li (SE)\r\nSelma (NO)\r\nAtta Girl DJs (EN)\r\nEarly Doors Disco x Come Out 2nite DJs (EN)\r\n\r\n____\r\n\r\n\r\nIf you would like to play you can send an application to info@indiefjord.com.\r\n\r\nBig love from Team Indiefjord\r\n\r\n____\r\n\r\n\r\nPhoto from Indiefjord 2024 by Heinz Brossolat",
+      "description": "Save the dates! Indiefjord 2026!\r\n____\r\n\r\n\r\nBands and DJs announced so far:\r\n\r\nGaffa Tape Sandy (EN)\r\nRoller Derby (DE)\r\nLande Hekt (EN)\r\nMisty Coast (NO)\r\nVeps (NO)\r\nSoot Sprite (EN)\r\nMarie Løvås (NO)\r\nThe Ethnobabes + Selma (NO)\r\nComic Sans (EN)\r\nJon Olav (NO)\r\nMuttering (EN)\r\nEngla Li (SE)\r\nSelma (NO)\r\nAtta Girl DJs (EN)\r\nEarly Doors Disco x Come Out 2nite DJs (EN)\r\n\r\n____\r\n\r\n\r\nIf you would like to play you can send an application to info@indiefjord.com.\r\n\r\nBig love from Team Indiefjord\r\n\r\n____\r\n\r\n\r\nPhoto from Indiefjord 2024 by Heinz Brossolat",
       "start_at": "2026-07-11T09:00:00",
       "end_at": "2026-07-13T01:00:00",
       "is_free": false,
@@ -7072,19 +7095,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-34353-2026-05-20",
-      "title": "Eliteserien 2026: Aalesund – Brann",
-      "start_at": "2026-05-20T20:00:00",
-      "end_at": "2026-05-20T22:00:00",
-      "location_name": "Color Line Stadion",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/eliteserien-aalesund-brann/?occurrence=2026-05-20",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-22059-2026-05-21",
       "title": "Åpen barnehage",
       "start_at": "2026-05-21T09:00:00",
@@ -7108,19 +7118,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33749-2026-05-21",
-      "title": "Utstilling med Bjørg Thorhallsdottir",
-      "start_at": "2026-05-21T00:00:00",
-      "location_name": "Alnes Fyr og Opplevelsessenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/utstilling-med-bjorg-thorhallsdottir/?occurrence=2026-05-21",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -7173,19 +7170,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34100-2026-05-21",
-      "title": "Take over på BRYT",
-      "start_at": "2026-05-21T00:00:00",
-      "location_name": "Bryt Tapas",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/take-over-pa-bryt/?occurrence=2026-05-21",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -8707,100 +8691,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ea268fe1-ad15-47d9-9807-d96fc8323ca3",
-      "title": "Michael",
-      "start_at": "2026-05-20T20:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c55b2bf8-82de-4702-9fd7-da2a6e856539",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-05-20T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "isense",
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d1c01829-a514-45c3-a62a-b0a8fe87d801",
-      "title": "Sauedetektivene",
-      "start_at": "2026-05-20T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/74f86cdf03fc453b971f9c0043bdb84f.jpg?width=1440&version=06072C6BE247FAADBC66ABD1BF1EC21B",
-      "url": "https://www.odeonkino.no/film/sauedetektivene/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-28ab6e30-63c7-49a9-af1a-70bb994bad65",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-20T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ea95b547-2838-4042-add5-db543a2902a2",
-      "title": "Mortal Kombat II",
-      "start_at": "2026-05-20T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/23d3d1a5771a462a8fb6ad80b0548ce5.jpg?width=1440&version=531D69784AC31E9A355A5ED26A57723F",
-      "url": "https://www.odeonkino.no/film/mortal-kombat-ii/",
-      "tags": [
-        "spenning",
-        "fantasy",
-        "eventyr",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
@@ -11902,24 +11792,6 @@
     },
     {
       "source": "aafk",
-      "source_id": "aafk-e22e7a15-7654-433a-b65b-3b866b4c048d",
-      "title": "Eliteserien: Aalesund - Brann",
-      "start_at": "2026-05-20T20:00:00",
-      "is_free": false,
-      "price_text": "50 kr",
-      "location_name": "Color Line Stadion",
-      "city": "Ålesund",
-      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1068658/default_file-1778422112.jpeg",
-      "url": "https://aafk.ticketco.events/no/nb/e/eliteserien_aalesund_-_brann",
-      "tags": [
-        "fotball"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "aafk",
       "source_id": "aafk-ef3b85e4-e3cf-460e-ba7b-6af0f0f7cd81",
       "title": "Eliteserien: Aalesund - HamKam",
       "start_at": "2026-05-29T19:00:00",
@@ -11929,6 +11801,24 @@
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1067214/default_file-1777895714.jpeg",
       "url": "https://aafk.ticketco.events/no/nb/e/eliteserien_aalesund_-_hamkam",
+      "tags": [
+        "fotball"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "aafk",
+      "source_id": "aafk-33eae80f-648f-466b-85dd-295ce9e0c86c",
+      "title": "Toppserien: AaFK Kvinner - Brann",
+      "start_at": "2026-05-30T14:00:00",
+      "is_free": false,
+      "price_text": "50 kr",
+      "location_name": "Color Line Stadion",
+      "city": "Ålesund",
+      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1084507/default_file-1779311649.jpeg",
+      "url": "https://aafk.ticketco.events/no/nb/e/toppserien_aafk_kvinner_-_brann",
       "tags": [
         "fotball"
       ],
