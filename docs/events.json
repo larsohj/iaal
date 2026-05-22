@@ -1,67 +1,8 @@
 {
-  "generated_at": "2026-05-22T12:59:41.733104+00:00",
-  "total": 673,
+  "generated_at": "2026-05-22T18:44:31.044450+00:00",
+  "total": 660,
   "failed_sources": [],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-8f25f86f-f187-4c17-a7e1-cbbfdb9cc7f8",
-      "title": "Biblioklubb",
-      "start_at": "2026-05-22T13:30:00",
-      "end_at": "2026-06-05T15:00:00",
-      "is_free": false,
-      "location_name": "Skodje bibliotek",
-      "city": "Ålesund",
-      "organizer": "Skodje bibliotek",
-      "image_url": "https://ucarecdn.com/31da2df3-7f5c-46c8-9fc7-4fe29b1986da/-/crop/1587x432/0,381/-/preview/",
-      "url": "https://alesund.friskus.com/events/8f25f86f-f187-4c17-a7e1-cbbfdb9cc7f8",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-b8275cf1-7469-4d73-9359-9bc1eee83e5e",
-      "title": "MANGA OG ANIME-WORKSHOP I TEIKNING",
-      "start_at": "2026-05-22T14:00:00",
-      "end_at": "2026-05-22T16:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "organizer": "Ålesund bibliotek",
-      "image_url": "https://ucarecdn.com/3cc2728a-5692-4606-b899-a10a1cb2e659/-/crop/2553x697/0,155/-/preview/",
-      "url": "https://alesund.friskus.com/events/b8275cf1-7469-4d73-9359-9bc1eee83e5e",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-ea954ef6-e053-4c28-8aa5-4158c468e2b5",
-      "title": "Kurs i maling (akademisk nivå)",
-      "start_at": "2026-05-22T17:00:00",
-      "end_at": "2026-05-29T19:00:00",
-      "is_free": true,
-      "location_name": "Foreningen for Ukrainsk kreativitet og identitet",
-      "city": "Ålesund",
-      "organizer": "Foreningen for Ukrainsk kreativitet og identitet",
-      "image_url": "https://ucarecdn.com/cba57188-801a-4f30-b9a6-0ad60a1e5d3c/-/crop/1110x845/42,796/-/preview/",
-      "url": "https://alesund.friskus.com/events/ea954ef6-e053-4c28-8aa5-4158c468e2b5",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-1e440d14-48a1-46df-8b34-531996c374c0",
@@ -96,6 +37,28 @@
       "age_groups": [
         "children",
         "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-05-23T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -1130,6 +1093,42 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-1cc6ef60-713e-4b7b-b236-5144d31fe80a",
+      "title": "Aspøy gjenbrukskafè på Ålesund Frivillighetssentral",
+      "start_at": "2026-05-29T11:00:00",
+      "end_at": "2026-06-26T16:00:00",
+      "is_free": true,
+      "location_name": "Ålesund kommune",
+      "city": "Ålesund",
+      "organizer": "Ålesund kommune",
+      "image_url": "https://ucarecdn.com/ff9c6fa5-be16-4733-8bca-e8d95202c016/-/crop/501x136/0,121/-/preview/",
+      "url": "https://alesund.friskus.com/events/1cc6ef60-713e-4b7b-b236-5144d31fe80a",
+      "tags": [],
+      "age_groups": [
+        "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-894ebe6d-ed9d-43c5-8392-85a40fe3d4db",
+      "title": "Gjenbrukskafe søker frivillige på Ålesund Frivilligsentral",
+      "start_at": "2026-05-29T11:00:00",
+      "end_at": "2026-06-19T16:00:00",
+      "is_free": true,
+      "location_name": "Ålesund frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Ålesund frivilligsentral",
+      "image_url": "https://ucarecdn.com/24ef317a-b2e3-4022-87c0-76e8fb6d2238/-/crop/1536x420/0,258/-/preview/",
+      "url": "https://alesund.friskus.com/events/894ebe6d-ed9d-43c5-8392-85a40fe3d4db",
+      "tags": [],
+      "age_groups": [
+        "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-32d3924a-7d96-4b41-b783-e5a18ce764fa",
       "title": "HLF - Likepersonstjeneste",
       "start_at": "2026-05-29T12:00:00",
@@ -1142,6 +1141,26 @@
       "url": "https://alesund.friskus.com/events/32d3924a-7d96-4b41-b783-e5a18ce764fa",
       "tags": [],
       "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-ea954ef6-e053-4c28-8aa5-4158c468e2b5",
+      "title": "Kurs i maling (akademisk nivå)",
+      "start_at": "2026-05-29T17:00:00",
+      "end_at": "2026-05-29T19:00:00",
+      "is_free": true,
+      "location_name": "Foreningen for Ukrainsk kreativitet og identitet",
+      "city": "Ålesund",
+      "organizer": "Foreningen for Ukrainsk kreativitet og identitet",
+      "image_url": "https://ucarecdn.com/cba57188-801a-4f30-b9a6-0ad60a1e5d3c/-/crop/1110x845/42,796/-/preview/",
+      "url": "https://alesund.friskus.com/events/ea954ef6-e053-4c28-8aa5-4158c468e2b5",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "senior",
         "pensioner"
       ],
       "is_recurring": true
@@ -1635,6 +1654,25 @@
         "pensioner"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-8f25f86f-f187-4c17-a7e1-cbbfdb9cc7f8",
+      "title": "Biblioklubb",
+      "start_at": "2026-06-05T13:30:00",
+      "end_at": "2026-06-05T15:00:00",
+      "is_free": false,
+      "location_name": "Skodje bibliotek",
+      "city": "Ålesund",
+      "organizer": "Skodje bibliotek",
+      "image_url": "https://ucarecdn.com/31da2df3-7f5c-46c8-9fc7-4fe29b1986da/-/crop/1587x432/0,381/-/preview/",
+      "url": "https://alesund.friskus.com/events/8f25f86f-f187-4c17-a7e1-cbbfdb9cc7f8",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -2787,29 +2825,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-oaa62rMT_FWUj",
-      "title": "Grunnleggende turlederkurs",
-      "start_at": "2026-09-11T18:00:00",
-      "end_at": "2026-09-13T18:00:00",
-      "is_free": false,
-      "location_name": "DNT Sunnmøre",
-      "city": "Ålesund",
-      "organizer": "DNT Sunnmøre",
-      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_606812",
-      "url": "https://alesund.friskus.com/events/oaa62rMT_FWUj",
-      "tags": [
-        "friluftsliv",
-        "tur"
-      ],
-      "age_groups": [
-        "senior",
-        "pensioner",
-        "teenager"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-7cf3c9b2-1417-429a-9361-91cc1fdfbfac",
       "title": "Kreftforeningens Stafett for livet Ålesund 2026",
       "start_at": "2026-09-12T12:00:00",
@@ -2969,6 +2984,29 @@
       ],
       "age_groups": [
         "senior"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-oaa62rMT_FWUj",
+      "title": "Grunnleggende turlederkurs",
+      "start_at": "2026-09-25T18:00:00",
+      "end_at": "2026-09-27T18:00:00",
+      "is_free": false,
+      "location_name": "DNT Sunnmøre",
+      "city": "Ålesund",
+      "organizer": "DNT Sunnmøre",
+      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_606812",
+      "url": "https://alesund.friskus.com/events/oaa62rMT_FWUj",
+      "tags": [
+        "friluftsliv",
+        "tur"
+      ],
+      "age_groups": [
+        "senior",
+        "pensioner",
+        "teenager"
       ],
       "is_recurring": false
     },
@@ -3424,6 +3462,28 @@
         "pensioner"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-4099e8e2-02df-4c0a-880e-02130c8fd1c7",
+      "title": "Biblioteket er ope i dag!",
+      "start_at": "2026-05-26T10:30:00",
+      "end_at": "2026-06-19T15:30:00",
+      "is_free": true,
+      "location_name": "Giske folkebibliotek",
+      "city": "Ålesund",
+      "organizer": "Giske folkebibliotek",
+      "image_url": "https://ucarecdn.com/291cb93f-fd25-460e-a4da-21b6d9547361/-/crop/1200x328/0,170/-/preview/",
+      "url": "https://alesund.friskus.com/events/4099e8e2-02df-4c0a-880e-02130c8fd1c7",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -5713,7 +5773,8 @@
       "description": "<p>Molde Mundo 2026: Lelee (Slovenia)</p><p>Sted: Fuzzy</p><p>Doors: 18:30</p><p>Showstart: 19:00</p><p>Format: Standing consert</p><p>Molde Mundo 5 år -</p><p>Vi gleder oss til å se Lelee fra Slovenia i kjelleren på Fuzzy fredag 30. oktober i det som er det femte året med Molde Mundo!</p><p>Om bandet:</p><p>Balkansk indierock med post-punk nerve, catchy hooks og tekster som treffer deg rett i magen.</p>",
       "start_at": "2026-10-30T18:30:00",
       "end_at": "2026-10-30T20:30:00",
-      "is_free": true,
+      "is_free": false,
+      "price_text": "NOK 200.00",
       "location_name": "Fuzzy",
       "city": "Ålesund",
       "latitude": 62.7359067,
@@ -5907,7 +5968,8 @@
       "description": "<p><strong>Molde Mundo 2026: BCUC (Sør-Afrika)</strong><br>inkludert i billetten DJ sett med Rizan Said (22:30) - Molde Mundo etterfest</p><p>Sted: Die Tankstelle<br>Doors: 20:30<br>Showstart: 21:00<br>Format: Standing consert</p><p><strong>Molde Mundo 5 år -</strong><br>Vi gleder oss til å se BCUC fra Sør-Afrika sette fyr på dansegulvet på Die Tankstelle fredag 30. oktober i det som er det femte året med Molde Mundo!</p><p><strong>Om bandet:</strong><br>Rå, eksplosiv energi fra Sør-Afrika der punk møter afrikanske rytmer i et hypnotisk liveshow du aldri glemmer</p>",
       "start_at": "2026-10-30T20:30:00",
       "end_at": "2026-10-30T23:00:00",
-      "is_free": true,
+      "is_free": false,
+      "price_text": "NOK 350.00",
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "latitude": 62.7366654,
@@ -5926,7 +5988,8 @@
       "description": "<p>Molde Mundo 2026: <strong>Harsha Jerome</strong> (Sri Lanka og Molde)</p><p><strong>Sted:</strong> Die Tankstelle<br><strong>Doors:</strong> 17:30<br><strong>Showstart:</strong> 18:00<br><strong>Format:</strong> Seated consert . Free seating</p><p><strong>Molde Mundo 5 år -</strong><br>Vi gleder oss til å se Harsha Jerome på Die Tankstelle lørdag 31. oktober i det som er det femte året med Molde Mundo!</p><p><strong>Om:<br></strong>Harsha Jerome vokste opp i Colombo i Sri Lanka og flyttet til Molde som 15-åring.</p><p>Pianist og komponist Harsha Jerome lover å treffe både hjerte og sinn, og vil vise hvordan musikk kan være et kraftfullt verktøy i å bygge broer mellom ulike verdener. Med bakgrunn i den rike folkemusikktradisjonen fra Sri-Lanka, og en dyp forankring i den melodiøse nordiske jazzscenen, har han skapt et musikalsk produkt som samler, utforsker og utvider i begge retninger.</p>",
       "start_at": "2026-10-31T17:30:00",
       "end_at": "2026-10-31T19:00:00",
-      "is_free": true,
+      "is_free": false,
+      "price_text": "NOK 250.00",
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "latitude": 62.7366654,
@@ -5945,7 +6008,8 @@
       "description": "<p><strong>Molde Mundo 2026: Tarrak (Grønland)</strong><br>inkludert i billetten DJ sett med Susobrino (23:30) - Molde Mundo etterfest</p><p><strong>Sted:</strong> Die Tankstelle<br><strong>Doors:</strong> 21:30<br><strong>Showstart:</strong> 22:00<br><strong>Format:</strong> Standing consert</p><p><strong>Molde Mundo 5 år -</strong><br>Vi gleder oss til å se Tarrak fra Grønland riste veggene på Die Tankstelle lørdag 31. oktober i det som er det femte året med Molde Mundo!</p><p><strong>Om:</strong><br>Inuit-rap med tung bass, politisk kraft og arktisk stolthet fra Grønlands mest kompromissløse stemme</p>",
       "start_at": "2026-10-31T21:30:00",
       "end_at": "2026-10-31T23:00:00",
-      "is_free": true,
+      "is_free": false,
+      "price_text": "NOK 250.00",
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "latitude": 62.7366654,
@@ -6144,14 +6208,13 @@
       "source_id": "parken-45554-beharie",
       "title": "Beharie",
       "start_at": "2026-05-29T21:00:00",
-      "end_at": "2026-05-29T22:15:00",
+      "end_at": "2026-05-29T22:00:00",
       "location_name": "Parken kulturhus – Foajeen",
       "city": "Ålesund",
       "organizer": "Ålesund Pride",
       "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F45554%2Fweb-square.webp?version=L3I38lyd8YcGiErWCooSEg==",
       "url": "https://www.parkenkulturhus.no/program/45554-beharie/",
       "tags": [
-        "alesund-pride",
         "populaermusikk"
       ],
       "age_groups": [],
@@ -6994,21 +7057,6 @@
     },
     {
       "source": "bibliotek",
-      "source_id": "bibliotek-33551",
-      "title": "Workshop: Manga og anime",
-      "start_at": "2026-05-22T14:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/iba5164ae-7cdd-41ba-a668-da9fde4702ab/w300/k26393341a4ed/workshop-manga-og-anime-med-marthe-moldskred-fredagar-14-16.jpg",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33551&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bibliotek",
       "source_id": "bibliotek-33469",
       "title": "Bokkino",
       "start_at": "2026-05-26T11:00:00",
@@ -7128,56 +7176,19 @@
       "end_at": null
     },
     {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32315-2026-05-22",
-      "title": "Workshop: Manga og anime",
-      "start_at": "2026-05-22T14:00:00",
-      "end_at": "2026-05-22T17:00:00",
-      "location_name": "Ålesund bibliotek",
+      "source": "bibliotek",
+      "source_id": "bibliotek-33575",
+      "title": "Ålesund Pride: Skeiv quiz og bok-kahoot",
+      "start_at": "2026-05-29T20:30:00",
+      "is_free": true,
+      "location_name": "Dampsentralen",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/workshop-manga-og-anime/?occurrence=2026-05-22&time=1779458400",
+      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/iea12b015-b6ff-4f83-8ea7-c79cd27adbfa/w300/kf69c7587c48d/event.png",
+      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33575&lang=1&MId1=18377",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34192-2026-05-22",
-      "title": "Ett års jubileum Kilden – Åpen dag",
-      "start_at": "2026-05-22T15:00:00",
-      "end_at": "2026-05-22T18:30:00",
-      "location_name": "Kilden",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/ett-ars-jubileum-kilden-apen-dag/?occurrence=2026-05-22",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32516-2026-05-22",
-      "title": "Krystall – Hotel 1904",
-      "start_at": "2026-05-22T17:00:00",
-      "end_at": "2026-05-22T23:55:00",
-      "location_name": "Hotel 1904",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/krystall-hotel-1904-358/?occurrence=2026-05-22",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34267-2026-05-22",
-      "title": "Avgangsutstilling Ytre Kunstfagskole 2026: Refraksjon",
-      "start_at": "2026-05-22T18:00:00",
-      "end_at": "2026-05-22T20:00:00",
-      "location_name": "Khåk Kunsthall",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/avgangsutstilling-ytre-kunstfagskole-2026-refraksjon/?occurrence=2026-05-22",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -8686,231 +8697,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6343627a-bbcd-4f61-a958-a8e0acaf94a8",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-22T14:15:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-58719f25-d0af-40e8-a6a8-37ebfbecf5f4",
-      "title": "Primavera - Vivaldis Venezia",
-      "start_at": "2026-05-22T14:45:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/189ed60d96fb447588c95a1deb185c8d.jpg?width=1440&version=4F370324B547C2CF309944D48D3FD1BD",
-      "url": "https://www.odeonkino.no/film/primavera-vivaldis-venezia/",
-      "tags": [
-        "luxe",
-        "drama",
-        "biografi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-435d49f7-69f5-4ab6-bdce-fdc001e48803",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-05-22T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-eb51f853-45c2-426d-9919-2c3948a89aab",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-05-22T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "isense",
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a8510e8c-57fe-4803-a4bf-07ab799e1492",
-      "title": "Diplodocus og den magiske hokus pokus",
-      "description": "Diplodocus er en nysgjerrige lilten dinosaur. Når hans foreldre forsvinner under mystiske omstendigheter, må han, sammen med en trollmann og to eksentriske vitenskapsmenn, legge ut på en reise gjennom fantastiske steder for å redde dem.",
-      "start_at": "2026-05-22T16:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54a394ec9f8a45faadc72ddd34105976.jpg?width=1440&version=EDBC4E749313B31676A3B8D02BD748BB",
-      "url": "https://www.odeonkino.no/film/diplodocus-og-den-magiske-hokus-pokus/",
-      "tags": [
-        "familiefilm",
-        "eventyr",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-86f024d8-deed-40b1-8d44-17b661de56ab",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-05-22T16:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b4ac7602-6762-4785-b041-53ca26973831",
-      "title": "Michael",
-      "start_at": "2026-05-22T17:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-10d8f432-5b81-4b45-9976-7d2630fef8f1",
-      "title": "Project Hail Mary",
-      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
-      "start_at": "2026-05-22T17:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
-      "url": "https://www.odeonkino.no/film/project-hail-mary/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4ce9301b-9359-42d0-afc9-e32dd2af864a",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-22T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-aac87e83-af37-461d-a974-dacb84f62238",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-05-22T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "isense",
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-faf36556-3149-4e14-a026-c7dec63f2d1a",
-      "title": "Obsession",
-      "start_at": "2026-05-22T18:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
-      "url": "https://www.odeonkino.no/film/obsession/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6dc02eb4-5efe-4d0e-abb4-99c3bfe5a5ba",
-      "title": "In the Grey",
-      "description": "Guy Ritchie er tilbake.",
-      "start_at": "2026-05-22T18:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f981fcc6763a483b816bec94632fe9b3.jpg?width=1440&version=48B2F68948F2205022F0841A7B1CF124",
-      "url": "https://www.odeonkino.no/film/in-the-grey/",
-      "tags": [
-        "luxe",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
