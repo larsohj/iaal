@@ -1,89 +1,8 @@
 {
-  "generated_at": "2026-05-23T07:03:25.705021+00:00",
-  "total": 646,
+  "generated_at": "2026-05-23T12:29:35.424657+00:00",
+  "total": 629,
   "failed_sources": [],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-05-23T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-1e440d14-48a1-46df-8b34-531996c374c0",
-      "title": "Norsk kurs for eldre ukrainere",
-      "start_at": "2026-05-23T10:00:00",
-      "end_at": "2026-05-30T12:00:00",
-      "is_free": true,
-      "location_name": "Foreningen for Ukrainsk kreativitet og identitet",
-      "city": "Ålesund",
-      "organizer": "Foreningen for Ukrainsk kreativitet og identitet",
-      "image_url": "https://ucarecdn.com/a8b29cd9-f743-4f11-a33c-be45bf57390a/-/crop/1536x419/0,815/-/preview/",
-      "url": "https://alesund.friskus.com/events/1e440d14-48a1-46df-8b34-531996c374c0",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-37a4ab2b-ab4f-472b-9a08-3bff8521f613",
-      "title": "AKTIV LØRDAG på Borgund Dyreklubb Mai 2026",
-      "start_at": "2026-05-23T10:00:00",
-      "end_at": "2026-05-23T12:00:00",
-      "is_free": true,
-      "location_name": "Borgund Dyreklubb Frivillig Organisasjon",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb Frivillig Organisasjon",
-      "image_url": "https://ucarecdn.com/ccfd79d8-3668-4c3d-8a17-d44ea0b89f24/-/crop/478x342/0,13/-/preview/",
-      "url": "https://alesund.friskus.com/events/37a4ab2b-ab4f-472b-9a08-3bff8521f613",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-05-23T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-856f0722-e12e-426c-a461-f4e15002ad04",
@@ -1262,6 +1181,24 @@
         "senior"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-1e440d14-48a1-46df-8b34-531996c374c0",
+      "title": "Norsk kurs for eldre ukrainere",
+      "start_at": "2026-05-30T10:00:00",
+      "end_at": "2026-05-30T12:00:00",
+      "is_free": true,
+      "location_name": "Foreningen for Ukrainsk kreativitet og identitet",
+      "city": "Ålesund",
+      "organizer": "Foreningen for Ukrainsk kreativitet og identitet",
+      "image_url": "https://ucarecdn.com/a8b29cd9-f743-4f11-a33c-be45bf57390a/-/crop/1536x419/0,815/-/preview/",
+      "url": "https://alesund.friskus.com/events/1e440d14-48a1-46df-8b34-531996c374c0",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -3091,28 +3028,6 @@
         "pensioner"
       ],
       "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-bf8907e4-df55-4cce-a645-46f42167762d",
-      "title": "GJENBRUKSBUTIKK MAUSEIDVÅG (LØ)",
-      "start_at": "2026-05-23T11:00:00",
-      "end_at": "2026-06-20T15:00:00",
-      "is_free": false,
-      "location_name": "Mauseidvåg Bedehusforening",
-      "city": "Ålesund",
-      "organizer": "Mauseidvåg Bedehusforening",
-      "image_url": "https://ucarecdn.com/08f0be57-a8bb-40c8-bf3b-97e399325f11/-/crop/5312x1447/0,770/-/preview/",
-      "url": "https://alesund.friskus.com/events/bf8907e4-df55-4cce-a645-46f42167762d",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -7201,71 +7116,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-25486-2026-05-23",
-      "title": "Aalesunds Museum",
-      "start_at": "2026-05-23T11:00:00",
-      "end_at": "2026-05-23T15:30:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum/?occurrence=2026-05-23",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-05-23",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-05-23T12:00:00",
-      "end_at": "2026-05-23T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-05-23",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33435-2026-05-23",
-      "title": "Modelljernbaneanlegget Devoldbanen",
-      "start_at": "2026-05-23T12:00:00",
-      "end_at": "2026-05-23T16:00:00",
-      "location_name": "Devoldfabrikken",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/modelljernbaneanlegget-devoldbanen/?occurrence=2026-05-23",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34419-2026-05-23",
-      "title": "Ålesund Pride 2026: Offisiell flaggheising",
-      "start_at": "2026-05-23T12:00:00",
-      "end_at": "2026-05-23T12:30:00",
-      "location_name": "Joachim H. Rønnebergs plass",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/alesund-pride-2026-offisiell-flaggheising/?occurrence=2026-05-23",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34312-2026-05-23",
-      "title": "Food Truck Festival i Ålesund – Street Food Norway Tour 2026",
-      "start_at": "2026-05-23T12:00:00",
-      "end_at": "2026-05-23T20:00:00",
-      "location_name": "St. Olavs plass",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/food-truck-festival-i-alesund-street-food-norway-tour-2026/?occurrence=2026-05-23&time=1779537600",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-34420-2026-05-23",
       "title": "Ålesund Pride 2026: Regnbuekafé",
       "start_at": "2026-05-23T13:00:00",
@@ -8602,158 +8452,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-aae27e4e-ebcf-4073-a559-9d3ad80a8fd0",
-      "title": "Krølle Bølle",
-      "start_at": "2026-05-23T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/4c1dae47c47e41b69fad82830bfd5270.jpg?width=1440&version=C73F28473228923778DD7CF0C96740BA",
-      "url": "https://www.odeonkino.no/film/krolle-bolle/",
-      "tags": [
-        "animasjon",
-        "familiefilm",
-        "fantasy"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c7430a82-f572-4332-a46b-dc169559611b",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-05-23T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b5bca2dc-6fdb-4039-9a53-a996a7c87d20",
-      "title": "Diplodocus og den magiske hokus pokus",
-      "description": "Diplodocus er en nysgjerrige lilten dinosaur. Når hans foreldre forsvinner under mystiske omstendigheter, må han, sammen med en trollmann og to eksentriske vitenskapsmenn, legge ut på en reise gjennom fantastiske steder for å redde dem.",
-      "start_at": "2026-05-23T10:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54a394ec9f8a45faadc72ddd34105976.jpg?width=1440&version=EDBC4E749313B31676A3B8D02BD748BB",
-      "url": "https://www.odeonkino.no/film/diplodocus-og-den-magiske-hokus-pokus/",
-      "tags": [
-        "familiefilm",
-        "eventyr",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-cca39355-e222-4b70-ace8-393666289f07",
-      "title": "GOAT - Drøm stort",
-      "start_at": "2026-05-23T11:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
-      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-bdb04acb-2c4b-4eb9-9740-47d7d22ff43c",
-      "title": "Sauedetektivene",
-      "start_at": "2026-05-23T11:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/74f86cdf03fc453b971f9c0043bdb84f.jpg?width=1440&version=06072C6BE247FAADBC66ABD1BF1EC21B",
-      "url": "https://www.odeonkino.no/film/sauedetektivene/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-41e49bbb-ddf0-49e6-9a07-61705f9098cf",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-05-23T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "isense",
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-bc407667-0a59-4185-bd3b-968f76688632",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-05-23T12:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8c61c08d-0e27-4ed9-8586-03eed7ff3d54",
-      "title": "Bamse og havets hemmelighet",
-      "start_at": "2026-05-23T12:50:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
-      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
