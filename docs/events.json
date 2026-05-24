@@ -1,8 +1,30 @@
 {
-  "generated_at": "2026-05-23T12:29:35.424657+00:00",
-  "total": 629,
+  "generated_at": "2026-05-24T00:59:53.054492+00:00",
+  "total": 601,
   "failed_sources": [],
   "events": [
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-05-24T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
+      "city": "Ålesund",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
     {
       "source": "friskus",
       "source_id": "friskus-856f0722-e12e-426c-a461-f4e15002ad04",
@@ -20,6 +42,28 @@
         "children",
         "teenager",
         "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-05-24T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -3031,24 +3075,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-c90a4a9e-3b46-461f-b728-080b34a008b5",
-      "title": "Connect",
-      "start_at": "2026-05-23T20:30:00",
-      "end_at": "2026-06-13T23:59:00",
-      "is_free": true,
-      "location_name": "Sula Frikirke",
-      "city": "Ålesund",
-      "organizer": "Sula Frikirke",
-      "image_url": "https://ucarecdn.com/4c115c49-6349-4447-abbf-fb8c70300fd1/-/crop/2045x559/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/c90a4a9e-3b46-461f-b728-080b34a008b5",
-      "tags": [],
-      "age_groups": [
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-7ba9b0bd-5764-463a-9974-eb8695277d57",
       "title": "Søndagsskolen",
       "start_at": "2026-05-24T11:00:00",
@@ -3243,6 +3269,46 @@
         "family",
         "senior",
         "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-bf8907e4-df55-4cce-a645-46f42167762d",
+      "title": "GJENBRUKSBUTIKK MAUSEIDVÅG (LØ)",
+      "start_at": "2026-05-30T11:00:00",
+      "end_at": "2026-06-20T15:00:00",
+      "is_free": false,
+      "location_name": "Mauseidvåg Bedehusforening",
+      "city": "Ålesund",
+      "organizer": "Mauseidvåg Bedehusforening",
+      "image_url": "https://ucarecdn.com/08f0be57-a8bb-40c8-bf3b-97e399325f11/-/crop/5312x1447/0,770/-/preview/",
+      "url": "https://alesund.friskus.com/events/bf8907e4-df55-4cce-a645-46f42167762d",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-c90a4a9e-3b46-461f-b728-080b34a008b5",
+      "title": "Connect",
+      "start_at": "2026-05-30T20:30:00",
+      "end_at": "2026-06-13T23:59:00",
+      "is_free": true,
+      "location_name": "Sula Frikirke",
+      "city": "Ålesund",
+      "organizer": "Sula Frikirke",
+      "image_url": "https://ucarecdn.com/4c115c49-6349-4447-abbf-fb8c70300fd1/-/crop/2045x559/0,0/-/preview/",
+      "url": "https://alesund.friskus.com/events/c90a4a9e-3b46-461f-b728-080b34a008b5",
+      "tags": [],
+      "age_groups": [
+        "teenager"
       ],
       "is_recurring": true
     },
@@ -4246,9 +4312,9 @@
       "source": "tikkio",
       "source_id": "tikkio-c1072600856e0b270588bf580569655b",
       "title": "QUIZ PÅ DAMP!",
-      "description": "Quiz på Damp - med Sam!\r\n\r\nFredag 26. juni kommer Sam Asgari til Damp for å holde quiz, mange kjenner han kanskje igjen fra T2. \r\n\r\n- Maks 6 pers per lag\r\n- Dørene åpner kl. 19:00\r\n- Quizstart kl. 19:30\r\n\r\n- 400,- per bord\r\n- Digge premier fra Dampsentralen\r\n\r\nVi gleder oss til å se deg!",
-      "start_at": "2026-06-26T19:00:00",
-      "end_at": "2026-06-26T23:00:00",
+      "description": "Quiz på Damp - med Sam!\r\n\r\n\r\n\r\nFredag 26. juni kommer Sam Asgari til Damp for å holde quiz, mange kjenner han kanskje igjen fra T2. \r\n\r\n- Maks 6 pers per lag\r\n- Dørene åpner kl. 17:30\r\n- Quizstart kl. 18:00\r\n\r\nPS! Quizen er ferdig til 21:00 så du rekker Norge-Frankrike etterpå ;)\r\n\r\n- 400,- per bord\r\n- Digge premier fra Dampsentralen\r\n\r\nVi gleder oss til å se deg!",
+      "start_at": "2026-06-26T18:00:00",
+      "end_at": "2026-06-26T21:00:00",
       "is_free": false,
       "price_text": "NOK 400.00",
       "location_name": "Dampsentralen",
@@ -5012,24 +5078,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-2306060ebb6e191230f47c14bd11fd67",
-      "title": "Quiz og musikk med Jacob",
-      "description": "Bosatt i Stockholm, og med over 20 år i underholdningsbransjen tar vikagutten Jacob Vegsund Gyldenskog, turen hjemover den 23. Mai. \r\nSom Quizmaster og trubadur ligger det an til en helkveld som kommer til å sitte godt i… til langt ut på lørdagen . \r\n\r\nPs! For alles mentale helse, så spilles Tore Tang bare etter kl 24.00.\r\n\r\n\r\n\r\nMaks 6 pers. pr lag. \r\nDørene åpner kl 19.00 for de som skal være med på quiz. Quiz start ca kl 21. 00. \r\nKl 23.00 er alle som kun vil høre musikk- hjertelig velkommen.",
-      "start_at": "2026-05-23T19:00:00",
-      "end_at": "2026-05-24T02:00:00",
-      "is_free": false,
-      "price_text": "NOK 400.00",
-      "location_name": "Rorbua i Vegsundet",
-      "city": "Ålesund",
-      "organizer": "Fole Festlig Rorbua",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_10569bea240a44c18a4b3674860636a5.jpeg?class=w768",
-      "url": "https://tikkio.com/events/63943-quiz-og-musikk-med-jacob",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-867a16037b10315468dfc6f0a6b39c58",
       "title": "VM fest i Nordøyhallen",
       "description": "<p>VM kamp melllom Norge og Frankrike fredag 26. juni i Nordøyhallen.<br>Dørene opnar 19:00 · Dans frå 23:00-02:00  med Listen to the band. <br>Aldersgrense kamp: frå 4. klasse · Eiga sone for 4.-8. klasse · <br>Aldersgrense kamp + dans: frå 9. klasse ·<br>Buss til Longva og Finnøy etter dans · <br>Det blir pub med sal av mineralvatn, øl og vin, samt kiosk med mat og snacks.<br></p>",
@@ -5213,24 +5261,6 @@
       "organizer": "COUNTRYPÅTRANDAL",
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_488c8695033c518c17c1181e05a756f3.jpeg?class=w768",
       "url": "https://tikkio.com/events/61451-trandal-countryfestival-2026",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-e10d8dade0812dd85c7dc29470798f56",
-      "title": "Ørsta Motorfest // Kveldsarrangement // Stødt -2026",
-      "description": "Kveldsarrangement på Stødt Bar&Scene.\r\nKl. 20.00-02.00.\r\n18-årsgrense.\r\n\r\nUteområdet med stort telt er ope heile dagen.\r\n\r\nKonsertstart kl. TBA\r\n\r\nKonsert innandørs med\r\n🎸Broad Line \r\n🎸Output\r\n🎸Ørsta Outlaws\r\n\r\nBROAD LINE \r\nble startet i 1980, og siden den gang har vi spredd 80-talls glede over hele Norge. Vi har spilt på alt fra lokale puber til større festivaler, og med to vokalister, en tight rytmeseksjon og en lidenskap for å gjenskape 80-tallets sound, leverer vi alltid en kveld full av nostalgi og energi. Vårt mål er å ta publikum tilbake til en tid med hårspray, neonfarger og ikoniske hits – og vi elsker å se folk synge og danse med!\r\nVårt repertoar er stappfullt av klassikere fra artister som A-ha, Bon Jovi, Madonna, Toto og Prince. Tenk «Summer of ’69», «Africa» , \"Dancing on The Ceiling\"og vår egen Prince-medley – garantert stemning!\r\nBandet består av:\r\nBottolf Lødemel (synthesizer og piano)\r\nLars Inge Bjørneset (bass)\r\nFrode Sundnes (tromme)\r\nFred Igland (gitar)\r\nStein Henrik Vartdal (gitar og keyboard)\r\nAsle Eiken (vokal)\r\nVenche Vartdal Leite (vokal)\r\n\r\n\r\n\r\nOUTPUT\r\ner eit undomsband frå Ørsta som blei starta av kulturskulen. Dei spelar mykje diverse musikk innanfor rock og metall.\r\n\r\nBandet består av:\r\nKonrad Prestegarden Vatne (vokal)\r\nLine Håskjold (gitar)\r\nMikael Sætre (gitar og vokal)\r\nAndreas Leite (bass)\r\nAbel Elias Krøvel (tromme)\r\n\r\nØRSTA OUTLAWS\r\nBandet består av:\r\nFredrik Vinjevoll (vokal og gitar)\r\nNoah Rebbestad-Kalvatn (tromme)\r\nFelix Vatne Kjøde (bass)\r\nNikolai Bjørdal (gitar)\r\nLyder Nerbøvik-Krøvel (gitar)\r\n\r\n\r\nProgramendringar kan forekome. Kansellering av artist/band og følgande programendringar vil ikkje medføre rett til refusjon av billett. Refusjon gis kun ved avlysning av heile arrangementet (gjeld ikkje ved force majeure). Billettavgift (5%) refunderast ikkje ved avlysning.",
-      "start_at": "2026-05-23T20:00:00",
-      "end_at": "2026-05-24T02:00:00",
-      "is_free": false,
-      "price_text": "NOK 299.00",
-      "location_name": "Stødt Bar & Scene",
-      "city": "Ålesund",
-      "organizer": "LØYE I LAG",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_365bc09d8cf845d697f7b1692538948f.png?class=w768",
-      "url": "https://tikkio.com/events/62891-orsta-motorfest",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -5611,25 +5641,6 @@
       "organizer": "Hellesyltdagane",
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_0076398a97e142df516841da3b3dd004.png?class=w768",
       "url": "https://tikkio.com/events/63864-festivalteltet-hellesyltdagane",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-6a67badf9e82e5b7917bf1b86caea28f",
-      "title": "Folk Flest til Eidsdalsrøre Festival",
-      "description": "Det 7 «mann’s» sterke bandet med Einar Bolstad i spissen, kan garantere allsang, rockefot og gåsehud!!\r\n15 års aldersgrense. \r\nCountry og irsk inspirert musikk blir framført på dei rette instrumenta for denne typen musikk: fele, banjo, mandolin, ståbass, steel-gitar, gitarar, trommer og sjølvsagt fleirstemt song.\r\n\r\nBandet  hadde «premiere» våren 2016, og har sidan då spela for stappfulle kulturhus, på festivalar og andre arrangement, og fått strålande tilbakemeldingar.  Bl.a frå Trollrock, Bergtattfestivalen, Jordeplerock, Norsk Countrytreff, Førdehuset, Sogndal kulturhus, Trivselshagen (Sandane) m.m.\r\n\r\nPublikum får høyra både kjende og meir ukjende perler frå ulike tidepokar og sjangrar innan country og irsk musikk, ispedd norske perler ++.\r\n\r\nRepertoaret er m.a henta frå artistar som: The Dubliners, The Pogues, Steve Earle,  Vince Gill, The Waterboys, Dolly Parton,  Staut, Hellbillies, irske trad.låtar.\r\n\r\n\r\n\r\n«Folk Flest»\r\n\r\nEinar Bolstad: sang, ak.gitar, piano\r\n\r\nRenate Skophamar Stuppelshaug: sang, ak. gitar\r\n\r\nMathilde Skjæret: fele, sang\r\n\r\nTor Magne Kvamsdal: mandolin,  steel-gitar, el,gitar\r\n\r\nLars Berge Pedersen: banjo, el. gitar, ak,gitar\r\n\r\nJan Frode Hellebø: bass\r\n\r\nArve Lomheim: trommer",
-      "start_at": "2026-05-23T20:00:00",
-      "end_at": "2026-05-24T01:30:00",
-      "is_free": true,
-      "location_name": "Røde Kors-huset",
-      "city": "Ålesund",
-      "latitude": 62.2618524,
-      "longitude": 7.1737721,
-      "organizer": "TINDRANDE EIDSDAL",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_056559a0714c4d2268d3617d09475e77.jpeg?class=w768",
-      "url": "https://tikkio.com/events/62939-folk-flest-til-eidsdalsrore",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -7116,110 +7127,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-34420-2026-05-23",
-      "title": "Ålesund Pride 2026: Regnbuekafé",
-      "start_at": "2026-05-23T13:00:00",
-      "end_at": "2026-05-23T17:00:00",
-      "location_name": "Humanismens hus",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/alesund-pride-2026-regnbuekafe/?occurrence=2026-05-23",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-29547-2026-05-23",
-      "title": "Tedans – vår vri på Afternoon Tea",
-      "start_at": "2026-05-23T14:00:00",
-      "end_at": "2026-05-23T16:30:00",
-      "location_name": "Hotel Brosundet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/tedans-var-vri-pa-afternoon-tea/?occurrence=2026-05-23",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32936-2026-05-23",
-      "title": "Gin-smaking Grova",
-      "start_at": "2026-05-23T16:00:00",
-      "end_at": "2026-05-23T18:00:00",
-      "location_name": "Vino Bar",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/gin-smaking-grova-2-753-412-688-869-439-348-849-242-245/?occurrence=2026-05-23",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32516-2026-05-23",
-      "title": "Krystall – Hotel 1904",
-      "start_at": "2026-05-23T17:00:00",
-      "end_at": "2026-05-23T23:55:00",
-      "location_name": "Hotel 1904",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/krystall-hotel-1904-358/?occurrence=2026-05-23",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33117-2026-05-23",
-      "title": "Fredrik Steen: Uanmeldt besøk",
-      "start_at": "2026-05-23T19:30:00",
-      "end_at": "2026-05-23T21:00:00",
-      "location_name": "Fabrikken Kulturscene",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/fredrik-steen-uanmeldt-besok/?occurrence=2026-05-23",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-28717-2026-05-24",
-      "title": "Helgeprogram i Atlanterhavsparken – akvarium og vitensenter",
-      "start_at": "2026-05-24T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/helgeprogram-i-atlanterhavsparken-akvarium-og-vitensenter-2/?occurrence=2026-05-24",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33749-2026-05-24",
-      "title": "Utstilling med Bjørg Thorhallsdottir",
-      "start_at": "2026-05-24T00:00:00",
-      "location_name": "Alnes Fyr og Opplevelsessenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/utstilling-med-bjorg-thorhallsdottir/?occurrence=2026-05-24",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34414-2026-05-24",
-      "title": "Pinsehelg 2026 på Atlanterhavsparken",
-      "start_at": "2026-05-24T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/pinsehelg-2026-pa-atlanterhavsparken/?occurrence=2026-05-24",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-25486-2026-05-24",
       "title": "Aalesunds Museum",
       "start_at": "2026-05-24T11:00:00",
@@ -8452,380 +8359,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4e6f64ee-e3b3-42d0-a6fe-31862f1de67b",
-      "title": "GOAT - Drøm stort",
-      "start_at": "2026-05-23T13:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
-      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-38ddc7c8-effa-4a35-bc56-88a4c420c2a8",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-05-23T13:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-bf8d2427-cc0a-4182-9277-1eee519e38b0",
-      "title": "Michael",
-      "start_at": "2026-05-23T14:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f619deab-176d-4221-9134-2b1ad81e5dec",
-      "title": "Sauedetektivene",
-      "start_at": "2026-05-23T14:40:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/74f86cdf03fc453b971f9c0043bdb84f.jpg?width=1440&version=06072C6BE247FAADBC66ABD1BF1EC21B",
-      "url": "https://www.odeonkino.no/film/sauedetektivene/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-783e8d74-84cb-4a31-9bf5-e583b3cf1620",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-05-23T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b609da3f-26b9-4f11-93bb-6266f0548db1",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-05-23T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "isense",
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-988e3c77-d976-4fb1-92d1-b9f557f6531f",
-      "title": "Diplodocus og den magiske hokus pokus",
-      "description": "Diplodocus er en nysgjerrige lilten dinosaur. Når hans foreldre forsvinner under mystiske omstendigheter, må han, sammen med en trollmann og to eksentriske vitenskapsmenn, legge ut på en reise gjennom fantastiske steder for å redde dem.",
-      "start_at": "2026-05-23T16:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54a394ec9f8a45faadc72ddd34105976.jpg?width=1440&version=EDBC4E749313B31676A3B8D02BD748BB",
-      "url": "https://www.odeonkino.no/film/diplodocus-og-den-magiske-hokus-pokus/",
-      "tags": [
-        "familiefilm",
-        "eventyr",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-2c40c418-976e-4f93-909f-d91bf10c5f62",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-05-23T16:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-5f9b2fd5-de38-49de-8b92-aa11f5f52980",
-      "title": "Michael",
-      "start_at": "2026-05-23T17:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-977e7150-444b-4db0-9ce3-fbe10e990708",
-      "title": "Project Hail Mary",
-      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
-      "start_at": "2026-05-23T17:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
-      "url": "https://www.odeonkino.no/film/project-hail-mary/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e7b21301-bac6-4a33-85dd-5c0a43b61a9a",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-23T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-fd58e527-40c4-47ae-b23a-dd780ca197a2",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-05-23T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "isense",
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-91484fc5-7cc9-45e8-b37f-b2df1be6d4f4",
-      "title": "Obsession",
-      "start_at": "2026-05-23T18:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
-      "url": "https://www.odeonkino.no/film/obsession/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4006522c-f115-4464-9b0c-faeaf6683c81",
-      "title": "In the Grey",
-      "description": "Guy Ritchie er tilbake.",
-      "start_at": "2026-05-23T19:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f981fcc6763a483b816bec94632fe9b3.jpg?width=1440&version=48B2F68948F2205022F0841A7B1CF124",
-      "url": "https://www.odeonkino.no/film/in-the-grey/",
-      "tags": [
-        "luxe",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4ac40ecf-7316-4990-81d8-1d7f7cb2472a",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-05-23T19:50:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7d6b4eca-70b3-4a4f-a449-6533d0897e01",
-      "title": "Michael",
-      "start_at": "2026-05-23T20:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ba6cdb10-9937-4efc-b7fe-07efd61d6062",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-05-23T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-193ebe2f-64ec-4927-a34f-ab28cd510f7b",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-05-23T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "isense",
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c2a73a8c-ac4d-4be8-8f1d-6aea381bd833",
-      "title": "Obsession",
-      "start_at": "2026-05-23T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
-      "url": "https://www.odeonkino.no/film/obsession/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-9dee89c8-e615-48fa-9c38-3f846fd9b92c",
-      "title": "Passenger",
-      "description": "Aldri stopp ved veien!",
-      "start_at": "2026-05-23T21:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2f3ecda338434260b94218e5454927e3.jpg?width=1440&version=DC4C164F122DD959DE6B178DE1CFFDC9",
-      "url": "https://www.odeonkino.no/film/passenger/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
