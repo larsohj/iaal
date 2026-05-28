@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T00:55:05.379956+00:00",
-  "total": 604,
+  "generated_at": "2026-05-28T07:31:05.043476+00:00",
+  "total": 603,
   "failed_sources": [
     "viti"
   ],
@@ -1081,24 +1081,6 @@
       "organizer": "Ålesund kommune",
       "image_url": "https://ucarecdn.com/9ae5f148-033f-4e00-b9dd-97c5b515bccf/-/crop/2019x1058/332,0/-/preview/",
       "url": "https://alesund.friskus.com/events/29d55cf7-9d68-42f2-a384-3d90bd10ae49",
-      "tags": [],
-      "age_groups": [
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-5136f020-303f-4aa5-878c-bddb4342aeda",
-      "title": "Sjef i mitt liv. Gruppetilbud for ungdom på ungdomsskolen.",
-      "start_at": "2026-06-02T14:30:00",
-      "end_at": "2026-06-16T16:00:00",
-      "is_free": true,
-      "location_name": "Ålesund kommune",
-      "city": "Ålesund",
-      "organizer": "Ålesund kommune",
-      "image_url": "https://ucarecdn.com/8423a2cf-f988-4cc2-923b-d3d8428cda56/-/crop/1534x802/217,154/-/preview/",
-      "url": "https://alesund.friskus.com/events/5136f020-303f-4aa5-878c-bddb4342aeda",
       "tags": [],
       "age_groups": [
         "teenager"
@@ -4882,7 +4864,7 @@
       "latitude": 62.4407847,
       "longitude": 6.1915121,
       "organizer": "LANGEVÅG RØDE KORS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64281-buss-etter-dansen",
       "tags": [],
       "age_groups": [],
@@ -5390,7 +5372,7 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
       "tags": [],
       "age_groups": [],
