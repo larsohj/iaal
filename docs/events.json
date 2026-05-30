@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T00:58:00.104581+00:00",
+  "generated_at": "2026-05-30T07:09:34.514452+00:00",
   "total": 579,
   "failed_sources": [
     "viti"
@@ -5322,7 +5322,7 @@
       "latitude": 62.4407847,
       "longitude": 6.1915121,
       "organizer": "LANGEVÅG RØDE KORS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/64281-buss-etter-dansen",
       "tags": [],
       "age_groups": [],
@@ -5412,7 +5412,7 @@
       "location_name": "Solevågshallen",
       "city": "Ålesund",
       "organizer": "Musikklaget EKKO",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64359-bygdakveld-2026",
       "tags": [],
       "age_groups": [],
