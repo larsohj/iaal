@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T01:06:27.957793+00:00",
+  "generated_at": "2026-06-01T07:58:36.262979+00:00",
   "total": 859,
   "failed_sources": [
     "viti"
@@ -1441,7 +1441,7 @@
     {
       "source": "friskus",
       "source_id": "friskus-af7dba0d-a7b3-45b2-bc67-d237e7205d53",
-      "title": "Kulturskolens sommerkonsert/forestilling",
+      "title": "Kulturskolens sommerkonsertforestilling",
       "start_at": "2026-06-06T17:00:00",
       "end_at": "2026-06-06T19:00:00",
       "is_free": false,
@@ -5229,7 +5229,7 @@
       "latitude": 62.4407847,
       "longitude": 6.1915121,
       "organizer": "LANGEVÅG RØDE KORS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/64281-buss-etter-dansen",
       "tags": [],
       "age_groups": [],
@@ -5319,7 +5319,7 @@
       "location_name": "Solevågshallen",
       "city": "Ålesund",
       "organizer": "Musikklaget EKKO",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/64359-bygdakveld-2026",
       "tags": [],
       "age_groups": [],
@@ -5755,7 +5755,7 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
       "tags": [],
       "age_groups": [],
@@ -13885,6 +13885,7 @@
       "title": "Bjørn Tomren prøver så godt han kan i Tomrefjord",
       "start_at": "2026-09-19T18:00:00",
       "location_name": "Kulturhuset Idahall",
+      "address": "Vikvegen 107",
       "city": "Tomrefjord",
       "latitude": 62.60579,
       "longitude": 6.93579,
