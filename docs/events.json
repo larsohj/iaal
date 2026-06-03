@@ -1,10 +1,33 @@
 {
-  "generated_at": "2026-06-02T19:23:44.556864+00:00",
-  "total": 969,
+  "generated_at": "2026-06-03T01:11:48.359395+00:00",
+  "total": 964,
   "failed_sources": [
-    "viti"
+    "viti",
+    "aafk"
   ],
   "events": [
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-06-03T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
+      "city": "Ålesund",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
     {
       "source": "friskus",
       "source_id": "friskus-oaaF-IJSfCWGR",
@@ -1420,6 +1443,25 @@
         "teenager"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-0577e9f9-35ce-4281-b75d-b47e18ea3017",
+      "title": "Tirsdagsturnering Ålesund biljardklubb",
+      "start_at": "2026-06-09T18:00:00",
+      "end_at": "2026-12-29T22:00:00",
+      "is_free": false,
+      "location_name": "Ålesund biljardklubb",
+      "city": "Ålesund",
+      "organizer": "Ålesund biljardklubb",
+      "image_url": "https://ucarecdn.com/f5ad6aaa-8f98-4c18-a4b0-e74a885eec94/-/crop/2048x559/0,671/-/preview/",
+      "url": "https://alesund.friskus.com/events/0577e9f9-35ce-4281-b75d-b47e18ea3017",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "senior"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -5155,7 +5197,7 @@
       "latitude": 62.4407847,
       "longitude": 6.1915121,
       "organizer": "LANGEVÅG RØDE KORS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/64281-buss-etter-dansen",
       "tags": [],
       "age_groups": [],
@@ -5175,6 +5217,42 @@
       "organizer": "Borgund Dyreklubb",
       "image_url": "https://cdn.tikkio.com/static/1.0.3476/uploads/event/c_bc854c3d0a1d02b35f35c7f455b2db77.jpg?class=w768",
       "url": "https://tikkio.com/events/63622-sommerskole-dyr-gardsliv-og-aktiviteter-uke-26-mandag-til-torsdag",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-4c11ec26fb59476454ff032b3da35ec9",
+      "title": "Årskort JUNI 2026- MAI 2027",
+      "description": "Borgund Dyreklubb er en kommunal aktivitets- og besøksgård i Ålesund og på gården bor det hester og ponnier, grisunger, kaniner, marsvin,  chinchilla,  høner, kalkunen Bob, ender, vaktler,  fugler og katten Figaro. Dyreklubben ligger sentralt mellom Moa og Ålesund sentrum. Flotte opplevelser for små og store venter på gården - en plass for alle som elsker dyr og natur. \r\nKom og hils på dyrene som tasser rundt på tunet, bruk litt tid og slapp av med utsikt over fjord og fjell, ha med niste og kos deg på terrassen eller gapahuk på ridebane, eller kjøp deg en deilig is, kake og kaffe i kiosken (åpent på helg/avhengig av vær). \r\nFor de minste har vi lekeområde med hytte og traktor, utebibliotek og tegnebord i ponnistallen. Vi tilbyr spennende aktiviteter og arrangement for hele familien.  Åpen gård hver dag kl. 12-18. \r\nMed årskort har du gratis inngang hele året i åpningstider (kl. 12-18), inkl. inngang eller rabattert pris til utvalgte arrangement (årskort må vises fram) og rabattert pris på barneridning. \r\nÅrskortet kan hentes på gården 7 dager etter bestillingen. Ingen refusjon eller bytting av årskort.",
+      "start_at": "2026-06-03T12:00:00",
+      "end_at": "2026-06-30T18:00:00",
+      "is_free": false,
+      "price_text": "NOK 250.00",
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/uploads/event/c_d24dd6213b91235132c9a0a540e742b6.jpg?class=w768",
+      "url": "https://tikkio.com/events/64443-arskort-juni-2026-mai-2027",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-33712a0de6c17470818b3d720e0f15fd",
+      "title": "Aktivitetsdag/Ferieaktivitet \"Dyr og gårdsliv i gamle dager\" på Borgund Dyreklubb, tirsdager",
+      "description": "Velkommen til aktivitetsdag/ferieaktivitet \"Dyr og gårdsliv i gamle dager\" på Borgund Dyreklubb. I samarbeid med Borgund Dyreklubb Frivillig Organisasjon og Stiftelsen Wasmuth og Rønneberg tilbyr vi på utvalgte dager ferieaktivitet for barn fra 8 år på gården. Vi starter kl. 10.00 med en liten bli-kjent runde og omvisning med læring om dyr og dyrestell, tar ansvar for stell og fôring av griser, høner, kalkuner, katten Figaro, kaniner, marsvin, chinchilla, vaktler og fugler. Det blir også tid til dyrekos. Vi jobber i smågrupper og en av våre erfarne gruppeledere følger deltakere under hele opplegget. \r\nCa. kl. 11.30 tar vi lunsjpause. Barna skal ha med egen matpakke og drikkeflaske, evt. termos med varm drikke ved kaldt vær. Vi serverer frukt/snacks/jogurt. \r\nEtter lunsjen børster vi våre hester og gjør oss klar til en reise i fortid, med hester og utkledd som i gamle dager besøker vi friluftsmuseum Sunnmøre museum. Vi tar en liten spasertur og lærer om bondelivet for noen hundre års siden. Barna har muligheten til å delta på aktiviteter i museum. Kl. 12.45 rusler vi med våre hester tilbake til gården og avslutter dagen kl. 13.00 \r\n\r\nVi er ute og alle deltakere må ha med seg \r\n- klær etter vær\r\n- vanntette sko uansett vær\r\n- matpakke \r\n- drikkeflaske/vannflaske, evtl. termos med varm drikke ved kalde dager \r\n\r\nBegrenset antall plasser, hver deltaker må ha egen billett! Vi har dessverre ikke mulighet til å bytte eller refundere kjøpte billetter. \r\nVi gjør oppmerksom på at all deltakelse skjer på eget ansvar og egen risiko. Borgund Dyreklubb frasier seg alt ansvar for skader på deltakere og deres utstyr/klær. \r\nVi tar bilder/situasjonsbilder og små videosnut under arrangement som brukes til markedsføring. Dersom du ikke ønsker at ditt barn er med på bilder/video, si fra på forhånd/seinest ved registrering av barnet på aktivitetsdagen.\r\nHar du spørsmål eller lurer på noe, send en epost til: judith.damm@alesund.kommune.no\r\nAktiviteten gjennomføres i samarbeid med Borgund Dyreklubb Frivillig Organisasjon og vi takker så mye Stiftelsen Wasmuth og Rønneberg for tilskudd til aktiviteten :-)",
+      "start_at": "2026-06-30T10:00:00",
+      "end_at": "2026-08-04T13:00:00",
+      "is_free": false,
+      "price_text": "NOK 60.00",
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/uploads/event/c_56c623a9a3d42e5cb6db618e2d424c09.jfif?class=w768",
+      "url": "https://tikkio.com/events/64442-aktivitetsdagferieaktivitet-dyr-gardsliv-og-gamle-tiden-pa-borgund-dyreklubb",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -5245,7 +5323,7 @@
       "location_name": "Solevågshallen",
       "city": "Ålesund",
       "organizer": "Musikklaget EKKO",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64359-bygdakveld-2026",
       "tags": [],
       "age_groups": [],
@@ -5663,8 +5741,26 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-d3767082b6346e20445179a77a315f5f",
+      "title": "Frå skog til skute på svensk - med STEMT",
+      "description": "Velkomne til konsert med STEMT  i Myreløda på Aksnes tysdag 9. juni kl. 20. Dørene opnar kl. 19. Barn under 12 år har gratis inngong.\r\n\r\nDenne våren har STEMT øvd inn eit repertoar som er den svenske ´midsommarafton´ verdig. Med eit godt knippe kjende, svenske viser (m.a. Evert Taube, Cornelis Vreesvijk, Astrid Lindgren) og svenske folkesongar (Hans Kennemark, Greger Siljebo) på programmet, ligg alt til rette for å leve seg inn i den lyse, nordiske sommarnatta. Her blir det kjærleik: ung og gamal, nyutsprungen og livslang. Det blir skjærgård, sjø og segling, med meir eller mindre heldige sjømenn (eller kvinner) bak roret. Det blir også nokre turar ut i den grøne naturen, med duftande blomar, yrande dyreliv og ein og annan Mattisrøvar snikande mellom furutreda. \r\n\r\n\r\nIdéen om å tre inn i det svenske repertoaret, kom til i samarbeid med felespelar Leiv Arne Nydal. Nydal var med på STEMT sin jubileumskonsert i november 2025, og han likte det han høyrde. Sjølv vart han introdusert for den svenske folkemusikken, og riksspelemannen Hans Kennemark sine komposisjonar, gjennom sitt venskap med den svenske spelmannen Sture Göransson. Nydal har spelt mange gode slåttar frå det svenske repertoaret gjennom åra, men dette er første gong han har fått moglegheit til å framføre stoffet akustisk saman med kor og band. Bandet består i sin heilskap av Leiv Arne Nydal på fele, Robert Løkketangen på gitar og Øyvind Espe på kontrabass.\r\n\r\n\r\nBlandakoret STEMT, med base i Ørsta og Volda, markerte 10 år hausten 2025. Det er eit kor i stadig utvikling, med stabile, røynde songarar og kvalitetsbevisst jobbing mot nye mål. Med sin dyktige dirigent Siv Kristin Aurdal i spissen, har koret hausta mange lovord dei siste åra. Særleg for sin særeigne klang og uttrykk.",
+      "start_at": "2026-06-09T19:00:00",
+      "end_at": "2026-06-09T22:00:00",
+      "is_free": false,
+      "price_text": "NOK 270.00",
+      "location_name": "Myreløda",
+      "city": "Ålesund",
+      "organizer": "STEMT",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/uploads/event/c_fe38aa1e4aec89de1036136f9a9e0de7.jpg?class=w768",
+      "url": "https://tikkio.com/events/63632-fra-skog-til-skute-pa-svensk-med-stemt",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -7275,19 +7371,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-30663-2026-06-02",
-      "title": "Lavterskel fotball",
-      "start_at": "2026-06-02T20:30:00",
-      "end_at": "2026-06-02T22:00:00",
-      "location_name": "Sparebanken Møre Arena",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/lavterskel-fotball/?occurrence=2026-06-02",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-30926-2026-06-03",
       "title": "Seniorklatring i Ålesund",
       "start_at": "2026-06-03T08:00:00",
@@ -7301,32 +7384,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-34542-2026-06-03",
-      "title": "Sommarles 2026",
-      "start_at": "2026-06-03T00:00:00",
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommarles-2026/?occurrence=2026-06-03",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34689-2026-06-03",
-      "title": "Atlanterhavsparkens sommerprogram 2026",
-      "start_at": "2026-06-03T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/atlanterhavsparkens-sommerprogram/?occurrence=2026-06-03",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-32362-2026-06-03",
       "title": "Sommerfuglen Aktivitet",
       "start_at": "2026-06-03T10:00:00",
@@ -7337,19 +7394,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33749-2026-06-03",
-      "title": "Utstilling med Bjørg Thorhallsdottir",
-      "start_at": "2026-06-03T00:00:00",
-      "location_name": "Alnes Fyr og Opplevelsessenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/utstilling-med-bjorg-thorhallsdottir/?occurrence=2026-06-03",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -12290,113 +12334,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-1fdd0788-a639-4328-8f55-d1bcc6b78c98",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-06-02T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "isense",
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-56744b6d-60f1-4373-bd6c-13da783f6f39",
-      "title": "Backrooms",
-      "start_at": "2026-06-02T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
-      "url": "https://www.odeonkino.no/film/backrooms/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-5c9e3b23-a481-4ae2-9b21-d2e5420bf268",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-06-02T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-3db62e0d-3683-47a8-89c2-c62f2203527f",
-      "title": "Michael",
-      "start_at": "2026-06-02T20:40:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d99f0ad8-8e44-44b9-9372-a1bc5fb5b46e",
-      "title": "Obsession",
-      "start_at": "2026-06-02T21:10:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
-      "url": "https://www.odeonkino.no/film/obsession/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-630079c4-15bc-4ab4-a551-a7eb33acd9a2",
-      "title": "Backrooms",
-      "start_at": "2026-06-02T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
-      "url": "https://www.odeonkino.no/film/backrooms/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
