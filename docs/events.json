@@ -1,113 +1,10 @@
 {
-  "generated_at": "2026-06-06T07:13:36.537096+00:00",
-  "total": 884,
+  "generated_at": "2026-06-06T12:36:28.768524+00:00",
+  "total": 860,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-06-06T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-0dcc1104-0937-4151-8f0e-b673833a17c0",
-      "title": "AKTIV LØRDAG på Borgund Dyreklubb Juni 2026",
-      "start_at": "2026-06-06T10:00:00",
-      "end_at": "2026-06-13T12:00:00",
-      "is_free": true,
-      "location_name": "Borgund Dyreklubb Frivillig Organisasjon",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb Frivillig Organisasjon",
-      "image_url": "https://ucarecdn.com/ccfd79d8-3668-4c3d-8a17-d44ea0b89f24/-/crop/478x342/0,13/-/preview/",
-      "url": "https://alesund.friskus.com/events/0dcc1104-0937-4151-8f0e-b673833a17c0",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-oaady6n-1mIY8",
-      "title": "Turbotur til Eventyrskogen på Lepsøya",
-      "start_at": "2026-06-06T11:00:00",
-      "end_at": "2026-06-06T13:00:00",
-      "is_free": false,
-      "location_name": "DNT Sunnmøre",
-      "city": "Ålesund",
-      "organizer": "DNT Sunnmøre",
-      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_599019",
-      "url": "https://alesund.friskus.com/events/oaady6n-1mIY8",
-      "tags": [
-        "friluftsliv",
-        "tur"
-      ],
-      "age_groups": [
-        "children"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-06-06T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-271192ea-e793-43d8-9efc-9e55a03c4fdc",
-      "title": "Barneridning 06.06.26",
-      "start_at": "2026-06-06T12:15:00",
-      "end_at": "2026-06-06T12:45:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/b9b71a07-351a-486d-ba8f-c804c8bdb809/-/crop/3877x2028/177,600/-/preview/",
-      "url": "https://alesund.friskus.com/events/271192ea-e793-43d8-9efc-9e55a03c4fdc",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "family"
-      ],
-      "is_recurring": false
-    },
     {
       "source": "friskus",
       "source_id": "friskus-af7dba0d-a7b3-45b2-bc67-d237e7205d53",
@@ -1301,6 +1198,25 @@
       "url": "https://alesund.friskus.com/events/d091f722-fbae-4e10-b00a-35bb32d9e76d",
       "tags": [],
       "age_groups": [
+        "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-0dcc1104-0937-4151-8f0e-b673833a17c0",
+      "title": "AKTIV LØRDAG på Borgund Dyreklubb Juni 2026",
+      "start_at": "2026-06-13T10:00:00",
+      "end_at": "2026-06-13T12:00:00",
+      "is_free": true,
+      "location_name": "Borgund Dyreklubb Frivillig Organisasjon",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb Frivillig Organisasjon",
+      "image_url": "https://ucarecdn.com/ccfd79d8-3668-4c3d-8a17-d44ea0b89f24/-/crop/478x342/0,13/-/preview/",
+      "url": "https://alesund.friskus.com/events/0dcc1104-0937-4151-8f0e-b673833a17c0",
+      "tags": [],
+      "age_groups": [
+        "children",
         "teenager"
       ],
       "is_recurring": true
@@ -2907,28 +2823,6 @@
         "pensioner"
       ],
       "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-bf8907e4-df55-4cce-a645-46f42167762d",
-      "title": "GJENBRUKSBUTIKK MAUSEIDVÅG (LØ)",
-      "start_at": "2026-06-06T11:00:00",
-      "end_at": "2026-06-20T15:00:00",
-      "is_free": false,
-      "location_name": "Mauseidvåg Bedehusforening",
-      "city": "Ålesund",
-      "organizer": "Mauseidvåg Bedehusforening",
-      "image_url": "https://ucarecdn.com/08f0be57-a8bb-40c8-bf3b-97e399325f11/-/crop/5312x1447/0,770/-/preview/",
-      "url": "https://alesund.friskus.com/events/bf8907e4-df55-4cce-a645-46f42167762d",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -5204,26 +5098,8 @@
       "latitude": 62.4407847,
       "longitude": 6.1915121,
       "organizer": "LANGEVÅG RØDE KORS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/64281-buss-etter-dansen",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-45a45bbc9eabe39e6c1f307118c675ee",
-      "title": "Ridning, is og inngang på Borgund Dyreklubb lørdag 06.06.26",
-      "description": "Velkommen til en koselig lørdag på gården med barneridning (for barn i alderen 2-12 år), dyrekos og is :-) Kos deg på hesteryggen med to store og en liten runde på Dyreklubbens ridebane. Ta med egen ride/sykkelhjelm om du har! Å hilse på hest, kose litt med hesten og ta bilder er inkludert i billetten. Gode minner for store og små :-) Etter ridningen kan rytteren hilse på resten av dyregjengen som tasser rundt på tunet og får en is i kiosken.  Pakkeprisen inkluderer: ridning for ett barn, inngang for rytteren og en voksen, is til rytteren. \r\nBarn må møte opp til avtalt/bestilt tidspunkt med en voksen som kan hjelpe rytteren til å komme opp på hesten og som følger barn evt. på runderidning (gjelder særlig småbarn).  \r\n\r\nVi har dessverre ikke mulighet til å refundere kjøpte billetter eller endre på tidspunkt. Vi gjør oppmerksom på at all deltakelse skjer på eget ansvar og egen risiko. Borgund Dyreklubb frasier seg alt ansvar for skader på deltakere og deres utstyr/klær.\r\nDet tas bilder/situasjonsbilder under arrangement som brukes til markedsføring av aktiviteten. Dersom du ikke ønsker å bli med på bilde, si fra ved registreringen.",
-      "start_at": "2026-06-06T12:15:00",
-      "end_at": "2026-06-06T12:45:00",
-      "is_free": false,
-      "price_text": "NOK 139.00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_059b0e7128df1d6ae2ed8f2ba565d2cb.jpg?class=w768",
-      "url": "https://tikkio.com/events/64496-ridning-is-og-inngang-pa-borgund-dyreklubb-lordag-060626",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -5746,7 +5622,7 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
       "tags": [],
       "age_groups": [],
@@ -7389,97 +7265,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-25486-2026-06-06",
-      "title": "Aalesunds Museum",
-      "start_at": "2026-06-06T11:00:00",
-      "end_at": "2026-06-06T15:30:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34451-2026-06-06",
-      "title": "Tidal – Maleri utstilling med Silvia Sørhagen på Forum Galleri",
-      "start_at": "2026-06-06T11:00:00",
-      "end_at": "2026-06-06T17:00:00",
-      "location_name": "Forum Ålesund",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/tidal-maleri-utstilling-med-silvia-sorhagen-pa-forum-galleri/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34595-2026-06-06",
-      "title": "Film: Året i Ålesund",
-      "start_at": "2026-06-06T11:00:00",
-      "end_at": "2026-06-06T16:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/film-aret-i-alesund-3/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34608-2026-06-06",
-      "title": "Matmarked på Devoldfabrikken",
-      "start_at": "2026-06-06T11:00:00",
-      "end_at": "2026-06-06T16:00:00",
-      "location_name": "Devoldfabrikken",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/matmarked-pa-devoldfabrikken-720/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-06-06",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-06-06T12:00:00",
-      "end_at": "2026-06-06T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33435-2026-06-06",
-      "title": "Modelljernbaneanlegget Devoldbanen",
-      "start_at": "2026-06-06T12:00:00",
-      "end_at": "2026-06-06T16:00:00",
-      "location_name": "Devoldfabrikken",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/modelljernbaneanlegget-devoldbanen/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34801-2026-06-06",
-      "title": "Barneridning på Borgund Dyreklubb",
-      "start_at": "2026-06-06T12:15:00",
-      "end_at": "2026-06-06T12:45:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/barneridning-pa-borgund-dyreklubb-9/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -11796,211 +11581,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-443b64d3-2f3d-4112-9644-f43324f52a94",
-      "title": "GOAT - Drøm stort",
-      "start_at": "2026-06-06T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
-      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a9660ccf-f21b-4137-b20d-b1c68f4e4301",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-06-06T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c451854f-ed64-43c7-b698-a6a6350e6fd7",
-      "title": "Krølle Bølle",
-      "start_at": "2026-06-06T10:45:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/4c1dae47c47e41b69fad82830bfd5270.jpg?width=1440&version=C73F28473228923778DD7CF0C96740BA",
-      "url": "https://www.odeonkino.no/film/krolle-bolle/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "familiefilm",
-        "fantasy"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-32fe0888-28d8-4fd1-927c-ddcda58b000e",
-      "title": "Det lille spøkelset Laban",
-      "start_at": "2026-06-06T11:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2ce1afa7db504465abaad2acdbb5e739.jpg?width=1440&version=EC55055BECEBCAFC59B6AFB2D8856C28",
-      "url": "https://www.odeonkino.no/film/det-lille-spokelset-laban/",
-      "tags": [
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8ca19cd6-e464-40b9-aa74-35b68a561914",
-      "title": "Bamse og havets hemmelighet",
-      "start_at": "2026-06-06T11:15:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
-      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
-      "tags": [
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d5884169-40eb-4bbb-a983-2e8da1611f71",
-      "title": "Sauedetektivene",
-      "start_at": "2026-06-06T11:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/74f86cdf03fc453b971f9c0043bdb84f.jpg?width=1440&version=06072C6BE247FAADBC66ABD1BF1EC21B",
-      "url": "https://www.odeonkino.no/film/sauedetektivene/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ae557e99-1f61-413d-8fe7-6bb0a20026bc",
-      "title": "GOAT - Drøm stort",
-      "start_at": "2026-06-06T12:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
-      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-27d840f1-87b2-43f5-a0b9-40734f6aacc0",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-06-06T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-efb9760d-5f23-4ae4-8a95-4c6b6bc5e3c4",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-06-06T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-86779ba8-f6bd-454d-923d-79d852f975ed",
-      "title": "Krølle Bølle",
-      "start_at": "2026-06-06T13:10:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/4c1dae47c47e41b69fad82830bfd5270.jpg?width=1440&version=C73F28473228923778DD7CF0C96740BA",
-      "url": "https://www.odeonkino.no/film/krolle-bolle/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "familiefilm",
-        "fantasy"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e51630e4-30d2-4abd-8a68-c5499e44a251",
-      "title": "Bamse og havets hemmelighet",
-      "start_at": "2026-06-06T13:15:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
-      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
-      "tags": [
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
