@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T00:59:25.225392+00:00",
-  "total": 885,
+  "generated_at": "2026-06-06T07:13:36.537096+00:00",
+  "total": 884,
   "failed_sources": [
     "viti"
   ],
@@ -26,29 +26,6 @@
         "pensioner"
       ],
       "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-oaay2PBGtCcp3",
-      "title": "Grunnkurs havkajakk i Ålesund",
-      "start_at": "2026-06-06T08:30:00",
-      "end_at": "2026-06-07T16:30:00",
-      "is_free": false,
-      "location_name": "DNT Sunnmøre",
-      "city": "Ålesund",
-      "organizer": "DNT Sunnmøre",
-      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_588575",
-      "url": "https://alesund.friskus.com/events/oaay2PBGtCcp3",
-      "tags": [
-        "friluftsliv",
-        "tur"
-      ],
-      "age_groups": [
-        "senior",
-        "pensioner",
-        "teenager"
-      ],
-      "is_recurring": false
     },
     {
       "source": "friskus",
@@ -5364,7 +5341,7 @@
       "source_id": "tikkio-5a43bf1bc8b6835e6452d7a40813724b",
       "title": "Bygdakveld 2026",
       "description": "<p>24. Oktober arrangerer Musikklaget EKKO bygdakveld igjen.</p><p>Denne gangen har vi tema filmmusikk.</p><p>18 års aldersgrense</p><p>Inngang åpner 17:00</p><p>Konsert starter 18:00</p><p>Konferansier: Børre Andreassen</p><p>Dirigent: Ingolf Dragset</p><p>Vi får også i år med oss Gjenklangbandet som består av</p><p>Kapellmester/synth: Geir Harald Eikrem</p><p>Gitar: Lars Henning Fylling</p><p>Bass: Terje Slagnes Lynghjem</p><p>Tromme: Kim Erik Lillestøl</p><p>Vokal: Maria Lunden</p><p>Vokal: Ole Tommy Blomvik</p><p>I tillegg får vi besøk av Koret Von Dess med dirigent Beate Blindheim Kvalsvik</p><p>Vi får i år hjelp av Farstad Lyd med lydteknikk.</p><p>Det blir salg av</p><p>Kaffe</p><p>Brus</p><p>Øl</p><p>Vin</p><p>Billettpriser til konsert</p><p>Early Bird - 250kr</p><p>På tikkio - 300kr</p><p>Døra på konserten 25.Oktober 320kr (vipps eller kontant)</p><p>Etter konserten blir det dans på hotellet, Trubadur Mattis begynner å spille 22:00</p><p>Aldersgrense 18+</p><p>Billetter til denne må kjøpes i tillegg til konsertbilletter.</p><p>Pris 150kr</p><p>Det er også mulighet for buss fra konsert til hotellet for 50kr pr.pers.</p>",
-      "start_at": "2026-10-24T17:30:00",
+      "start_at": "2026-10-24T17:00:00",
       "end_at": "2026-10-25T02:00:00",
       "is_free": false,
       "price_text": "NOK 150.00",
@@ -5769,7 +5746,7 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
       "tags": [],
       "age_groups": [],
