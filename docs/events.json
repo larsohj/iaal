@@ -1,23 +1,22 @@
 {
-  "generated_at": "2026-06-05T18:47:15.133940+00:00",
-  "total": 903,
+  "generated_at": "2026-06-06T00:59:25.225392+00:00",
+  "total": 885,
   "failed_sources": [
-    "viti",
-    "aafk"
+    "viti"
   ],
   "events": [
     {
       "source": "friskus",
-      "source_id": "friskus-b91b5d62-2510-4a61-9a33-2bcdbbec88b2",
-      "title": "Impresjonistiske landskap",
-      "start_at": "2026-06-05T19:00:00",
-      "end_at": "2026-06-05T21:00:00",
-      "is_free": false,
-      "location_name": "Ålesund strykekvartett",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-06-06T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
       "city": "Ålesund",
-      "organizer": "Ålesund strykekvartett",
-      "image_url": "https://ucarecdn.com/925d2d42-014d-48b2-acc3-e22a74598714/-/crop/1900x518/0,266/-/preview/",
-      "url": "https://alesund.friskus.com/events/b91b5d62-2510-4a61-9a33-2bcdbbec88b2",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
       "tags": [],
       "age_groups": [
         "children",
@@ -25,24 +24,6 @@
         "family",
         "senior",
         "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-d091f722-fbae-4e10-b00a-35bb32d9e76d",
-      "title": "Ungdomsklubben Kvalen - Harøy. Fra 8 klasse til 20 år.",
-      "start_at": "2026-06-05T19:00:00",
-      "end_at": "2026-06-12T23:00:00",
-      "is_free": true,
-      "location_name": "Sandøy Frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Sandøy Frivilligsentral",
-      "image_url": "https://ucarecdn.com/893c5724-96f4-4d19-b07d-c93ef20421dc/-/crop/628x537/44,0/-/preview/-/resize/x300/-/setfill/3885cc/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/d091f722-fbae-4e10-b00a-35bb32d9e76d",
-      "tags": [],
-      "age_groups": [
-        "teenager"
       ],
       "is_recurring": true
     },
@@ -1326,6 +1307,24 @@
       "tags": [],
       "age_groups": [
         "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-d091f722-fbae-4e10-b00a-35bb32d9e76d",
+      "title": "Ungdomsklubben Kvalen - Harøy. Fra 8 klasse til 20 år.",
+      "start_at": "2026-06-12T19:00:00",
+      "end_at": "2026-06-12T23:00:00",
+      "is_free": true,
+      "location_name": "Sandøy Frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Sandøy Frivilligsentral",
+      "image_url": "https://ucarecdn.com/893c5724-96f4-4d19-b07d-c93ef20421dc/-/crop/628x537/44,0/-/preview/-/resize/x300/-/setfill/3885cc/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/d091f722-fbae-4e10-b00a-35bb32d9e76d",
+      "tags": [],
+      "age_groups": [
+        "teenager"
       ],
       "is_recurring": true
     },
@@ -5770,7 +5769,7 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
       "tags": [],
       "age_groups": [],
@@ -6409,23 +6408,6 @@
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_0b1bf88a15881313f93e5b44e9ef9881.jpg?class=w768",
       "url": "https://tikkio.com/events/63803-sagajazz-2026",
       "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "parken",
-      "source_id": "parken-44652-herborg-krakevik-trondheimsolistene",
-      "title": "Herborg Kråkevik & TrondheimSolistene",
-      "start_at": "2026-06-05T19:00:00",
-      "end_at": "2026-06-05T20:20:00",
-      "location_name": "Parken kulturhus – Hovedscene",
-      "city": "Ålesund",
-      "organizer": "Vi vandrar saman i Herborgs songbok",
-      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F44652%2Fweb-square.webp?version=opGZzbpC+3IsSRnm5cs8QQ==",
-      "url": "https://www.parkenkulturhus.no/program/44652-herborg-krakevik-trondheimsolistene/",
-      "tags": [
-        "klassisk"
-      ],
       "age_groups": [],
       "is_recurring": false
     },
@@ -7433,110 +7415,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-34269-2026-06-05",
-      "title": "Quiz og musikkbingo med Stig og Iselin",
-      "start_at": "2026-06-05T19:00:00",
-      "end_at": "2026-06-05T23:30:00",
-      "location_name": "Langevåg",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/quiz-og-musikkbingo-med-stig-og-iselin/?occurrence=2026-06-05",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-28717-2026-06-06",
-      "title": "Helgeprogram i Atlanterhavsparken – akvarium og vitensenter",
-      "start_at": "2026-06-06T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/helgeprogram-i-atlanterhavsparken-akvarium-og-vitensenter-2/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32391-2026-06-06",
-      "title": "Ålesund Maraton 2026",
-      "start_at": "2026-06-06T00:00:00",
-      "location_name": "Skansekaia",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/alesund-maraton-2026/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34268-2026-06-06",
-      "title": "Langevågsdagane 2026",
-      "start_at": "2026-06-06T00:00:00",
-      "location_name": "Langevåg",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/langevagsdagane-2026/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34542-2026-06-06",
-      "title": "Sommarles 2026",
-      "start_at": "2026-06-06T00:00:00",
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommarles-2026/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34592-2026-06-06",
-      "title": "Jugendstildagane 2026",
-      "start_at": "2026-06-06T00:00:00",
-      "location_name": "Jugendstilsenteret og KUBE",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/jugendstildagane-2026/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34689-2026-06-06",
-      "title": "Atlanterhavsparkens sommerprogram 2026",
-      "start_at": "2026-06-06T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/atlanterhavsparkens-sommerprogram/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33749-2026-06-06",
-      "title": "Utstilling med Bjørg Thorhallsdottir",
-      "start_at": "2026-06-06T00:00:00",
-      "location_name": "Alnes Fyr og Opplevelsessenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/utstilling-med-bjorg-thorhallsdottir/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-25486-2026-06-06",
       "title": "Aalesunds Museum",
       "start_at": "2026-06-06T11:00:00",
@@ -7706,19 +7584,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-34270-2026-06-06",
-      "title": "Stage Dolls",
-      "start_at": "2026-06-06T00:00:00",
-      "location_name": "Langevåg",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/stage-dolls-2/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-33136-2026-06-06",
       "title": "Sommeren tatt på sparket",
       "start_at": "2026-06-06T20:00:00",
@@ -7729,32 +7594,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-31337-2026-06-06",
-      "title": "Damp Natt",
-      "start_at": "2026-06-06T00:00:00",
-      "location_name": "Dampsentralen",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/damp-natt-3/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34806-2026-06-06",
-      "title": "KLUBB: Lars Hove Aase",
-      "start_at": "2026-06-06T00:00:00",
-      "location_name": "Terminalen Byscene",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/klubb-lars-hove-aase/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -11980,113 +11819,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e30d4e8d-bd37-48e2-9d5f-e6709da4d832",
-      "title": "The Amazing Digital Circus: The Last Act",
-      "description": "\"The Amazing Digital Circus” grand finale is here with a feature-length theatrical premiere!\nDiscover the fates of Pomni and the gang as they unravel the true secret & history of the\nDigital Circus as this show finally arrives at its last act.",
-      "start_at": "2026-06-05T20:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1c15c1f5f1bf49b093075bd09d207c76.jpg?width=1440&version=BAC1CD0B4561CFAB59C7E5BBA1AB895B",
-      "url": "https://www.odeonkino.no/film/the-amazing-digital-circus-the-last-act/",
-      "tags": [
-        "luxe",
-        "thriller",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ac620e13-21f0-4d40-8945-0736a6c488ba",
-      "title": "Backrooms",
-      "start_at": "2026-06-05T20:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
-      "url": "https://www.odeonkino.no/film/backrooms/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-28edcae7-691f-4920-b084-5087c25c217f",
-      "title": "Michael",
-      "start_at": "2026-06-05T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-836cd0a5-6aad-49e3-9a65-e36a1ec0ba47",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-06-05T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f4008de6-7725-479f-9d9c-a5d1ae5e5d56",
-      "title": "Backrooms",
-      "start_at": "2026-06-05T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
-      "url": "https://www.odeonkino.no/film/backrooms/",
-      "tags": [
-        "isense",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-31646ad1-25c3-4c54-beb8-74e4820e63c5",
-      "title": "Obsession",
-      "start_at": "2026-06-05T21:20:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
-      "url": "https://www.odeonkino.no/film/obsession/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
