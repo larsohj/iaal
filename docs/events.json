@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T12:41:45.932078+00:00",
-  "total": 805,
+  "generated_at": "2026-06-07T18:35:25.111267+00:00",
+  "total": 816,
   "failed_sources": [
     "viti"
   ],
@@ -115,6 +115,28 @@
       "url": "https://alesund.friskus.com/events/a8b0578b-c4b7-4985-bd81-e82a280fc2e7",
       "tags": [],
       "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-06-08T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
         "pensioner"
       ],
       "is_recurring": true
@@ -5252,6 +5274,26 @@
     },
     {
       "source": "tikkio",
+      "source_id": "tikkio-6b0311d399a696b95e665bd8fbe2c9ed",
+      "title": "Fotball VM - Kaifest Afterparty",
+      "description": "<p></p>",
+      "start_at": "2026-06-13T18:00:00",
+      "end_at": "2026-06-14T05:00:00",
+      "is_free": false,
+      "price_text": "NOK 270.00",
+      "location_name": "Bankplassen",
+      "city": "Ålesund",
+      "latitude": 62.3917269,
+      "longitude": 6.5803557,
+      "organizer": "Bankplassen",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-1.jpeg?class=w768",
+      "url": "https://tikkio.com/events/64366-fotball-vm-kaifest-afterparty",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
       "source_id": "tikkio-1b76ff6129e4231d0723207499d12e0c",
       "title": "Rotlaus, Hasundgot 50 år",
       "description": "Hasundgot feirer 50 år i 2026, i den forbindelse arrangerer vi konsert i vår nye storstue Hasundgot Arena.",
@@ -5527,7 +5569,7 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
       "tags": [],
       "age_groups": [],
@@ -5634,7 +5676,7 @@
       "source": "tikkio",
       "source_id": "tikkio-846aee0f3ce2d555365ced3831f7981c",
       "title": "Indiefjord 2026",
-      "description": "<p>Save the dates! Indiefjord 2026!</p><p>____</p><p>Bands and DJs:</p><p>Gaffa Tape Sandy (EN)</p><p>Roller Derby (DE)</p><p>Lande Hekt (EN)</p><p>Misty Coast (NO)</p><p>Veps (NO)</p><p>Soot Sprite (EN)</p><p>Marie Løvås (NO)</p><p>The Ethnobabes + Selma (NO)</p><p>Comic Sans (EN)</p><p>Jon Olav (NO)</p><p>Muttering (EN)</p><p>Engla Li (SE)</p><p>Selma (NO)</p><p>Burrell Parade (EN)</p><p>Olai Ringstad-Moldskred (NO)</p><p>Elliot Lorgen (NO)</p><p>Atta Girl DJs (EN)</p><p>Early Doors Disco x Come Out 2nite DJs (EN)</p><p>____</p><p>Photo from Indiefjord 2024 by Heinz Brossolat</p>",
+      "description": "<p>Save the dates! Indiefjord 2026!</p><p>____</p><p>Bands and DJs:</p><p>Gaffa Tape Sandy (EN)</p><p>Roller Derby (DE)</p><p>Lande Hekt (EN)</p><p>Misty Coast (NO)</p><p>Milano Flash (GR/SE)</p><p>Veps (NO)</p><p>Soot Sprite (EN)</p><p>Marie Løvås (NO)</p><p>The Ethnobabes + Selma (NO)</p><p>Comic Sans (EN)</p><p>Jon Olav (NO)</p><p>Muttering (EN)</p><p>Engla Li (SE)</p><p>Selma (NO)</p><p>Burrell Parade (EN)</p><p>Olai Ringstad-Moldskred (NO)</p><p>Elliot Lorgen (NO)</p><p>Atta Girl DJs (EN)</p><p>Early Doors Disco x Come Out 2nite DJs (EN)</p><p>____</p><p>Photo from Indiefjord 2024 by Heinz Brossolat</p>",
       "start_at": "2026-07-11T09:00:00",
       "end_at": "2026-07-13T01:00:00",
       "is_free": false,
@@ -6151,22 +6193,6 @@
     },
     {
       "source": "parken",
-      "source_id": "parken-47134-aalesund-big-band-sommerkonsert",
-      "title": "Aalesund Big Band: Sommerkonsert",
-      "start_at": "2026-06-07T15:00:00",
-      "end_at": "2026-06-07T16:15:00",
-      "location_name": "Parken kulturhus – Foajeen",
-      "city": "Ålesund",
-      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F47134%2Fweb-square.webp?version=0j/2OpoGTReZwrjsrwNXRA==",
-      "url": "https://www.parkenkulturhus.no/program/47134-aalesund-big-band-sommerkonsert/",
-      "tags": [
-        "konsert"
-      ],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "parken",
       "source_id": "parken-45212-a-studio",
       "title": "Å Studio",
       "location_name": "Parken kulturhus – Hovedscene",
@@ -6176,7 +6202,7 @@
       "url": "https://www.parkenkulturhus.no/program/45212-a-studio/",
       "tags": [
         "barn",
-        "få billetter igjen"
+        "utsolgt"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -7179,6 +7205,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-06-07",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-06-07T19:00:00",
+      "end_at": "2026-06-07T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-06-07",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-23231-2026-06-08",
       "title": "Seniorsvømming",
       "start_at": "2026-06-08T08:00:00",
@@ -7686,6 +7725,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-06-10",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-06-10T19:00:00",
+      "end_at": "2026-06-10T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-06-10",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-31038-2026-06-10",
       "title": "Onsdagsquiz med Hjerne-Per",
       "start_at": "2026-06-10T21:00:00",
@@ -7881,6 +7933,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-06-11",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-06-11T19:00:00",
+      "end_at": "2026-06-11T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-06-11",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-34427-2026-06-11",
       "title": "Country Afterparty med Diddi Velle",
       "start_at": "2026-06-11T00:00:00",
@@ -8063,6 +8128,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-06-12",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-06-12T19:00:00",
+      "end_at": "2026-06-12T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-06-12",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-34233-2026-06-12",
       "title": "Frida Ånnevik",
       "start_at": "2026-06-12T00:00:00",
@@ -8125,6 +8203,19 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-34825-2026-06-13",
+      "title": "Distriktsmesterskap for Hjelpekorps",
+      "start_at": "2026-06-13T09:00:00",
+      "end_at": "2026-06-13T16:00:00",
+      "location_name": "Røde Kors Aalesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/distriktsmesterskap-for-hjelpekorps/?occurrence=2026-06-13",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -8281,6 +8372,19 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-06-13",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-06-13T19:00:00",
+      "end_at": "2026-06-13T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-06-13",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -8499,6 +8603,19 @@
       "location_name": "Parken kulturhus",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/ole-edvard-antonsen-og-aalesunds-ungdomsmusikkorps-sommerkonsert/?occurrence=2026-06-14",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-06-14",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-06-14T19:00:00",
+      "end_at": "2026-06-14T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-06-14",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -8921,6 +9038,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-06-17",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-06-17T19:00:00",
+      "end_at": "2026-06-17T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-06-17",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-32935-2026-06-17",
       "title": "Vinsmaking Egon Müller",
       "start_at": "2026-06-17T20:00:00",
@@ -9051,6 +9181,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-06-18",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-06-18T19:00:00",
+      "end_at": "2026-06-18T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-06-18",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-24475-2026-06-18",
       "title": "Quiz hos O’Connor’s",
       "start_at": "2026-06-18T20:00:00",
@@ -9175,6 +9318,19 @@
       "location_name": "Hotel 1904",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/krystall-hotel-1904-358/?occurrence=2026-06-19",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-06-19",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-06-19T19:00:00",
+      "end_at": "2026-06-19T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-06-19",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -9350,6 +9506,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-06-20",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-06-20T19:00:00",
+      "end_at": "2026-06-20T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-06-20",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-34691-2026-06-20",
       "title": "Sommershow 2026 på Fabrikken + afterparty med allsang",
       "start_at": "2026-06-20T20:00:00",
@@ -9513,6 +9682,19 @@
       "location_name": "O'Connor's Irish Pub",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/brettspillkveld/?occurrence=2026-06-21",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-06-21",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-06-21T19:00:00",
+      "end_at": "2026-06-21T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-06-21",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -9935,6 +10117,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-06-24",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-06-24T19:00:00",
+      "end_at": "2026-06-24T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-06-24",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-34542-2026-06-25",
       "title": "Sommarles 2026",
       "start_at": "2026-06-25T00:00:00",
@@ -10046,6 +10241,19 @@
       "location_name": "Molo Brew",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/reko-ringen-utsalg-ved-molo-brew-697-886-385/?occurrence=2026-06-25&time=1782409800",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-06-25",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-06-25T19:00:00",
+      "end_at": "2026-06-25T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-06-25",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -10208,6 +10416,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-06-26",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-06-26T19:00:00",
+      "end_at": "2026-06-26T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-06-26",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-34434-2026-06-26",
       "title": "Quiz på Damp!",
       "start_at": "2026-06-26T19:30:00",
@@ -10351,6 +10572,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-06-27",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-06-27T19:00:00",
+      "end_at": "2026-06-27T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-06-27",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-31337-2026-06-27",
       "title": "Damp Natt",
       "start_at": "2026-06-27T00:00:00",
@@ -10475,6 +10709,19 @@
       "location_name": "O'Connor's Irish Pub",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/brettspillkveld/?occurrence=2026-06-28",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-06-28",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-06-28T19:00:00",
+      "end_at": "2026-06-28T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-06-28",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -10793,6 +11040,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-07-01",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-07-01T19:00:00",
+      "end_at": "2026-07-01T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-07-01",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-34542-2026-07-02",
       "title": "Sommarles 2026",
       "start_at": "2026-07-02T00:00:00",
@@ -10865,6 +11125,19 @@
       "location_name": "Borgund Dyreklubb",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-07-02",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-07-02",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-07-02T19:00:00",
+      "end_at": "2026-07-02T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-07-02",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -10969,6 +11242,19 @@
       "location_name": "Hotel 1904",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/krystall-hotel-1904-358/?occurrence=2026-07-03",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-07-03",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-07-03T19:00:00",
+      "end_at": "2026-07-03T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-07-03",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -11092,6 +11378,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-07-04",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-07-04T19:00:00",
+      "end_at": "2026-07-04T22:00:00",
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-07-04",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-34691-2026-07-04",
       "title": "Sommershow 2026 på Fabrikken + afterparty med allsang",
       "start_at": "2026-07-04T20:00:00",
@@ -11208,225 +11507,17 @@
       "is_recurring": false
     },
     {
-      "source": "odeon",
-      "source_id": "odeon-cc358333-780f-44e9-a018-78437d0a8248",
-      "title": "Masters of the Universe",
-      "description": "En ung mann på jorden oppdager en hemmelig arv på en utenomjordisk planet, og må finne tilbake et magisk sverd og vende hjem for å beskytte sitt kongerike.",
-      "start_at": "2026-06-07T14:15:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-34821-2026-07-05",
+      "title": "Sommerkino på Løvenvold Theater!",
+      "start_at": "2026-07-05T19:00:00",
+      "end_at": "2026-07-05T22:00:00",
+      "location_name": "Løvenvold Theater",
       "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/cfb9e5835b574987a6852ecec705128b.jpg?width=1440&version=890C585B085D8E30D5942CDDD02EC1C7",
-      "url": "https://www.odeonkino.no/film/masters-of-the-universe/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
+      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-07-05",
+      "tags": [],
       "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f405defb-1eb8-4dd5-aa6c-8d067f48724f",
-      "title": "GOAT - Drøm stort",
-      "start_at": "2026-06-07T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
-      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-17fcd831-89ee-4df9-aeda-ae8c54cc77fc",
-      "title": "Sauedetektivene",
-      "start_at": "2026-06-07T15:15:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/74f86cdf03fc453b971f9c0043bdb84f.jpg?width=1440&version=06072C6BE247FAADBC66ABD1BF1EC21B",
-      "url": "https://www.odeonkino.no/film/sauedetektivene/",
-      "tags": [
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-af326e2b-8183-4af6-8c13-7e922a112340",
-      "title": "Project Hail Mary",
-      "description": "Naturfaglæreren Ryland Grace våkner opp på et romskip lysår hjemmefra. Filmen er basert på sci-fi romanen med samme navn, av Andy Weir.",
-      "start_at": "2026-06-07T15:15:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7cebb4d879494d5d8ec09dc77bedad71.jpg?width=1440&version=A244E710B6420D117A348E74D7FB9F77",
-      "url": "https://www.odeonkino.no/film/project-hail-mary/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-465303a3-e055-4c1b-a4a4-669b3a46eec3",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-06-07T15:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-79a0f598-7dc3-4d23-8170-f65942f6f3b5",
-      "title": "Couture",
-      "start_at": "2026-06-07T15:45:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f3097f86b7bf4b609d745d5e61e0b62d.jpg?width=1440&version=C7D58E8BB7EF6BB122AEC0CA4C5D7FA1",
-      "url": "https://www.odeonkino.no/film/couture/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-1b4b7b63-b915-43cc-beae-c694f50c2abc",
-      "title": "Backrooms",
-      "start_at": "2026-06-07T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
-      "url": "https://www.odeonkino.no/film/backrooms/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-dbb567fc-9735-46b2-9f34-c121b4144b30",
-      "title": "The Amazing Digital Circus: The Last Act",
-      "description": "\"The Amazing Digital Circus” grand finale is here with a feature-length theatrical premiere!\nDiscover the fates of Pomni and the gang as they unravel the true secret & history of the\nDigital Circus as this show finally arrives at its last act.",
-      "start_at": "2026-06-07T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1c15c1f5f1bf49b093075bd09d207c76.jpg?width=1440&version=BAC1CD0B4561CFAB59C7E5BBA1AB895B",
-      "url": "https://www.odeonkino.no/film/the-amazing-digital-circus-the-last-act/",
-      "tags": [
-        "luxe",
-        "thriller",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-07ae06c0-0068-44d1-8631-581336059846",
-      "title": "Michael",
-      "start_at": "2026-06-07T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-798ada39-f53e-4046-9b2f-80e09d267e1e",
-      "title": "Masters of the Universe",
-      "description": "En ung mann på jorden oppdager en hemmelig arv på en utenomjordisk planet, og må finne tilbake et magisk sverd og vende hjem for å beskytte sitt kongerike.",
-      "start_at": "2026-06-07T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/cfb9e5835b574987a6852ecec705128b.jpg?width=1440&version=890C585B085D8E30D5942CDDD02EC1C7",
-      "url": "https://www.odeonkino.no/film/masters-of-the-universe/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-de076bce-4115-40b1-a5ed-c3d49cfb19b8",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-06-07T18:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d5172996-74c5-4e53-9b2b-c1403bde55c5",
-      "title": "Obsession",
-      "start_at": "2026-06-07T18:45:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
-      "url": "https://www.odeonkino.no/film/obsession/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
+      "is_recurring": false
     },
     {
       "source": "odeon",
