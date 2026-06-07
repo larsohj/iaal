@@ -1,29 +1,31 @@
 {
-  "generated_at": "2026-06-06T18:34:27.178039+00:00",
-  "total": 842,
+  "generated_at": "2026-06-07T01:05:48.786343+00:00",
+  "total": 826,
   "failed_sources": [
     "viti"
   ],
   "events": [
     {
       "source": "friskus",
-      "source_id": "friskus-c79a9fcd-8caf-440c-94e2-7dd92106a0c5",
-      "title": "SOMMEREN TATT PÅ SPARKET",
-      "start_at": "2026-06-06T19:30:00",
-      "end_at": "2026-06-06T23:00:00",
-      "is_free": false,
-      "location_name": "Kaula",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-06-07T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
       "city": "Ålesund",
-      "organizer": "Kaula",
-      "image_url": "https://ucarecdn.com/12d88d06-9702-47b4-ba6e-fc703ca69d56/-/crop/2000x545/0,213/-/preview/",
-      "url": "https://alesund.friskus.com/events/c79a9fcd-8caf-440c-94e2-7dd92106a0c5",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
       "tags": [],
       "age_groups": [
+        "children",
         "teenager",
+        "family",
         "senior",
         "pensioner"
       ],
-      "is_recurring": false
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -2808,24 +2810,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-c90a4a9e-3b46-461f-b728-080b34a008b5",
-      "title": "Connect",
-      "start_at": "2026-06-06T20:30:00",
-      "end_at": "2026-06-13T23:59:00",
-      "is_free": true,
-      "location_name": "Sula Frikirke",
-      "city": "Ålesund",
-      "organizer": "Sula Frikirke",
-      "image_url": "https://ucarecdn.com/4c115c49-6349-4447-abbf-fb8c70300fd1/-/crop/2045x559/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/c90a4a9e-3b46-461f-b728-080b34a008b5",
-      "tags": [],
-      "age_groups": [
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-7ba9b0bd-5764-463a-9974-eb8695277d57",
       "title": "Søndagsskolen",
       "start_at": "2026-06-07T11:00:00",
@@ -3024,6 +3008,24 @@
         "family",
         "senior",
         "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-c90a4a9e-3b46-461f-b728-080b34a008b5",
+      "title": "Connect",
+      "start_at": "2026-06-13T20:30:00",
+      "end_at": "2026-06-13T23:59:00",
+      "is_free": true,
+      "location_name": "Sula Frikirke",
+      "city": "Ålesund",
+      "organizer": "Sula Frikirke",
+      "image_url": "https://ucarecdn.com/4c115c49-6349-4447-abbf-fb8c70300fd1/-/crop/2045x559/0,0/-/preview/",
+      "url": "https://alesund.friskus.com/events/c90a4a9e-3b46-461f-b728-080b34a008b5",
+      "tags": [],
+      "age_groups": [
+        "teenager"
       ],
       "is_recurring": true
     },
@@ -3797,24 +3799,6 @@
       "age_groups": [
         "pensioner"
       ],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-3c5981661ae9000dc06914d00af42637",
-      "title": "☀️ SOMMEREN TATT PÅ SPARKET ☀️",
-      "description": "Velkommen til en morsom og fullstendig uforutsigbar sommerforestilling! ☀️\r\n\r\nDenne kvelden inviterer vi deg til en helt spesiell teateropplevelse der sommerfølelsen oppstår i øyeblikket.\r\n\r\nI stedet for et ferdig manus skaper skuespillerne forestillingen på sparket. Det betyr at handlingen, relasjonene, ferieromanser, vennskap, misforståelser, sangene og humoren blir til på stedet – ofte inspirert av forslag fra publikum. Ingen vet hva som kommer til å skje… heller ikke skuespillerne! 🌊🌞\r\n\r\nKanskje havner vi på en strand langt borte, på en svett roadtrip, på hyttetur med mygg og mystikk – eller midt i en uventet sommerforelskelse? Alt kan skje når fantasien får fritt spillerom.\r\n\r\nPasser for alle som liker varme kvelder, latter og god stemning – enten du kommer med venner, familie eller alene. \r\n\r\nBli med på en sommerfeiring full av fantasi, lek, varme – og kanskje litt dramatikk? 🌺\r\n\r\nDette er teater slik du aldri har sett det før – og aldri får se igjen!\r\n\r\n📌 Sobra Scene | Korsegata 6\r\n📅 Lørdag 6. juni kl 20:00 | Dørene åpner kl 19:30",
-      "start_at": "2026-06-06T19:30:00",
-      "end_at": "2026-06-06T23:00:00",
-      "is_free": false,
-      "price_text": "NOK 130.00",
-      "location_name": "Sobra scene",
-      "city": "Ålesund",
-      "organizer": "KAULA",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_0f8c3e4091f12a60a5ce4fcfb4bc53cb.jpg?class=w768",
-      "url": "https://tikkio.com/events/62563-sommeren-tatt-pa-sparket",
-      "tags": [],
-      "age_groups": [],
       "is_recurring": false
     },
     {
@@ -5090,26 +5074,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-9817f62fc903fcabe86d3aefa87ff9b8",
-      "title": "Buss etter dansen",
-      "description": "Join us for Buss etter dansen. More details about this event will be published soon.",
-      "start_at": "2026-06-07T02:00:00",
-      "end_at": "2026-06-07T03:00:00",
-      "is_free": false,
-      "price_text": "NOK 120.00",
-      "location_name": "Langevåg",
-      "city": "Ålesund",
-      "latitude": 62.4407847,
-      "longitude": 6.1915121,
-      "organizer": "LANGEVÅG RØDE KORS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
-      "url": "https://tikkio.com/events/64281-buss-etter-dansen",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-f47bc89dc6a1b368a1868cb02d216968",
       "title": "Sommerskole \"Dyr, gårdsliv og aktiviteter\" uke 26 (mandag til torsdag)",
       "description": "Velkommen til sommerskole på gården med læring om dyr og gårdsliv, dyrevelferd, dyrestell, dyrekos og mange kjekke og morsomme aktiviteter for barn fra 8 år. Vi har fokus på inkludering og integrering, trivsel, læring og at alle har gode opplevelser hos oss. Sommerskole og aktiviteter starter hver dag kl. 10.00, men deltakere kan sjekke inn fra kl. 9.30. Vi er ute uansett vær. På formiddagen blir det læring om dagens dag, stell av alle smådyra og fôring av griser, høner, kalkuner, katten Figaro, fugler og vaktler, kaniner, marsvin og chinchilla og våre hester og ponnier. Ca. kl. 11.45 spiser vi medbrakt lunsj i lag. Elever må ha med seg en god matpakke (mandag til onsdag) og vannflaske. Torsdag ordner vi med felleslunsj og det blir grilling eller pizza (ved regnvær). \r\nEtter lunsj tilbyr vi forskjellige aktiviteter, avhengig av vær og gruppesammensetning som f. eks. kreativworkshop, heste-og ponnikos med børsting og fletting, ridning, rebus, quiz, bingo, kjepphestkonkurranse, tur i nærområde, fiskelykke, besøk av Sunnmøre museum eller middelaldermuseum, lage akvarium, bade med hester, vannkrig mm. \r\nKl. 13.45 serverer vi frukt/snacks/is og tar en liten oppsummering før vi avslutter sommerskoledagen kl. 14.00. \r\n\r\nPAKKELISTE: Vi er ute! Det betyr, deltakere må ha klær etter vær og i tillegg: \r\n- Vanntette sko (uansett vær) \r\n- Sitteunderlag \r\n- Drikkeflaske, ev. termos med varm drikke.\r\n- Matpakke til lunsj (mandag-onsdag), ev. ekstra mat\r\n- ev. klesskift \r\n- Solkrem og caps/solhatt \r\n\r\nPrisen inkluderer alle aktiviteter, inngangspenger, snacks/frukt/is på alle dager, lunsj på siste dagen og bruk av utstyr (f.eks. ridehjelm/sikkerhetsvest). \r\nEtter påmelding via tikkio, blir deltakere kontaktet og får tilsendt registrerings- og samtykkeskjema på epost. \r\n\r\nDersom ditt barn har behov for tilrettelegging så trenger vi informasjon om type tilrettelegging i god tid på forhånd. Ta kontakt med oss: judith.damm@alesund.kommune.no\r\n\r\nVi prøver å inkludere alle deltakere så godt vi kan, men har en del begrensninger i stallen. Bruk av rullestol er ikke tillatt i stallen og ponnistallen, og vi har ingen heis i stallen for å komme på salrom i 2. etasje eller høyloftet i 3. etasje. \r\n\r\nVi har dessverre ikke mulighet til å refundere kjøpte billetter eller endre på tidspunkt. Det blir ingen refusjon ved sykdom eller manglende oppmøte. \r\n\r\nÅlesund kommune har tegnet en kollektiv ulykkesforsikring for alle barn i kommunale skoler. Forsikringen gjelder ved ulykkeskade også på sommerskole på Borgund Dyreklubb for elever som tilhører Ålesund Kommune. Borgund Dyreklubb frasier seg alt av ansvar for skader på deltakerens utstyr/klær. \r\nVi gjør oppmerksom på at all deltakelse skjer på eget ansvar og egen risiko for deltakere fra andre kommuner enn Ålesund. Borgund Dyreklubb frasier seg alt ansvar for skader på deltakere og deres utstyr/klær.",
@@ -5626,7 +5590,7 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
       "tags": [],
       "age_groups": [],
@@ -6224,26 +6188,6 @@
       "organizer": "STRYN PING PONG CLUB",
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_b473d9dea73bb3ed3cb5918ae9b6a842.jpg?class=w768",
       "url": "https://tikkio.com/events/58915-oktoberfest-stryn-2026",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-1c42a0a8461f96f0154f1fa8d9da8d77",
-      "title": "Trøyst - triste songar til trøyst",
-      "description": "<h1>TRØYST</h1><p><em>triste songar til trøyst</em></p><p>Trøyst er ein trio frå Florø som består av<br>Sanja Dukanac på cello, Jorunn Bakke Nydal på piano,<br>og Arne Hjorth Johansen på vokal.</p><p>Trøyst speler triste viser veldig sakte,<br>og av og til nokre triste songar litt mindre sakte.</p><p>Det er norske tekster om dette livet vi alle går<br>og strever med. Nokon av songane er oversatt<br>av vokalisten sjølv, andre er meir eller mindre<br>kjente perler frå norske artistar. I det siste har<br>det også sneke seg inn songar dei har laga heilt<br>sjølv på repertoaret.</p><p>Etter ein langsam kyrkjeturné og konsert på<br>Vesle Kinn i Florø, er dei no klare for ein<br>ny konsert på Låven hos Hornelen Panorama i Bremanger.</p><p>Du set tørt og godt under konserten, men Låven er usiolert så kle deg etter vær og temperatur</p><p>Servering, og 18 års aldersgrense</p><p>Dørane åpnar kl 19</p>",
-      "start_at": "2026-06-06T19:00:00",
-      "end_at": "2026-06-06T22:30:00",
-      "is_free": false,
-      "price_text": "NOK 150.00",
-      "location_name": "Låven hos Hornelen Panorama",
-      "city": "Ålesund",
-      "latitude": 61.8548041,
-      "longitude": 5.3277075,
-      "organizer": "Hornelen Panorama",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_fd9cba37bd0e2c685bd367c31f8d1bfd.webp?class=w768",
-      "url": "https://tikkio.com/events/63997-konsert-med-troyst",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -7272,84 +7216,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-33136-2026-06-06",
-      "title": "Sommeren tatt på sparket",
-      "start_at": "2026-06-06T20:00:00",
-      "end_at": "2026-06-06T21:00:00",
-      "location_name": "Sobra scene",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommeren-tatt-pa-sparket/?occurrence=2026-06-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-28717-2026-06-07",
-      "title": "Helgeprogram i Atlanterhavsparken – akvarium og vitensenter",
-      "start_at": "2026-06-07T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/helgeprogram-i-atlanterhavsparken-akvarium-og-vitensenter-2/?occurrence=2026-06-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34542-2026-06-07",
-      "title": "Sommarles 2026",
-      "start_at": "2026-06-07T00:00:00",
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommarles-2026/?occurrence=2026-06-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34592-2026-06-07",
-      "title": "Jugendstildagane 2026",
-      "start_at": "2026-06-07T00:00:00",
-      "location_name": "Jugendstilsenteret og KUBE",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/jugendstildagane-2026/?occurrence=2026-06-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34689-2026-06-07",
-      "title": "Atlanterhavsparkens sommerprogram 2026",
-      "start_at": "2026-06-07T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/atlanterhavsparkens-sommerprogram/?occurrence=2026-06-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33749-2026-06-07",
-      "title": "Utstilling med Bjørg Thorhallsdottir",
-      "start_at": "2026-06-07T00:00:00",
-      "location_name": "Alnes Fyr og Opplevelsessenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/utstilling-med-bjorg-thorhallsdottir/?occurrence=2026-06-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-30559-2026-06-07",
       "title": "Yoga Piano våren 2026",
       "start_at": "2026-06-07T10:30:00",
@@ -7438,19 +7304,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34339-2026-06-07",
-      "title": "Arnold Eidslott 100 år – jubileumskonsert i Spjelkavik kyrkje",
-      "start_at": "2026-06-07T00:00:00",
-      "location_name": "Spjelkavik kirke",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/arnold-eidslott-100-ar-jubileumskonsert-i-spjelkavik-kyrkje/?occurrence=2026-06-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -11510,113 +11363,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-21fe6930-2bf4-4bdf-bff5-9a0b057f4ef8",
-      "title": "The Amazing Digital Circus: The Last Act",
-      "description": "\"The Amazing Digital Circus” grand finale is here with a feature-length theatrical premiere!\nDiscover the fates of Pomni and the gang as they unravel the true secret & history of the\nDigital Circus as this show finally arrives at its last act.",
-      "start_at": "2026-06-06T20:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1c15c1f5f1bf49b093075bd09d207c76.jpg?width=1440&version=BAC1CD0B4561CFAB59C7E5BBA1AB895B",
-      "url": "https://www.odeonkino.no/film/the-amazing-digital-circus-the-last-act/",
-      "tags": [
-        "luxe",
-        "thriller",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f9fcd7e0-3433-41e3-82bf-f98bf030c87d",
-      "title": "Backrooms",
-      "start_at": "2026-06-06T20:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
-      "url": "https://www.odeonkino.no/film/backrooms/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d6903134-c59e-4025-b375-c742c72cecc7",
-      "title": "Michael",
-      "start_at": "2026-06-06T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-fa4fdb56-8b0e-45d9-b6ed-a8f0cd523f47",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-06-06T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-07e2c949-937a-4c47-9f46-c07753eb2c69",
-      "title": "Backrooms",
-      "start_at": "2026-06-06T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
-      "url": "https://www.odeonkino.no/film/backrooms/",
-      "tags": [
-        "isense",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-fa634bf4-d117-4bdb-bb5f-b3949a2e06f6",
-      "title": "Obsession",
-      "start_at": "2026-06-06T21:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
-      "url": "https://www.odeonkino.no/film/obsession/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-249a2f7b-90a3-4857-ae2a-5a85f4d00101",
       "title": "GOAT - Drøm stort",
       "start_at": "2026-06-07T10:30:00",
@@ -13796,9 +13542,8 @@
       "source": "aafk",
       "source_id": "aafk-070e145b-c389-459a-85b4-7f61f85402c5",
       "title": "Eliteserien: Aalesund - Molde",
-      "start_at": "2026-07-11T16:00:00",
       "is_free": false,
-      "price_text": "50 kr",
+      "price_text": "NOK 50",
       "location_name": "Color Line Stadion",
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1067217/default_file-1780653448.jpeg",
@@ -13808,6 +13553,7 @@
       ],
       "age_groups": [],
       "is_recurring": false,
+      "start_at": null,
       "end_at": null
     },
     {
@@ -13816,7 +13562,7 @@
       "title": "Toppserien: AaFK Kvinner - Bodø\\u002FGlimt",
       "start_at": "2026-06-20T12:00:00",
       "is_free": false,
-      "price_text": "50 kr",
+      "price_text": "NOK 50",
       "location_name": "Color Line Stadion",
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1084512/default_file-1780164858.jpeg",
@@ -13834,7 +13580,7 @@
       "title": "Eliteserien: Aalesund - Viking",
       "start_at": "2026-07-26T19:15:00",
       "is_free": false,
-      "price_text": "50 kr",
+      "price_text": "NOK 50",
       "location_name": "Color Line Stadion",
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1067218/default_default_event_image.png",
@@ -13852,7 +13598,7 @@
       "title": "Eliteserien: Aalesund - Tromsø",
       "start_at": "2026-08-02T17:00:00",
       "is_free": false,
-      "price_text": "50 kr",
+      "price_text": "NOK 50",
       "location_name": "Color Line Stadion",
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1067222/default_default_event_image.png",
@@ -13870,7 +13616,7 @@
       "title": "OBOS-camp Sommerproff 2026",
       "start_at": "2026-08-03T08:30:00",
       "is_free": false,
-      "price_text": "1 125 kr",
+      "price_text": "NOK 1,125",
       "location_name": "Sparebanken Møre Arena",
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1105424/default_file-1747823817.jpeg",
@@ -13888,7 +13634,7 @@
       "title": "AaFK Kvinner Fotballskole – i samarbeid med Sparebanken Møre!",
       "start_at": "2026-08-11T09:00:00",
       "is_free": false,
-      "price_text": "1 125 kr",
+      "price_text": "NOK 1,125",
       "location_name": "Aksla stadion",
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1128652/default_file-1778841204.jpeg",
