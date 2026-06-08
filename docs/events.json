@@ -1,146 +1,10 @@
 {
-  "generated_at": "2026-06-08T07:54:55.410898+00:00",
-  "total": 804,
+  "generated_at": "2026-06-08T13:37:32.870561+00:00",
+  "total": 788,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-06-08T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-eb565430-b4ac-476a-8742-922a8bf7342f",
-      "title": "Malergruppe",
-      "start_at": "2026-06-08T10:00:00",
-      "end_at": "2026-06-29T11:00:00",
-      "is_free": true,
-      "location_name": "Klipra seniorsenter",
-      "city": "Ålesund",
-      "organizer": "Klipra seniorsenter",
-      "image_url": "https://ucarecdn.com/bd998b12-a843-4688-ad56-39cb535f07d8/-/crop/1796x940/69,476/-/preview/",
-      "url": "https://alesund.friskus.com/events/eb565430-b4ac-476a-8742-922a8bf7342f",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-fd3cf089-fd4b-4773-85d6-707e40071b55",
-      "title": "Få hjelp av Kreftforeningens hverdagshjelp i Ålesund",
-      "start_at": "2026-06-08T10:00:00",
-      "end_at": "2028-06-05T22:00:00",
-      "is_free": true,
-      "location_name": "Kreftforeningen",
-      "city": "Ålesund",
-      "organizer": "Kreftforeningen",
-      "image_url": "https://ucarecdn.com/a788b2e4-169e-4d6c-a754-3bdb22a9c2d7/-/crop/1181x322/0,106/-/preview/",
-      "url": "https://alesund.friskus.com/events/fd3cf089-fd4b-4773-85d6-707e40071b55",
-      "tags": [],
-      "age_groups": [
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-5ee60961-e8fd-4263-88e8-940882b9565c",
-      "title": "Bingo",
-      "start_at": "2026-06-08T11:30:00",
-      "end_at": "2026-06-22T12:30:00",
-      "is_free": false,
-      "location_name": "Klipra seniorsenter",
-      "city": "Ålesund",
-      "organizer": "Klipra seniorsenter",
-      "image_url": "https://ucarecdn.com/8b801fde-4545-4402-b108-bc996feea63c/-/crop/650x177/0,79/-/preview/",
-      "url": "https://alesund.friskus.com/events/5ee60961-e8fd-4263-88e8-940882b9565c",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-3a9ef69b-96ca-4c28-9b05-053f6f805249",
-      "title": "Gåtur - Tueneset",
-      "start_at": "2026-06-08T12:00:00",
-      "end_at": "2026-06-08T14:00:00",
-      "is_free": true,
-      "location_name": "LHL Ålesund Sula og Giske",
-      "city": "Ålesund",
-      "organizer": "LHL Ålesund Sula og Giske",
-      "image_url": "https://ucarecdn.com/5f9cf3e3-73b8-4b02-aff0-759a51a716c7/-/crop/828x226/0,53/-/preview/",
-      "url": "https://alesund.friskus.com/events/3a9ef69b-96ca-4c28-9b05-053f6f805249",
-      "tags": [],
-      "age_groups": [
-        "senior"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-a8b0578b-c4b7-4985-bd81-e82a280fc2e7",
-      "title": "Dans med Aspøy Seniordansering",
-      "start_at": "2026-06-08T12:00:00",
-      "end_at": "2026-06-15T14:30:00",
-      "is_free": true,
-      "location_name": "Ålesund frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Ålesund frivilligsentral",
-      "image_url": "https://ucarecdn.com/f048d761-23cd-4ddf-b774-53d7113c0588/-/crop/500x136/0,151/-/preview/",
-      "url": "https://alesund.friskus.com/events/a8b0578b-c4b7-4985-bd81-e82a280fc2e7",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-06-08T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-52ff2260-1ef3-4022-ae78-cfe7c3c53d52",
@@ -1128,24 +992,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-d091f722-fbae-4e10-b00a-35bb32d9e76d",
-      "title": "Ungdomsklubben Kvalen - Harøy. Fra 8 klasse til 20 år.",
-      "start_at": "2026-06-12T19:00:00",
-      "end_at": "2026-06-12T23:00:00",
-      "is_free": true,
-      "location_name": "Sandøy Frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Sandøy Frivilligsentral",
-      "image_url": "https://ucarecdn.com/893c5724-96f4-4d19-b07d-c93ef20421dc/-/crop/628x537/44,0/-/preview/-/resize/x300/-/setfill/3885cc/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/d091f722-fbae-4e10-b00a-35bb32d9e76d",
-      "tags": [],
-      "age_groups": [
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-0dcc1104-0937-4151-8f0e-b673833a17c0",
       "title": "AKTIV LØRDAG på Borgund Dyreklubb Juni 2026",
       "start_at": "2026-06-13T10:00:00",
@@ -1246,6 +1092,60 @@
         "pensioner"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-eb565430-b4ac-476a-8742-922a8bf7342f",
+      "title": "Malergruppe",
+      "start_at": "2026-06-15T10:00:00",
+      "end_at": "2026-06-29T11:00:00",
+      "is_free": true,
+      "location_name": "Klipra seniorsenter",
+      "city": "Ålesund",
+      "organizer": "Klipra seniorsenter",
+      "image_url": "https://ucarecdn.com/bd998b12-a843-4688-ad56-39cb535f07d8/-/crop/1796x940/69,476/-/preview/",
+      "url": "https://alesund.friskus.com/events/eb565430-b4ac-476a-8742-922a8bf7342f",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-5ee60961-e8fd-4263-88e8-940882b9565c",
+      "title": "Bingo",
+      "start_at": "2026-06-15T11:30:00",
+      "end_at": "2026-06-22T12:30:00",
+      "is_free": false,
+      "location_name": "Klipra seniorsenter",
+      "city": "Ålesund",
+      "organizer": "Klipra seniorsenter",
+      "image_url": "https://ucarecdn.com/8b801fde-4545-4402-b108-bc996feea63c/-/crop/650x177/0,79/-/preview/",
+      "url": "https://alesund.friskus.com/events/5ee60961-e8fd-4263-88e8-940882b9565c",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-a8b0578b-c4b7-4985-bd81-e82a280fc2e7",
+      "title": "Dans med Aspøy Seniordansering",
+      "start_at": "2026-06-15T12:00:00",
+      "end_at": "2026-06-15T14:30:00",
+      "is_free": true,
+      "location_name": "Ålesund frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Ålesund frivilligsentral",
+      "image_url": "https://ucarecdn.com/f048d761-23cd-4ddf-b774-53d7113c0588/-/crop/500x136/0,151/-/preview/",
+      "url": "https://alesund.friskus.com/events/a8b0578b-c4b7-4985-bd81-e82a280fc2e7",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -3145,28 +3045,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-4099e8e2-02df-4c0a-880e-02130c8fd1c7",
-      "title": "Biblioteket er ope i dag!",
-      "start_at": "2026-06-08T13:00:00",
-      "end_at": "2026-06-19T15:30:00",
-      "is_free": true,
-      "location_name": "Giske folkebibliotek",
-      "city": "Ålesund",
-      "organizer": "Giske folkebibliotek",
-      "image_url": "https://ucarecdn.com/291cb93f-fd25-460e-a4da-21b6d9547361/-/crop/1200x328/0,170/-/preview/",
-      "url": "https://alesund.friskus.com/events/4099e8e2-02df-4c0a-880e-02130c8fd1c7",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-cb765ce4-6205-4627-95c9-32f0215b1e2c",
       "title": "Formiddagstreff",
       "start_at": "2026-06-09T11:00:00",
@@ -4976,8 +4854,8 @@
       "source": "tikkio",
       "source_id": "tikkio-7385d501f46d64425bdb91673f92a433",
       "title": "BRAD PAISLEY / SPECIAL GUEST: SIERRA HULL, SEBB OTTESEN, SCOTT SCOVILL/ ÅLESUND - UTSOLGT!",
-      "description": "BRAD PAISLEY / ÅLESUND\r\nSpecial guest: Sierra Hull, Sebb Ottesen, Scott Scovill.\r\n\r\nUTSOLGT! \r\n\r\nBILLETTER I SALG FRA  FREDAG 24 oktober kl 10.00.\r\n\r\nNB! Medlemmer av Momentiums nyhetsbrev har tilgang til et eksklusivt pre-salg som starter torsdag 23 oktober kl 10.00. \r\n\r\nMeld deg inn her: https://momentium.mailmojo.no/forms/subscribe/32144/\r\n\r\nBrad Paisley har for lengst sikret sin plass i countrymusikkens historie som en av sjangerens mest talentfulle og prisbelønte mannlige soloartister. I snart 25 år har hans låtskriving og unike scenetilstedeværelse gitt ham en rekke utmerkelser – blant annet tre GRAMMY-priser, to American Music Awards, 15 Academy of Country Music Awards og 14 Country Music Association Awards – inkludert den høythengende tittelen Entertainer of the Year.Han er også kjent som den mest suksessrike programlederen i CMA Awards’ historie, etter å ha ledet showet sammen med Carrie Underwood i hele 11 år på rad.\r\n\r\nSiden 2001 har Paisley vært medlem av Grand Ole Opry, og han har skrevet 21 av sine 25 låter som har nådd førsteplass på hitlistene. I 2008 ble han den første artisten noensinne til å oppnå 10 sammenhengende førsteplasser på Billboard Country Airplay-listen. Til sammen har superstjernen opparbeidet seg nærmere 5 milliarder strømminger i løpet av karrieren.",
-      "start_at": "2026-06-11T18:00:00",
+      "description": "<p>BRAD PAISLEY / ÅLESUND</p><p>Special guest: Sierra Hull, Sebb Ottesen, Scott Scovill.</p><p>UTSOLGT!</p><p>BILLETTER I SALG FRA  FREDAG 24 oktober kl 10.00.</p><p>NB! Medlemmer av Momentiums nyhetsbrev har tilgang til et eksklusivt pre-salg som starter torsdag 23 oktober kl 10.00.</p><p>Meld deg inn her: https://momentium.mailmojo.no/forms/subscribe/32144/</p><p>Brad Paisley har for lengst sikret sin plass i countrymusikkens historie som en av sjangerens mest talentfulle og prisbelønte mannlige soloartister. I snart 25 år har hans låtskriving og unike scenetilstedeværelse gitt ham en rekke utmerkelser – blant annet tre GRAMMY-priser, to American Music Awards, 15 Academy of Country Music Awards og 14 Country Music Association Awards – inkludert den høythengende tittelen Entertainer of the Year.Han er også kjent som den mest suksessrike programlederen i CMA Awards’ historie, etter å ha ledet showet sammen med Carrie Underwood i hele 11 år på rad.</p><p>Siden 2001 har Paisley vært medlem av Grand Ole Opry, og han har skrevet 21 av sine 25 låter som har nådd førsteplass på hitlistene. I 2008 ble han den første artisten noensinne til å oppnå 10 sammenhengende førsteplasser på Billboard Country Airplay-listen. Til sammen har superstjernen opparbeidet seg nærmere 5 milliarder strømminger i løpet av karrieren.</p>",
+      "start_at": "2026-06-11T17:00:00",
       "end_at": "2026-06-11T23:59:00",
       "is_free": false,
       "price_text": "NOK 895.00",
@@ -5237,7 +5115,7 @@
       "source": "tikkio",
       "source_id": "tikkio-64f83e5a85c2c5d695c837d381a7d1c3",
       "title": "Bygdameisterskap i Quiz - Sykkylvsdagar 2026",
-      "description": "Fredag 12. juni inviterer vi til Bygdameisterskap i Quiz i teltet ved kaitrappa! Her vert det god stemning og konkurranse for å kåre dei skarpaste hovuda. Quizmaster for kvelden er Olav Harald Ulstein\r\n\r\nSamle 4–6 personar og still med lag, og ikkje gløym å finne på eit godt og kreativt lagnamn!\r\n\r\nHar du ikkje lag, kan melde deg på som enkeltperson og bli sett saman i eit blandalag.\r\n\r\nDet vert sal av enkel mat og snacks, og sjølvsagt noko godt å drikke gjennom heile kvelden. Når meisterskapen er avgjort, held vi fram med pubkveld og fengande musikk.\r\n\r\nAldersgrense: 18 år\r\n\r\nDørene opnar: 19.00\r\n\r\nQuizstart: 20.30\r\n\r\nBillettpris per deltakar: kr. 200,-\r\n\r\nBillettar kjøpast i døra!\r\n\r\nTa med godt humør og konkurranseinstinkt, vi gler oss til ein minnerik kveld!",
+      "description": "<p>Fredag 12. juni inviterer vi til Bygdameisterskap i Quiz i teltet ved kaitrappa! Her vert det god stemning og konkurranse for å kåre dei skarpaste hovuda. Quizmaster for kvelden er Olav Harald Ulstein</p><p>Samle 4–6 personar og still med lag, og ikkje gløym å finne på eit godt og kreativt lagnamn!</p><p>Har du ikkje lag, kan melde deg på som enkeltperson og bli sett saman i eit blandalag.</p><p>Det vert sal av enkel mat og snacks, og sjølvsagt noko godt å drikke gjennom heile kvelden. Når meisterskapen er avgjort, held vi fram med pubkveld og fengande musikk.</p><p>Aldersgrense: 18 år</p><p>Dørene opnar: 19.00</p><p>Quizstart: 20.30</p><p>Billettpris per deltakar: kr. 200,-</p><p>Billettar kjøpast i døra!</p><p>Ta med godt humør og konkurranseinstinkt, vi gler oss til ein minnerik kveld!</p>",
       "start_at": "2026-06-12T19:00:00",
       "end_at": "2026-06-13T01:00:00",
       "is_free": true,
@@ -5286,7 +5164,7 @@
       "latitude": 62.3917269,
       "longitude": 6.5803557,
       "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64366-fotball-vm-kaifest-afterparty",
       "tags": [],
       "age_groups": [],
@@ -5497,6 +5375,25 @@
     },
     {
       "source": "tikkio",
+      "source_id": "tikkio-eee37bcc9375b479d8aa182a3d0bc9f4",
+      "title": "Lars Vaular: Menneske og Maskin // ROKKEN",
+      "description": "<p>Lars Vaular har vært en publikumsfavoritt siden gjennombruddet med «Rett opp og ned» og albumet Helt om natten, helt om dagen i 2010. Med nysgjerrighet, kompromissløs lyrikk og en sjelden evne til å fornye seg, har han siden befestet posisjonen som en av Norges mest markante artister. Han har mottatt fem Spellemannpriser og P3 Gulls hederspris.</p><p>Gjennom karrieren har han beveget seg uanstrengt mellom sjangre og generasjoner, og samarbeidet med et bredt spekter av artister, fra Kamelen til Röyksopp, Bjørn Eidsvåg, Astrid S og Ari Bajgora.</p><p>Sommeren 2026 er han aktuell med albumet Episoder av evighet og poesiprosjektet Først skrittet, så navellen, som han har bygget opp gjennom våren på bloggen <a href=\"http://NMGKr&oslash;nikene.no\"><strong>NMGKrønikene.no</strong></a><strong><a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fxn--nmgkrnikene-kgb.no%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExeUtFblowdHBlS1BzdUI0NnNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR60yLPwL39OBa1LG2ys2HnOcQRHSQZZwAjQ3mogxImxLiNn_8xyQW_OSGCfAw_aem_TP_WVe652seMob6jbpVJkA&amp;h=AUCfo5zgqDG9VFPScGR0HhdffIezCZzUQZqYiWmO9M8fNqCMgf_P8sY1AyXtns4B6URiGprYZj-fJFTvftm3PqCQevGUn8WudU3LF0SgbZ3Hup2Fw8tpzvVfrulREOEIYE3rVp8EeRUpwbokYMI&amp;__tn__=q&amp;c[0]=AUCIbgONcw3Q_zCjNqUc-m3KknOVQ6DLkT1Ov43hf1-v2UBq5_liLsmbOp52G7FJIkak2WJn_iJzMQBYuR7et519oUcQrxuVUKcu67uWKi48mZ01NDjigdfHRx22nimt9AQ_egMqH8EqrDvVSbwDKsfFO5Ph8yqKmq0\" target=\"_blank\" rel=\"nofollow noreferrer\" class=\"x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xkrqix3 x1sur9pj x1fey0fg x1s688f\">.</a></strong></p><p>«Lars Vaular gjør det han er best på igjen», skrev Bergens Tidende om singlene «Mafiakoner» og «PTSD». Aftenposten kalte Episoder av evighet «et nytt mesterverk» og belønnet albumet med terningkast seks.</p><p>Høsten 2026 legger han ut på «Menneske OG maskin»-turné. Her vil han kombinere høytlesning fra poesiprosjektet med det musikalske uttrykket Lars Vaular-publikummet kjenner ham for: intens tilstedeværelse, sterke tekster og et repertoar som strekker seg over mer enn femten år med norske klassikere.</p><p>Da Lars Vaular sommeren 2025 tok publikum med på en reise gjennom en karriere full av hits, var det ingen tvil om at han fortsatt er en av landets sterkeste liveartister. Med «Menneske OG maskin»-turnéen skal han nok en gang vise hvorfor!</p><p>BIlletter i salg 10.06 kl 11.00<br>Doors: 20.00<br>ID: 18+</p><p>// ENGLISH //</p><p>Lars Vaular has been a crowd favorite ever since his breakthrough with “Rett opp og ned” and the album Helt om natten, helt om dagen in 2010. With his curiosity, uncompromising lyricism, and rare ability to reinvent himself, he has since cemented his position as one of Norway’s most distinctive artists. He has received five Spellemann Awards and the honorary award at P3 Gull.</p><p>Throughout his career, he has moved effortlessly between genres and generations, collaborating with a wide range of artists, from Kamelen to Röyksopp, Bjørn Eidsvåg, Astrid S, and Ari Bajgora.</p><p>In the summer of 2026, he is current with the album Episoder av evighet (Episodes of Eternity) and the poetry project Først skrittet, så navellen (First the Step, Then the Short Story), which he has been developing throughout the spring on the blog <a href=\"http://NMGKr&oslash;nikene.no\"><strong>NMGKrønikene.no</strong></a><strong><a href=\"https://l.facebook.com/l.php?u=http%3A%2F%2Fxn--nmgkrnikene-kgb.no%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExeUtFblowdHBlS1BzdUI0NnNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR60yLPwL39OBa1LG2ys2HnOcQRHSQZZwAjQ3mogxImxLiNn_8xyQW_OSGCfAw_aem_TP_WVe652seMob6jbpVJkA&amp;h=AUCfo5zgqDG9VFPScGR0HhdffIezCZzUQZqYiWmO9M8fNqCMgf_P8sY1AyXtns4B6URiGprYZj-fJFTvftm3PqCQevGUn8WudU3LF0SgbZ3Hup2Fw8tpzvVfrulREOEIYE3rVp8EeRUpwbokYMI&amp;__tn__=q&amp;c[0]=AUCIbgONcw3Q_zCjNqUc-m3KknOVQ6DLkT1Ov43hf1-v2UBq5_liLsmbOp52G7FJIkak2WJn_iJzMQBYuR7et519oUcQrxuVUKcu67uWKi48mZ01NDjigdfHRx22nimt9AQ_egMqH8EqrDvVSbwDKsfFO5Ph8yqKmq0\" target=\"_blank\" rel=\"nofollow noreferrer\" class=\"x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xkrqix3 x1sur9pj x1fey0fg x1s688f\">.</a></strong></p><p>Bergens Tidende wrote “Lars Vaular is doing what he does best again,” about the singles “Mafiakoner” and “PTSD.” Aftenposten described Episoder av evighet as “a new masterpiece” and awarded the album its highest rating.</p><p>In the autumn of 2026, he will embark on the Menneske OG maskin (Human AND Machine) tour. Here, he will combine readings from his poetry project with the musical expression that Lars Vaular’s audience knows him for: an intense stage presence, powerful lyrics, and a repertoire spanning more than fifteen years of Norwegian classics.</p><p>When Lars Vaular took audiences on a journey through a hit-filled career in the summer of 2025, there was no doubt that he remained one of the country’s strongest live performers. With the Human AND Machine tour, he is set to prove once again why.</p><p>Tickets on sale 10.06 kl 11.00<br>Doors: 20.00<br>ID: 18+</p>",
+      "start_at": "2026-08-21T20:00:00",
+      "end_at": "2026-08-22T02:00:00",
+      "is_free": true,
+      "location_name": "Studenthuset Rokken",
+      "city": "Ålesund",
+      "latitude": 62.1444128,
+      "longitude": 6.0721147,
+      "organizer": "STUDENTHUSET AS",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_35af92978aae6ac01c55a48e80a11d37.webp?class=w768",
+      "url": "https://tikkio.com/events/64522-lars-vaular-menneske-og-maskin",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
       "source_id": "tikkio-fa4a57e854ba319dce8bb419bca5647b",
       "title": "Cir.Cuz // ROKKEN",
       "description": "Cir.cuz er namnet på gruppa som står bak fleire titalls radio- og stemningshits! Med låtar som «Radio», «Supernova» og «Gatelys», og nærare 300 millionar avspelingar, har dei etablert seg til å bli eit ettertrakta popband som synger på norsk!\r\n\r\nSommaren 2022 markerte dei seg sterkt på strøymelistene med singelen «Denne sommer´n». Året etter, sommaren 2023, var dei tilbake med låta «Alt jeg har drømt om», som raskt klatra opp på Top 50 både på Spotify og på VG-lista. Den same songen fekk òg mykje speletid på fleire riksdekkjande radiokanalar, mellom anna NRK mP3.\r\n\r\nSjølv om dei nyleg kunne feire 13 år som artistar, held hitmaskina Cir.Cuz fram i høgt tempo. På scena er dei dessutan kjende for å vere eit energisk og publikumsvennleg liveband, der rekkja av festlege hitlåtar skaper god stemning, allsang og skikkeleg fest. \r\n\r\nDører: 20:00\r\nShow: 22:00\r\n18 års aldersgrense\r\n\r\n\r\n\r\n//ENGLISH//\r\n\r\n\r\n\r\nCir.Cuz is the name of the group behind dozens of radio favorites and feel-good hits. With songs like “Radio”, “Supernova”, and “Gatelys”, and close to 300 million streams, they have established themselves as a highly sought-after Norwegian pop act performing in their native language.\r\n\r\nIn the summer of 2022, they made a strong impact on the streaming charts with the single “Denne sommer’n”. The following summer, in 2023, they returned with the track “Alt jeg har drømt om”, which quickly climbed into the Top 50 on both Spotify and the VG List. The same song also received heavy rotation on several national radio stations, including NRK mP3.\r\n\r\nAlthough they recently celebrated 13 years as artists, the Cir.Cuz hit machine is still moving forward at full speed. On stage, they are also known for being an energetic and crowd-friendly live act, where their string of upbeat hits always creates great atmosphere, sing-alongs, and a real party vibe.\r\n\r\nDoors: 20:00\r\nShow: 22:00\r\nID: 18+",
@@ -5617,7 +5514,7 @@
       "source": "tikkio",
       "source_id": "tikkio-3dd6007453c224ebb64fb9795a3ec827",
       "title": "Vamp // Koie Lavvo",
-      "description": "<p>Lørdag 13. juni kommer Vamp til Koie for en helt spesiell sommerkonsert.</p><p>Vi åpner allerede kl. 15:00 med grillmat, kaker og god stemning, før konserten starter kl. 18:00.</p><p>Etter konserten fortsetter kvelden med etterfest i lavvoen.</p><p>Dette blir en kveld for både venner, familie og alle som elsker norsk musikk.</p><p>Artist og billetter til etterfest kommer.</p>",
+      "description": "<p>Lørdag 13. juni kommer Vamp til Koie for en helt spesiell sommerkonsert.</p><p>Vi åpner allerede kl. 15:00 med grillmat, kaker og god stemning.</p><p>Det blir egen utescene til konserten, også fortsetter festen i lavvoen utover kvelden.</p><p>Konserten starter kl. 18:00.</p><p>Dette blir en kveld for både venner, familie og alle som elsker norsk musikk.</p>",
       "start_at": "2026-06-13T15:00:00",
       "end_at": "2026-06-14T02:00:00",
       "is_free": true,
@@ -7176,71 +7073,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-23231-2026-06-08",
-      "title": "Seniorsvømming",
-      "start_at": "2026-06-08T08:00:00",
-      "end_at": "2026-06-08T11:00:00",
-      "location_name": "Bybadet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/seniorsvomming/?occurrence=2026-06-08",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32362-2026-06-08",
-      "title": "Sommerfuglen Aktivitet",
-      "start_at": "2026-06-08T10:00:00",
-      "end_at": "2026-06-08T15:00:00",
-      "location_name": "Sommerfuglen Aktivitet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerfuglen-aktivitet/?occurrence=2026-06-08",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34451-2026-06-08",
-      "title": "Tidal – Maleri utstilling med Silvia Sørhagen på Forum Galleri",
-      "start_at": "2026-06-08T11:00:00",
-      "end_at": "2026-06-08T17:00:00",
-      "location_name": "Forum Ålesund",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/tidal-maleri-utstilling-med-silvia-sorhagen-pa-forum-galleri/?occurrence=2026-06-08",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34595-2026-06-08",
-      "title": "Film: Året i Ålesund",
-      "start_at": "2026-06-08T11:00:00",
-      "end_at": "2026-06-08T16:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/film-aret-i-alesund-3/?occurrence=2026-06-08",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-06-08",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-06-08T12:00:00",
-      "end_at": "2026-06-08T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-06-08",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -11440,116 +11272,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-287546af-f18b-4f02-953f-4cc6a6907992",
-      "title": "Couture",
-      "start_at": "2026-06-08T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f3097f86b7bf4b609d745d5e61e0b62d.jpg?width=1440&version=C7D58E8BB7EF6BB122AEC0CA4C5D7FA1",
-      "url": "https://www.odeonkino.no/film/couture/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-3aee76dc-d424-470d-8f2b-3b9dec7dfeca",
-      "title": "The Devil Wears Prada 2",
-      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
-      "start_at": "2026-06-08T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
-      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b43e3c07-363b-4cb4-a16e-c57d3a06e7f5",
-      "title": "Masters of the Universe",
-      "description": "En ung mann på jorden oppdager en hemmelig arv på en utenomjordisk planet, og må finne tilbake et magisk sverd og vende hjem for å beskytte sitt kongerike.",
-      "start_at": "2026-06-08T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/cfb9e5835b574987a6852ecec705128b.jpg?width=1440&version=890C585B085D8E30D5942CDDD02EC1C7",
-      "url": "https://www.odeonkino.no/film/masters-of-the-universe/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-13d17cd9-84f9-4ae9-8770-3551689d1d7c",
-      "title": "Backrooms",
-      "start_at": "2026-06-08T12:10:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
-      "url": "https://www.odeonkino.no/film/backrooms/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7a83a17f-dfae-4264-9843-73d30f97f80d",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-06-08T12:15:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-344233c6-5a17-4914-8521-984181287650",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-06-08T12:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
