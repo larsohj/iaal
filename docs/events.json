@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T12:46:01.264940+00:00",
-  "total": 709,
+  "generated_at": "2026-06-20T18:38:08.280998+00:00",
+  "total": 697,
   "failed_sources": [
     "viti"
   ],
@@ -22,6 +22,50 @@
         "children",
         "teenager",
         "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-06-21T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
+      "title": "Kunstutstilling Julianne Jacobsen",
+      "start_at": "2026-06-22T10:00:00",
+      "end_at": "2026-07-31T19:00:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
+      "city": "Ålesund",
+      "organizer": "Ålesund bibliotek",
+      "image_url": "https://ucarecdn.com/167557f1-60df-42eb-976a-f627e5d04c15/-/crop/2759x1446/0,1139/-/preview/",
+      "url": "https://alesund.friskus.com/events/5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -1100,7 +1144,7 @@
     {
       "source": "friskus",
       "source_id": "friskus-oaaLUVhjRLSaZ",
-      "title": "Hytte til hytte for ungdom 18-24år: Rundtur i Tafjordfjella (Kaldhusseter-Danskehytta-Reindalseter)",
+      "title": "Hytte til hytte for ungdom 16-24år: Rundtur i Tafjordfjella (Kaldhusseter-Danskehytta-Reindalseter)",
       "start_at": "2026-07-20T10:00:00",
       "end_at": "2026-07-23T18:00:00",
       "is_free": true,
@@ -1121,7 +1165,7 @@
     {
       "source": "friskus",
       "source_id": "friskus-oaaXdEqNUxVUy",
-      "title": "Hytte til hytte for ungdom 18-24år: Trekanten i Tafjordfjella",
+      "title": "Hytte til hytte for ungdom 16-24år: Trekanten i Tafjordfjella",
       "start_at": "2026-07-21T09:00:00",
       "end_at": "2026-07-24T19:00:00",
       "is_free": true,
@@ -6770,32 +6814,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-34693-2026-06-20",
-      "title": "Laatlaget feirer 10 års jubileum",
-      "start_at": "2026-06-20T16:00:00",
-      "end_at": "2026-06-20T18:00:00",
-      "location_name": "O'Connor's Irish Pub",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/laatlaget-feirer-10-ars-jubileum/?occurrence=2026-06-20",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32516-2026-06-20",
-      "title": "Krystall – Hotel 1904",
-      "start_at": "2026-06-20T17:00:00",
-      "end_at": "2026-06-20T23:55:00",
-      "location_name": "Hotel 1904",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/krystall-hotel-1904-358/?occurrence=2026-06-20",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-34821-2026-06-20",
       "title": "Sommerkino på Løvenvold Theater!",
       "start_at": "2026-06-20T19:00:00",
@@ -9172,233 +9190,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-74af3212-833c-4cc1-abde-5c85ced16781",
-      "title": "Michael",
-      "start_at": "2026-06-20T14:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-bb4a69b2-d8b1-43b7-ab04-2b01b58bcb85",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-06-20T14:45:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "isense",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-63d60ca1-b946-4e1a-8f1e-60f072d76687",
-      "title": "Michael",
-      "start_at": "2026-06-20T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e7d5e5b1-a682-4d7d-9420-38e5fcc90253",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-06-20T15:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-378ca9ef-5ab6-4b9f-a9b1-1bdab096ef2e",
-      "title": "Scary Movie",
-      "description": "I know what you'll watch this summer.",
-      "start_at": "2026-06-20T16:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c6de9648f2949e182c0cc55e25e6afd.jpg?width=1440&version=ABC26C6327B664C5C9FD380D1F29617D",
-      "url": "https://www.odeonkino.no/film/scary-movie/",
-      "tags": [
-        "skrekkfilm",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d2ded506-a5d3-47cb-9e95-c5408f4d0d58",
-      "title": "Backrooms",
-      "start_at": "2026-06-20T16:15:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
-      "url": "https://www.odeonkino.no/film/backrooms/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-57c698e2-ad07-4787-9976-3392042ee0ad",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-06-20T17:15:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "isense",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-2c7167c6-7c2e-49f9-969d-3588a343dc37",
-      "title": "Michael",
-      "start_at": "2026-06-20T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6f850c15-b58c-454a-bbe0-442608b96e42",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-06-20T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ce0b563a-b51e-4a44-9c20-063f3dbc2790",
-      "title": "Disclosure Day",
-      "description": "Hvis du fikk vite at vi ikke er alene, hvis noen viste deg det, beviste det for deg, ville det skremme deg? Ny sci-fi fra Steven Spielberg.",
-      "start_at": "2026-06-20T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a2d64c387d084e6ebedf0d27bf171afe.jpg?width=1440&version=32D9367ADED62710DF8720E943FBC724",
-      "url": "https://www.odeonkino.no/film/disclosure-day/",
-      "tags": [
-        "luxe",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c0a0b641-0a55-4790-bfe1-5f7eec82cdb0",
-      "title": "Obsession",
-      "start_at": "2026-06-20T18:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
-      "url": "https://www.odeonkino.no/film/obsession/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-81658532-52b8-446f-a8b2-021af9a2923f",
-      "title": "Scary Movie",
-      "description": "I know what you'll watch this summer.",
-      "start_at": "2026-06-20T18:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c6de9648f2949e182c0cc55e25e6afd.jpg?width=1440&version=ABC26C6327B664C5C9FD380D1F29617D",
-      "url": "https://www.odeonkino.no/film/scary-movie/",
-      "tags": [
-        "luxe",
-        "skrekkfilm",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
