@@ -1,212 +1,10 @@
 {
-  "generated_at": "2026-06-22T08:15:04.362841+00:00",
-  "total": 656,
+  "generated_at": "2026-06-22T14:01:37.534095+00:00",
+  "total": 770,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
-      "title": "Kunstutstilling Julianne Jacobsen",
-      "start_at": "2026-06-22T10:00:00",
-      "end_at": "2026-07-31T19:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "organizer": "Ålesund bibliotek",
-      "image_url": "https://ucarecdn.com/167557f1-60df-42eb-976a-f627e5d04c15/-/crop/2759x1446/0,1139/-/preview/",
-      "url": "https://alesund.friskus.com/events/5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-eb565430-b4ac-476a-8742-922a8bf7342f",
-      "title": "Malergruppe",
-      "start_at": "2026-06-22T10:00:00",
-      "end_at": "2026-06-29T11:00:00",
-      "is_free": true,
-      "location_name": "Klipra seniorsenter",
-      "city": "Ålesund",
-      "organizer": "Klipra seniorsenter",
-      "image_url": "https://ucarecdn.com/bd998b12-a843-4688-ad56-39cb535f07d8/-/crop/1796x940/69,476/-/preview/",
-      "url": "https://alesund.friskus.com/events/eb565430-b4ac-476a-8742-922a8bf7342f",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
-      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
-      "start_at": "2026-06-22T10:00:00",
-      "end_at": "2027-06-18T20:00:00",
-      "is_free": true,
-      "location_name": "Dagplass for personer med demens",
-      "city": "Ålesund",
-      "organizer": "Dagplass for personer med demens",
-      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
-      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-fd3cf089-fd4b-4773-85d6-707e40071b55",
-      "title": "Få hjelp av Kreftforeningens hverdagshjelp i Ålesund",
-      "start_at": "2026-06-22T10:00:00",
-      "end_at": "2028-06-05T22:00:00",
-      "is_free": true,
-      "location_name": "Kreftforeningen",
-      "city": "Ålesund",
-      "organizer": "Kreftforeningen",
-      "image_url": "https://ucarecdn.com/a788b2e4-169e-4d6c-a754-3bdb22a9c2d7/-/crop/1181x322/0,106/-/preview/",
-      "url": "https://alesund.friskus.com/events/fd3cf089-fd4b-4773-85d6-707e40071b55",
-      "tags": [],
-      "age_groups": [
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-oaa-Z4VW6n_C5",
-      "title": "60+ tur til Reindalseter",
-      "start_at": "2026-06-22T11:00:00",
-      "end_at": "2026-06-24T16:00:00",
-      "is_free": false,
-      "location_name": "DNT Sunnmøre",
-      "city": "Ålesund",
-      "organizer": "DNT Sunnmøre",
-      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_596415",
-      "url": "https://alesund.friskus.com/events/oaa-Z4VW6n_C5",
-      "tags": [
-        "friluftsliv",
-        "tur"
-      ],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-5ee60961-e8fd-4263-88e8-940882b9565c",
-      "title": "Bingo",
-      "start_at": "2026-06-22T11:30:00",
-      "end_at": "2026-06-22T12:30:00",
-      "is_free": false,
-      "location_name": "Klipra seniorsenter",
-      "city": "Ålesund",
-      "organizer": "Klipra seniorsenter",
-      "image_url": "https://ucarecdn.com/8b801fde-4545-4402-b108-bc996feea63c/-/crop/650x177/0,79/-/preview/",
-      "url": "https://alesund.friskus.com/events/5ee60961-e8fd-4263-88e8-940882b9565c",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-0b35f28b-2042-4252-858c-863a8deed25f",
-      "title": "Sjø og sommer på Kulturhavna",
-      "start_at": "2026-06-22T12:00:00",
-      "end_at": "2026-06-26T15:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "organizer": "Ålesund bibliotek",
-      "image_url": "https://ucarecdn.com/b153d58d-2e50-47c5-8d39-985cdee0b985/-/crop/4762x1299/0,409/-/preview/",
-      "url": "https://alesund.friskus.com/events/0b35f28b-2042-4252-858c-863a8deed25f",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-6d44cd42-0e26-4936-86c1-4d9440bd6fc3",
-      "title": "Towards the Littoral Zone - Hilde Rosenberg Bamarni",
-      "start_at": "2026-06-22T12:00:00",
-      "end_at": "2026-06-28T14:00:00",
-      "is_free": true,
-      "location_name": "Aggregat Kunstnerfellesskap",
-      "city": "Ålesund",
-      "organizer": "Aggregat Kunstnerfellesskap",
-      "image_url": "https://ucarecdn.com/2546cb9a-8b52-40ed-9470-c5ce25241249/-/crop/1920x523/0,485/-/preview/",
-      "url": "https://alesund.friskus.com/events/6d44cd42-0e26-4936-86c1-4d9440bd6fc3",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-06-22T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
-      "title": "Fellesverket – Møteplassen for ungdom i Ålesund",
-      "start_at": "2026-06-22T14:00:00",
-      "end_at": "2026-12-17T19:00:00",
-      "is_free": true,
-      "location_name": "Fellesverket Dragen",
-      "city": "Ålesund",
-      "organizer": "Fellesverket Dragen",
-      "image_url": "https://ucarecdn.com/5bdfad7e-4862-4303-b648-c12c7be60e43/-/crop/1000x272/0,106/-/preview/",
-      "url": "https://alesund.friskus.com/events/6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "senior"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-43fbfab6-6c15-4ee0-877b-f0fb5511f5d3",
@@ -871,6 +669,24 @@
         "teenager"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-eb565430-b4ac-476a-8742-922a8bf7342f",
+      "title": "Malergruppe",
+      "start_at": "2026-06-29T10:00:00",
+      "end_at": "2026-06-29T11:00:00",
+      "is_free": true,
+      "location_name": "Klipra seniorsenter",
+      "city": "Ålesund",
+      "organizer": "Klipra seniorsenter",
+      "image_url": "https://ucarecdn.com/bd998b12-a843-4688-ad56-39cb535f07d8/-/crop/1796x940/69,476/-/preview/",
+      "url": "https://alesund.friskus.com/events/eb565430-b4ac-476a-8742-922a8bf7342f",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -2272,43 +2088,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-9623a462-fb44-4303-9018-a5aed44720f2",
-      "title": "Sommercamp i Sulahallen",
-      "start_at": "2026-06-22T10:00:00",
-      "end_at": "2026-06-26T14:00:00",
-      "is_free": true,
-      "location_name": "Langevåg Idrettslag",
-      "city": "Ålesund",
-      "organizer": "Langevåg Idrettslag",
-      "image_url": "https://ucarecdn.com/653ba084-4fd6-4363-ad44-a0fb1864a016/-/crop/936x780/0,2/-/preview/-/resize/x300/-/crop/1100x300/center/-/scale_crop/1100x300/smart/",
-      "url": "https://alesund.friskus.com/events/9623a462-fb44-4303-9018-a5aed44720f2",
-      "tags": [],
-      "age_groups": [
-        "children"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-d742baa4-4639-4ec5-82af-672e66098ffe",
-      "title": "SOMMERSKULE SULA IL",
-      "start_at": "2026-06-22T10:00:00",
-      "end_at": "2026-06-26T15:00:00",
-      "is_free": true,
-      "location_name": "SULA IDRETTSLAG",
-      "city": "Ålesund",
-      "organizer": "SULA IDRETTSLAG",
-      "image_url": "https://ucarecdn.com/f5410c6b-a421-4506-bd8c-263d6a91e4c3/-/crop/2172x593/0,86/-/preview/",
-      "url": "https://alesund.friskus.com/events/d742baa4-4639-4ec5-82af-672e66098ffe",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-da1e45c2-1e1b-41d2-bef1-ea926e8a3d14",
       "title": "LHL - Styrke, balanse og avspenning",
       "start_at": "2026-06-22T15:15:00",
@@ -2560,65 +2339,6 @@
         "pensioner"
       ],
       "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-db3c98f8-e7fa-4688-993d-0b9650986fe4",
-      "title": "Sommaraktivitetar 2026 - Giske Motorcross 22. juni",
-      "start_at": "2026-06-22T10:00:00",
-      "end_at": "2026-06-22T15:00:00",
-      "is_free": true,
-      "location_name": "Frivilligsentralen",
-      "city": "Ålesund",
-      "organizer": "Frivilligsentralen",
-      "image_url": "https://ucarecdn.com/a45acd51-a8ae-4bd9-a386-38722ec184db/-/crop/1099x300/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/db3c98f8-e7fa-4688-993d-0b9650986fe4",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-3f7b78ff-5eed-421c-8dd6-912c03bcd57b",
-      "title": "Gåtur - Blindheimsfjellet Vigra",
-      "start_at": "2026-06-22T12:00:00",
-      "end_at": "2026-06-22T14:00:00",
-      "is_free": true,
-      "location_name": "LHL Ålesund Sula og Giske",
-      "city": "Ålesund",
-      "organizer": "LHL Ålesund Sula og Giske",
-      "image_url": "https://ucarecdn.com/c9cd4671-f489-4a56-a934-94eb174c64c5/-/crop/1024x279/0,319/-/preview/",
-      "url": "https://alesund.friskus.com/events/3f7b78ff-5eed-421c-8dd6-912c03bcd57b",
-      "tags": [],
-      "age_groups": [
-        "senior"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-4099e8e2-02df-4c0a-880e-02130c8fd1c7",
-      "title": "Biblioteket er ope i dag!",
-      "start_at": "2026-06-22T13:00:00",
-      "end_at": "2026-08-07T15:30:00",
-      "is_free": true,
-      "location_name": "Giske folkebibliotek",
-      "city": "Ålesund",
-      "organizer": "Giske folkebibliotek",
-      "image_url": "https://ucarecdn.com/291cb93f-fd25-460e-a4da-21b6d9547361/-/crop/1200x328/0,170/-/preview/",
-      "url": "https://alesund.friskus.com/events/4099e8e2-02df-4c0a-880e-02130c8fd1c7",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -3957,6 +3677,25 @@
     },
     {
       "source": "tikkio",
+      "source_id": "tikkio-1aa119a8ca97601c2e2c012bce52bf62",
+      "title": "E39 Ekspressen Vol.1 - Rooftop party",
+      "description": "<p>E39 Ekspressen – Vol. 1 · Rooftop party · Dampsentralen · Ålesund</p><p>11. juli tar E39 Ekspressen over Dampsentralens rooftop – både på dag- og kveldstid.</p><p>Sommerstemning, house-musikk og en vibe Ålesund ikke har sett før.</p><p>DJs: Lars Hove Aase · Henrik Nesdal · Leander Langseth</p><p></p><p>Dagspass: 16:00–20:00</p><p>Nattpass: 20:00–00:00</p><p>🔞 ID 20</p><p>Begrenset antall plasser, Ingen andre sjanser.</p>",
+      "start_at": "2026-07-11T16:00:00",
+      "end_at": "2026-07-12T00:00:00",
+      "is_free": true,
+      "location_name": "Dampsentralen 6.ETG",
+      "city": "Ålesund",
+      "latitude": 62.4711956,
+      "longitude": 6.1580087,
+      "organizer": "E39 Ekspressen",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/uploads/event/c_89e4ea124bede682dcb830f0086c8978.webp?class=w768",
+      "url": "https://tikkio.com/events/64758-e39-ekspressen-vol1-rooftop-party",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
       "source_id": "tikkio-a4f7139b3e3479a94d006d88e4b26b8e",
       "title": "Vennefest på Pir 2026",
       "description": "Du er invitert!\r\n\r\nÉn kveld. Ett hus. Gode venner. Musikk. Mat. Lys. Bobler. Alt samlet i én intens fest🔥\r\n\r\n- Åpningsshow\r\n- DJ og mat fra Damp\r\n- Surprise på scena\r\n- Underholdning i flere etasjer\r\n- Skikkelig kjekke folk\r\n- +++\r\n\r\nAntall billetter er begrenset og du er en av de vi har lyst å ha med, så vi tenker at det er lurt at du kjøper billett med en gang ;)\r\n\r\nVi gleder oss👏🏻\r\n\r\nXoXo \r\nJulie, Adriana, Victoria og Anja\r\n\r\nID 23år",
@@ -4531,24 +4270,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-f47bc89dc6a1b368a1868cb02d216968",
-      "title": "Sommerskole \"Dyr, gårdsliv og aktiviteter\" uke 26 (mandag til torsdag)",
-      "description": "Velkommen til sommerskole på gården med læring om dyr og gårdsliv, dyrevelferd, dyrestell, dyrekos og mange kjekke og morsomme aktiviteter for barn fra 8 år. Vi har fokus på inkludering og integrering, trivsel, læring og at alle har gode opplevelser hos oss. Sommerskole og aktiviteter starter hver dag kl. 10.00, men deltakere kan sjekke inn fra kl. 9.30. Vi er ute uansett vær. På formiddagen blir det læring om dagens dag, stell av alle smådyra og fôring av griser, høner, kalkuner, katten Figaro, fugler og vaktler, kaniner, marsvin og chinchilla og våre hester og ponnier. Ca. kl. 11.45 spiser vi medbrakt lunsj i lag. Elever må ha med seg en god matpakke (mandag til onsdag) og vannflaske. Torsdag ordner vi med felleslunsj og det blir grilling eller pizza (ved regnvær). \r\nEtter lunsj tilbyr vi forskjellige aktiviteter, avhengig av vær og gruppesammensetning som f. eks. kreativworkshop, heste-og ponnikos med børsting og fletting, ridning, rebus, quiz, bingo, kjepphestkonkurranse, tur i nærområde, fiskelykke, besøk av Sunnmøre museum eller middelaldermuseum, lage akvarium, bade med hester, vannkrig mm. \r\nKl. 13.45 serverer vi frukt/snacks/is og tar en liten oppsummering før vi avslutter sommerskoledagen kl. 14.00. \r\n\r\nPAKKELISTE: Vi er ute! Det betyr, deltakere må ha klær etter vær og i tillegg: \r\n- Vanntette sko (uansett vær) \r\n- Sitteunderlag \r\n- Drikkeflaske, ev. termos med varm drikke.\r\n- Matpakke til lunsj (mandag-onsdag), ev. ekstra mat\r\n- ev. klesskift \r\n- Solkrem og caps/solhatt \r\n\r\nPrisen inkluderer alle aktiviteter, inngangspenger, snacks/frukt/is på alle dager, lunsj på siste dagen og bruk av utstyr (f.eks. ridehjelm/sikkerhetsvest). \r\nEtter påmelding via tikkio, blir deltakere kontaktet og får tilsendt registrerings- og samtykkeskjema på epost. \r\n\r\nDersom ditt barn har behov for tilrettelegging så trenger vi informasjon om type tilrettelegging i god tid på forhånd. Ta kontakt med oss: judith.damm@alesund.kommune.no\r\n\r\nVi prøver å inkludere alle deltakere så godt vi kan, men har en del begrensninger i stallen. Bruk av rullestol er ikke tillatt i stallen og ponnistallen, og vi har ingen heis i stallen for å komme på salrom i 2. etasje eller høyloftet i 3. etasje. \r\n\r\nVi har dessverre ikke mulighet til å refundere kjøpte billetter eller endre på tidspunkt. Det blir ingen refusjon ved sykdom eller manglende oppmøte. \r\n\r\nÅlesund kommune har tegnet en kollektiv ulykkesforsikring for alle barn i kommunale skoler. Forsikringen gjelder ved ulykkeskade også på sommerskole på Borgund Dyreklubb for elever som tilhører Ålesund Kommune. Borgund Dyreklubb frasier seg alt av ansvar for skader på deltakerens utstyr/klær. \r\nVi gjør oppmerksom på at all deltakelse skjer på eget ansvar og egen risiko for deltakere fra andre kommuner enn Ålesund. Borgund Dyreklubb frasier seg alt ansvar for skader på deltakere og deres utstyr/klær.",
-      "start_at": "2026-06-22T09:30:00",
-      "end_at": "2026-06-25T14:00:00",
-      "is_free": false,
-      "price_text": "NOK 1789.00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/uploads/event/c_bc854c3d0a1d02b35f35c7f455b2db77.jpg?class=w768",
-      "url": "https://tikkio.com/events/63622-sommerskole-dyr-gardsliv-og-aktiviteter-uke-26-mandag-til-torsdag",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-33712a0de6c17470818b3d720e0f15fd",
       "title": "Aktivitetsdag/Ferieaktivitet \"Dyr og gårdsliv i gamle dager\" på Borgund Dyreklubb, tirsdager",
       "description": "Velkommen til aktivitetsdag/ferieaktivitet \"Dyr og gårdsliv i gamle dager\" på Borgund Dyreklubb. I samarbeid med Borgund Dyreklubb Frivillig Organisasjon og Stiftelsen Wasmuth og Rønneberg tilbyr vi på utvalgte dager ferieaktivitet for barn fra 8 år på gården. Vi starter kl. 10.00 med en liten bli-kjent runde og omvisning med læring om dyr og dyrestell, tar ansvar for stell og fôring av griser, høner, kalkuner, katten Figaro, kaniner, marsvin, chinchilla, vaktler og fugler. Det blir også tid til dyrekos. Vi jobber i smågrupper og en av våre erfarne gruppeledere følger deltakere under hele opplegget. \r\nCa. kl. 11.30 tar vi lunsjpause. Barna skal ha med egen matpakke og drikkeflaske, evt. termos med varm drikke ved kaldt vær. Vi serverer frukt/snacks/jogurt. \r\nEtter lunsjen børster vi våre hester og gjør oss klar til en reise i fortid, med hester og utkledd som i gamle dager besøker vi friluftsmuseum Sunnmøre museum. Vi tar en liten spasertur og lærer om bondelivet for noen hundre års siden. Barna har muligheten til å delta på aktiviteter i museum. Kl. 12.45 rusler vi med våre hester tilbake til gården og avslutter dagen kl. 13.00 \r\n\r\nVi er ute og alle deltakere må ha med seg \r\n- klær etter vær\r\n- vanntette sko uansett vær\r\n- matpakke \r\n- drikkeflaske/vannflaske, evtl. termos med varm drikke ved kalde dager \r\n\r\nBegrenset antall plasser, hver deltaker må ha egen billett! Vi har dessverre ikke mulighet til å bytte eller refundere kjøpte billetter. \r\nVi gjør oppmerksom på at all deltakelse skjer på eget ansvar og egen risiko. Borgund Dyreklubb frasier seg alt ansvar for skader på deltakere og deres utstyr/klær. \r\nVi tar bilder/situasjonsbilder og små videosnut under arrangement som brukes til markedsføring. Dersom du ikke ønsker at ditt barn er med på bilder/video, si fra på forhånd/seinest ved registrering av barnet på aktivitetsdagen.\r\nHar du spørsmål eller lurer på noe, send en epost til: judith.damm@alesund.kommune.no\r\nAktiviteten gjennomføres i samarbeid med Borgund Dyreklubb Frivillig Organisasjon og vi takker så mye Stiftelsen Wasmuth og Rønneberg for tilskudd til aktiviteten :-)",
@@ -4747,7 +4468,7 @@
       "latitude": 62.3917269,
       "longitude": 6.5803557,
       "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/64635-inngang-norge-senegal",
       "tags": [],
       "age_groups": [],
@@ -5055,7 +4776,7 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
       "tags": [],
       "age_groups": [],
@@ -5986,6 +5707,23 @@
     },
     {
       "source": "parken",
+      "source_id": "parken-48343-songs-of-chaos",
+      "title": "Songs of chaos",
+      "start_at": "2026-09-23T19:00:00",
+      "end_at": "2026-09-23T20:00:00",
+      "location_name": "Parken kulturhus – Hovedsal scenehus",
+      "city": "Ålesund",
+      "organizer": "Høstscena 2026",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F48343%2Fweb-square.webp?version=2cpst0rXIlg159HYkBOmRg==",
+      "url": "https://www.parkenkulturhus.no/program/48343-songs-of-chaos/",
+      "tags": [
+        "dans"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
       "source_id": "parken-47637-slow-riffs-five-stages-of-yes",
       "title": "Slow Riffs / Five stages of Yes",
       "start_at": "2026-09-23T20:30:00",
@@ -6798,84 +6536,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32362-2026-06-22",
-      "title": "Sommerfuglen Aktivitet",
-      "start_at": "2026-06-22T10:00:00",
-      "end_at": "2026-06-22T15:00:00",
-      "location_name": "Sommerfuglen Aktivitet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerfuglen-aktivitet/?occurrence=2026-06-22",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-06-22",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-06-22T10:00:00",
-      "end_at": "2026-06-22T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-06-22",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34111-2026-06-22",
-      "title": "KUNSTFERIEN SOMMER 2026",
-      "start_at": "2026-06-22T10:30:00",
-      "end_at": "2026-06-22T14:30:00",
-      "location_name": "Verkstad da Vinci",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/kunstferien-sommer-2026/?occurrence=2026-06-22&time=1782124200",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34451-2026-06-22",
-      "title": "Tidal – Maleri utstilling med Silvia Sørhagen på Forum Galleri",
-      "start_at": "2026-06-22T11:00:00",
-      "end_at": "2026-06-22T17:00:00",
-      "location_name": "Forum Ålesund",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/tidal-maleri-utstilling-med-silvia-sorhagen-pa-forum-galleri/?occurrence=2026-06-22",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34595-2026-06-22",
-      "title": "Film: Året i Ålesund",
-      "start_at": "2026-06-22T11:00:00",
-      "end_at": "2026-06-22T16:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/film-aret-i-alesund-3/?occurrence=2026-06-22",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-06-22",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-06-22T12:00:00",
-      "end_at": "2026-06-22T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-06-22",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -9102,240 +8762,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-4f9aa665-049c-412a-877c-73ef32f1c5a9",
-      "title": "Krølle Bølle",
-      "start_at": "2026-06-22T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/4c1dae47c47e41b69fad82830bfd5270.jpg?width=1440&version=C73F28473228923778DD7CF0C96740BA",
-      "url": "https://www.odeonkino.no/film/krolle-bolle/",
-      "tags": [
-        "animasjon",
-        "familiefilm",
-        "fantasy"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8a587cde-67eb-4f65-b021-e7d2f9599362",
-      "title": "Bamse og havets hemmelighet",
-      "start_at": "2026-06-22T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
-      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-94d503cf-ca9c-4fd7-b52f-b12f76866699",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-06-22T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6aee181d-ea53-4351-949e-96658feb6725",
-      "title": "Sauedetektivene",
-      "start_at": "2026-06-22T10:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/74f86cdf03fc453b971f9c0043bdb84f.jpg?width=1440&version=06072C6BE247FAADBC66ABD1BF1EC21B",
-      "url": "https://www.odeonkino.no/film/sauedetektivene/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8125c670-33bb-443c-b3b9-43322d5651a8",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-06-22T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7f9de929-48b4-4654-9d5b-b68efb4e6faa",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-06-22T12:15:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "isense",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-49dda598-f038-45bd-b999-a44c90e7d3e6",
-      "title": "GOAT - Drøm stort",
-      "start_at": "2026-06-22T12:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
-      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-530eea22-be92-49a4-8033-e54ae57d2f48",
-      "title": "Masters of the Universe",
-      "description": "En ung mann på jorden oppdager en hemmelig arv på en utenomjordisk planet, og må finne tilbake et magisk sverd og vende hjem for å beskytte sitt kongerike.",
-      "start_at": "2026-06-22T12:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/cfb9e5835b574987a6852ecec705128b.jpg?width=1440&version=890C585B085D8E30D5942CDDD02EC1C7",
-      "url": "https://www.odeonkino.no/film/masters-of-the-universe/",
-      "tags": [
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-80681b6b-c8d2-4a82-8793-36643666e88e",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-06-22T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-0ba4c170-591d-4512-a23b-bc30d56d1311",
-      "title": "The Mandalorian and Grogu",
-      "start_at": "2026-06-22T13:15:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
-      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d3781a65-3a33-4eb8-856f-4340294c43ae",
-      "title": "Michael",
-      "start_at": "2026-06-22T14:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f87f9c94-f817-42a4-8437-9c91283af160",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-06-22T14:45:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "isense",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-6610b1f1-ba31-4291-88dc-19a9d9d1e278",
       "title": "Michael",
       "start_at": "2026-06-22T15:00:00",
@@ -10017,17 +9443,17 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-901d9764-5c25-439c-bc67-182ba95f076a",
-      "title": "Scary Movie",
-      "description": "I know what you'll watch this summer.",
+      "source_id": "odeon-9f2eef7b-b42a-40bc-896c-53d14b2bbabd",
+      "title": "The Devil Wears Prada 2",
+      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
       "start_at": "2026-06-23T18:30:00",
       "location_name": "ODEON Ålesund – Sal 3",
       "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c6de9648f2949e182c0cc55e25e6afd.jpg?width=1440&version=ABC26C6327B664C5C9FD380D1F29617D",
-      "url": "https://www.odeonkino.no/film/scary-movie/",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
+      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
       "tags": [
-        "skrekkfilm",
-        "komedie"
+        "komedie",
+        "drama"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -10106,22 +9532,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-560a9477-31d1-442e-bee4-dd5a885e8004",
-      "title": "Backrooms",
-      "start_at": "2026-06-23T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
-      "url": "https://www.odeonkino.no/film/backrooms/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-63536a65-aa5f-4222-a3b2-73555509da05",
       "title": "Toy Story 5",
       "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
@@ -10152,6 +9562,22 @@
       "url": "https://www.odeonkino.no/film/obsession/",
       "tags": [
         "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-adc17ef8-d9cc-4e43-8750-3e23c26e84a5",
+      "title": "Backrooms",
+      "start_at": "2026-06-23T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
+      "url": "https://www.odeonkino.no/film/backrooms/",
+      "tags": [
         "skrekkfilm"
       ],
       "age_groups": [],
@@ -11189,6 +10615,2739 @@
       "source_id": "odeon-c1f09213-9c2b-4e95-9905-500487c3eb14",
       "title": "Obsession",
       "start_at": "2026-06-25T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-83127d5c-84c6-44e1-bb9a-9a4dbe8fab8a",
+      "title": "Bamse og havets hemmelighet",
+      "start_at": "2026-06-26T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
+      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "barnefilm",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7f6b384c-d1be-40f9-a092-b5ecce5b7111",
+      "title": "Sauedetektivene",
+      "start_at": "2026-06-26T10:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/74f86cdf03fc453b971f9c0043bdb84f.jpg?width=1440&version=06072C6BE247FAADBC66ABD1BF1EC21B",
+      "url": "https://www.odeonkino.no/film/sauedetektivene/",
+      "tags": [
+        "luxe",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b69a0df8-2eec-4c5b-b77f-33a5e7533a3d",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-26T11:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-74c15a48-098d-4ea2-9433-843eb66ebc64",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-06-26T11:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ee9114c5-ef6f-4dec-85de-41423b448020",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-26T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-360eefc1-9257-4dd0-be9b-fb87b6361585",
+      "title": "Masters of the Universe",
+      "description": "En ung mann på jorden oppdager en hemmelig arv på en utenomjordisk planet, og må finne tilbake et magisk sverd og vende hjem for å beskytte sitt kongerike.",
+      "start_at": "2026-06-26T12:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/cfb9e5835b574987a6852ecec705128b.jpg?width=1440&version=890C585B085D8E30D5942CDDD02EC1C7",
+      "url": "https://www.odeonkino.no/film/masters-of-the-universe/",
+      "tags": [
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2883551e-8aae-49cd-bf43-b58e585971df",
+      "title": "The Mandalorian and Grogu",
+      "start_at": "2026-06-26T13:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
+      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f2bbb320-9008-41fe-83b2-aac8a9ac8ad8",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-26T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9512f1e1-0700-4432-90f9-d85fe4ae85e7",
+      "title": "Disclosure Day",
+      "description": "Hvis du fikk vite at vi ikke er alene, hvis noen viste deg det, beviste det for deg, ville det skremme deg? Ny sci-fi fra Steven Spielberg.",
+      "start_at": "2026-06-26T14:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a2d64c387d084e6ebedf0d27bf171afe.jpg?width=1440&version=32D9367ADED62710DF8720E943FBC724",
+      "url": "https://www.odeonkino.no/film/disclosure-day/",
+      "tags": [
+        "luxe",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ffffe683-88db-408d-8c1e-e54d31a05bbe",
+      "title": "Michael",
+      "start_at": "2026-06-26T15:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1bd9df60-e992-4f9d-9ff3-20fabb12d0ba",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-26T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f416a527-d0b8-4345-92fc-90c32f6eba84",
+      "title": "Backrooms",
+      "start_at": "2026-06-26T16:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
+      "url": "https://www.odeonkino.no/film/backrooms/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-edd1a915-cdc5-4aa7-9b4f-d145708556f9",
+      "title": "Michael",
+      "start_at": "2026-06-26T17:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-bca70acb-a359-412b-aa0c-f10b2fcca021",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-26T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-d7d01dd1-fbed-4ce7-9068-bd4ce4c10ba8",
+      "title": "Disclosure Day",
+      "description": "Hvis du fikk vite at vi ikke er alene, hvis noen viste deg det, beviste det for deg, ville det skremme deg? Ny sci-fi fra Steven Spielberg.",
+      "start_at": "2026-06-26T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a2d64c387d084e6ebedf0d27bf171afe.jpg?width=1440&version=32D9367ADED62710DF8720E943FBC724",
+      "url": "https://www.odeonkino.no/film/disclosure-day/",
+      "tags": [
+        "luxe",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0eb3b54d-9221-497c-8bef-e0fbbb902a7e",
+      "title": "Scary Movie",
+      "description": "I know what you'll watch this summer.",
+      "start_at": "2026-06-26T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c6de9648f2949e182c0cc55e25e6afd.jpg?width=1440&version=ABC26C6327B664C5C9FD380D1F29617D",
+      "url": "https://www.odeonkino.no/film/scary-movie/",
+      "tags": [
+        "skrekkfilm",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-13223997-c949-4543-8dc8-eb8afbca03ed",
+      "title": "Obsession",
+      "start_at": "2026-06-26T18:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0f8ba726-32e2-49ad-9b28-0ba0882294db",
+      "title": "The Death of Robin Hood",
+      "start_at": "2026-06-26T20:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f31d7eb87a0443ea8b8df4a9f8b87fbe.jpg?width=1440&version=CD0372368357B2CB36EDCF1575BEB186",
+      "url": "https://www.odeonkino.no/film/the-death-of-robin-hood/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-bbb47fff-f154-4d12-8fa2-56dc94ef6400",
+      "title": "Scary Movie",
+      "description": "I know what you'll watch this summer.",
+      "start_at": "2026-06-26T20:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c6de9648f2949e182c0cc55e25e6afd.jpg?width=1440&version=ABC26C6327B664C5C9FD380D1F29617D",
+      "url": "https://www.odeonkino.no/film/scary-movie/",
+      "tags": [
+        "skrekkfilm",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4b3944e2-dd28-4eda-8a02-09418c5ac766",
+      "title": "Backrooms",
+      "start_at": "2026-06-26T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
+      "url": "https://www.odeonkino.no/film/backrooms/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0ecb7ea6-ac01-41fa-978a-98a353a8a272",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-26T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4ac32973-8e63-478c-848f-e1060c49d088",
+      "title": "Obsession",
+      "start_at": "2026-06-26T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-87aa40c6-33fb-480a-804b-f77ce412aec9",
+      "title": "Det lille spøkelset Laban",
+      "start_at": "2026-06-27T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2ce1afa7db504465abaad2acdbb5e739.jpg?width=1440&version=EC55055BECEBCAFC59B6AFB2D8856C28",
+      "url": "https://www.odeonkino.no/film/det-lille-spokelset-laban/",
+      "tags": [
+        "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-41b4034b-6053-4fc8-bead-d31c434e1cce",
+      "title": "Sauedetektivene",
+      "start_at": "2026-06-27T10:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/74f86cdf03fc453b971f9c0043bdb84f.jpg?width=1440&version=06072C6BE247FAADBC66ABD1BF1EC21B",
+      "url": "https://www.odeonkino.no/film/sauedetektivene/",
+      "tags": [
+        "luxe",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3c3a8fff-1bc6-4145-967e-ac82cb8a7d05",
+      "title": "Krølle Bølle",
+      "start_at": "2026-06-27T11:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/4c1dae47c47e41b69fad82830bfd5270.jpg?width=1440&version=C73F28473228923778DD7CF0C96740BA",
+      "url": "https://www.odeonkino.no/film/krolle-bolle/",
+      "tags": [
+        "animasjon",
+        "familiefilm",
+        "fantasy"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-cb18d121-c0a6-4cde-b2e8-566cbf68b747",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-27T11:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b202e31c-5fdf-41a2-8e0c-4d1dd6be2e32",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-06-27T11:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-17875f87-41f4-4c6e-975f-881f97eed37e",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-27T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-78026c68-1da6-4024-86ee-c3da05153e95",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-06-27T13:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-923a27fd-2c8f-4239-b70a-9156337c88f8",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-27T13:20:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4d7b2e71-5bc5-49d2-a250-cdc9b6656b14",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-27T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-40ec2a37-ff90-4499-bb22-8e24a82a70ba",
+      "title": "Disclosure Day",
+      "description": "Hvis du fikk vite at vi ikke er alene, hvis noen viste deg det, beviste det for deg, ville det skremme deg? Ny sci-fi fra Steven Spielberg.",
+      "start_at": "2026-06-27T14:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a2d64c387d084e6ebedf0d27bf171afe.jpg?width=1440&version=32D9367ADED62710DF8720E943FBC724",
+      "url": "https://www.odeonkino.no/film/disclosure-day/",
+      "tags": [
+        "luxe",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-06f74139-b194-4054-8310-d2325a8614ce",
+      "title": "Michael",
+      "start_at": "2026-06-27T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a5089910-8f18-4b44-9ada-faf05a809693",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-27T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8c215697-db68-4f3e-8df0-ff9f584d4b6b",
+      "title": "Backrooms",
+      "start_at": "2026-06-27T16:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
+      "url": "https://www.odeonkino.no/film/backrooms/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-416c9630-8bcd-4b1c-8961-a50357f8d9ea",
+      "title": "Michael",
+      "start_at": "2026-06-27T17:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-14c81aa5-3ac8-498a-a8a7-63ca513dbec8",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-27T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-d6c1afd4-bb69-4f7d-bda2-8689c36bf126",
+      "title": "Disclosure Day",
+      "description": "Hvis du fikk vite at vi ikke er alene, hvis noen viste deg det, beviste det for deg, ville det skremme deg? Ny sci-fi fra Steven Spielberg.",
+      "start_at": "2026-06-27T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a2d64c387d084e6ebedf0d27bf171afe.jpg?width=1440&version=32D9367ADED62710DF8720E943FBC724",
+      "url": "https://www.odeonkino.no/film/disclosure-day/",
+      "tags": [
+        "luxe",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c0e63be0-b1b2-476e-b3c2-5d069bde1e42",
+      "title": "Scary Movie",
+      "description": "I know what you'll watch this summer.",
+      "start_at": "2026-06-27T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c6de9648f2949e182c0cc55e25e6afd.jpg?width=1440&version=ABC26C6327B664C5C9FD380D1F29617D",
+      "url": "https://www.odeonkino.no/film/scary-movie/",
+      "tags": [
+        "skrekkfilm",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-530ebd75-2abf-4b9c-9786-2244f480f254",
+      "title": "Obsession",
+      "start_at": "2026-06-27T18:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-09479707-c3f0-408e-8f55-b6efe9c6d209",
+      "title": "Scary Movie",
+      "description": "I know what you'll watch this summer.",
+      "start_at": "2026-06-27T20:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c6de9648f2949e182c0cc55e25e6afd.jpg?width=1440&version=ABC26C6327B664C5C9FD380D1F29617D",
+      "url": "https://www.odeonkino.no/film/scary-movie/",
+      "tags": [
+        "skrekkfilm",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-842895a4-f35d-456b-9b96-65c55da1ccaa",
+      "title": "The Death of Robin Hood",
+      "start_at": "2026-06-27T20:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f31d7eb87a0443ea8b8df4a9f8b87fbe.jpg?width=1440&version=CD0372368357B2CB36EDCF1575BEB186",
+      "url": "https://www.odeonkino.no/film/the-death-of-robin-hood/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3bd35986-ee32-4505-9074-b6f902511180",
+      "title": "Backrooms",
+      "start_at": "2026-06-27T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
+      "url": "https://www.odeonkino.no/film/backrooms/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8d63d1fc-010c-408e-b9ff-a3acef5e150b",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-27T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e4b4e9a8-f0bc-48ef-97ad-ebef4de79d60",
+      "title": "Obsession",
+      "start_at": "2026-06-27T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-cfe4e96f-25e7-4403-8900-d93497941b37",
+      "title": "Bamse og havets hemmelighet",
+      "start_at": "2026-06-28T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
+      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "barnefilm",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-783dee97-14ff-4d96-b2cc-218c080485f8",
+      "title": "Sauedetektivene",
+      "start_at": "2026-06-28T10:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/74f86cdf03fc453b971f9c0043bdb84f.jpg?width=1440&version=06072C6BE247FAADBC66ABD1BF1EC21B",
+      "url": "https://www.odeonkino.no/film/sauedetektivene/",
+      "tags": [
+        "luxe",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4d23a1cb-ab12-43f7-b03b-8f8f2aa587a9",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-28T11:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1115cf21-3c19-4cd6-9e7a-1d2a021ccbd2",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-06-28T11:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ec93c315-4c37-47f7-8c23-95c812463141",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-28T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4b959ac2-a0aa-4111-befb-91bcf8b10009",
+      "title": "Masters of the Universe",
+      "description": "En ung mann på jorden oppdager en hemmelig arv på en utenomjordisk planet, og må finne tilbake et magisk sverd og vende hjem for å beskytte sitt kongerike.",
+      "start_at": "2026-06-28T12:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/cfb9e5835b574987a6852ecec705128b.jpg?width=1440&version=890C585B085D8E30D5942CDDD02EC1C7",
+      "url": "https://www.odeonkino.no/film/masters-of-the-universe/",
+      "tags": [
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-797db2b5-48ef-4f4c-8f39-272d4d61dd61",
+      "title": "The Mandalorian and Grogu",
+      "start_at": "2026-06-28T13:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
+      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-51ced7a1-1dc2-4f25-9629-137bf73a19e2",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-28T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4430c246-f718-4542-87be-f9455466bc98",
+      "title": "Disclosure Day",
+      "description": "Hvis du fikk vite at vi ikke er alene, hvis noen viste deg det, beviste det for deg, ville det skremme deg? Ny sci-fi fra Steven Spielberg.",
+      "start_at": "2026-06-28T14:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a2d64c387d084e6ebedf0d27bf171afe.jpg?width=1440&version=32D9367ADED62710DF8720E943FBC724",
+      "url": "https://www.odeonkino.no/film/disclosure-day/",
+      "tags": [
+        "luxe",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-abe5ea08-10d9-438d-9413-c0c24c68530d",
+      "title": "Michael",
+      "start_at": "2026-06-28T15:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8a768465-aaf6-4650-8604-286303932127",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-28T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8f57b7c2-0023-4fd3-906c-fc5027d90fcd",
+      "title": "Backrooms",
+      "start_at": "2026-06-28T16:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
+      "url": "https://www.odeonkino.no/film/backrooms/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c87d750b-ceef-4f79-a26e-e235d43a9f25",
+      "title": "Michael",
+      "start_at": "2026-06-28T17:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-10697df3-930a-4527-b701-a9fc10321c3a",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-28T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-899fc902-b11f-4535-92a4-935987b39dbb",
+      "title": "Disclosure Day",
+      "description": "Hvis du fikk vite at vi ikke er alene, hvis noen viste deg det, beviste det for deg, ville det skremme deg? Ny sci-fi fra Steven Spielberg.",
+      "start_at": "2026-06-28T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a2d64c387d084e6ebedf0d27bf171afe.jpg?width=1440&version=32D9367ADED62710DF8720E943FBC724",
+      "url": "https://www.odeonkino.no/film/disclosure-day/",
+      "tags": [
+        "luxe",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-97110784-a077-47ce-9d3a-2800c1f2ae18",
+      "title": "Scary Movie",
+      "description": "I know what you'll watch this summer.",
+      "start_at": "2026-06-28T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c6de9648f2949e182c0cc55e25e6afd.jpg?width=1440&version=ABC26C6327B664C5C9FD380D1F29617D",
+      "url": "https://www.odeonkino.no/film/scary-movie/",
+      "tags": [
+        "skrekkfilm",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-07096b52-f2ed-45c7-bf4f-0c494f0e8407",
+      "title": "Obsession",
+      "start_at": "2026-06-28T18:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-34a21e91-42c0-4f1f-b53c-86200a4f446e",
+      "title": "The Death of Robin Hood",
+      "start_at": "2026-06-28T20:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f31d7eb87a0443ea8b8df4a9f8b87fbe.jpg?width=1440&version=CD0372368357B2CB36EDCF1575BEB186",
+      "url": "https://www.odeonkino.no/film/the-death-of-robin-hood/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-474c377b-62c2-4286-962c-33c57ad73f0f",
+      "title": "Scary Movie",
+      "description": "I know what you'll watch this summer.",
+      "start_at": "2026-06-28T20:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c6de9648f2949e182c0cc55e25e6afd.jpg?width=1440&version=ABC26C6327B664C5C9FD380D1F29617D",
+      "url": "https://www.odeonkino.no/film/scary-movie/",
+      "tags": [
+        "skrekkfilm",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6b05423a-db62-4f6a-8179-f3cfbdfc60db",
+      "title": "Backrooms",
+      "start_at": "2026-06-28T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
+      "url": "https://www.odeonkino.no/film/backrooms/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-16f53a63-6957-4418-ad5f-7dd7734224d3",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-28T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-62ebaa2e-a66c-44ff-ac23-b4666f090726",
+      "title": "Obsession",
+      "start_at": "2026-06-28T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-bee6e529-976a-488d-ae57-b77d9309b4f3",
+      "title": "Bamse og havets hemmelighet",
+      "start_at": "2026-06-29T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
+      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "barnefilm",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8843c1b3-ddcb-494a-bd28-7441e3010ffe",
+      "title": "Sauedetektivene",
+      "start_at": "2026-06-29T10:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/74f86cdf03fc453b971f9c0043bdb84f.jpg?width=1440&version=06072C6BE247FAADBC66ABD1BF1EC21B",
+      "url": "https://www.odeonkino.no/film/sauedetektivene/",
+      "tags": [
+        "luxe",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-76dc0b81-5003-4426-be39-67fd3fc991cd",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-29T11:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3863b25c-ee1e-40bf-a972-b153529013c4",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-06-29T11:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-08db7f05-3c4b-452f-99eb-ceb5371bf8c1",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-29T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ff8b6e39-6d09-44d4-90be-7b9b495bb054",
+      "title": "The Mandalorian and Grogu",
+      "start_at": "2026-06-29T13:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
+      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1454896a-0717-4a26-9790-f79da79fc278",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-29T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7bdb90ef-879a-462e-9799-061c5e2cc2af",
+      "title": "Masters of the Universe",
+      "description": "En ung mann på jorden oppdager en hemmelig arv på en utenomjordisk planet, og må finne tilbake et magisk sverd og vende hjem for å beskytte sitt kongerike.",
+      "start_at": "2026-06-29T13:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/cfb9e5835b574987a6852ecec705128b.jpg?width=1440&version=890C585B085D8E30D5942CDDD02EC1C7",
+      "url": "https://www.odeonkino.no/film/masters-of-the-universe/",
+      "tags": [
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-83b446c4-d2ab-4524-bda0-78e25da83514",
+      "title": "Disclosure Day",
+      "description": "Hvis du fikk vite at vi ikke er alene, hvis noen viste deg det, beviste det for deg, ville det skremme deg? Ny sci-fi fra Steven Spielberg.",
+      "start_at": "2026-06-29T14:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a2d64c387d084e6ebedf0d27bf171afe.jpg?width=1440&version=32D9367ADED62710DF8720E943FBC724",
+      "url": "https://www.odeonkino.no/film/disclosure-day/",
+      "tags": [
+        "luxe",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a7d75592-b4b5-4d2b-b357-d8ceb590ff35",
+      "title": "Michael",
+      "start_at": "2026-06-29T15:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c887ede7-faff-4ca0-9175-9aaf3e567f87",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-29T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-d9bf63d7-a273-4c8d-8edf-28360e3f8774",
+      "title": "Backrooms",
+      "start_at": "2026-06-29T16:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
+      "url": "https://www.odeonkino.no/film/backrooms/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a8efe381-a50d-4a30-926b-0f59e2bcc1fd",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-29T17:15:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1574a003-29e3-4c8c-a36b-d46bc61b4225",
+      "title": "Obsession",
+      "start_at": "2026-06-29T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-71409245-b005-4b40-9cbb-f03df75ad849",
+      "title": "Disclosure Day",
+      "description": "Hvis du fikk vite at vi ikke er alene, hvis noen viste deg det, beviste det for deg, ville det skremme deg? Ny sci-fi fra Steven Spielberg.",
+      "start_at": "2026-06-29T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a2d64c387d084e6ebedf0d27bf171afe.jpg?width=1440&version=32D9367ADED62710DF8720E943FBC724",
+      "url": "https://www.odeonkino.no/film/disclosure-day/",
+      "tags": [
+        "luxe",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ee994bea-03c2-4286-808c-4fa90c082a56",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-29T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e7643370-cad1-43b1-ba21-5cefe97215f3",
+      "title": "Scary Movie",
+      "description": "I know what you'll watch this summer.",
+      "start_at": "2026-06-29T18:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c6de9648f2949e182c0cc55e25e6afd.jpg?width=1440&version=ABC26C6327B664C5C9FD380D1F29617D",
+      "url": "https://www.odeonkino.no/film/scary-movie/",
+      "tags": [
+        "luxe",
+        "skrekkfilm",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a75293c1-469d-4228-b900-647fc1fce449",
+      "title": "Backrooms",
+      "start_at": "2026-06-29T20:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
+      "url": "https://www.odeonkino.no/film/backrooms/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e6e897d6-0ab2-43e8-8f8e-44be33c0bffb",
+      "title": "Scary Movie",
+      "description": "I know what you'll watch this summer.",
+      "start_at": "2026-06-29T20:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c6de9648f2949e182c0cc55e25e6afd.jpg?width=1440&version=ABC26C6327B664C5C9FD380D1F29617D",
+      "url": "https://www.odeonkino.no/film/scary-movie/",
+      "tags": [
+        "skrekkfilm",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-53af18f6-eeb8-49d5-8aa6-471650dd6418",
+      "title": "The Death of Robin Hood",
+      "start_at": "2026-06-29T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f31d7eb87a0443ea8b8df4a9f8b87fbe.jpg?width=1440&version=CD0372368357B2CB36EDCF1575BEB186",
+      "url": "https://www.odeonkino.no/film/the-death-of-robin-hood/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-13331131-6f98-49aa-ad3c-22348a6fafd3",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-29T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7ab88db5-596e-4871-8d4b-0d59ba40712b",
+      "title": "Obsession",
+      "start_at": "2026-06-29T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2b53efa4-a93c-42a4-b60b-4cb24a4d4c88",
+      "title": "Bamse og havets hemmelighet",
+      "start_at": "2026-06-30T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
+      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "barnefilm",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-87e21ffa-36b0-4b3e-9e46-1d237dec2e68",
+      "title": "GOAT - Drøm stort",
+      "start_at": "2026-06-30T10:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b84a2a997914a6aa21ed5b71ae48528.jpg?width=1440&version=F5C4EBEF0794D6394A5A81ACD8ED5AD2",
+      "url": "https://www.odeonkino.no/film/goat-drom-stort/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6c88f687-b8b7-4a38-80cb-fef28cd6fa2f",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-30T11:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1a2281e0-473f-4eb5-8f72-1a8d200e715e",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-06-30T11:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0f2433fe-4b9f-441b-b083-5adcb507ee18",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-30T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0aaeed35-b135-4c12-a854-5854fe9cb6f5",
+      "title": "Masters of the Universe",
+      "description": "En ung mann på jorden oppdager en hemmelig arv på en utenomjordisk planet, og må finne tilbake et magisk sverd og vende hjem for å beskytte sitt kongerike.",
+      "start_at": "2026-06-30T12:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/cfb9e5835b574987a6852ecec705128b.jpg?width=1440&version=890C585B085D8E30D5942CDDD02EC1C7",
+      "url": "https://www.odeonkino.no/film/masters-of-the-universe/",
+      "tags": [
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-274eff6e-f4b2-4011-bb16-49d20364f811",
+      "title": "The Mandalorian and Grogu",
+      "start_at": "2026-06-30T13:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/34cc7f2764e64846b112233d4eac9dcb.jpg?width=1440&version=F2E7504C5D968C4E6D99D36B44735B56",
+      "url": "https://www.odeonkino.no/film/the-mandalorian-and-grogu/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-275f74b8-bc29-4d07-b861-1f64ced0010b",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-30T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-fab8c5b3-093a-410a-aaf7-333aab6cb968",
+      "title": "Disclosure Day",
+      "description": "Hvis du fikk vite at vi ikke er alene, hvis noen viste deg det, beviste det for deg, ville det skremme deg? Ny sci-fi fra Steven Spielberg.",
+      "start_at": "2026-06-30T14:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a2d64c387d084e6ebedf0d27bf171afe.jpg?width=1440&version=32D9367ADED62710DF8720E943FBC724",
+      "url": "https://www.odeonkino.no/film/disclosure-day/",
+      "tags": [
+        "luxe",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-873516b4-5559-475d-b4ad-3b670cdab9b5",
+      "title": "Michael",
+      "start_at": "2026-06-30T15:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e5de1e5b-d5fa-43e6-bf95-d28ff6202575",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-30T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-45cceb8a-d481-4202-a976-223880b6c475",
+      "title": "Backrooms",
+      "start_at": "2026-06-30T16:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
+      "url": "https://www.odeonkino.no/film/backrooms/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6d314c56-8c0c-4567-8f54-4d4aa7afe106",
+      "title": "Michael",
+      "start_at": "2026-06-30T17:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-834dda66-7dc0-4a8c-8368-f3d308dbb41f",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-30T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-fb37bab8-5a73-41b7-aeba-723f9aa654d7",
+      "title": "Disclosure Day",
+      "description": "Hvis du fikk vite at vi ikke er alene, hvis noen viste deg det, beviste det for deg, ville det skremme deg? Ny sci-fi fra Steven Spielberg.",
+      "start_at": "2026-06-30T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a2d64c387d084e6ebedf0d27bf171afe.jpg?width=1440&version=32D9367ADED62710DF8720E943FBC724",
+      "url": "https://www.odeonkino.no/film/disclosure-day/",
+      "tags": [
+        "luxe",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4fe2fc28-c06a-4993-859b-7dd26f7b6d94",
+      "title": "Scary Movie",
+      "description": "I know what you'll watch this summer.",
+      "start_at": "2026-06-30T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c6de9648f2949e182c0cc55e25e6afd.jpg?width=1440&version=ABC26C6327B664C5C9FD380D1F29617D",
+      "url": "https://www.odeonkino.no/film/scary-movie/",
+      "tags": [
+        "skrekkfilm",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1511621e-2329-4492-9478-1e973627a190",
+      "title": "Obsession",
+      "start_at": "2026-06-30T18:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1eeb9e17-012d-4525-89eb-240243a033c2",
+      "title": "Scary Movie",
+      "description": "I know what you'll watch this summer.",
+      "start_at": "2026-06-30T20:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c6de9648f2949e182c0cc55e25e6afd.jpg?width=1440&version=ABC26C6327B664C5C9FD380D1F29617D",
+      "url": "https://www.odeonkino.no/film/scary-movie/",
+      "tags": [
+        "skrekkfilm",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8a7b727a-ed0e-4961-a1eb-036aca0cb7ed",
+      "title": "The Death of Robin Hood",
+      "start_at": "2026-06-30T20:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f31d7eb87a0443ea8b8df4a9f8b87fbe.jpg?width=1440&version=CD0372368357B2CB36EDCF1575BEB186",
+      "url": "https://www.odeonkino.no/film/the-death-of-robin-hood/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2c87d2aa-cb9a-4b3a-b6a5-09b0f7e9e143",
+      "title": "Backrooms",
+      "start_at": "2026-06-30T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
+      "url": "https://www.odeonkino.no/film/backrooms/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9f281c68-d90b-4c9e-b6ca-c2d94eb7d7f9",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-06-30T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-dd767723-c537-4651-81b1-44cbca609b8b",
+      "title": "Obsession",
+      "start_at": "2026-06-30T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-461d51fc-d191-49c5-aae4-220dfb5338c5",
+      "title": "Bamse og havets hemmelighet",
+      "start_at": "2026-07-01T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
+      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "barnefilm",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ff5110dd-39d8-44c6-b251-24770bcd7c2b",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-01T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9ed2902e-0fa3-4b14-9562-87b304cfb6cf",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-01T12:15:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-04419da1-31e5-40b4-b467-f21827a5ac27",
+      "title": "Masters of the Universe",
+      "description": "En ung mann på jorden oppdager en hemmelig arv på en utenomjordisk planet, og må finne tilbake et magisk sverd og vende hjem for å beskytte sitt kongerike.",
+      "start_at": "2026-07-01T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/cfb9e5835b574987a6852ecec705128b.jpg?width=1440&version=890C585B085D8E30D5942CDDD02EC1C7",
+      "url": "https://www.odeonkino.no/film/masters-of-the-universe/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3154d46d-d0e9-4e23-bc93-a5e620078117",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-01T12:45:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c7f486bc-22c9-4e67-8db9-347a943d9eee",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-07-01T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a5691e33-3677-4501-bcdf-642ae332a7f5",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-01T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-fa58160e-5f24-40ec-bccb-2c6e3c609ae0",
+      "title": "Michael",
+      "start_at": "2026-07-01T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8e1da5af-396e-4846-938c-47f6f54f24c8",
+      "title": "Disclosure Day",
+      "description": "Hvis du fikk vite at vi ikke er alene, hvis noen viste deg det, beviste det for deg, ville det skremme deg? Ny sci-fi fra Steven Spielberg.",
+      "start_at": "2026-07-01T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a2d64c387d084e6ebedf0d27bf171afe.jpg?width=1440&version=32D9367ADED62710DF8720E943FBC724",
+      "url": "https://www.odeonkino.no/film/disclosure-day/",
+      "tags": [
+        "luxe",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-81e64bd2-5bc0-45ae-b755-81b57dcd0897",
+      "title": "The Devil Wears Prada 2",
+      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
+      "start_at": "2026-07-01T15:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
+      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
+      "tags": [
+        "luxe",
+        "komedie",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-602ad1f9-22bd-4061-af6c-db00b3e3a00c",
+      "title": "Disclosure Day",
+      "description": "Hvis du fikk vite at vi ikke er alene, hvis noen viste deg det, beviste det for deg, ville det skremme deg? Ny sci-fi fra Steven Spielberg.",
+      "start_at": "2026-07-01T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a2d64c387d084e6ebedf0d27bf171afe.jpg?width=1440&version=32D9367ADED62710DF8720E943FBC724",
+      "url": "https://www.odeonkino.no/film/disclosure-day/",
+      "tags": [
+        "luxe",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e66753d8-73d1-40b7-8921-b2e4776b7fad",
+      "title": "Obsession",
+      "start_at": "2026-07-01T18:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-84cd908b-3e90-46af-9159-a8fd6affc422",
+      "title": "Scary Movie",
+      "description": "I know what you'll watch this summer.",
+      "start_at": "2026-07-01T18:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c6de9648f2949e182c0cc55e25e6afd.jpg?width=1440&version=ABC26C6327B664C5C9FD380D1F29617D",
+      "url": "https://www.odeonkino.no/film/scary-movie/",
+      "tags": [
+        "luxe",
+        "skrekkfilm",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0a89b330-5ddf-45af-af8b-85b339e2f8e6",
+      "title": "Michael",
+      "start_at": "2026-07-01T20:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-aa4fc112-059f-44d0-b07c-8e1f1896a29f",
+      "title": "Backrooms",
+      "start_at": "2026-07-01T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
+      "url": "https://www.odeonkino.no/film/backrooms/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-5b416726-bb2d-4585-902f-275f302b02e6",
+      "title": "The Death of Robin Hood",
+      "start_at": "2026-07-01T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f31d7eb87a0443ea8b8df4a9f8b87fbe.jpg?width=1440&version=CD0372368357B2CB36EDCF1575BEB186",
+      "url": "https://www.odeonkino.no/film/the-death-of-robin-hood/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a064be90-9933-4f8f-9003-7388202bc6c8",
+      "title": "Obsession",
+      "start_at": "2026-07-01T21:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c72e52ae-8b95-4f40-96e0-284d39141edb",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-02T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-eedc8425-dafa-4fa5-b692-14239af3cc27",
+      "title": "Bamse og havets hemmelighet",
+      "start_at": "2026-07-02T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
+      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "barnefilm",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-bf394127-bb3b-40e7-bcc0-b69715b4ad69",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-02T12:15:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1f957f9f-f7c0-4697-a645-95eecc54c608",
+      "title": "Masters of the Universe",
+      "description": "En ung mann på jorden oppdager en hemmelig arv på en utenomjordisk planet, og må finne tilbake et magisk sverd og vende hjem for å beskytte sitt kongerike.",
+      "start_at": "2026-07-02T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/cfb9e5835b574987a6852ecec705128b.jpg?width=1440&version=890C585B085D8E30D5942CDDD02EC1C7",
+      "url": "https://www.odeonkino.no/film/masters-of-the-universe/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "sci-fi",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8dddbba4-b78d-42cc-8005-a9cee33fe160",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-02T12:45:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-60189f2e-f28e-4950-a437-fb528cfb14b6",
+      "title": "Super Mario Galaxy Filmen",
+      "start_at": "2026-07-02T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
+      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ad2d9d13-8a91-431b-92c4-1e627a14d56d",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-02T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0d0b0a67-5fc0-4714-8b96-df0a7e0cc90e",
+      "title": "Michael",
+      "start_at": "2026-07-02T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6828da3e-b18f-4b8e-b219-4b8ef68a43d7",
+      "title": "Disclosure Day",
+      "description": "Hvis du fikk vite at vi ikke er alene, hvis noen viste deg det, beviste det for deg, ville det skremme deg? Ny sci-fi fra Steven Spielberg.",
+      "start_at": "2026-07-02T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a2d64c387d084e6ebedf0d27bf171afe.jpg?width=1440&version=32D9367ADED62710DF8720E943FBC724",
+      "url": "https://www.odeonkino.no/film/disclosure-day/",
+      "tags": [
+        "luxe",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a2324bf6-21e8-4aa8-833c-fc3a11904424",
+      "title": "The Devil Wears Prada 2",
+      "description": "Meryl Streep, Anne Hathaway, Emily Blunt og Stanley Tucci er tilbake i sine ikoniske roller i en svært etterlengtet oppfølger til fenomenet The Devil Wears Prada..",
+      "start_at": "2026-07-02T15:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/9484371b7fed4dffaf34b3ba73aef627.jpg?width=1440&version=841689B264921B5C5840D1A29559B583",
+      "url": "https://www.odeonkino.no/film/the-devil-wears-prada-2/",
+      "tags": [
+        "luxe",
+        "komedie",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-141bbabd-2e88-4063-b76e-4da7d5490f11",
+      "title": "Disclosure Day",
+      "description": "Hvis du fikk vite at vi ikke er alene, hvis noen viste deg det, beviste det for deg, ville det skremme deg? Ny sci-fi fra Steven Spielberg.",
+      "start_at": "2026-07-02T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a2d64c387d084e6ebedf0d27bf171afe.jpg?width=1440&version=32D9367ADED62710DF8720E943FBC724",
+      "url": "https://www.odeonkino.no/film/disclosure-day/",
+      "tags": [
+        "luxe",
+        "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f21eeb2f-3a54-4d8f-bdad-1dedc1245ce9",
+      "title": "Obsession",
+      "start_at": "2026-07-02T18:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e707d94d-eb2f-4804-9973-23fa05b6240b",
+      "title": "Scary Movie",
+      "description": "I know what you'll watch this summer.",
+      "start_at": "2026-07-02T18:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c6de9648f2949e182c0cc55e25e6afd.jpg?width=1440&version=ABC26C6327B664C5C9FD380D1F29617D",
+      "url": "https://www.odeonkino.no/film/scary-movie/",
+      "tags": [
+        "luxe",
+        "skrekkfilm",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6394e714-4716-49dd-bb10-8db7b8ebe9d1",
+      "title": "Michael",
+      "start_at": "2026-07-02T20:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
+      "url": "https://www.odeonkino.no/film/michael/",
+      "tags": [
+        "biografi",
+        "drama",
+        "musikkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9b3164e0-56b1-41e1-b29e-2879031f267c",
+      "title": "Backrooms",
+      "start_at": "2026-07-02T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
+      "url": "https://www.odeonkino.no/film/backrooms/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6c54e753-4726-48a3-b3b8-a0c14d30e580",
+      "title": "The Death of Robin Hood",
+      "start_at": "2026-07-02T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f31d7eb87a0443ea8b8df4a9f8b87fbe.jpg?width=1440&version=CD0372368357B2CB36EDCF1575BEB186",
+      "url": "https://www.odeonkino.no/film/the-death-of-robin-hood/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-792a9fac-0550-45ff-a720-33ceb083504b",
+      "title": "Obsession",
+      "start_at": "2026-07-02T21:30:00",
       "location_name": "ODEON Ålesund – Sal 2 LUXE",
       "city": "Ålesund",
       "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
