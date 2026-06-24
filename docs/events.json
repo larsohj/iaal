@@ -1,10 +1,32 @@
 {
-  "generated_at": "2026-06-23T18:50:30.372387+00:00",
-  "total": 714,
+  "generated_at": "2026-06-24T00:56:08.786872+00:00",
+  "total": 708,
   "failed_sources": [
     "viti"
   ],
   "events": [
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-06-24T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
+      "city": "Ålesund",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
     {
       "source": "friskus",
       "source_id": "friskus-5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
@@ -691,6 +713,25 @@
       "age_groups": [
         "senior",
         "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-7f6bb9bf-4241-47b9-acac-cdc6ab811513",
+      "title": "Ukesturnering Ålesund biljardklubb",
+      "start_at": "2026-07-01T17:30:00",
+      "end_at": "2026-07-01T23:00:00",
+      "is_free": false,
+      "location_name": "Ålesund biljardklubb",
+      "city": "Ålesund",
+      "organizer": "Ålesund biljardklubb",
+      "image_url": "https://ucarecdn.com/f5ad6aaa-8f98-4c18-a4b0-e74a885eec94/-/crop/2048x559/0,671/-/preview/",
+      "url": "https://alesund.friskus.com/events/7f6bb9bf-4241-47b9-acac-cdc6ab811513",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "senior"
       ],
       "is_recurring": true
     },
@@ -4456,8 +4497,27 @@
       "latitude": 62.3917269,
       "longitude": 6.5803557,
       "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/64636-inngang-norge-frankrike",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-e6ce65b361e87a1af1b0d96141490118",
+      "title": "16-delsfinale Norge",
+      "description": "<p></p>",
+      "start_at": "2026-06-30T17:00:00",
+      "end_at": "2026-07-01T02:00:00",
+      "is_free": true,
+      "location_name": "Bankplassen",
+      "city": "Ålesund",
+      "latitude": 62.3917269,
+      "longitude": 6.5803557,
+      "organizer": "Bankplassen",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-2.jpeg?class=w768",
+      "url": "https://tikkio.com/events/64787-16-delsfinale-norge",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -4746,7 +4806,7 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
       "tags": [],
       "age_groups": [],
@@ -6505,45 +6565,6 @@
       "city": "Ålesund",
       "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i3b871e20-9861-4ccd-a005-db6c96d0a4bf/w300/k5547d3bcd791/alesund-litteraturfestival-kick-off.jpg",
       "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33625&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-31071-2026-06-23",
-      "title": "Tirsdagsklatring Ålesund (18-35år)",
-      "start_at": "2026-06-23T19:00:00",
-      "end_at": "2026-06-23T21:00:00",
-      "location_name": "Sparebanken Møre Arena",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/tirsdagsklatring-alesund-18-35ar/?occurrence=2026-06-23",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34542-2026-06-24",
-      "title": "Sommarles 2026",
-      "start_at": "2026-06-24T00:00:00",
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommarles-2026/?occurrence=2026-06-24",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34689-2026-06-24",
-      "title": "Atlanterhavsparkens sommerprogram 2026",
-      "start_at": "2026-06-24T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/atlanterhavsparkens-sommerprogram/?occurrence=2026-06-24",
       "tags": [],
       "age_groups": [],
       "is_recurring": false,
@@ -8524,114 +8545,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-bdab1883-94ab-4c87-881a-f017c7943e0e",
-      "title": "Disclosure Day",
-      "description": "Hvis du fikk vite at vi ikke er alene, hvis noen viste deg det, beviste det for deg, ville det skremme deg? Ny sci-fi fra Steven Spielberg.",
-      "start_at": "2026-06-23T20:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a2d64c387d084e6ebedf0d27bf171afe.jpg?width=1440&version=32D9367ADED62710DF8720E943FBC724",
-      "url": "https://www.odeonkino.no/film/disclosure-day/",
-      "tags": [
-        "isense",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-032163f7-ed31-4151-83ae-c30d863fc58d",
-      "title": "The Death of Robin Hood",
-      "start_at": "2026-06-23T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f31d7eb87a0443ea8b8df4a9f8b87fbe.jpg?width=1440&version=CD0372368357B2CB36EDCF1575BEB186",
-      "url": "https://www.odeonkino.no/film/the-death-of-robin-hood/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d7d450df-3d85-464d-bb77-0aa4ee4ce021",
-      "title": "Scary Movie",
-      "description": "I know what you'll watch this summer.",
-      "start_at": "2026-06-23T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c6de9648f2949e182c0cc55e25e6afd.jpg?width=1440&version=ABC26C6327B664C5C9FD380D1F29617D",
-      "url": "https://www.odeonkino.no/film/scary-movie/",
-      "tags": [
-        "skrekkfilm",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-63536a65-aa5f-4222-a3b2-73555509da05",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-06-23T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a234c63f-b787-4eb8-b65e-a1e5931e57a7",
-      "title": "Obsession",
-      "start_at": "2026-06-23T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
-      "url": "https://www.odeonkino.no/film/obsession/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-adc17ef8-d9cc-4e43-8750-3e23c26e84a5",
-      "title": "Backrooms",
-      "start_at": "2026-06-23T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
-      "url": "https://www.odeonkino.no/film/backrooms/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
