@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T00:58:50.517797+00:00",
+  "generated_at": "2026-06-27T07:13:50.981999+00:00",
   "total": 608,
   "failed_sources": [
     "viti"
@@ -4311,7 +4311,7 @@
       "latitude": 62.3917269,
       "longitude": 6.5803557,
       "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/64787-16-delsfinale-norge",
       "tags": [],
       "age_groups": [],
@@ -4620,7 +4620,7 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
       "tags": [],
       "age_groups": [],
