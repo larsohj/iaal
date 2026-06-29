@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T18:32:23.017661+00:00",
-  "total": 535,
+  "generated_at": "2026-06-29T01:03:52.840813+00:00",
+  "total": 527,
   "failed_sources": [
     "viti"
   ],
@@ -21,6 +21,28 @@
       "age_groups": [
         "children",
         "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-06-29T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
+      "city": "Ålesund",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -437,6 +459,24 @@
       "tags": [],
       "age_groups": [
         "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-dd4feb83-9522-4ba6-a7aa-bb93ca6556d2",
+      "title": "NOVU 2026 - Nordisk venskapsutveksling for ungdom - i Ålesund",
+      "start_at": "2026-07-02T08:00:00",
+      "end_at": "2026-07-02T22:00:00",
+      "is_free": true,
+      "location_name": "Ålesund kommune",
+      "city": "Ålesund",
+      "organizer": "Ålesund kommune",
+      "image_url": "https://ucarecdn.com/0cc4be7c-3069-4be5-9ac1-7232ac276e27/-/crop/530x144/0,25/-/preview/",
+      "url": "https://alesund.friskus.com/events/dd4feb83-9522-4ba6-a7aa-bb93ca6556d2",
+      "tags": [],
+      "age_groups": [
+        "teenager"
       ],
       "is_recurring": true
     },
@@ -4266,7 +4306,7 @@
       "latitude": 62.3917269,
       "longitude": 6.5803557,
       "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64787-16-delsfinale-norge",
       "tags": [],
       "age_groups": [],
@@ -6325,32 +6365,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-24474-2026-06-28",
-      "title": "Brettspillkveld",
-      "start_at": "2026-06-28T19:00:00",
-      "end_at": "2026-06-28T23:55:00",
-      "location_name": "O'Connor's Irish Pub",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/brettspillkveld/?occurrence=2026-06-28",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34821-2026-06-28",
-      "title": "Sommerkino på Løvenvold Theater!",
-      "start_at": "2026-06-28T19:00:00",
-      "end_at": "2026-06-28T22:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-06-28",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-23231-2026-06-29",
       "title": "Seniorsvømming",
       "start_at": "2026-06-29T08:00:00",
@@ -6361,32 +6375,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34542-2026-06-29",
-      "title": "Sommarles 2026",
-      "start_at": "2026-06-29T00:00:00",
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommarles-2026/?occurrence=2026-06-29",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34689-2026-06-29",
-      "title": "Atlanterhavsparkens sommerprogram 2026",
-      "start_at": "2026-06-29T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/atlanterhavsparkens-sommerprogram/?occurrence=2026-06-29",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -7427,116 +7415,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-34a21e91-42c0-4f1f-b53c-86200a4f446e",
-      "title": "The Death of Robin Hood",
-      "start_at": "2026-06-28T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f31d7eb87a0443ea8b8df4a9f8b87fbe.jpg?width=1440&version=CD0372368357B2CB36EDCF1575BEB186",
-      "url": "https://www.odeonkino.no/film/the-death-of-robin-hood/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-474c377b-62c2-4286-962c-33c57ad73f0f",
-      "title": "Scary Movie",
-      "description": "I know what you'll watch this summer.",
-      "start_at": "2026-06-28T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0c6de9648f2949e182c0cc55e25e6afd.jpg?width=1440&version=ABC26C6327B664C5C9FD380D1F29617D",
-      "url": "https://www.odeonkino.no/film/scary-movie/",
-      "tags": [
-        "skrekkfilm",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6b05423a-db62-4f6a-8179-f3cfbdfc60db",
-      "title": "Backrooms",
-      "start_at": "2026-06-28T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
-      "url": "https://www.odeonkino.no/film/backrooms/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-16f53a63-6957-4418-ad5f-7dd7734224d3",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-06-28T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-62ebaa2e-a66c-44ff-ac23-b4666f090726",
-      "title": "Obsession",
-      "start_at": "2026-06-28T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
-      "url": "https://www.odeonkino.no/film/obsession/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d9fc1f05-bef3-4272-8ec9-1e25494ae42a",
-      "title": "Supergirl",
-      "description": "Kara Zor-El, også kjent som Supergirl, må motvillig slå seg sammen med en usannsynlig alliert.",
-      "start_at": "2026-06-28T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5ac34b815c044d48b5187345577159f5.jpg?width=1440&version=D694B963C726DD87BA48701F79AA2849",
-      "url": "https://www.odeonkino.no/film/supergirl/",
-      "tags": [
-        "isense",
-        "komedie",
-        "action",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
