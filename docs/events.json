@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T01:00:23.428962+00:00",
+  "generated_at": "2026-06-30T07:28:20.555686+00:00",
   "total": 622,
   "failed_sources": [
     "viti"
@@ -6244,19 +6244,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-35110-2026-06-30",
-      "title": "Guide Earlybird – Aalesunds Museum",
-      "start_at": "2026-06-30T08:30:00",
-      "end_at": "2026-06-30T09:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/guide-earlybird-aalesunds-museum/?occurrence=2026-06-30",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-22059-2026-06-30",
       "title": "Åpen barnehage",
       "start_at": "2026-06-30T09:00:00",
@@ -6303,6 +6290,19 @@
       "location_name": "Sunnmøre museum",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/sunnmore-museum-i-sommar-aktivitet-leik-og-laering/?occurrence=2026-06-30",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-35371-2026-06-30",
+      "title": "Aktivitetsdag/Ferieaktivitet “Dyr og gårdsliv i gamle dager”",
+      "start_at": "2026-06-30T10:00:00",
+      "end_at": "2026-06-30T13:00:00",
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/aktivitetsdag-ferieaktivitet-dyr-og-gardsliv-i-gamle-dager-borgund-dyreklubb-gamle/?occurrence=2026-06-30",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
