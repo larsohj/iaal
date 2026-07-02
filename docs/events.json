@@ -1,133 +1,10 @@
 {
-  "generated_at": "2026-07-02T09:17:39.203801+00:00",
-  "total": 941,
+  "generated_at": "2026-07-02T14:07:04.117761+00:00",
+  "total": 916,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
-      "title": "Kunstutstilling Julianne Jacobsen",
-      "start_at": "2026-07-02T10:00:00",
-      "end_at": "2026-07-31T19:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "organizer": "Ålesund bibliotek",
-      "image_url": "https://ucarecdn.com/167557f1-60df-42eb-976a-f627e5d04c15/-/crop/2759x1446/0,1139/-/preview/",
-      "url": "https://alesund.friskus.com/events/5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-b7a4f9ab-7e27-442d-b0f9-f33ba3a8a713",
-      "title": "Aktivitetsdag/ferieaktivtet \"Dyr, gårdsliv og aktiviteter\" Borgund Dyreklubb",
-      "start_at": "2026-07-02T10:00:00",
-      "end_at": "2026-08-06T12:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/bd235c41-66d6-475e-bb17-032743b04d48/-/crop/3468x1817/0,2084/-/preview/",
-      "url": "https://alesund.friskus.com/events/b7a4f9ab-7e27-442d-b0f9-f33ba3a8a713",
-      "tags": [],
-      "age_groups": [
-        "children"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
-      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
-      "start_at": "2026-07-02T10:00:00",
-      "end_at": "2027-06-18T20:00:00",
-      "is_free": true,
-      "location_name": "Dagplass for personer med demens",
-      "city": "Ålesund",
-      "organizer": "Dagplass for personer med demens",
-      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
-      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-a28eb8b7-da9c-464c-a838-a7a352e88326",
-      "title": "Naturmøteplassen ved Gomerløa",
-      "start_at": "2026-07-02T12:00:00",
-      "end_at": "2027-09-16T14:00:00",
-      "is_free": true,
-      "location_name": "Skodje frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Skodje frivilligsentral",
-      "image_url": "https://ucarecdn.com/8830820c-b542-4a52-85bc-07d2d1c201c9/-/crop/640x174/0,38/-/preview/",
-      "url": "https://alesund.friskus.com/events/a28eb8b7-da9c-464c-a838-a7a352e88326",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-07-02T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
-      "title": "Fellesverket – Møteplassen for ungdom i Ålesund",
-      "start_at": "2026-07-02T14:00:00",
-      "end_at": "2026-12-17T19:00:00",
-      "is_free": true,
-      "location_name": "Fellesverket Dragen",
-      "city": "Ålesund",
-      "organizer": "Fellesverket Dragen",
-      "image_url": "https://ucarecdn.com/5bdfad7e-4862-4303-b648-c12c7be60e43/-/crop/1000x272/0,106/-/preview/",
-      "url": "https://alesund.friskus.com/events/6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "senior"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-43fbfab6-6c15-4ee0-877b-f0fb5511f5d3",
@@ -409,6 +286,46 @@
       "tags": [],
       "age_groups": [
         "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-b7a4f9ab-7e27-442d-b0f9-f33ba3a8a713",
+      "title": "Aktivitetsdag/ferieaktivtet \"Dyr, gårdsliv og aktiviteter\" Borgund Dyreklubb",
+      "start_at": "2026-07-09T10:00:00",
+      "end_at": "2026-08-06T12:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/bd235c41-66d6-475e-bb17-032743b04d48/-/crop/3468x1817/0,2084/-/preview/",
+      "url": "https://alesund.friskus.com/events/b7a4f9ab-7e27-442d-b0f9-f33ba3a8a713",
+      "tags": [],
+      "age_groups": [
+        "children"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-a28eb8b7-da9c-464c-a838-a7a352e88326",
+      "title": "Naturmøteplassen ved Gomerløa",
+      "start_at": "2026-07-09T12:00:00",
+      "end_at": "2027-09-16T14:00:00",
+      "is_free": true,
+      "location_name": "Skodje frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Skodje frivilligsentral",
+      "image_url": "https://ucarecdn.com/8830820c-b542-4a52-85bc-07d2d1c201c9/-/crop/640x174/0,38/-/preview/",
+      "url": "https://alesund.friskus.com/events/a28eb8b7-da9c-464c-a838-a7a352e88326",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -2154,69 +2071,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-2c6bcea1-f964-4004-a8b4-63dbc030567d",
-      "title": "Sommaraktivitetar 2026 - Giske vannsport 2. juli",
-      "start_at": "2026-07-02T10:00:00",
-      "end_at": "2026-07-02T15:00:00",
-      "is_free": true,
-      "location_name": "Frivilligsentralen",
-      "city": "Ålesund",
-      "organizer": "Frivilligsentralen",
-      "image_url": "https://ucarecdn.com/f2eca357-228e-4641-850a-0004e81ffbf5/-/crop/1099x300/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/2c6bcea1-f964-4004-a8b4-63dbc030567d",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-cb765ce4-6205-4627-95c9-32f0215b1e2c",
-      "title": "Formiddagstreff",
-      "start_at": "2026-07-02T11:00:00",
-      "end_at": "2026-12-31T14:00:00",
-      "is_free": false,
-      "location_name": "Vigra Aktivitets og Frivillighetssentral VAF",
-      "city": "Ålesund",
-      "organizer": "Vigra Aktivitets og Frivillighetssentral VAF",
-      "image_url": "https://ucarecdn.com/1a2a6ea2-a5a0-4192-a3a5-7df8680151dc/-/scale_crop/1100x300/smart/-/resize/x300/-/setfill/6E37CB/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/cb765ce4-6205-4627-95c9-32f0215b1e2c",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-4099e8e2-02df-4c0a-880e-02130c8fd1c7",
-      "title": "Biblioteket er ope i dag!",
-      "start_at": "2026-07-02T13:00:00",
-      "end_at": "2026-08-07T15:30:00",
-      "is_free": true,
-      "location_name": "Giske folkebibliotek",
-      "city": "Ålesund",
-      "organizer": "Giske folkebibliotek",
-      "image_url": "https://ucarecdn.com/291cb93f-fd25-460e-a4da-21b6d9547361/-/crop/1200x328/0,170/-/preview/",
-      "url": "https://alesund.friskus.com/events/4099e8e2-02df-4c0a-880e-02130c8fd1c7",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-ebcaf647-f13e-43a3-a4e5-df313b90cf53",
       "title": "Sommaraktivitetar 2026 - Godøy IL Aktivitetar 3. juli",
       "start_at": "2026-07-03T10:00:00",
@@ -2292,6 +2146,28 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-cb765ce4-6205-4627-95c9-32f0215b1e2c",
+      "title": "Formiddagstreff",
+      "start_at": "2026-07-07T11:00:00",
+      "end_at": "2026-12-31T14:00:00",
+      "is_free": false,
+      "location_name": "Vigra Aktivitets og Frivillighetssentral VAF",
+      "city": "Ålesund",
+      "organizer": "Vigra Aktivitets og Frivillighetssentral VAF",
+      "image_url": "https://ucarecdn.com/1a2a6ea2-a5a0-4192-a3a5-7df8680151dc/-/scale_crop/1100x300/smart/-/resize/x300/-/setfill/6E37CB/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/cb765ce4-6205-4627-95c9-32f0215b1e2c",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-a29bd6d9-44a4-4c84-a91e-76ab2b4176f5",
       "title": "Sommaraktivitetar 2026 - Aktivitetar på Valdervoll 8. juli",
       "start_at": "2026-07-08T10:00:00",
@@ -2352,25 +2228,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-4170a68a-eceb-4ec7-8a4b-47b40894fe9f",
-      "title": "Sommaraktivitetar 2026 - Godøy IL Aktivitetar 10. juli",
-      "start_at": "2026-07-10T10:00:00",
-      "end_at": "2026-07-10T15:00:00",
-      "is_free": true,
-      "location_name": "Frivilligsentralen",
-      "city": "Ålesund",
-      "organizer": "Frivilligsentralen",
-      "image_url": "https://ucarecdn.com/eac11b26-d990-4925-8b96-6df90780ae8b/-/crop/1099x300/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/4170a68a-eceb-4ec7-8a4b-47b40894fe9f",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-215eb92f-9d14-491f-b61c-1ab4b3c6eb87",
       "title": "Sommaraktivitetar 2026 - Giske vannsport 14. juli",
       "start_at": "2026-07-14T10:00:00",
@@ -2385,6 +2242,28 @@
       "age_groups": [
         "children",
         "teenager"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-7fb95098-63e9-49c9-a781-143471237328",
+      "title": "Minnemarkering 22. juli",
+      "start_at": "2026-07-22T12:00:00",
+      "end_at": "2026-07-22T13:00:00",
+      "is_free": true,
+      "location_name": "Giske kyrkjelege fellesråd",
+      "city": "Ålesund",
+      "organizer": "Giske kyrkjelege fellesråd",
+      "image_url": "https://ucarecdn.com/e26ec92e-5389-4ba5-8273-3076361f10a4/-/crop/4000x1091/0,896/-/preview/",
+      "url": "https://alesund.friskus.com/events/7fb95098-63e9-49c9-a781-143471237328",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": false
     },
@@ -3992,24 +3871,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-90e0442361558cb3e9e30a4f89fbab97",
-      "title": "Aktivitetsdag/Ferieaktivitet \"Dyr, gårdsliv og aktiviteter\" på Borgund Dyreklubb, torsdager",
-      "description": "Velkommen til aktivitetsdag/ferieaktivtet \"Dyr, gårdsliv og aktiviteter\" for barn fra 8 år på Borgund Dyreklubb. I samarbeid med Borgund Dyreklubb Frivillig Organisasjon og Stiftelsen Wasmuth og Rønneberg tilbyr vi på utvalgte dager ferieaktivitet for barn fra 8 år på gården. Vi starter kl. 10.00 med en liten bli-kjent runde og omvisning med læring om dyr og dyrestell, tar ansvar for stell og fôring av griser, høner, kalkuner, katten Figaro, kaniner, marsvin, chinchilla, vaktler og fugler. Det blir også tid til dyrekos. Vi jobber i smågrupper og en av våre erfarne gruppeledere følger deltakere under hele opplegget.\r\nCa. kl. 11.30 tar vi lunsjpause. Barna skal ha med egen matpakke og drikkeflaske, evt. termos med varm drikke ved kaldt vær. Vi serverer frukt/snacks/jogurt.\r\nEtter lunsj blir det aktiviteter avhengig av vær og gruppesammensetning f. eks. sommerquiz, skattejakt, aktivitetsbingo, kreativworkshop, fiskelykke, kjepphestløype mm. \r\nVi er ute og alle deltakere må ha med seg \r\n- klær etter vær\r\n- vanntette sko uansett vær\r\n- matpakke til lunsj\r\n- drikkeflaske/vannflaske, evtl. termos med varm drikke ved kalde dager \r\nBegrenset antall plasser, hver deltaker må ha egen billett! Vi har dessverre ikke mulighet til å bytte eller refundere kjøpte billetter.\r\nVi gjør oppmerksom på at all deltakelse skjer på eget ansvar og egen risiko. Borgund Dyreklubb frasier seg alt ansvar for skader på deltakere og deres utstyr/klær.\r\nVi tar bilder/situasjonsbilder og små videosnut under arrangement som brukes til markedsføring. Dersom du ikke ønsker at ditt barn er med på bilder/video, si fra på forhånd/seinest ved registrering av barnet på aktivitetsdagen.\r\nHar du spørsmål eller lurer på noe, send en epost til: judith.damm@alesund.kommune.no\r\nAktiviteten gjennomføres i samarbeid med Borgund Dyreklubb Frivillig Organisasjon og vi takker så mye Stiftelsen Wasmuth og Rønneberg for tilskudd til aktiviteten :-)",
-      "start_at": "2026-07-02T10:00:00",
-      "end_at": "2026-08-06T13:00:00",
-      "is_free": false,
-      "price_text": "NOK 60.00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3480/uploads/event/c_791143f94e3ce0412d74c3a0ea075a0a.jpg?class=w768",
-      "url": "https://tikkio.com/events/64493-aktivitetsdagferieaktivitet-dyr-gardsliv-og-aktiviteter-pa-borgund-dyreklubb-torsdager",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-5bf30f4840dd8ba0051b98ab158dffe9",
       "title": "Sommerskole \"Dyr, gårdsliv og aktiviteter\" uke 33 (mandag til torsdag)",
       "description": "Velkommen til sommerskole på gården med læring om dyr og gårdsliv, dyrevelferd, dyrestell, dyrekos og mange kjekke og morsomme aktiviteter for barn fra 8 år. Vi har fokus på inkludering og integrering, trivsel, læring og at alle har gode opplevelser hos oss. Sommerskole og aktiviteter starter hver dag kl. 10.00, men deltakere kan sjekke inn fra kl. 9.30. Vi er ute uansett vær. På formiddagen blir det læring om dagens dag, stell av alle smådyra og fôring av griser, høner, kalkuner, katten Figaro, fugler og vaktler, kaniner, marsvin og chinchilla og våre hester og ponnier. Ca. kl. 11.45 spiser vi medbrakt lunsj i lag. Elever må ha med seg en god matpakke (mandag til onsdag) og vannflaske. Torsdag ordner vi med felleslunsj og det blir grilling eller pizza (ved regnvær). \r\nEtter lunsj tilbyr vi forskjellige aktiviteter, avhengig av vær og gruppesammensetning som f. eks. kreativworkshop, heste-og ponnikos med børsting og fletting, ridning, rebus, quiz, bingo, kjepphestkonkurranse, tur i nærområde, fiskelykke, besøk av Sunnmøre museum eller middelaldermuseum, lage akvarium, bade med hester, vannkrig mm. \r\nKl. 13.45 serverer vi frukt/snacks/is og tar en liten oppsummering før vi avslutter sommerskoledagen kl. 14.00. \r\n\r\nPAKKELISTE: Vi er ute! Det betyr, deltakere må ha klær etter vær og i tillegg: \r\n- Vanntette sko (uansett vær) \r\n- Sitteunderlag \r\n- Drikkeflaske, ev. termos med varm drikke.\r\n- Matpakke til lunsj (mandag-onsdag), ev. ekstra mat\r\n- ev. klesskift \r\n- Solkrem og caps/solhatt \r\n\r\nPrisen inkluderer alle aktiviteter, inngangspenger, snacks/frukt/is på alle dager, lunsj på siste dagen og bruk av utstyr (f.eks. ridehjelm/sikkerhetsvest). Begrenset antall plasser, førstemann til mølla. \r\nStøtteordningen FRITIDSKONTO kan brukes. Her kan du lese mer om FRITIDSKONTO: https://alesund.kommune.no/kultur-idrett-og-fritid/fritid/stotte-til-kultur-og-fritidsaktivitetar/#faqsporsmal-3333\r\nEtter påmeldingen, blir deltakere kontaktet og får tilsendt registrerings- og samtykkeskjema på epost. \r\n\r\nDersom ditt barn har behov for tilrettelegging så trenger vi informasjon om type tilrettelegging i god tid på forhånd. Ta kontakt med oss: judith.damm@alesund.kommune.no\r\n\r\nVi prøver å inkludere alle deltakere så godt vi kan, men har en del begrensninger i stallen. Bruk av rullestol er ikke tillatt i stallen og ponnistallen, og vi har ingen heis i stallen for å komme på salrom i 2. etasje eller høyloftet i 3. etasje. \r\n\r\nVi har dessverre ikke mulighet til å refundere kjøpte billetter eller endre på tidspunkt. Det blir ingen refusjon ved sykdom eller manglende oppmøte. \r\n\r\nÅlesund kommune har tegnet en kollektiv ulykkesforsikring for alle barn i kommunale skoler. Forsikringen gjelder ved ulykkeskade også på sommerskole på Borgund Dyreklubb for elever som tilhører Ålesund Kommune. Borgund Dyreklubb frasier seg alt av ansvar for skader på deltakerens utstyr/klær. \r\nVi gjør oppmerksom på at all deltakelse skjer på eget ansvar og egen risiko for deltakere fra andre kommuner enn Ålesund. Borgund Dyreklubb frasier seg alt ansvar for skader på deltakere og deres utstyr/klær.",
@@ -5142,6 +5003,24 @@
     },
     {
       "source": "parken",
+      "source_id": "parken-41531-yoga-piano",
+      "title": "Yoga Piano",
+      "location_name": "Parken kulturhus – Foajeen",
+      "city": "Ålesund",
+      "organizer": "Høsten 2026",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F41531%2Fweb-square.webp?version=PqKM2MvZUg1w9a6HSfIlvA==",
+      "url": "https://www.parkenkulturhus.no/program/41531-yoga-piano/",
+      "tags": [
+        "annet",
+        "yoga"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "start_at": null,
+      "end_at": null
+    },
+    {
+      "source": "parken",
       "source_id": "parken-47122-beethovens-9-symfoni",
       "title": "Beethovens 9. symfoni",
       "start_at": "2026-08-27T19:00:00",
@@ -6225,97 +6104,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32362-2026-07-02",
-      "title": "Sommerfuglen Aktivitet",
-      "start_at": "2026-07-02T10:00:00",
-      "end_at": "2026-07-02T15:00:00",
-      "location_name": "Sommerfuglen Aktivitet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerfuglen-aktivitet/?occurrence=2026-07-02",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-07-02",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-07-02T10:00:00",
-      "end_at": "2026-07-02T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-07-02",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35118-2026-07-02",
-      "title": "Sunnmøre museum i sommar: Aktivitet, leik og læring",
-      "start_at": "2026-07-02T10:00:00",
-      "end_at": "2026-07-02T15:00:00",
-      "location_name": "Sunnmøre museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sunnmore-museum-i-sommar-aktivitet-leik-og-laering/?occurrence=2026-07-02",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35373-2026-07-02",
-      "title": "Aktivitetsdag/Ferieaktivitet “Dyr, gårdsliv og aktiviteter” Borgund Dyreklubb gamle .",
-      "start_at": "2026-07-02T10:00:00",
-      "end_at": "2026-07-02T13:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aktivitetsdag-ferieaktivitet-dyr-gardsliv-og-aktiviteter-borgund-dyreklubb-gamle/?occurrence=2026-07-02",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34595-2026-07-02",
-      "title": "Film: Året i Ålesund",
-      "start_at": "2026-07-02T11:00:00",
-      "end_at": "2026-07-02T16:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/film-aret-i-alesund-3/?occurrence=2026-07-02",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-07-02",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-07-02T12:00:00",
-      "end_at": "2026-07-02T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-07-02",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35458-2026-07-02",
-      "title": "Food Truck Festival i Ålesund – Street Food Norway Tour July 2026",
-      "start_at": "2026-07-02T12:00:00",
-      "end_at": "2026-07-02T20:00:00",
-      "location_name": "St. Olavs plass",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/food-truck-festival-i-alesund-street-food-norway-tour-2026-417/?occurrence=2026-07-02&time=1782993600",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -11061,246 +10849,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-3c18794e-efba-499c-bd37-e93b227d47fc",
-      "title": "Supergirl",
-      "description": "Kara Zor-El, også kjent som Supergirl, må motvillig slå seg sammen med en usannsynlig alliert.",
-      "start_at": "2026-07-02T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5ac34b815c044d48b5187345577159f5.jpg?width=1440&version=D694B963C726DD87BA48701F79AA2849",
-      "url": "https://www.odeonkino.no/film/supergirl/",
-      "tags": [
-        "komedie",
-        "action",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-456d9d4d-3804-461e-b1b9-4868da30ffea",
-      "title": "Den stjålne prinsessen",
-      "description": "Et episk eventyr om kjærlighet, mot og magi – hvor ekte følelser settes opp mot mørke krefter.",
-      "start_at": "2026-07-02T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a1782c129ec34c3095a52edff266fa4e.jpg?width=1440&version=87E4886102A1F6AD968DAEEDC4642579",
-      "url": "https://www.odeonkino.no/film/den-stjalne-prinsessen/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c72e52ae-8b95-4f40-96e0-284d39141edb",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-07-02T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-eedc8425-dafa-4fa5-b692-14239af3cc27",
-      "title": "Bamse og havets hemmelighet",
-      "start_at": "2026-07-02T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
-      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f7de1538-3b54-4f89-aa04-5b472c96fe1a",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-07-02T11:45:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "isense",
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-bf394127-bb3b-40e7-bcc0-b69715b4ad69",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-07-02T12:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-1f957f9f-f7c0-4697-a645-95eecc54c608",
-      "title": "Masters of the Universe",
-      "description": "En ung mann på jorden oppdager en hemmelig arv på en utenomjordisk planet, og må finne tilbake et magisk sverd og vende hjem for å beskytte sitt kongerike.",
-      "start_at": "2026-07-02T12:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/cfb9e5835b574987a6852ecec705128b.jpg?width=1440&version=890C585B085D8E30D5942CDDD02EC1C7",
-      "url": "https://www.odeonkino.no/film/masters-of-the-universe/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8dddbba4-b78d-42cc-8005-a9cee33fe160",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-07-02T12:45:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-2cc01518-a6dd-4c05-9f3b-3df06cf83f9d",
-      "title": "Supergirl",
-      "description": "Kara Zor-El, også kjent som Supergirl, må motvillig slå seg sammen med en usannsynlig alliert.",
-      "start_at": "2026-07-02T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5ac34b815c044d48b5187345577159f5.jpg?width=1440&version=D694B963C726DD87BA48701F79AA2849",
-      "url": "https://www.odeonkino.no/film/supergirl/",
-      "tags": [
-        "komedie",
-        "action",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-60189f2e-f28e-4950-a437-fb528cfb14b6",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-07-02T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-0bd6f828-ddb6-4262-87d2-d73978450c9b",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-07-02T14:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "isense",
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ad2d9d13-8a91-431b-92c4-1e627a14d56d",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-07-02T14:45:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
