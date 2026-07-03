@@ -1,32 +1,10 @@
 {
-  "generated_at": "2026-07-03T03:28:39.555656+00:00",
-  "total": 911,
+  "generated_at": "2026-07-03T09:22:40.141915+00:00",
+  "total": 909,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-07-03T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
@@ -4160,7 +4138,7 @@
       "latitude": 62.3917269,
       "longitude": 6.5803557,
       "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64887-8-delsfinale-norge-brasil",
       "tags": [],
       "age_groups": [],
@@ -4489,7 +4467,7 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
       "tags": [],
       "age_groups": [],
@@ -6195,6 +6173,21 @@
     },
     {
       "source": "bibliotek",
+      "source_id": "bibliotek-33632",
+      "title": "Poesiverksted for alle i Ålesund bibliotek",
+      "start_at": "2026-09-05T12:00:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
+      "city": "Ålesund",
+      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i04ca8241-b1a1-4997-af9d-195b14575e71/w300/kf62dda564451/poesiverksted_fb-1.png",
+      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33632&lang=1&MId1=18377",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bibliotek",
       "source_id": "bibliotek-33621",
       "title": "Fole kjekt å vere sosial og digital - datakafé i Kyrkjekjellaren på Ellingsøya",
       "start_at": "2026-09-08T12:00:00",
@@ -6237,34 +6230,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bibliotek",
-      "source_id": "bibliotek-33581",
-      "title": "Livet etter selvmord – Samtale med Solveig Kloppen og Kjartan Brügger Bjånesøy",
-      "start_at": "2026-09-10T19:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i15524099-204c-4c33-aef6-e4c4d59edeed/w300/kc0b03e3bfc52/kopi-av-solveig-kloppen_infoskjerm.png",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33581&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35110-2026-07-03",
-      "title": "Guide Earlybird – Aalesunds Museum",
-      "start_at": "2026-07-03T08:30:00",
-      "end_at": "2026-07-03T09:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/guide-earlybird-aalesunds-museum/?occurrence=2026-07-03",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
