@@ -1,54 +1,10 @@
 {
-  "generated_at": "2026-07-04T08:41:22.164881+00:00",
-  "total": 862,
+  "generated_at": "2026-07-04T13:39:02.986931+00:00",
+  "total": 842,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
-      "title": "Kunstutstilling Julianne Jacobsen",
-      "start_at": "2026-07-04T10:00:00",
-      "end_at": "2026-07-31T19:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "organizer": "Ålesund bibliotek",
-      "image_url": "https://ucarecdn.com/167557f1-60df-42eb-976a-f627e5d04c15/-/crop/2759x1446/0,1139/-/preview/",
-      "url": "https://alesund.friskus.com/events/5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-07-04T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-16124d1c-9711-4391-ae3e-9f19ca38c396",
@@ -3955,7 +3911,7 @@
     {
       "source": "tikkio",
       "source_id": "tikkio-98f965e7595c6d510914586235d57907",
-      "title": "Se Norge  - Brasil (18+)",
+      "title": "Norge  - Brasil (18+) Nestun klubbhus ",
       "description": "<p><strong>⚽ FOLKEFEST PÅ NESTUN ⚽</strong><br><strong>Norge 🇳🇴 – Brasil 🇧🇷</strong></p><p>Billettene i Ålesund sentrum forsvant i rekordfart – derfor åpner vi nå dørene på <strong>Nestun</strong> og inviterer til en skikkelig folkefest når Norge møter Brasil!</p><p>Vi legger til rette for en sosial og stemningsfull kveld med <strong>storskjerm, god lyd og topp atmosfære</strong>. Her samler vi folk for å oppleve kampen sammen.</p><p>Det rigges til <strong>bord og sitteplasser</strong>, slik at du kan se kampen sammen med venner og kjente i komfortable omgivelser.</p><p>Det blir salg av <strong>enkel mat, snacks og brus</strong> gjennom hele kvelden.</p><p>Og ja – <strong>medbrakt er helt innafor</strong>, så her kan du holde kostnadene nede før du eventuelt tar turen videre til byen for å feire norsk seier – eller bli igjen på Nestun utover natten sammen med godt øyafolk.</p><p></p><p><strong>Praktisk info</strong></p><p>📍 Lokasjon: Nestun (Giske Klubbhus)<br>🕗 Dørene åpner: 20:00<br>🍔 Salg av enkel mat, snacks og brus<br>🔞 <strong>18-årsgrense. Personer under 18 år kan delta i følge med foresatt</strong><br>🍻 Medbrakt er tillatt</p><p></p><p>Dette blir en kveld for historiebøkene – vi håper å se så mange som mulig!</p>",
       "start_at": "2026-07-05T20:00:00",
       "end_at": "2026-07-06T05:00:00",
@@ -4099,6 +4055,26 @@
       "organizer": "HAVGAPROCK",
       "image_url": "https://cdn.tikkio.com/static/1.0.3471/uploads/event/c_dabb8fc2cf393e3e0f28d737de29a07e.webp?class=w768",
       "url": "https://tikkio.com/events/63657-havgaprock-2026",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-4d2f88d59401b2690fe12f1df256cfe1",
+      "title": "8-delsfinale Norge - Brasil ",
+      "description": "<p></p>",
+      "start_at": "2026-07-05T18:00:00",
+      "end_at": "2026-07-06T01:30:00",
+      "is_free": false,
+      "price_text": "NOK 270.00",
+      "location_name": "Bankplassen",
+      "city": "Ålesund",
+      "latitude": 62.3917269,
+      "longitude": 6.5803557,
+      "organizer": "Bankplassen",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-1.jpeg?class=w768",
+      "url": "https://tikkio.com/events/64887-8-delsfinale-norge-brasil",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -4428,7 +4404,7 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
       "tags": [],
       "age_groups": [],
@@ -6155,97 +6131,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-07-04",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-07-04T10:00:00",
-      "end_at": "2026-07-04T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-07-04",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-25486-2026-07-04",
-      "title": "Aalesunds Museum",
-      "start_at": "2026-07-04T11:00:00",
-      "end_at": "2026-07-04T15:30:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum/?occurrence=2026-07-04",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34595-2026-07-04",
-      "title": "Film: Året i Ålesund",
-      "start_at": "2026-07-04T11:00:00",
-      "end_at": "2026-07-04T16:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/film-aret-i-alesund-3/?occurrence=2026-07-04",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-07-04",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-07-04T12:00:00",
-      "end_at": "2026-07-04T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-07-04",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33435-2026-07-04",
-      "title": "Modelljernbaneanlegget Devoldbanen",
-      "start_at": "2026-07-04T12:00:00",
-      "end_at": "2026-07-04T16:00:00",
-      "location_name": "Devoldfabrikken",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/modelljernbaneanlegget-devoldbanen/?occurrence=2026-07-04",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35406-2026-07-04",
-      "title": "Den ukrainske Kupala-festivalen 2026 (Midsommar)",
-      "start_at": "2026-07-04T12:00:00",
-      "end_at": "2026-07-04T14:00:00",
-      "location_name": "Tueneset",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/den-ukrainske-kupala-festivalen-2026-midsommar/?occurrence=2026-07-04",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35458-2026-07-04",
-      "title": "Food Truck Festival i Ålesund – Street Food Norway Tour July 2026",
-      "start_at": "2026-07-04T12:00:00",
-      "end_at": "2026-07-04T20:00:00",
-      "location_name": "St. Olavs plass",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/food-truck-festival-i-alesund-street-food-norway-tour-2026-417/?occurrence=2026-07-04&time=1783166400",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -10679,247 +10564,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-30e8ecf2-1ca5-4892-afd9-f43a67ef6a91",
-      "title": "Bamse og havets hemmelighet",
-      "start_at": "2026-07-04T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
-      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-61bc9cfe-edf1-4b1a-b25d-a42ce38f80b1",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-07-04T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8caec18c-4c99-432c-926a-f174c6f898f7",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-07-04T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b37f7ccf-4431-4158-93e6-d8552c62d35b",
-      "title": "Supergirl",
-      "description": "Kara Zor-El, også kjent som Supergirl, må motvillig slå seg sammen med en usannsynlig alliert.",
-      "start_at": "2026-07-04T10:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5ac34b815c044d48b5187345577159f5.jpg?width=1440&version=D694B963C726DD87BA48701F79AA2849",
-      "url": "https://www.odeonkino.no/film/supergirl/",
-      "tags": [
-        "komedie",
-        "action",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-0ccfbfc5-4f35-4658-a71f-81e1e3375481",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-07-04T11:45:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "isense",
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7bae98a7-e560-44b8-8bc7-56b1092a6ddf",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-07-04T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-1061b484-bd6d-4bf0-b932-bf7dd98a1f83",
-      "title": "Masters of the Universe",
-      "description": "En ung mann på jorden oppdager en hemmelig arv på en utenomjordisk planet, og må finne tilbake et magisk sverd og vende hjem for å beskytte sitt kongerike.",
-      "start_at": "2026-07-04T12:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/cfb9e5835b574987a6852ecec705128b.jpg?width=1440&version=890C585B085D8E30D5942CDDD02EC1C7",
-      "url": "https://www.odeonkino.no/film/masters-of-the-universe/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "sci-fi",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-88bc33d0-ca06-4207-9c6c-9b607e5f5bf9",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-07-04T12:45:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-fbd63f8f-4178-4f4d-b4d9-da3426a9b6ef",
-      "title": "Super Mario Galaxy Filmen",
-      "start_at": "2026-07-04T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a9e328a73d74efe960c0cb6336e1d6d.jpg?width=1440&version=A3E1772D03F05C88FD11D268A7589115",
-      "url": "https://www.odeonkino.no/film/super-mario-galaxy-filmen/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e58ff102-f32c-428a-96c2-64172d7920f1",
-      "title": "Den stjålne prinsessen",
-      "description": "Et episk eventyr om kjærlighet, mot og magi – hvor ekte følelser settes opp mot mørke krefter.",
-      "start_at": "2026-07-04T13:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a1782c129ec34c3095a52edff266fa4e.jpg?width=1440&version=87E4886102A1F6AD968DAEEDC4642579",
-      "url": "https://www.odeonkino.no/film/den-stjalne-prinsessen/",
-      "tags": [
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-acdd1365-55d8-4b2d-9bcd-4694b20e59b2",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-07-04T14:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "isense",
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-34b2f5ac-5165-49fa-aa37-575224f9e8e4",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-07-04T14:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
