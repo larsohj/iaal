@@ -1,93 +1,10 @@
 {
-  "generated_at": "2026-07-06T03:45:13.657471+00:00",
-  "total": 771,
+  "generated_at": "2026-07-06T10:28:16.268242+00:00",
+  "total": 758,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-07-06T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
-      "title": "Kunstutstilling Julianne Jacobsen",
-      "start_at": "2026-07-06T10:00:00",
-      "end_at": "2026-07-31T19:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "organizer": "Ålesund bibliotek",
-      "image_url": "https://ucarecdn.com/167557f1-60df-42eb-976a-f627e5d04c15/-/crop/2759x1446/0,1139/-/preview/",
-      "url": "https://alesund.friskus.com/events/5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
-      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
-      "start_at": "2026-07-06T10:00:00",
-      "end_at": "2027-06-18T20:00:00",
-      "is_free": true,
-      "location_name": "Dagplass for personer med demens",
-      "city": "Ålesund",
-      "organizer": "Dagplass for personer med demens",
-      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
-      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-fd3cf089-fd4b-4773-85d6-707e40071b55",
-      "title": "Få hjelp av Kreftforeningens hverdagshjelp i Ålesund",
-      "start_at": "2026-07-06T10:00:00",
-      "end_at": "2028-06-05T22:00:00",
-      "is_free": true,
-      "location_name": "Kreftforeningen",
-      "city": "Ålesund",
-      "organizer": "Kreftforeningen",
-      "image_url": "https://ucarecdn.com/a788b2e4-169e-4d6c-a754-3bdb22a9c2d7/-/crop/1181x322/0,106/-/preview/",
-      "url": "https://alesund.friskus.com/events/fd3cf089-fd4b-4773-85d6-707e40071b55",
-      "tags": [],
-      "age_groups": [
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-15b7d25a-1d70-4f69-9ef4-b0c0bd384c36",
@@ -2149,25 +2066,6 @@
       "age_groups": [
         "senior",
         "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-2632230d-c0e3-426c-9aa7-d3f45f7ff050",
-      "title": "Sommaraktivitetar 2026 - Atlanterhavsparken 6. juli",
-      "start_at": "2026-07-06T10:00:00",
-      "end_at": "2026-07-06T16:00:00",
-      "is_free": true,
-      "location_name": "Frivilligsentralen",
-      "city": "Ålesund",
-      "organizer": "Frivilligsentralen",
-      "image_url": "https://ucarecdn.com/57ecc0f5-730d-49d9-a44f-dc542cec064f/-/crop/1099x300/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/2632230d-c0e3-426c-9aa7-d3f45f7ff050",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager"
       ],
       "is_recurring": false
     },
@@ -4352,7 +4250,7 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
       "tags": [],
       "age_groups": [],
@@ -6079,58 +5977,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-23231-2026-07-06",
-      "title": "Seniorsvømming",
-      "start_at": "2026-07-06T08:00:00",
-      "end_at": "2026-07-06T11:00:00",
-      "location_name": "Bybadet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/seniorsvomming/?occurrence=2026-07-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35110-2026-07-06",
-      "title": "Guide Earlybird – Aalesunds Museum",
-      "start_at": "2026-07-06T08:30:00",
-      "end_at": "2026-07-06T09:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/guide-earlybird-aalesunds-museum/?occurrence=2026-07-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32362-2026-07-06",
-      "title": "Sommerfuglen Aktivitet",
-      "start_at": "2026-07-06T10:00:00",
-      "end_at": "2026-07-06T15:00:00",
-      "location_name": "Sommerfuglen Aktivitet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerfuglen-aktivitet/?occurrence=2026-07-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-07-06",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-07-06T10:00:00",
-      "end_at": "2026-07-06T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-07-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -10252,86 +10098,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-2786dbca-681a-4b5d-b5b3-69448fed4748",
-      "title": "Bamse og havets hemmelighet",
-      "start_at": "2026-07-06T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
-      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-5697f364-3daa-4ad9-8a17-911e079a2f97",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-07-06T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-71022781-1a13-4950-a9d4-a3c1858882fa",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-07-06T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4444d61e-d78c-4a49-8143-27d2cc82e53e",
-      "title": "Supergirl",
-      "description": "Kara Zor-El, også kjent som Supergirl, må motvillig slå seg sammen med en usannsynlig alliert.",
-      "start_at": "2026-07-06T10:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5ac34b815c044d48b5187345577159f5.jpg?width=1440&version=D694B963C726DD87BA48701F79AA2849",
-      "url": "https://www.odeonkino.no/film/supergirl/",
-      "tags": [
-        "komedie",
-        "action",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
