@@ -1,50 +1,10 @@
 {
-  "generated_at": "2026-07-09T03:35:24.396874+00:00",
-  "total": 777,
+  "generated_at": "2026-07-09T09:49:06.322089+00:00",
+  "total": 779,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-28b10f66-dbb2-4b34-9f50-238530aa24d5",
-      "title": "Vil du hjelpe personer berørt av kreft?",
-      "start_at": "2026-07-09T08:00:00",
-      "end_at": "2027-12-30T21:00:00",
-      "is_free": true,
-      "location_name": "Kreftforeningen",
-      "city": "Ålesund",
-      "organizer": "Kreftforeningen",
-      "image_url": "https://ucarecdn.com/00920590-3bfb-40c1-b480-5d52aad6da65/-/crop/1181x322/0,103/-/preview/",
-      "url": "https://alesund.friskus.com/events/28b10f66-dbb2-4b34-9f50-238530aa24d5",
-      "tags": [],
-      "age_groups": [
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-07-09T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
@@ -3939,7 +3899,7 @@
       "latitude": 62.3917269,
       "longitude": 6.5803557,
       "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/64972-kvartfinale-norge-england",
       "tags": [],
       "age_groups": [],
@@ -3997,7 +3957,7 @@
       "latitude": 62.1969807,
       "longitude": 6.1266414,
       "organizer": "Musikk i Sentrum",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64949-musikk-i-sentrum-afterparty",
       "tags": [],
       "age_groups": [],
@@ -4290,7 +4250,7 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
       "tags": [],
       "age_groups": [],
@@ -6140,32 +6100,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-35110-2026-07-09",
-      "title": "Guide Earlybird – Aalesunds Museum",
-      "start_at": "2026-07-09T08:30:00",
-      "end_at": "2026-07-09T09:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/guide-earlybird-aalesunds-museum/?occurrence=2026-07-09",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-22059-2026-07-09",
-      "title": "Åpen barnehage",
-      "start_at": "2026-07-09T09:00:00",
-      "end_at": "2026-07-09T15:00:00",
-      "location_name": "Steinbua",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-barnehage/?occurrence=2026-07-09",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-32362-2026-07-09",
       "title": "Sommerfuglen Aktivitet",
       "start_at": "2026-07-09T10:00:00",
@@ -6212,6 +6146,19 @@
       "location_name": "Borgund Dyreklubb",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/aktivitetsdag-ferieaktivitet-dyr-gardsliv-og-aktiviteter-borgund-dyreklubb-gamle/?occurrence=2026-07-09",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-36191-2026-07-09",
+      "title": "EXHIBITION: over-LOOK-ed/NOT alone",
+      "start_at": "2026-07-09T10:00:00",
+      "end_at": "2026-07-09T14:00:00",
+      "location_name": "Mottaket Kunstscene",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/exhibition-over-look-ed-not-alone/?occurrence=2026-07-09",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -6348,6 +6295,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-36191-2026-07-10",
+      "title": "EXHIBITION: over-LOOK-ed/NOT alone",
+      "start_at": "2026-07-10T10:00:00",
+      "end_at": "2026-07-10T14:00:00",
+      "location_name": "Mottaket Kunstscene",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/exhibition-over-look-ed-not-alone/?occurrence=2026-07-10",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-33315-2026-07-10",
       "title": "Bokkino for barnehagar (3 – 6 år)",
       "start_at": "2026-07-10T11:00:00",
@@ -6465,6 +6425,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-36191-2026-07-11",
+      "title": "EXHIBITION: over-LOOK-ed/NOT alone",
+      "start_at": "2026-07-11T10:00:00",
+      "end_at": "2026-07-11T14:00:00",
+      "location_name": "Mottaket Kunstscene",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/exhibition-over-look-ed-not-alone/?occurrence=2026-07-11",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-25486-2026-07-11",
       "title": "Aalesunds Museum",
       "start_at": "2026-07-11T11:00:00",
@@ -6556,6 +6529,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-36184-2026-07-11",
+      "title": "Flyt-Bar til kai / VM kickoff",
+      "start_at": "2026-07-11T17:00:00",
+      "end_at": "2026-07-11T22:00:00",
+      "location_name": "Rådhusbrygga",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/flyt-bar-til-kai-vm-kickoff/?occurrence=2026-07-11",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-34821-2026-07-11",
       "title": "Sommerkino på Løvenvold Theater!",
       "start_at": "2026-07-11T19:00:00",
@@ -6566,6 +6552,32 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-36198-2026-07-11",
+      "title": "Utsolgt! Fotball VM: NORGE – ENGLAND",
+      "start_at": "2026-07-11T00:00:00",
+      "location_name": "Scandic Parken Hotel",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/fotball-vm-norge-brasil-543/?occurrence=2026-07-11",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-36194-2026-07-11",
+      "title": "Norge-England på storskjerm! Folkefest på Sørsida",
+      "start_at": "2026-07-11T00:00:00",
+      "location_name": "Sørsida",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/norge-england-pa-storskjerm-folkefest-pa-sorsida/?occurrence=2026-07-11",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -6641,6 +6653,19 @@
       "location_name": "Sunnmøre museum",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/sunnmore-museum-i-sommar-aktivitet-leik-og-laering/?occurrence=2026-07-12",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-36191-2026-07-12",
+      "title": "EXHIBITION: over-LOOK-ed/NOT alone",
+      "start_at": "2026-07-12T10:00:00",
+      "end_at": "2026-07-12T14:00:00",
+      "location_name": "Mottaket Kunstscene",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/exhibition-over-look-ed-not-alone/?occurrence=2026-07-12",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -7099,6 +7124,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-36114-2026-07-15",
+      "title": "Sommerkonsert med Ola Kvernberg og Stian Karstensen",
+      "start_at": "2026-07-15T00:00:00",
+      "location_name": "Fabrikken Kulturscene",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sommerkonsert-med-ola-kvernberg-og-stian-karstensen/?occurrence=2026-07-15",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -8233,6 +8271,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-36203-2026-07-23",
+      "title": "Blåtimen 2026: Åpningskonsert med Ole André Farstad",
+      "start_at": "2026-07-23T15:00:00",
+      "end_at": "2026-07-23T16:30:00",
+      "location_name": "Sandøy kyrkje",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/blatimen-2026-apningskonsert-med-ole-andre-farstad/?occurrence=2026-07-23",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-35124-2026-07-23",
       "title": "Sommermeditasjon",
       "start_at": "2026-07-23T18:45:00",
@@ -8721,6 +8772,19 @@
       "location_name": "Sandøy kyrkje",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/youll-never-walk-alone-orgelkonsert-med-robert-coates/?occurrence=2026-07-26",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-36200-2026-07-26",
+      "title": "Blåtimen 2026: Orgelmusikk fra norske og britiske øyer",
+      "start_at": "2026-07-26T13:00:00",
+      "end_at": "2026-07-26T14:30:00",
+      "location_name": "Sandøy kyrkje",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/blatimen-2026-orgelmusikk-fra-norske-og-britiske-oyer/?occurrence=2026-07-26",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -9894,86 +9958,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-08632740-bb64-4e43-962c-b06ad1b2d5a4",
-      "title": "Bamse og havets hemmelighet",
-      "start_at": "2026-07-09T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
-      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6edf900d-1a68-4df7-af60-75b2753ed59a",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-07-09T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-72b4a9d9-8aed-42cd-b0c5-c7d3516889e6",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-07-09T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-dc3b3203-d809-4268-a16b-7f4bebbb6287",
-      "title": "Supergirl",
-      "description": "Kara Zor-El, også kjent som Supergirl, må motvillig slå seg sammen med en usannsynlig alliert.",
-      "start_at": "2026-07-09T10:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5ac34b815c044d48b5187345577159f5.jpg?width=1440&version=D694B963C726DD87BA48701F79AA2849",
-      "url": "https://www.odeonkino.no/film/supergirl/",
-      "tags": [
-        "komedie",
-        "action",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
