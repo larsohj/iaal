@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T13:24:32.226712+00:00",
-  "total": 758,
+  "generated_at": "2026-07-11T19:07:45.295041+00:00",
+  "total": 738,
   "failed_sources": [
     "viti"
   ],
@@ -27,6 +27,28 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-07-12T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-01213650-0864-4261-8a1b-6ba0f4c09413",
       "title": "Drømmesommer 2026",
       "start_at": "2026-07-13T08:00:00",
@@ -41,6 +63,28 @@
       "age_groups": [
         "children",
         "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
+      "title": "Kunstutstilling Julianne Jacobsen",
+      "start_at": "2026-07-13T10:00:00",
+      "end_at": "2026-07-31T19:00:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
+      "city": "Ålesund",
+      "organizer": "Ålesund bibliotek",
+      "image_url": "https://ucarecdn.com/167557f1-60df-42eb-976a-f627e5d04c15/-/crop/2759x1446/0,1139/-/preview/",
+      "url": "https://alesund.friskus.com/events/5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -3083,26 +3127,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-1aa119a8ca97601c2e2c012bce52bf62",
-      "title": "E39 Ekspressen Vol.1 - Rooftop party",
-      "description": "E39 Ekspressen – Vol. 1 · Rooftop party · Dampsentralen · Ålesund\r\n\r\n11. juli tar E39 Ekspressen over Dampsentralens rooftop – både på dag- og kveldstid.\r\n\r\nSommerstemning, house-musikk og en vibe Ålesund ikke har sett før.\r\n\r\nDJs: Lars Hove Aase · Henrik Nesdal · Leander Langseth\r\n\r\nTIDENE BLIR 17:00 - 22:00!\r\n\r\n🔞 ID 20\r\n\r\nBegrenset antall plasser, Ingen andre sjanser.",
-      "start_at": "2026-07-11T16:00:00",
-      "end_at": "2026-07-12T00:00:00",
-      "is_free": false,
-      "price_text": "NOK 179.00",
-      "location_name": "Dampsentralen 6.ETG",
-      "city": "Ålesund",
-      "latitude": 62.4711956,
-      "longitude": 6.1580087,
-      "organizer": "E39 Ekspressen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_89e4ea124bede682dcb830f0086c8978.webp?class=w768",
-      "url": "https://tikkio.com/events/64758-e39-ekspressen-vol1-rooftop-party",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-a4f7139b3e3479a94d006d88e4b26b8e",
       "title": "Vennefest på Pir 2026",
       "description": "Du er invitert!\r\n\r\nÉn kveld. Ett hus. Gode venner. Musikk. Mat. Lys. Bobler. Alt samlet i én intens fest🔥\r\n\r\n- Åpningsshow\r\n- DJ og mat fra Damp\r\n- Surprise på scena\r\n- Underholdning i flere etasjer\r\n- Skikkelig kjekke folk\r\n- +++\r\n\r\nAntall billetter er begrenset og du er en av de vi har lyst å ha med, så vi tenker at det er lurt at du kjøper billett med en gang ;)\r\n\r\nVi gleder oss👏🏻\r\n\r\nXoXo \r\nJulie, Adriana, Victoria og Anja\r\n\r\nID 23år",
@@ -3684,7 +3708,7 @@
       "latitude": 62.4344092,
       "longitude": 6.2002556,
       "organizer": "Langevåg Idrettslag",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/64823-1-runde-i-nm-for-menn-langevag-aafk",
       "tags": [],
       "age_groups": [],
@@ -3783,26 +3807,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-c0a5e5dd58198b543479ff7570315cff",
-      "title": "Kvartfinale Norge - England",
-      "description": "<p></p>",
-      "start_at": "2026-07-11T18:00:00",
-      "end_at": "2026-07-12T05:00:00",
-      "is_free": false,
-      "price_text": "NOK 299.00",
-      "location_name": "Bankplassen",
-      "city": "Ålesund",
-      "latitude": 62.3917269,
-      "longitude": 6.5803557,
-      "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
-      "url": "https://tikkio.com/events/64972-kvartfinale-norge-england",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-1b76ff6129e4231d0723207499d12e0c",
       "title": "Rotlaus, Hasundgot 50 år",
       "description": "Hasundgot feirer 50 år i 2026, i den forbindelse arrangerer vi konsert i vår nye storstue Hasundgot Arena.",
@@ -3871,7 +3875,7 @@
       "latitude": 62.1969807,
       "longitude": 6.1266414,
       "organizer": "Musikk i Sentrum",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64949-musikk-i-sentrum-afterparty",
       "tags": [],
       "age_groups": [],
@@ -4824,26 +4828,6 @@
       "organizer": "STRYN PING PONG CLUB",
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_b473d9dea73bb3ed3cb5918ae9b6a842.jpg?class=w768",
       "url": "https://tikkio.com/events/58915-oktoberfest-stryn-2026",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-255b2441ba5d93df98908a6a33f25aee",
-      "title": "Konsert med Odd Erik Lothe m/band på Silda",
-      "description": "<p><strong>På Sildadagen 11. juli vert det konsert med Odd-Erik Lothe m/band!</strong></p><p>Sidan Odd-Erik Lothe og Fabel debuterte i 1995 med Jordbær og grasbrann har han i alt utgitt 14 album. Dei poetiske tekstane på nordfjordmål har saman med eit mangesidig viseutrykk skaffa han eit trufast publikum og ein lett gjenkjennelig identitet som artist. I dei seinere årene har han samarbeida med bl.a. Mighty Magnolias, Olav Stedje og Finn Tokvam i tillegg til å gje ut musikk under sitt eige namn. Heilt sidan starten har han blitt flittig lista av NRK P1 og hausta kritikerros for alle sine utgjevingar. Han er bl.a. nominert til spelemannspris, har vunne fylkeskulturprisen i Sogn og Fjordane samt Luttprisen for 2022. Lothe sitt siste album &quot;14&quot; har allereie innad i bransjen blitt omtala som bestenotering.</p><p></p><p><strong>Praktisk informasjon:</strong></p><p>Konserten blir i teltet på leikeplassen ved Silda Grendahus, så kle dykk etter vèret.</p><p>Det vert sett opp båtrute frå Selje kl 1520 med anløp Barmen, Flatraket, Osmundsvåg før Silda. Retur etter konserten kl 1900. Bestilling av båtbillett på <a href=\"https://www.fjordguidingselje.no\">https://www.fjordguidingselje.no</a></p><p>Det vert også sett opp ekstra båtrute frå Måløy til konserten. Avgong Lektaren kl 1500. Retur etter konserten kl 1900. Bestilling av båtbillett her på Tikkio. OBS! Avgrensa tal plassar.</p><p>Nybakks Thaimat vil ha pop-up utsalg på Sildagen.</p>",
-      "start_at": "2026-07-11T16:30:00",
-      "end_at": "2026-07-11T19:30:00",
-      "is_free": false,
-      "price_text": "NOK 75.00",
-      "location_name": "Silda Grendahus",
-      "city": "Ålesund",
-      "latitude": 62.012777,
-      "longitude": 5.1924726,
-      "organizer": "Silda Velforening",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_629944bb5fc941661939a0c8b0c579a2.webp?class=w768",
-      "url": "https://tikkio.com/events/64495-konsert-med-odd-erik-lothe-mband",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -5991,58 +5975,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35410-2026-07-11",
-      "title": "Eliteserien 2026: Aalesund – Molde",
-      "start_at": "2026-07-11T16:00:00",
-      "end_at": "2026-07-11T18:00:00",
-      "location_name": "Color Line Stadion",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/eliteserien-aalesund-molde/?occurrence=2026-07-11",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32516-2026-07-11",
-      "title": "Krystall – Hotel 1904",
-      "start_at": "2026-07-11T17:00:00",
-      "end_at": "2026-07-11T23:55:00",
-      "location_name": "Hotel 1904",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/krystall-hotel-1904-358/?occurrence=2026-07-11",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-36184-2026-07-11",
-      "title": "Flyt-Bar til kai / VM kickoff",
-      "start_at": "2026-07-11T17:00:00",
-      "end_at": "2026-07-11T22:00:00",
-      "location_name": "Rådhusbrygga",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/flyt-bar-til-kai-vm-kickoff/?occurrence=2026-07-11",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34821-2026-07-11",
-      "title": "Sommerkino på Løvenvold Theater!",
-      "start_at": "2026-07-11T19:00:00",
-      "end_at": "2026-07-11T22:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-07-11",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -9439,265 +9371,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-a4e07c15-e03c-4599-994d-2209d599f774",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-07-11T14:45:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-94d42c3b-7c70-4b72-adbf-2864738fe55a",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-07-11T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "isense",
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-9b93099b-2acf-40aa-97cf-86e3ab079449",
-      "title": "Vaiana",
-      "start_at": "2026-07-11T15:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
-      "url": "https://www.odeonkino.no/film/vaiana/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-61058f92-387a-4f4f-9948-615019a6730c",
-      "title": "Vaiana",
-      "start_at": "2026-07-11T15:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
-      "url": "https://www.odeonkino.no/film/vaiana/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8454b65e-5d66-439d-ad15-41c5963c892d",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-07-11T15:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7fdbace3-33cc-46aa-bfe0-955a1ea64e71",
-      "title": "Jackass: Best and Last",
-      "description": "Tilbake for én siste, uansvarlig gang!",
-      "start_at": "2026-07-11T16:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5e6a992e9ec84c3db92098037b41acf2.jpg?width=1440&version=3E73CB6E33B6211A279209FD8E40549B",
-      "url": "https://www.odeonkino.no/film/jackass-best-and-last/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "action",
-        "dokumentar"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-000bfbbb-df48-472a-b0ed-b83dba92252a",
-      "title": "Michael",
-      "start_at": "2026-07-11T17:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-3abeb46c-53d2-4d79-bebe-d2f9d3afcd17",
-      "title": "Vaiana",
-      "start_at": "2026-07-11T17:15:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
-      "url": "https://www.odeonkino.no/film/vaiana/",
-      "tags": [
-        "isense",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-aaf5750e-f56e-4bf6-a4ed-9fdedfb035f8",
-      "title": "Obsession",
-      "start_at": "2026-07-11T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
-      "url": "https://www.odeonkino.no/film/obsession/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ea6e1f78-c6f2-4be9-8971-6f456fd462d2",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-07-11T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-0b058421-4242-4227-a8b7-b77707205947",
-      "title": "Vaiana",
-      "start_at": "2026-07-11T18:15:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
-      "url": "https://www.odeonkino.no/film/vaiana/",
-      "tags": [
-        "luxe",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-88a63e14-d9d1-4b12-a763-a5757b01fbe5",
-      "title": "Jackass: Best and Last",
-      "description": "Tilbake for én siste, uansvarlig gang!",
-      "start_at": "2026-07-11T18:15:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5e6a992e9ec84c3db92098037b41acf2.jpg?width=1440&version=3E73CB6E33B6211A279209FD8E40549B",
-      "url": "https://www.odeonkino.no/film/jackass-best-and-last/",
-      "tags": [
-        "komedie",
-        "action",
-        "dokumentar"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-995595fd-cdf3-48fa-84d6-fefb09e831a6",
-      "title": "Vaiana",
-      "start_at": "2026-07-11T20:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
-      "url": "https://www.odeonkino.no/film/vaiana/",
-      "tags": [
-        "isense",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-9e70b961-9314-4e49-ad1c-fff4800b5e55",
-      "title": "Disclosure Day",
-      "description": "Hvis du fikk vite at vi ikke er alene, hvis noen viste deg det, beviste det for deg, ville det skremme deg? Ny sci-fi fra Steven Spielberg.",
-      "start_at": "2026-07-11T20:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a2d64c387d084e6ebedf0d27bf171afe.jpg?width=1440&version=32D9367ADED62710DF8720E943FBC724",
-      "url": "https://www.odeonkino.no/film/disclosure-day/",
-      "tags": [
-        "luxe",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-8a1702e0-401d-4e3a-b667-6b1d15a0fc20",
       "title": "Obsession",
       "start_at": "2026-07-11T20:15:00",
@@ -12593,24 +12266,6 @@
       "url": "https://www.ticketmaster.no/event/bjorn-tomren-prover-sa-godt-han-kan-i-tomrefjord-billetter/1453835157",
       "tags": [
         "rock"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "aafk",
-      "source_id": "aafk-070e145b-c389-459a-85b4-7f61f85402c5",
-      "title": "Eliteserien: Aalesund - Molde",
-      "start_at": "2026-07-11T16:00:00",
-      "is_free": false,
-      "price_text": "50 kr",
-      "location_name": "Color Line Stadion",
-      "city": "Ålesund",
-      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1067217/default_file-1780653448.jpeg",
-      "url": "https://aafk.ticketco.events/no/nb/e/eliteserien_aalesund_-_molde",
-      "tags": [
-        "fotball"
       ],
       "age_groups": [],
       "is_recurring": false,
