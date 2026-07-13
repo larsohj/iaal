@@ -1,68 +1,31 @@
 {
-  "generated_at": "2026-07-13T14:39:33.363229+00:00",
-  "total": 798,
+  "generated_at": "2026-07-13T19:27:11.233112+00:00",
+  "total": 788,
   "failed_sources": [
     "viti"
   ],
   "events": [
     {
       "source": "friskus",
-      "source_id": "friskus-43fbfab6-6c15-4ee0-877b-f0fb5511f5d3",
-      "title": "Fellesverket søker frivillige: Vil du være der for ungdommene?",
-      "start_at": "2026-07-13T16:30:00",
-      "end_at": "2026-12-31T19:00:00",
+      "source_id": "friskus-5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
+      "title": "Kunstutstilling Julianne Jacobsen",
+      "start_at": "2026-07-14T10:00:00",
+      "end_at": "2026-07-31T19:00:00",
       "is_free": true,
-      "location_name": "Fellesverket Dragen",
+      "location_name": "Ålesund bibliotek",
       "city": "Ålesund",
-      "organizer": "Fellesverket Dragen",
-      "image_url": "https://ucarecdn.com/86e08a04-1898-4c9e-adc7-b4789057f13b/-/crop/1536x419/0,246/-/preview/",
-      "url": "https://alesund.friskus.com/events/43fbfab6-6c15-4ee0-877b-f0fb5511f5d3",
+      "organizer": "Ålesund bibliotek",
+      "image_url": "https://ucarecdn.com/167557f1-60df-42eb-976a-f627e5d04c15/-/crop/2759x1446/0,1139/-/preview/",
+      "url": "https://alesund.friskus.com/events/5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
       "tags": [],
       "age_groups": [
+        "children",
         "teenager",
         "family",
         "senior",
         "pensioner"
       ],
       "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-6953cdaf-666b-456a-8278-699075e72604",
-      "title": "Vil du lære å spille biljard?",
-      "start_at": "2026-07-13T18:00:00",
-      "end_at": "2026-12-31T22:00:00",
-      "is_free": false,
-      "location_name": "Ålesund biljardklubb",
-      "city": "Ålesund",
-      "organizer": "Ålesund biljardklubb",
-      "image_url": "https://ucarecdn.com/6cfb5d74-04b6-43a5-9968-bb9a7bc81306/-/crop/2048x558/0,613/-/preview/",
-      "url": "https://alesund.friskus.com/events/6953cdaf-666b-456a-8278-699075e72604",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-e22632a4-8139-423e-85e3-4b1952f6c920",
-      "title": "BOKSLEPP x 3",
-      "start_at": "2026-07-13T18:00:00",
-      "end_at": "2026-07-13T19:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "organizer": "Ålesund bibliotek",
-      "image_url": "https://ucarecdn.com/15e9b7d0-4557-4023-967b-616c223c06b8/-/crop/1099x300/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/e22632a4-8139-423e-85e3-4b1952f6c920",
-      "tags": [],
-      "age_groups": [
-        "senior"
-      ],
-      "is_recurring": false
     },
     {
       "source": "friskus",
@@ -79,6 +42,25 @@
       "tags": [],
       "age_groups": [
         "children"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
+      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
+      "start_at": "2026-07-14T10:00:00",
+      "end_at": "2027-06-18T20:00:00",
+      "is_free": true,
+      "location_name": "Dagplass for personer med demens",
+      "city": "Ålesund",
+      "organizer": "Dagplass for personer med demens",
+      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
+      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -118,6 +100,69 @@
       "url": "https://alesund.friskus.com/events/b5e37824-692f-4a64-9ba5-91d02d9bf737",
       "tags": [],
       "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-07-14T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
+      "title": "Fellesverket – Møteplassen for ungdom i Ålesund",
+      "start_at": "2026-07-14T14:00:00",
+      "end_at": "2026-12-17T19:00:00",
+      "is_free": true,
+      "location_name": "Fellesverket Dragen",
+      "city": "Ålesund",
+      "organizer": "Fellesverket Dragen",
+      "image_url": "https://ucarecdn.com/5bdfad7e-4862-4303-b648-c12c7be60e43/-/crop/1000x272/0,106/-/preview/",
+      "url": "https://alesund.friskus.com/events/6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-43fbfab6-6c15-4ee0-877b-f0fb5511f5d3",
+      "title": "Fellesverket søker frivillige: Vil du være der for ungdommene?",
+      "start_at": "2026-07-14T16:30:00",
+      "end_at": "2026-12-31T19:00:00",
+      "is_free": true,
+      "location_name": "Fellesverket Dragen",
+      "city": "Ålesund",
+      "organizer": "Fellesverket Dragen",
+      "image_url": "https://ucarecdn.com/86e08a04-1898-4c9e-adc7-b4789057f13b/-/crop/1536x419/0,246/-/preview/",
+      "url": "https://alesund.friskus.com/events/43fbfab6-6c15-4ee0-877b-f0fb5511f5d3",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "family",
         "senior",
         "pensioner"
       ],
@@ -1012,7 +1057,7 @@
     {
       "source": "friskus",
       "source_id": "friskus-oaal_9iiY8Tzu",
-      "title": "Turprat 60+",
+      "title": "Turprat 60+: Historien om Patchellhytta og Slingsby",
       "start_at": "2026-09-02T18:00:00",
       "end_at": "2026-09-02T20:00:00",
       "is_free": false,
@@ -1671,28 +1716,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-9431fe9b-7d5c-4c8f-9ca1-16e63fa3d8e6",
-      "title": "Sula sportsbibliotek",
-      "start_at": "2026-07-13T19:00:00",
-      "end_at": "2027-01-07T22:00:00",
-      "is_free": true,
-      "location_name": "Sula frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Sula frivilligsentral",
-      "image_url": "https://ucarecdn.com/2c6fd9b4-08d9-4639-87bb-fe01b5153ffe/-/crop/850x231/0,42/-/preview/",
-      "url": "https://alesund.friskus.com/events/9431fe9b-7d5c-4c8f-9ca1-16e63fa3d8e6",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-ab61364f-cc76-4e74-a80f-08d4b148ac91",
       "title": "15 år sidan 22. juli-terroren 2011",
       "start_at": "2026-07-22T17:00:00",
@@ -1999,6 +2022,28 @@
       "organizer": "Giske Rotaryklubb",
       "image_url": "https://ucarecdn.com/e93fe19b-1c1b-469e-84b4-0573aab3bd46/-/crop/2048x558/0,345/-/preview/-/scale_crop/1100x300/smart/",
       "url": "https://alesund.friskus.com/events/d5506892-f0a1-4988-9f24-be1968946796",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-4099e8e2-02df-4c0a-880e-02130c8fd1c7",
+      "title": "Biblioteket er ope i dag!",
+      "start_at": "2026-07-16T13:00:00",
+      "end_at": "2026-08-07T15:30:00",
+      "is_free": true,
+      "location_name": "Giske folkebibliotek",
+      "city": "Ålesund",
+      "organizer": "Giske folkebibliotek",
+      "image_url": "https://ucarecdn.com/291cb93f-fd25-460e-a4da-21b6d9547361/-/crop/1200x328/0,170/-/preview/",
+      "url": "https://alesund.friskus.com/events/4099e8e2-02df-4c0a-880e-02130c8fd1c7",
       "tags": [],
       "age_groups": [
         "children",
@@ -4008,7 +4053,7 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
       "tags": [],
       "age_groups": [],
@@ -8917,226 +8962,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-239566af-a405-4dad-9741-49021cd78c6d",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-07-13T15:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a93cfbaf-308c-4d2f-89e2-29fee38f0757",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-07-13T15:45:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6494d842-d090-42d0-89be-cb32c1e2a723",
-      "title": "Vaiana",
-      "start_at": "2026-07-13T16:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
-      "url": "https://www.odeonkino.no/film/vaiana/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6e5f12f0-8387-4d89-a20b-4ec403b92137",
-      "title": "Jackass: Best and Last",
-      "description": "Tilbake for én siste, uansvarlig gang!",
-      "start_at": "2026-07-13T16:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5e6a992e9ec84c3db92098037b41acf2.jpg?width=1440&version=3E73CB6E33B6211A279209FD8E40549B",
-      "url": "https://www.odeonkino.no/film/jackass-best-and-last/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "action",
-        "dokumentar"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f6f83025-2e5f-40fb-9d07-48c5fc0051f8",
-      "title": "Vaiana",
-      "start_at": "2026-07-13T17:15:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
-      "url": "https://www.odeonkino.no/film/vaiana/",
-      "tags": [
-        "isense",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-66787622-5d8a-4519-b9e0-fdfd256ecbe8",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-07-13T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-71ced0b5-de28-466c-af05-7b6f40e7272f",
-      "title": "Obsession",
-      "start_at": "2026-07-13T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
-      "url": "https://www.odeonkino.no/film/obsession/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7b18dd02-fee6-4ad8-9433-9b92ea2f0b87",
-      "title": "Vaiana",
-      "start_at": "2026-07-13T18:15:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
-      "url": "https://www.odeonkino.no/film/vaiana/",
-      "tags": [
-        "luxe",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7c3dae78-5d18-4682-9f6f-b7a711a26eb6",
-      "title": "Michael",
-      "start_at": "2026-07-13T18:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-fa391bf1-4850-42e2-944d-2d1cfffa5628",
-      "title": "Jackass: Best and Last",
-      "description": "Tilbake for én siste, uansvarlig gang!",
-      "start_at": "2026-07-13T18:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5e6a992e9ec84c3db92098037b41acf2.jpg?width=1440&version=3E73CB6E33B6211A279209FD8E40549B",
-      "url": "https://www.odeonkino.no/film/jackass-best-and-last/",
-      "tags": [
-        "komedie",
-        "action",
-        "dokumentar"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-5bbbfd35-9aaf-493b-8b74-7dc95d434aa1",
-      "title": "Vaiana",
-      "start_at": "2026-07-13T20:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
-      "url": "https://www.odeonkino.no/film/vaiana/",
-      "tags": [
-        "isense",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-efae48b7-0dd2-4232-aa6f-a6640d31d5c4",
-      "title": "Obsession",
-      "start_at": "2026-07-13T20:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
-      "url": "https://www.odeonkino.no/film/obsession/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
