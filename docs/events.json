@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T19:15:39.624145+00:00",
-  "total": 683,
+  "generated_at": "2026-07-16T02:45:43.028178+00:00",
+  "total": 677,
   "failed_sources": [
     "viti"
   ],
@@ -20,6 +20,28 @@
       "tags": [],
       "age_groups": [
         "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-07-16T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
+      "city": "Ålesund",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -3109,12 +3131,12 @@
     {
       "source": "tikkio",
       "source_id": "tikkio-49c79319a636526e2a0f9ceddc5487f4",
-      "title": "Fotball VM Bronsefinale 18. juli // VM på Terminalen",
+      "title": "Fotball VM Bronsefinale 18. juli Frankrike - England // VM på Terminalen",
       "description": "<p>Fotballfest på Terminalen ⚽️☀️</p><p>Vi viser bronsefinale på storskjerm!</p><p>Kampstart 23:00</p><p><br>Bli med på en ekte fotballfest på Terminalen! Ta med venner og heiarop – dette blir en kveld fylt med fotballglede, fellesskap og VM-stemning.</p><p><strong>NB: Bord til 8 personer. Drikkepakke inkludert.</strong></p>",
       "start_at": "2026-07-18T21:00:00",
       "end_at": "2026-07-19T01:59:00",
       "is_free": false,
-      "price_text": "NOK 150.00",
+      "price_text": "NOK 300.00",
       "location_name": "Terminalen",
       "city": "Ålesund",
       "latitude": 62.4702872,
@@ -3129,7 +3151,7 @@
     {
       "source": "tikkio",
       "source_id": "tikkio-2d74719f47420238e2bd531d6a89e7a3",
-      "title": "Fotball VM FINALE 19. juli // VM på Terminalen",
+      "title": "Fotball VM FINALE 19. juli Spania - Argentina // VM på Terminalen",
       "description": "<p>Fotballfest på Terminalen ⚽️☀️</p><p>Vi viser den store VM FINALEN på storskjerm!</p><p></p><p>Kampstart 21:00<br>Mer informasjon om kvelden kommer.</p><p><br>Bli med på en ekte fotballfest på Terminalen! Ta med venner og heiarop – dette blir en kveld fylt med fotballglede, fellesskap og VM-stemning.</p><p><strong>NB: Bord til 8 personer. Drikkepakke inkludert.</strong></p>",
       "start_at": "2026-07-19T19:00:00",
       "end_at": "2026-07-20T01:59:00",
@@ -3779,7 +3801,7 @@
       "latitude": 62.1969807,
       "longitude": 6.1266414,
       "organizer": "Musikk i Sentrum",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/64949-musikk-i-sentrum-afterparty",
       "tags": [],
       "age_groups": [],
@@ -4092,7 +4114,7 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
       "tags": [],
       "age_groups": [],
@@ -5778,32 +5800,6 @@
       "city": "Ålesund",
       "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/ia8b81ae8-f31e-4477-8f31-ad9aacb06338/w300/k6fa21f30e022/samlesing-sentrum-fb-banner-1.png",
       "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33627&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34542-2026-07-16",
-      "title": "Sommarles 2026",
-      "start_at": "2026-07-16T00:00:00",
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommarles-2026/?occurrence=2026-07-16",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34689-2026-07-16",
-      "title": "Atlanterhavsparkens sommerprogram 2026",
-      "start_at": "2026-07-16T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/atlanterhavsparkens-sommerprogram/?occurrence=2026-07-16",
       "tags": [],
       "age_groups": [],
       "is_recurring": false,
@@ -8642,94 +8638,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7fa437ad-e0c1-4cb1-ac17-697b0400b026",
-      "title": "Obsession",
-      "start_at": "2026-07-15T20:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
-      "url": "https://www.odeonkino.no/film/obsession/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-bf57d477-47e9-406c-948f-5f6baf346814",
-      "title": "Michael",
-      "start_at": "2026-07-15T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/557d3bce75244ca6b7b1ff2608989217.jpg?width=1440&version=DAB38379BC8A581B0DFBD7E5B8A8BD46",
-      "url": "https://www.odeonkino.no/film/michael/",
-      "tags": [
-        "luxe",
-        "biografi",
-        "drama",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-70836f2f-984c-4c29-b468-1fd39c59c1bf",
-      "title": "Jackass: Best and Last",
-      "description": "Tilbake for én siste, uansvarlig gang!",
-      "start_at": "2026-07-15T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5e6a992e9ec84c3db92098037b41acf2.jpg?width=1440&version=3E73CB6E33B6211A279209FD8E40549B",
-      "url": "https://www.odeonkino.no/film/jackass-best-and-last/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "action",
-        "dokumentar"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-fbc4629d-cbbf-423a-a3dd-ce79b273af4d",
-      "title": "Evil Dead Burn",
-      "start_at": "2026-07-15T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f89dc6923fe94dda948231d39fd8e5cc.jpg?width=1440&version=D9AEF2B7F5D62814C20DB8C10BDA6B43",
-      "url": "https://www.odeonkino.no/film/evil-dead-burn/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-17082646-d474-41d7-881b-0940948c0b80",
-      "title": "Backrooms",
-      "start_at": "2026-07-15T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
-      "url": "https://www.odeonkino.no/film/backrooms/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
