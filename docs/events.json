@@ -1,110 +1,10 @@
 {
-  "generated_at": "2026-07-21T08:33:26.359724+00:00",
-  "total": 578,
+  "generated_at": "2026-07-21T13:56:15.093502+00:00",
+  "total": 680,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
-      "title": "Kunstutstilling Julianne Jacobsen",
-      "start_at": "2026-07-21T10:00:00",
-      "end_at": "2026-07-31T19:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "organizer": "Ålesund bibliotek",
-      "image_url": "https://ucarecdn.com/167557f1-60df-42eb-976a-f627e5d04c15/-/crop/2759x1446/0,1139/-/preview/",
-      "url": "https://alesund.friskus.com/events/5c17f20d-1249-44d2-a7e6-4ed08f963ca1",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-8d4ac1e6-9a60-4296-ab23-c8b5386a11cc",
-      "title": "Aktivitetsdag/ferieaktivtet \"Dyr og gardsliv i gamle dager\"",
-      "start_at": "2026-07-21T10:00:00",
-      "end_at": "2026-08-04T13:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/c5d84d48-b19d-4ac3-a20e-8a0a837b571d/-/crop/3468x1817/0,1910/-/preview/-/resize/x300/",
-      "url": "https://alesund.friskus.com/events/8d4ac1e6-9a60-4296-ab23-c8b5386a11cc",
-      "tags": [],
-      "age_groups": [
-        "children"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
-      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
-      "start_at": "2026-07-21T10:00:00",
-      "end_at": "2027-06-18T20:00:00",
-      "is_free": true,
-      "location_name": "Dagplass for personer med demens",
-      "city": "Ålesund",
-      "organizer": "Dagplass for personer med demens",
-      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
-      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-b5e37824-692f-4a64-9ba5-91d02d9bf737",
-      "title": "Frivillig ute i naturen - bli vert på Naturmøteplassen!",
-      "start_at": "2026-07-21T12:00:00",
-      "end_at": "2026-12-22T14:00:00",
-      "is_free": true,
-      "location_name": "Ålesund frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Ålesund frivilligsentral",
-      "image_url": "https://ucarecdn.com/905194ac-3634-432c-8abd-562fd29727fb/",
-      "url": "https://alesund.friskus.com/events/b5e37824-692f-4a64-9ba5-91d02d9bf737",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-07-21T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
@@ -384,6 +284,43 @@
       "tags": [],
       "age_groups": [
         "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-8d4ac1e6-9a60-4296-ab23-c8b5386a11cc",
+      "title": "Aktivitetsdag/ferieaktivtet \"Dyr og gardsliv i gamle dager\"",
+      "start_at": "2026-07-28T10:00:00",
+      "end_at": "2026-08-04T13:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/c5d84d48-b19d-4ac3-a20e-8a0a837b571d/-/crop/3468x1817/0,1910/-/preview/-/resize/x300/",
+      "url": "https://alesund.friskus.com/events/8d4ac1e6-9a60-4296-ab23-c8b5386a11cc",
+      "tags": [],
+      "age_groups": [
+        "children"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-b5e37824-692f-4a64-9ba5-91d02d9bf737",
+      "title": "Frivillig ute i naturen - bli vert på Naturmøteplassen!",
+      "start_at": "2026-07-28T12:00:00",
+      "end_at": "2026-12-22T14:00:00",
+      "is_free": true,
+      "location_name": "Ålesund frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Ålesund frivilligsentral",
+      "image_url": "https://ucarecdn.com/905194ac-3634-432c-8abd-562fd29727fb/",
+      "url": "https://alesund.friskus.com/events/b5e37824-692f-4a64-9ba5-91d02d9bf737",
+      "tags": [],
+      "age_groups": [
         "senior",
         "pensioner"
       ],
@@ -1922,6 +1859,25 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-oaaNRwe3vl5NE",
+      "title": "Tilrettelagt tur til Rollonhytta i samarbeid med Blindeforbundet Møre og Romsdal",
+      "start_at": "2026-09-20T10:30:00",
+      "end_at": "2026-09-20T14:00:00",
+      "is_free": true,
+      "location_name": "DNT Sunnmøre",
+      "city": "Ålesund",
+      "organizer": "DNT Sunnmøre",
+      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_615338",
+      "url": "https://alesund.friskus.com/events/oaaNRwe3vl5NE",
+      "tags": [
+        "friluftsliv",
+        "tur"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-4cb9ce7b-64c7-47fd-9b51-cff755a1ea4b",
       "title": "Glennes Foreldreprogram",
       "start_at": "2026-09-22T17:00:00",
@@ -1960,28 +1916,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-cb765ce4-6205-4627-95c9-32f0215b1e2c",
-      "title": "Formiddagstreff",
-      "start_at": "2026-07-21T11:00:00",
-      "end_at": "2026-12-31T14:00:00",
-      "is_free": false,
-      "location_name": "Vigra Aktivitets og Frivillighetssentral VAF",
-      "city": "Ålesund",
-      "organizer": "Vigra Aktivitets og Frivillighetssentral VAF",
-      "image_url": "https://ucarecdn.com/1a2a6ea2-a5a0-4192-a3a5-7df8680151dc/-/scale_crop/1100x300/smart/-/resize/x300/-/setfill/6E37CB/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/cb765ce4-6205-4627-95c9-32f0215b1e2c",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-7fb95098-63e9-49c9-a781-143471237328",
       "title": "Minnemarkering 22. juli",
       "start_at": "2026-07-22T12:00:00",
@@ -2014,6 +1948,28 @@
       "organizer": "Giske Rotaryklubb",
       "image_url": "https://ucarecdn.com/e93fe19b-1c1b-469e-84b4-0573aab3bd46/-/crop/2048x558/0,345/-/preview/-/scale_crop/1100x300/smart/",
       "url": "https://alesund.friskus.com/events/d5506892-f0a1-4988-9f24-be1968946796",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-cb765ce4-6205-4627-95c9-32f0215b1e2c",
+      "title": "Formiddagstreff",
+      "start_at": "2026-07-23T11:00:00",
+      "end_at": "2026-12-31T14:00:00",
+      "is_free": false,
+      "location_name": "Vigra Aktivitets og Frivillighetssentral VAF",
+      "city": "Ålesund",
+      "organizer": "Vigra Aktivitets og Frivillighetssentral VAF",
+      "image_url": "https://ucarecdn.com/1a2a6ea2-a5a0-4192-a3a5-7df8680151dc/-/scale_crop/1100x300/smart/-/resize/x300/-/setfill/6E37CB/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/cb765ce4-6205-4627-95c9-32f0215b1e2c",
       "tags": [],
       "age_groups": [
         "children",
@@ -3559,6 +3515,8 @@
       "price_text": "NOK 270.00",
       "location_name": "Lorgen Kailag",
       "city": "Ålesund",
+      "latitude": 62.51476,
+      "longitude": 6.30687,
       "organizer": "Lorgen Kailag",
       "image_url": "https://cdn.tikkio.com/static/1.0.3473/uploads/event/c_dc8a40bfc5c30977ebd1410a756e1b05.jpg?class=w768",
       "url": "https://tikkio.com/events/63893-lorgja-live",
@@ -4062,7 +4020,7 @@
       "latitude": 62.1788322,
       "longitude": 6.5306095,
       "organizer": "Skåra Bakkane AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3473/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3473/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/64131-sommerfest-pa-skarabakkane",
       "tags": [],
       "age_groups": [],
@@ -5732,110 +5690,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-22059-2026-07-21",
-      "title": "Åpen barnehage",
-      "start_at": "2026-07-21T09:00:00",
-      "end_at": "2026-07-21T15:00:00",
-      "location_name": "Steinbua",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-barnehage/?occurrence=2026-07-21",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32362-2026-07-21",
-      "title": "Sommerfuglen Aktivitet",
-      "start_at": "2026-07-21T10:00:00",
-      "end_at": "2026-07-21T15:00:00",
-      "location_name": "Sommerfuglen Aktivitet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerfuglen-aktivitet/?occurrence=2026-07-21",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-07-21",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-07-21T10:00:00",
-      "end_at": "2026-07-21T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-07-21",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35118-2026-07-21",
-      "title": "Sunnmøre museum i sommar: Aktivitet, leik og læring",
-      "start_at": "2026-07-21T10:00:00",
-      "end_at": "2026-07-21T15:00:00",
-      "location_name": "Sunnmøre museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sunnmore-museum-i-sommar-aktivitet-leik-og-laering/?occurrence=2026-07-21",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35371-2026-07-21",
-      "title": "Aktivitetsdag/Ferieaktivitet “Dyr og gårdsliv i gamle dager”",
-      "start_at": "2026-07-21T10:00:00",
-      "end_at": "2026-07-21T13:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aktivitetsdag-ferieaktivitet-dyr-og-gardsliv-i-gamle-dager-borgund-dyreklubb-gamle/?occurrence=2026-07-21",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34595-2026-07-21",
-      "title": "Film: Året i Ålesund",
-      "start_at": "2026-07-21T11:00:00",
-      "end_at": "2026-07-21T16:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/film-aret-i-alesund-3/?occurrence=2026-07-21",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-13430-2026-07-21",
-      "title": "Naturmøteplass på Aksla",
-      "start_at": "2026-07-21T12:00:00",
-      "end_at": "2026-07-21T14:00:00",
-      "location_name": "Aksla, Dam 2",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/naturmoteplass-pa-aksla/?occurrence=2026-07-21",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-07-21",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-07-21T12:00:00",
-      "end_at": "2026-07-21T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-07-21",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -7893,236 +7747,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-6479f79b-865e-45b0-a269-f2bae6059dc6",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-07-21T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7c373f15-e07b-4b2f-a261-1a344e143550",
-      "title": "Det lille spøkelset Laban",
-      "start_at": "2026-07-21T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2ce1afa7db504465abaad2acdbb5e739.jpg?width=1440&version=EC55055BECEBCAFC59B6AFB2D8856C28",
-      "url": "https://www.odeonkino.no/film/det-lille-spokelset-laban/",
-      "tags": [
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-84c07969-ce24-4afb-b09a-99eb6e6bca8a",
-      "title": "Vaiana",
-      "start_at": "2026-07-21T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
-      "url": "https://www.odeonkino.no/film/vaiana/",
-      "tags": [
-        "isense",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-16b5f899-f72e-4d17-9cde-fee24c1a321b",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-07-21T11:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-042d36ca-66b9-4ae6-97ab-f86a0338419f",
-      "title": "Superhunden Charlie",
-      "description": "Den sjenerte gutten Danny får livet snudd på hodet når hunden hans, Charlie, utvikler superkrefter og blir til den største superhelten verden noensinne har sett!\n\nTruls Svendsen gir stemme til Charlie i denne morsomme, varme og actionfylte animasjonsfilmen for hele familien.",
-      "start_at": "2026-07-21T11:40:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/01a38f77934a4438840e6e29d6ec2422.jpg?width=1440&version=0A0B98A5FCCD751706A5DE4277B22CEE",
-      "url": "https://www.odeonkino.no/film/superhunden-charlie/",
-      "tags": [
-        "luxe",
-        "superheltfilm",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-605e7a99-206d-460e-8b39-bb3f6523fff9",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-07-21T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-403640df-117f-4611-914c-d651f70ef610",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-07-21T12:20:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6c02d7ea-23d9-4ac0-884e-c69621d7ad08",
-      "title": "Vaiana",
-      "start_at": "2026-07-21T12:40:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
-      "url": "https://www.odeonkino.no/film/vaiana/",
-      "tags": [
-        "luxe",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-5c969de8-4cdd-41a4-86be-a99bf5168612",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-07-21T13:15:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "isense",
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f526012f-2401-41d0-8cd5-ea5d983de826",
-      "title": "Vaiana",
-      "start_at": "2026-07-21T13:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
-      "url": "https://www.odeonkino.no/film/vaiana/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c3d960ea-5cb4-47d9-9334-c62166296404",
-      "title": "Superhunden Charlie",
-      "description": "Den sjenerte gutten Danny får livet snudd på hodet når hunden hans, Charlie, utvikler superkrefter og blir til den største superhelten verden noensinne har sett!\n\nTruls Svendsen gir stemme til Charlie i denne morsomme, varme og actionfylte animasjonsfilmen for hele familien.",
-      "start_at": "2026-07-21T14:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/01a38f77934a4438840e6e29d6ec2422.jpg?width=1440&version=0A0B98A5FCCD751706A5DE4277B22CEE",
-      "url": "https://www.odeonkino.no/film/superhunden-charlie/",
-      "tags": [
-        "luxe",
-        "superheltfilm",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-33e057e7-dfd1-4d0f-8448-fa85c33876af",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-07-21T14:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-23b49417-323e-41db-8d21-bd7dd579eff6",
       "title": "Toy Story 5",
       "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
@@ -9422,6 +9046,204 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-2a8b5a84-bc05-4da5-9694-35186a2a7bc3",
+      "title": "Krølle Bølle",
+      "start_at": "2026-07-24T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/4c1dae47c47e41b69fad82830bfd5270.jpg?width=1440&version=C73F28473228923778DD7CF0C96740BA",
+      "url": "https://www.odeonkino.no/film/krolle-bolle/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "familiefilm",
+        "fantasy"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-70ea866e-bd8d-414c-8513-f0ee1a09db2b",
+      "title": "Bamse og havets hemmelighet",
+      "start_at": "2026-07-24T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
+      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
+      "tags": [
+        "animasjon",
+        "barnefilm",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b30d2bb0-73b0-456a-b297-19834f15621d",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-24T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f48a4f54-7068-4c5d-bfa6-082865be5eea",
+      "title": "Superhunden Charlie",
+      "description": "Den sjenerte gutten Danny får livet snudd på hodet når hunden hans, Charlie, utvikler superkrefter og blir til den største superhelten verden noensinne har sett!\n\nTruls Svendsen gir stemme til Charlie i denne morsomme, varme og actionfylte animasjonsfilmen for hele familien.",
+      "start_at": "2026-07-24T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/01a38f77934a4438840e6e29d6ec2422.jpg?width=1440&version=0A0B98A5FCCD751706A5DE4277B22CEE",
+      "url": "https://www.odeonkino.no/film/superhunden-charlie/",
+      "tags": [
+        "luxe",
+        "superheltfilm",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-10f4ea91-671b-40d0-9aaf-dce6d66dac43",
+      "title": "Vaiana",
+      "start_at": "2026-07-24T10:50:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1fbb721d-0f01-45a8-99ad-d1042e7fd730",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-24T11:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9fd24da2-ab00-40c9-8252-d6c25d52b0fd",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-24T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f8218153-3930-40f9-a040-afb70d5103a8",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-24T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0991c4a2-cd6f-4d8b-adca-d64f2c98b1b4",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-24T12:50:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-655a8db3-c3c9-44a9-a22e-cd265bd8ac55",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-24T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-67cc46d7-03ad-4e90-b051-dffe1f8acd0b",
       "title": "The Odyssey",
       "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
@@ -9436,6 +9258,84 @@
         "eventyr",
         "fantasy",
         "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1989bae6-f07c-4727-bd5c-b2992d5a5561",
+      "title": "Vaiana",
+      "start_at": "2026-07-24T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2405426c-907c-4ac8-8f12-45cc821bc4bd",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-24T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-5b7ec236-ff02-4454-bb0b-7431dc371f59",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-24T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-669ceb95-355f-4c41-9ace-1285c2159d5e",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-24T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -9464,6 +9364,42 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-612fc026-e946-45ff-885a-50101ebbf32e",
+      "title": "Vaiana",
+      "start_at": "2026-07-24T16:20:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c3dcd496-bc6d-44ce-a3ac-e8fada647316",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-24T17:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-f440f0df-c0d2-4067-9cc2-f5483f036546",
       "title": "The Odyssey",
       "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
@@ -9478,6 +9414,23 @@
         "eventyr",
         "fantasy",
         "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-80f5fab0-cb57-4ef1-bb23-98fb1a47da31",
+      "title": "Vaiana",
+      "start_at": "2026-07-24T17:40:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "luxe",
+        "familiefilm"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -9568,6 +9521,237 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-018bce96-7dde-478d-a540-0bca66a9eb62",
+      "title": "Evil Dead Burn",
+      "start_at": "2026-07-24T21:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f89dc6923fe94dda948231d39fd8e5cc.jpg?width=1440&version=D9AEF2B7F5D62814C20DB8C10BDA6B43",
+      "url": "https://www.odeonkino.no/film/evil-dead-burn/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6c65a9f4-209e-4b6c-af93-d92adb921fe6",
+      "title": "Obsession",
+      "start_at": "2026-07-24T21:40:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-10217e17-1f65-4dbb-b545-c3df0983bf2b",
+      "title": "Krølle Bølle",
+      "start_at": "2026-07-25T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/4c1dae47c47e41b69fad82830bfd5270.jpg?width=1440&version=C73F28473228923778DD7CF0C96740BA",
+      "url": "https://www.odeonkino.no/film/krolle-bolle/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "familiefilm",
+        "fantasy"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-57d5b041-9f48-42ed-959c-85a9bd3dfb1f",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-25T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-d42e9a81-9eaf-4c4c-97c0-10880d46a221",
+      "title": "Superhunden Charlie",
+      "description": "Den sjenerte gutten Danny får livet snudd på hodet når hunden hans, Charlie, utvikler superkrefter og blir til den største superhelten verden noensinne har sett!\n\nTruls Svendsen gir stemme til Charlie i denne morsomme, varme og actionfylte animasjonsfilmen for hele familien.",
+      "start_at": "2026-07-25T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/01a38f77934a4438840e6e29d6ec2422.jpg?width=1440&version=0A0B98A5FCCD751706A5DE4277B22CEE",
+      "url": "https://www.odeonkino.no/film/superhunden-charlie/",
+      "tags": [
+        "luxe",
+        "superheltfilm",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-fcf48c95-d404-45e7-9e5e-b0c6db25e3ad",
+      "title": "Bamse og havets hemmelighet",
+      "start_at": "2026-07-25T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
+      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
+      "tags": [
+        "animasjon",
+        "barnefilm",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-eb740667-4688-4731-8470-578ede345c5d",
+      "title": "Vaiana",
+      "start_at": "2026-07-25T10:50:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-acf2c7d8-af0a-4e50-8bca-42e7a1eaf0b1",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-25T11:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6ed382f5-bda8-4b39-af29-6535538f39d4",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-25T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-d2e256ac-e935-4aa7-bce9-7c0c223b29e7",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-25T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b025e9c3-c65c-4df2-85fb-bf7627185801",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-25T12:50:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3a362a74-81a6-41b7-b114-5e9dba8a6d74",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-25T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-b2c2f98a-3dca-45a8-a7a8-ed95dc0d7e04",
       "title": "The Odyssey",
       "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
@@ -9589,6 +9773,141 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-c9de16f0-5861-4d81-b139-7728f20eeef4",
+      "title": "Vaiana",
+      "start_at": "2026-07-25T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-55991c2d-cd57-47b1-97c4-4537aa4554e8",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-25T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-11810b6f-7386-4065-9abc-aea07d611db3",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-25T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-5a8290e0-afa6-4789-b0de-cbeb47bf5851",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-25T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1df38d4e-1bb4-4593-8ade-e441982c9d44",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-25T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-93e7acd6-9929-49b3-a116-68fe4adc8859",
+      "title": "Vaiana",
+      "start_at": "2026-07-25T16:20:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-225a6c14-d036-4683-bdfa-2c4c771876b5",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-25T17:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-36eb645c-d35c-4ea7-83f7-ea8c549ff27d",
       "title": "The Odyssey",
       "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
@@ -9603,6 +9922,23 @@
         "eventyr",
         "fantasy",
         "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-edd77272-b9d8-4598-8414-c03bd1e9fe41",
+      "title": "Vaiana",
+      "start_at": "2026-07-25T17:40:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "luxe",
+        "familiefilm"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -9672,6 +10008,27 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-c87da71a-1e2f-4e40-bdf9-97823c0f51ba",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-25T20:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-5acd03ec-ec02-48b9-a826-ac15127288f1",
       "title": "The Odyssey",
       "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
@@ -9686,6 +10043,393 @@
         "eventyr",
         "fantasy",
         "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1326b920-c95e-4e90-ab10-c672d07b5b53",
+      "title": "Evil Dead Burn",
+      "start_at": "2026-07-25T21:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f89dc6923fe94dda948231d39fd8e5cc.jpg?width=1440&version=D9AEF2B7F5D62814C20DB8C10BDA6B43",
+      "url": "https://www.odeonkino.no/film/evil-dead-burn/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-08aaa639-3810-4f34-a261-d6466802b444",
+      "title": "Obsession",
+      "start_at": "2026-07-25T21:40:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1c958d25-eb97-4abe-86b9-bc9f09bb954c",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-26T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-5f3ac3e1-1df2-471a-af94-aa5f71bc645b",
+      "title": "Krølle Bølle",
+      "start_at": "2026-07-26T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/4c1dae47c47e41b69fad82830bfd5270.jpg?width=1440&version=C73F28473228923778DD7CF0C96740BA",
+      "url": "https://www.odeonkino.no/film/krolle-bolle/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "familiefilm",
+        "fantasy"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7d2f8f31-0912-483d-9d24-91e61c027d63",
+      "title": "Superhunden Charlie",
+      "description": "Den sjenerte gutten Danny får livet snudd på hodet når hunden hans, Charlie, utvikler superkrefter og blir til den største superhelten verden noensinne har sett!\n\nTruls Svendsen gir stemme til Charlie i denne morsomme, varme og actionfylte animasjonsfilmen for hele familien.",
+      "start_at": "2026-07-26T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/01a38f77934a4438840e6e29d6ec2422.jpg?width=1440&version=0A0B98A5FCCD751706A5DE4277B22CEE",
+      "url": "https://www.odeonkino.no/film/superhunden-charlie/",
+      "tags": [
+        "luxe",
+        "superheltfilm",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c6fde78f-fbcb-498a-b790-55741b47d637",
+      "title": "Bamse og havets hemmelighet",
+      "start_at": "2026-07-26T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
+      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
+      "tags": [
+        "animasjon",
+        "barnefilm",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9ea21c95-0626-4565-a436-a85587ba045e",
+      "title": "Vaiana",
+      "start_at": "2026-07-26T10:50:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-45ab3603-4a8c-4130-98de-51d944f47ae2",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-26T11:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-435e9dca-1e8d-43b0-9aee-a5cfa9718995",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-26T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e86bf3db-53aa-4480-8e3c-ecdd62078e24",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-26T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-eed1e428-9b69-4c7a-a859-d98015c667ce",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-26T12:50:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3385e0cf-8528-4ff8-8b14-ca6b0f3962d5",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-26T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8c19f1ab-c9ea-409d-b9f6-ed52acc13cf0",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-26T13:15:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "isense",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3c9c3772-67ad-4810-8ef1-fbfb4ade685e",
+      "title": "Vaiana",
+      "start_at": "2026-07-26T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-55d1af16-7294-406f-aec1-46678c01488a",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-26T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-42232220-c512-4427-865a-258de1893aa0",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-26T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b06ffcc3-359a-4b1b-b21b-6b18d9b58294",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-26T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-bc2805ea-8a17-4012-9e18-dd1a77c8ce75",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-26T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-931398c7-3049-4805-ab9f-80ac95beb433",
+      "title": "Vaiana",
+      "start_at": "2026-07-26T16:20:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-861aad01-8354-480b-9097-0527053c434d",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-26T17:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -9714,11 +10458,90 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-e029f54c-18b4-4a22-9fb8-ef0bcb249bc6",
+      "title": "Vaiana",
+      "start_at": "2026-07-26T17:40:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "luxe",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c0f92d50-846e-4034-bd62-8e2abcd8bf3c",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-26T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-cf0aa826-3840-4946-88d4-d705591d442c",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-26T19:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-6c068860-d203-4745-be86-7094d3e88fc1",
       "title": "The Odyssey",
       "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
       "start_at": "2026-07-26T19:45:00",
       "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-5ad3e737-ac92-4b97-b0a8-1dafc27c1ad7",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-26T20:20:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
       "city": "Ålesund",
       "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
       "url": "https://www.odeonkino.no/film/the-odyssey/",
@@ -9756,6 +10579,376 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-e895953c-1eab-4b0a-adf2-6c7cadce6339",
+      "title": "Jackass: Best and Last",
+      "description": "Tilbake for én siste, uansvarlig gang!",
+      "start_at": "2026-07-26T21:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5e6a992e9ec84c3db92098037b41acf2.jpg?width=1440&version=3E73CB6E33B6211A279209FD8E40549B",
+      "url": "https://www.odeonkino.no/film/jackass-best-and-last/",
+      "tags": [
+        "komedie",
+        "action",
+        "dokumentar"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-cb2b9fbd-20ec-40a4-97b0-a46dc840e2c7",
+      "title": "Obsession",
+      "start_at": "2026-07-26T21:40:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ad48058b-13aa-40d0-ac5e-cbba26874790",
+      "title": "Bamse og havets hemmelighet",
+      "start_at": "2026-07-27T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
+      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
+      "tags": [
+        "animasjon",
+        "barnefilm",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-af90d979-95b6-4f94-b120-c4ba2e0ba87d",
+      "title": "Krølle Bølle",
+      "start_at": "2026-07-27T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/4c1dae47c47e41b69fad82830bfd5270.jpg?width=1440&version=C73F28473228923778DD7CF0C96740BA",
+      "url": "https://www.odeonkino.no/film/krolle-bolle/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "familiefilm",
+        "fantasy"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-cd5fbf14-f665-4c60-adef-55a41392db2f",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-27T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e92ebd9d-c789-42cc-9b5a-bebf01b9f30a",
+      "title": "Superhunden Charlie",
+      "description": "Den sjenerte gutten Danny får livet snudd på hodet når hunden hans, Charlie, utvikler superkrefter og blir til den største superhelten verden noensinne har sett!\n\nTruls Svendsen gir stemme til Charlie i denne morsomme, varme og actionfylte animasjonsfilmen for hele familien.",
+      "start_at": "2026-07-27T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/01a38f77934a4438840e6e29d6ec2422.jpg?width=1440&version=0A0B98A5FCCD751706A5DE4277B22CEE",
+      "url": "https://www.odeonkino.no/film/superhunden-charlie/",
+      "tags": [
+        "luxe",
+        "superheltfilm",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-57c6c4a0-8634-4750-9970-af6e650052b5",
+      "title": "Vaiana",
+      "start_at": "2026-07-27T10:50:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6cfabab5-47fd-4c49-894e-eddf2a9d4324",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-27T11:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-61416b20-fdb3-4e87-8946-fd7435488704",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-27T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8024e7db-6df8-4ada-a57a-2322021779b5",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-27T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-86f1242c-6931-4147-a123-9f849da49aa3",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-27T12:50:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ad4f8302-cf4f-4226-8f7b-eee9b7676f38",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-27T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-601db613-5c38-464c-9aae-9a2b15f85d24",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-27T13:15:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "isense",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c164b4c1-7872-4113-a0db-d1214b9fb1f0",
+      "title": "Vaiana",
+      "start_at": "2026-07-27T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1be43541-10d6-4b73-ab9e-65842f8fdef9",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-27T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-d4e27f44-c3c8-4701-bfaa-517601b5b706",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-27T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e10094fa-253f-4f77-8f19-2a7288ea2d10",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-27T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-623635f3-8e2d-4a3b-8f69-556d9db9d641",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-27T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4b4869e3-1869-4898-96ba-e2be05b8a97f",
+      "title": "Vaiana",
+      "start_at": "2026-07-27T16:20:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-ac188752-f2b7-4165-a6e8-52fa167efaf0",
       "title": "The Odyssey",
       "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
@@ -9777,11 +10970,110 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-b801b72e-718e-45a5-a265-4e39ded8416f",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-27T17:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7dda3444-0c37-4f8c-8029-1057e70d2e84",
+      "title": "Vaiana",
+      "start_at": "2026-07-27T17:40:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "luxe",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7e2fae86-2feb-4346-8347-6cd9e9d7bf9c",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-27T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3b855bbd-7a6f-4775-bdfd-1c48cbcf3839",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-27T19:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-3737370f-fef8-47d6-a13b-123fc934c059",
       "title": "The Odyssey",
       "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
       "start_at": "2026-07-27T19:45:00",
       "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3fc558ef-415d-4f6c-aa5a-f89573be6cbf",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-27T20:20:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
       "city": "Ålesund",
       "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
       "url": "https://www.odeonkino.no/film/the-odyssey/",
@@ -9819,6 +11111,393 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-215cdb58-534d-4c2f-a1f3-fd6152edf28d",
+      "title": "Evil Dead Burn",
+      "start_at": "2026-07-27T21:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f89dc6923fe94dda948231d39fd8e5cc.jpg?width=1440&version=D9AEF2B7F5D62814C20DB8C10BDA6B43",
+      "url": "https://www.odeonkino.no/film/evil-dead-burn/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6453dc92-b5b1-4872-9b72-cebb4fda2a74",
+      "title": "Obsession",
+      "start_at": "2026-07-27T21:40:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-17433ac4-0a20-4b18-b215-f426eca73ef1",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-28T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-26b21a63-2eb6-41f2-b8e5-e437eb3f7613",
+      "title": "Krølle Bølle",
+      "start_at": "2026-07-28T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/4c1dae47c47e41b69fad82830bfd5270.jpg?width=1440&version=C73F28473228923778DD7CF0C96740BA",
+      "url": "https://www.odeonkino.no/film/krolle-bolle/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "familiefilm",
+        "fantasy"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-5b2919f1-97db-44ee-b8f2-c2d464586e0b",
+      "title": "Bamse og havets hemmelighet",
+      "start_at": "2026-07-28T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
+      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
+      "tags": [
+        "animasjon",
+        "barnefilm",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-89c4de18-8ad4-4b74-b74f-e20046ebb8a1",
+      "title": "Superhunden Charlie",
+      "description": "Den sjenerte gutten Danny får livet snudd på hodet når hunden hans, Charlie, utvikler superkrefter og blir til den største superhelten verden noensinne har sett!\n\nTruls Svendsen gir stemme til Charlie i denne morsomme, varme og actionfylte animasjonsfilmen for hele familien.",
+      "start_at": "2026-07-28T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/01a38f77934a4438840e6e29d6ec2422.jpg?width=1440&version=0A0B98A5FCCD751706A5DE4277B22CEE",
+      "url": "https://www.odeonkino.no/film/superhunden-charlie/",
+      "tags": [
+        "luxe",
+        "superheltfilm",
+        "familiefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-02aab79c-5f1c-44f8-8593-8d930e11bbc8",
+      "title": "Vaiana",
+      "start_at": "2026-07-28T10:50:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-38809458-f73c-4a1f-82a2-19913f62aa88",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-28T11:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "isense",
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8820ef3b-e80f-4a0f-b411-0abb50226690",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-28T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f6a3c8c0-8ab9-472f-94b9-6c24da6e24db",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-28T12:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b64fc1e8-15df-4a15-8ebb-5e44b4399220",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-28T12:50:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7533e6b5-9a7e-4210-865d-246248b43f94",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-28T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-dc9bf76d-1436-4392-84de-177c63b78a13",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-28T13:15:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "isense",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a6bd0ae0-0bb6-477d-8902-700346624203",
+      "title": "Vaiana",
+      "start_at": "2026-07-28T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-eff3937e-7684-45c7-b23f-64333a584acc",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-28T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0e06f394-1c97-4759-a173-75019cd3369b",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-28T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-26aafe95-f1b2-417f-ac64-4b0f83878179",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-28T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-fa096f01-0d09-4040-bbb9-6f8d4827dc11",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-28T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ef300877-dcc0-4abb-9e6c-b6f65d6c7c3a",
+      "title": "Vaiana",
+      "start_at": "2026-07-28T16:20:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-14d78fdb-e041-4e25-91e0-d70c64087858",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-28T17:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-89bf6222-9703-4494-858d-b3ca5e4d73d3",
       "title": "The Odyssey",
       "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
@@ -9829,6 +11508,64 @@
       "url": "https://www.odeonkino.no/film/the-odyssey/",
       "tags": [
         "isense",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b0ee7e10-4b3f-442f-802d-076f43c1a22f",
+      "title": "Vaiana",
+      "start_at": "2026-07-28T17:40:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "luxe",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-03b782d0-7965-4ca8-86f8-b23da4dd0252",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-28T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7ab1c071-de59-4755-a181-69bdd74b1ab3",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-28T19:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
         "action",
         "eventyr",
         "fantasy",
@@ -9861,6 +11598,27 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-4557a9dd-8fbc-468c-8bae-bf65f9f5fe0e",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-28T20:20:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-8feeee4a-cd96-4a65-ad18-10f7bab3c367",
       "title": "The Odyssey",
       "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
@@ -9875,6 +11633,264 @@
         "eventyr",
         "fantasy",
         "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4178f1ee-68b8-4e16-9f3a-c9e584825e31",
+      "title": "Backrooms",
+      "start_at": "2026-07-28T21:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7d825da4b3334cf2973742dabd1a002a.jpg?width=1440&version=C591C6731BB539CB0BF88035C8AC857C",
+      "url": "https://www.odeonkino.no/film/backrooms/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0e90b0cb-7849-4d6e-92cd-d28908af615d",
+      "title": "Obsession",
+      "start_at": "2026-07-28T21:40:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "luxe",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-59e3771b-e5d8-4847-a2de-7d3ae8017898",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-07-29T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f2e82fc1-c60d-45b1-9fb7-14e9ac2b3d58",
+      "title": "Bamse og havets hemmelighet",
+      "start_at": "2026-07-29T10:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
+      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
+      "tags": [
+        "animasjon",
+        "barnefilm",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8f320e43-3361-41ec-98ed-01b02e769b57",
+      "title": "Vaiana",
+      "start_at": "2026-07-29T11:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "luxe",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c0083bbe-e153-4817-8be6-d6dff18891f7",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-29T11:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b58d02d0-fbc4-4034-a939-0cba41ed3299",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-07-29T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-306a8984-ef46-4f4d-91c2-c2f323cd8da3",
+      "title": "Vaiana",
+      "start_at": "2026-07-29T13:15:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-777209a4-7075-4513-9077-15cb5717884f",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-29T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-427e3aa9-33b3-4d0a-a692-4f47cc27815a",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-29T17:10:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-bbe2e750-0472-4602-8ede-2109171a4cc5",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-29T19:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c81dcf8f-19a0-4a6c-8fcc-6ae1c7bf4643",
+      "title": "Obsession",
+      "start_at": "2026-07-29T21:40:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0aaeeee1-f98d-4544-95a9-f07897b45559",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-07-30T19:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c084a97f-136f-4e8d-a2d8-9721329be729",
+      "title": "Obsession",
+      "start_at": "2026-07-30T21:40:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "skrekkfilm"
       ],
       "age_groups": [],
       "is_recurring": false,
