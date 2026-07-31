@@ -1,10 +1,32 @@
 {
-  "generated_at": "2026-07-31T14:12:06.971503+00:00",
-  "total": 503,
+  "generated_at": "2026-07-31T19:29:33.054574+00:00",
+  "total": 492,
   "failed_sources": [
     "viti"
   ],
   "events": [
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-08-01T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
     {
       "source": "friskus",
       "source_id": "friskus-856f0722-e12e-426c-a461-f4e15002ad04",
@@ -89,6 +111,25 @@
         "teenager"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
+      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
+      "start_at": "2026-08-03T10:00:00",
+      "end_at": "2027-06-18T20:00:00",
+      "is_free": true,
+      "location_name": "Dagplass for personer med demens",
+      "city": "Ålesund",
+      "organizer": "Dagplass for personer med demens",
+      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
+      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -3624,7 +3665,7 @@
       "source": "tikkio",
       "source_id": "tikkio-6f773276d56142c4b8be1f3618697bcf",
       "title": "Harald Eia - «Det store VI»",
-      "description": "<p><strong>Harald Eia</strong> er en av landets mest kjente og anerkjente komikere, men har også etablert seg som en respektert formidler av forskning, psykologi og menneskelig adferd, både gjennom foredrag og tv-suksesser som Hjernevask, Brille og Sånn er Norge.</p><p>Det er få mennesker i Norge som klarer å kombinere forskning og vitenskap med sylskarp humor slik Eia gjør. Han våger å utfordre etablerte sannheter og gir oss en dypere forståelse for hvorfor vi mennesker tenker og handler som vi gjør.</p><p>I foredraget <strong>«Det store VI»</strong> tar Eia deg med inn i et av de mest fascinerende spørsmålene som finnes: Hva er det som gjør at noen grupper blir ekte lag – mens andre bare blir en samling mennesker? Hvorfor kjenner vi på tilhørighet, hvorfor blir vi rørt, og hvordan kan vi skape sterkere fellesskap – både hjemme og på arbeidsplassen?</p><p>Kveldens tema treffer svært godt i en urolig og polariserende tid. Det handler om noe av det viktigste vi har – evnen til å skape tilhørighet, tillit og sterke fellesskap. Det gjør foredraget like relevant for ledere og medarbeidere som for familier, lag og organisasjoner.</p><p>Vi tror dette blir et av årets desidert mest spennende foredrag.</p><p>Gå ikke glipp av muligheten – sikre deg billett, NÅ!</p><hr><p><strong>PRAKTISK INFO:</strong></p><p>- Billettpris kr 480,-</p><p>- ODEON Kino - Sal 1</p><p>- Dørene åpner kl 19:00</p><p>- Foredraget starter kl 19:30 (varighet ca 1,5 time)</p><p>- Det er mulig å kjøpe drikke/snacks i kiosken og ta med inn i salen.</p><p>- LUXE = en ekstra komfortabelt kinostol med varme i setet. Stolen kan lenes tilbake, har rikelig med benplass, samt eget bord til snacks og drikke. Pris kr 580,-</p><p><br><em>Hjertelig velkommen skal du være!</em></p>",
+      "description": "<p>38% SOLGT ALLEREDE - SIKRE DEG BILLETT NÅ!</p><p><strong>Harald Eia</strong> er en av landets mest kjente og anerkjente komikere, men har også etablert seg som en respektert formidler av forskning, psykologi og menneskelig adferd, både gjennom foredrag og tv-suksesser som Hjernevask, Brille og Sånn er Norge.</p><p>Det er få mennesker i Norge som klarer å kombinere forskning og vitenskap med sylskarp humor slik Eia gjør. Han våger å utfordre etablerte sannheter og gir oss en dypere forståelse for hvorfor vi mennesker tenker og handler som vi gjør.</p><p>I foredraget <strong>«Det store VI»</strong> tar Eia deg med inn i et av de mest fascinerende spørsmålene som finnes: Hva er det som gjør at noen grupper blir ekte lag – mens andre bare blir en samling mennesker? Hvorfor kjenner vi på tilhørighet, hvorfor blir vi rørt, og hvordan kan vi skape sterkere fellesskap – både hjemme og på arbeidsplassen?</p><p>Kveldens tema treffer svært godt i en urolig og polariserende tid. Det handler om noe av det viktigste vi har – evnen til å skape tilhørighet, tillit og sterke fellesskap. Det gjør foredraget like relevant for ledere og medarbeidere som for familier, lag og organisasjoner.</p><p>Vi tror dette blir et av årets desidert mest spennende foredrag.</p><p>Gå ikke glipp av muligheten – sikre deg billett, NÅ!</p><hr><p><strong>PRAKTISK INFO:</strong></p><p>- Billettpris kr 480,-</p><p>- ODEON Kino - Sal 1</p><p>- Dørene åpner kl 19:00</p><p>- Foredraget starter kl 19:30 (varighet ca 1,5 time)</p><p>- Det er mulig å kjøpe drikke/snacks i kiosken og ta med inn i salen.</p><p>- LUXE = en ekstra komfortabelt kinostol med varme i setet. Stolen kan lenes tilbake, har rikelig med benplass, samt eget bord til snacks og drikke. Pris kr 580,-</p><p><br><em>Hjertelig velkommen skal du være!</em></p>",
       "start_at": "2026-08-27T19:00:00",
       "end_at": "2026-08-27T21:00:00",
       "is_free": false,
@@ -3788,7 +3829,7 @@
       "latitude": 62.1969807,
       "longitude": 6.1266414,
       "organizer": "Musikk i Sentrum",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64949-musikk-i-sentrum-afterparty",
       "tags": [],
       "age_groups": [],
@@ -5807,45 +5848,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-32516-2026-07-31",
-      "title": "Krystall – Hotel 1904",
-      "start_at": "2026-07-31T17:00:00",
-      "end_at": "2026-07-31T23:55:00",
-      "location_name": "Hotel 1904",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/krystall-hotel-1904-358/?occurrence=2026-07-31",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33865-2026-07-31",
-      "title": "Dualitet // En utstilling",
-      "start_at": "2026-07-31T19:00:00",
-      "end_at": "2026-07-31T20:00:00",
-      "location_name": "Mottaket Kunstscene",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/dualitet-en-utstilling/?occurrence=2026-07-31",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34821-2026-07-31",
-      "title": "Sommerkino på Løvenvold Theater!",
-      "start_at": "2026-07-31T19:00:00",
-      "end_at": "2026-07-31T22:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-07-31",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-28717-2026-08-01",
       "title": "Helgeprogram i Atlanterhavsparken – akvarium og vitensenter",
       "start_at": "2026-08-01T00:00:00",
@@ -6194,202 +6196,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-74a803d0-e6c4-45c3-80da-5a36eaf6c0f1",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-07-31T15:20:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-255cd754-d6ac-4b59-8508-9c5cc7ef16a1",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-07-31T16:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e00e4dbf-fefd-4272-baa3-5ae830b1fb05",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-07-31T16:15:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b2b223fb-8eaa-46c7-8aec-e8e51138e779",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-07-31T16:50:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-1c3474d9-33dc-4553-b1db-56ace0ff5ee5",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-07-31T17:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-54ba9803-65dd-450b-ad50-7440e602bcd2",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-07-31T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-51af567e-6526-4921-8a76-64b46a57b8d7",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-07-31T19:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f899aeed-c72f-448a-902c-f779e5620d37",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-07-31T19:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6d632c8f-4b10-40d6-85b0-6b758494a69d",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-07-31T19:45:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-2e0fb1ae-a31e-416f-b515-de8d7431f84d",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-07-31T20:15:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
