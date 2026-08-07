@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T13:08:22.193193+00:00",
-  "total": 828,
+  "generated_at": "2026-08-07T19:01:03.289417+00:00",
+  "total": 818,
   "failed_sources": [
     "viti"
   ],
@@ -21,6 +21,48 @@
       "age_groups": [
         "children",
         "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-b290181e-4cc2-4c3d-a2b7-77f1c79a256b",
+      "title": "Sommerkurs i improteater",
+      "start_at": "2026-08-08T12:00:00",
+      "end_at": "2026-08-08T17:00:00",
+      "is_free": false,
+      "location_name": "Kaula",
+      "city": "Ålesund",
+      "organizer": "Kaula",
+      "image_url": "https://ucarecdn.com/0007c4cd-a560-4fb0-ba1c-33cb9c3364ba/-/crop/851x232/0,0/-/preview/",
+      "url": "https://alesund.friskus.com/events/b290181e-4cc2-4c3d-a2b7-77f1c79a256b",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-08-08T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -108,6 +150,25 @@
         "teenager"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
+      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
+      "start_at": "2026-08-10T10:00:00",
+      "end_at": "2027-06-18T20:00:00",
+      "is_free": true,
+      "location_name": "Dagplass for personer med demens",
+      "city": "Ålesund",
+      "organizer": "Dagplass for personer med demens",
+      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
+      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -364,6 +425,24 @@
         "family",
         "senior",
         "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-894ebe6d-ed9d-43c5-8392-85a40fe3d4db",
+      "title": "Gjenbrukskafe søker frivillige på Ålesund Frivilligsentral",
+      "start_at": "2026-08-14T11:00:00",
+      "end_at": "2026-12-18T16:00:00",
+      "is_free": true,
+      "location_name": "Ålesund frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Ålesund frivilligsentral",
+      "image_url": "https://ucarecdn.com/24ef317a-b2e3-4022-87c0-76e8fb6d2238/-/crop/1536x420/0,258/-/preview/",
+      "url": "https://alesund.friskus.com/events/894ebe6d-ed9d-43c5-8392-85a40fe3d4db",
+      "tags": [],
+      "age_groups": [
+        "senior"
       ],
       "is_recurring": true
     },
@@ -1814,6 +1893,28 @@
         "teenager"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-4099e8e2-02df-4c0a-880e-02130c8fd1c7",
+      "title": "Biblioteket er ope i dag!",
+      "start_at": "2026-08-10T13:00:00",
+      "end_at": "2026-09-04T15:30:00",
+      "is_free": true,
+      "location_name": "Giske folkebibliotek",
+      "city": "Ålesund",
+      "organizer": "Giske folkebibliotek",
+      "image_url": "https://ucarecdn.com/291cb93f-fd25-460e-a4da-21b6d9547361/-/crop/1200x328/0,170/-/preview/",
+      "url": "https://alesund.friskus.com/events/4099e8e2-02df-4c0a-880e-02130c8fd1c7",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -3661,7 +3762,7 @@
       "latitude": 62.1969807,
       "longitude": 6.1266414,
       "organizer": "Musikk i Sentrum",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64949-musikk-i-sentrum-afterparty",
       "tags": [],
       "age_groups": [],
@@ -3796,26 +3897,6 @@
       "organizer": "JAZZSIRKELEN 04",
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_bfdd766ba1e063a7e46402aa8d89388a.png?class=w768",
       "url": "https://tikkio.com/events/64817-friluftsjazz-med-nymarkknutsenkvalvik",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-c3415227b4023eac4a30ab42310cd253",
-      "title": "KONSERT MED EVA WEEL SKRAM| SUPPORT: EVEN| 07.08.2026,  POTETFESTIVALEN 2026",
-      "description": "<p>Eva Weel Skram kjem til Kvalsvika!</p><p>Det er med store smil og glede at vi kan annonsere at Eva Weel Skram kjem til Potetfestivalen i Kvalsvika fredag 07.august 2026!</p><p>Etter fjorårets suksess med musikk frå det gamle trivselsfylket, er vi heilt sikre på at ein heilaftan med sogningen Eva kjem til å bli heilt magisk.</p><p>I 2024 slapp ho sitt nyaste album Vendepunkt, til fine anmeldelser, og tittelsporet låg spikra på spelelistene til NRK P1 i månadsvis. Som soloartist har ho sluppe 3 nydelege album som vi gledar oss stort til å høyre songar i frå. Med låtar som «Om du vil», «Selmas sang», «La meg være», og «Vendepunkt», er Eva Weel Skram utan tvil ein av dei mest folkekjære artistane vi har her til lands. Alle dei norskspråklege albuma hennar har hausta strålande kritikkar, og blitt omtala som både «brutalt ærlege» og «musikalsk modne».</p><p>Skram sitt varemerke er fengjande melodiar med sterke norske tekster om tema som ligg hjarte hennar nært, som har vist seg å vere både trøystande og inspirerande for hennar stadig vaksande publikum.</p><p>Om du skulle vere i tvil om kva du skal gjere ein ikkje så altfor sein fredagskveld i august, når Eva kjem vest over fjella med alle instrument ho eig i ein bil, så du kan danse som ein virvelvind og høyre på mjuk gitar. Så veit du det no! Knallbra musikk, latter og kanskje ein skvett tårar eller to i vakre omgivnadar i Kvalsvika – det blir ikkje betre! For å sitere Eva sin låt Club 7: «Livet skjer når du minst venter det, om du berre tør å henge med»!</p><p>Support: EVEN</p><p>Eva kjem ikkje åleine!</p><p>Til å varme opp for Eva, er vi så heldige å få lokale Even Sævik til å spele for oss!</p><p>Under artistnamnet EVEN lagar han nydeleg pop på sunnmørsk! Betre kan det vel ikkje bli?</p><p>EVEN er allereie ei stjerne, som veks seg større og større.</p><p>Arrangøren sin spådom er at det er berre eit spørsmål om tid før Even spelar på dei aller største scenene i Noreg, og kva er vel betre enn å få kunne oppleve han på ei lita intim scene i Kvalsvika? Kanskje kjem sjansen aldri igjen!</p><p>Arrangør: Kvalsvik Gjerdegarden/Potetfestivalen</p><p>Skjenkeløyve</p><p>DØRENE OPNAR KL 18:00</p><p>MEIR PRAKTISK INFO KJEM!</p>",
-      "start_at": "2026-08-07T18:00:00",
-      "end_at": "2026-08-07T23:00:00",
-      "is_free": false,
-      "price_text": "NOK 579.00",
-      "location_name": "Kvalsvika",
-      "city": "Ålesund",
-      "latitude": 62.3652796,
-      "longitude": 5.5523983,
-      "organizer": "Potetfestival Kvalsvika",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_60864832b410698dff9decd222a3b59d.png?class=w768",
-      "url": "https://tikkio.com/events/63533-konsert-med-eva-weel-skram-07082026-potetfestivalen-2026-support-even",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -5694,32 +5775,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32516-2026-08-07",
-      "title": "Krystall – Hotel 1904",
-      "start_at": "2026-08-07T17:00:00",
-      "end_at": "2026-08-07T23:55:00",
-      "location_name": "Hotel 1904",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/krystall-hotel-1904-358/?occurrence=2026-08-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34821-2026-08-07",
-      "title": "Sommerkino på Løvenvold Theater!",
-      "start_at": "2026-08-07T19:00:00",
-      "end_at": "2026-08-07T22:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerkino-pa-lovenvold-theater-2/?occurrence=2026-08-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -10075,234 +10130,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-62e0ec36-1b3e-4425-a650-dccdea8abf47",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-07T14:10:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-eae2809d-5a8b-4d55-bb8e-53ecd508a78a",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-08-07T14:45:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-005b8317-5614-46e0-b3b4-8076eac321a3",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-07T14:50:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d902b26d-c9f5-4eb0-9873-a95666e607f6",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-08-07T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b4bb2ee8-71af-4e26-8308-172e1bd8fbab",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-07T15:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b620c776-b01b-4bd9-95dc-caf7959c5560",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-07T16:50:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d2c01abf-1305-4709-a409-05eb63c142f4",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-08-07T17:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-069b35e4-f749-4386-a747-3722c31faa71",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-08-07T17:15:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b8667bca-f2ae-4987-a13b-9d6f346424bf",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-07T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-2e083bd3-eadf-4b31-8cb8-c0d25e6ed351",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-07T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f5eb189e-e2af-4c5d-8ddb-0766edbcabd6",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-07T18:35:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-0851d243-02ed-448f-897f-845dc14163e8",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-08-07T19:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
