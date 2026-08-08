@@ -1,10 +1,32 @@
 {
-  "generated_at": "2026-08-07T19:01:03.289417+00:00",
-  "total": 818,
+  "generated_at": "2026-08-08T01:46:40.969422+00:00",
+  "total": 810,
   "failed_sources": [
     "viti"
   ],
   "events": [
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-08-08T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
+      "city": "Ålesund",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
     {
       "source": "friskus",
       "source_id": "friskus-82d2f955-7da8-4532-82e5-314bda0421fe",
@@ -5778,58 +5800,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-28717-2026-08-08",
-      "title": "Helgeprogram i Atlanterhavsparken – akvarium og vitensenter",
-      "start_at": "2026-08-08T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/helgeprogram-i-atlanterhavsparken-akvarium-og-vitensenter-2/?occurrence=2026-08-08",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34542-2026-08-08",
-      "title": "Sommarles 2026",
-      "start_at": "2026-08-08T00:00:00",
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommarles-2026/?occurrence=2026-08-08",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34689-2026-08-08",
-      "title": "Atlanterhavsparkens sommerprogram 2026",
-      "start_at": "2026-08-08T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/atlanterhavsparkens-sommerprogram/?occurrence=2026-08-08",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34827-2026-08-08",
-      "title": "Sommaraktivitetar 7.-9.august 2026",
-      "start_at": "2026-08-08T00:00:00",
-      "location_name": "",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommaraktivitetar-7-9-august-2026/?occurrence=2026-08-08",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-35112-2026-08-08",
       "title": "Aalesunds Museum er åpent hver dag, hele året!",
       "start_at": "2026-08-08T10:00:00",
@@ -10130,102 +10100,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-5eb7f027-a2f1-463c-8dc5-14223139830a",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-08-07T20:10:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4b47594b-2f63-4185-bdfd-4b25f260411d",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-08-07T20:40:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f48ebcca-5d4f-4dd7-ac4e-daaef4c9f14d",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-07T20:40:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-05ff74f2-c08e-4ad3-acf9-d8f2509c6205",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-07T21:10:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-dc565dd5-9e3c-456d-aa34-71633bf975ae",
-      "title": "Obsession",
-      "start_at": "2026-08-07T21:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
-      "url": "https://www.odeonkino.no/film/obsession/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
