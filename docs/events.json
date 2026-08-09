@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T12:55:08.371047+00:00",
-  "total": 747,
+  "generated_at": "2026-08-09T18:43:53.102474+00:00",
+  "total": 738,
   "failed_sources": [
     "viti"
   ],
@@ -60,6 +60,28 @@
       "url": "https://alesund.friskus.com/events/fd3cf089-fd4b-4773-85d6-707e40071b55",
       "tags": [],
       "age_groups": [
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-08-10T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
         "family",
         "senior",
         "pensioner"
@@ -3211,11 +3233,10 @@
       "source": "tikkio",
       "source_id": "tikkio-4ce33b6a5a313af51946e9fa19304f69",
       "title": "Stormjazz 2026: The Move + JAM",
-      "description": "The Move er en ung kvartett med røtter i Bergen, etablert høsten 2023, og med et tydelig blikk mot den moderne New York-jazzen fra tidlig 2000-tall. Med inspirasjon fra blant andre Kurt Rosenwinkel og Mark Turner, tar bandet dette uttrykket videre i en egen, personlig retning.\r\n\r\nMusikken er i hovedsak skrevet av gitarist Erlend Juliebø, opprinnelig fra Ålesund, og kjennetegnes av et melodisk og harmonisk språk der impresjonistiske og tvetydige klanger veves inn i et moderne post-bop-format. Resultatet er et uttrykk som både er raffinert og søkende, med rom for nyanser og åpne strukturer.\r\n\r\nSamtidig er dette et band med tydelig energi og spillerglede. Det ligger en drivkraft i samspillet som balanserer det kontrollerte med det spontane – der det strukturerte materialet stadig utfordres og utvides i øyeblikket. Vibrafonist Rasmus Vik Lagerberg tilfører et særegent klanglig lag, mens rytmeseksjonen med Oskar Myhre Hvidsten på kontrabass og Ole Calmeyer på trommer gir musikken både tyngde og bevegelse.\r\n\r\nTil tross for sin korte levetid har The Move allerede markert seg på scener som Nattjazz, Kongsbergjazz og Dølajazz, samt på klubbscener i Bergen og Oslo. De fremstår som et band i tydelig utvikling, med en felles referanseramme og en sterk vilje til å forme sitt eget uttrykk.\r\n\r\nPå Stormjazz møter publikum en kvartett som kombinerer presisjon og utforskertrang – et band der tradisjon og samtid møtes i et levende og dynamisk samspill.\r\n\r\nEtter konserten inviteres det til JAM – åpen scene for alle som vil delta. Ta med instrument og bli med videre; her legges det til rette for spontane møter, nye konstellasjoner og musikalsk utfoldelse utover kvelden. For dere som vil JAMme har vi laget en billett til en fordelaktig pris!\r\n\r\nErlend Juliebø – gitar\r\n\r\nRasmus Vik Lagerberg – vibrafon\r\n\r\nOle Calmeyer – trommer\r\n\r\nOskar Myhre Hvidsten – kontrabass\r\n\r\nKjøpte billetter refunderes ikke. Våre konserter fotograferes. Deltakere under 18 år, må være i følge med en ansvarlig voksen.",
+      "description": "<p>The Move er en ung kvartett med røtter i Bergen, etablert høsten 2023, og med et tydelig blikk mot den moderne New York-jazzen fra tidlig 2000-tall. Med inspirasjon fra blant andre Kurt Rosenwinkel og Mark Turner, tar bandet dette uttrykket videre i en egen, personlig retning.</p><p>Musikken er i hovedsak skrevet av gitarist Erlend Juliebø, opprinnelig fra Ålesund, og kjennetegnes av et melodisk og harmonisk språk der impresjonistiske og tvetydige klanger veves inn i et moderne post-bop-format. Resultatet er et uttrykk som både er raffinert og søkende, med rom for nyanser og åpne strukturer.</p><p>Samtidig er dette et band med tydelig energi og spillerglede. Det ligger en drivkraft i samspillet som balanserer det kontrollerte med det spontane – der det strukturerte materialet stadig utfordres og utvides i øyeblikket. Vibrafonist Rasmus Vik Lagerberg tilfører et særegent klanglig lag, mens rytmeseksjonen med Oskar Myhre Hvidsten på kontrabass og Ole Calmeyer på trommer gir musikken både tyngde og bevegelse.</p><p>Til tross for sin korte levetid har The Move allerede markert seg på scener som Nattjazz, Kongsbergjazz og Dølajazz, samt på klubbscener i Bergen og Oslo. De fremstår som et band i tydelig utvikling, med en felles referanseramme og en sterk vilje til å forme sitt eget uttrykk.</p><p>På Stormjazz møter publikum en kvartett som kombinerer presisjon og utforskertrang – et band der tradisjon og samtid møtes i et levende og dynamisk samspill.</p><p>Etter konserten inviteres det til JAM – åpen scene for alle som vil delta. Ta med instrument og bli med videre; her legges det til rette for spontane møter, nye konstellasjoner og musikalsk utfoldelse utover kvelden. For dere som vil JAMme har vi laget en billett til en fordelaktig pris!</p><p>Erlend Juliebø – gitar<br>Rasmus Vik Lagerberg – vibrafon<br>Ole Calmeyer – trommer<br>Oskar Myhre Hvidsten – kontrabass</p><p>Kjøpte billetter refunderes ikke. Våre konserter fotograferes. Deltakere under 18 år, må være i følge med en ansvarlig voksen.</p>",
       "start_at": "2026-09-04T22:30:00",
       "end_at": "2026-09-05T01:00:00",
-      "is_free": false,
-      "price_text": "NOK 50.00",
+      "is_free": true,
       "location_name": "Quality Hotel Ålesund",
       "city": "Ålesund",
       "latitude": 62.4756342,
@@ -3231,11 +3252,10 @@
       "source": "tikkio",
       "source_id": "tikkio-9669effae515c33fd27f84a3cfee152e",
       "title": "Stormjazz 2026: Jazzcafé - Kjetil Mulelid trio",
-      "description": "Kjetil Mulelid Trio regnes i dag som en av de fremste pianotrioene i Europa, og har siden debuten i 2017 markert seg med et særegent og gjenkjennelig uttrykk. Med tre kritikerroste album og omfattende internasjonal turnévirksomhet har trioen etablert seg som en sentral stemme i den nordiske jazztradisjonen.\r\n\r\nMusikken tar utgangspunkt i Mulelids egne komposisjoner, der melodisk klarhet møter rytmisk kompleksitet og harmonisk dybde. Uttrykket balanserer det energiske og det stillferdige, og lar vakre, åpne melodier vokse frem i et lydbilde som stadig er i bevegelse. Det er en musikk som tar seg tid – som utvikler seg lag for lag, med en ro og ettertenksomhet som samtidig rommer stor intensitet.\r\n\r\nSammen med bassist Rune Nergaard og trommeslager Andreas Winther skaper Mulelid et tett og intuitivt samspill. Trioformatet er klassisk, men uttrykket er levende og fleksibelt, med stor vekt på kollektiv improvisasjon og felles formidling. Her oppstår et klangunivers preget av nyanser, dynamikk og en tydelig skandinavisk sensibilitet.\r\n\r\nReferanser til pianister som Keith Jarrett og Bill Evans trekkes ofte frem, men trioen har samtidig utviklet et tydelig eget språk. Resultatet er musikk som både er tilgjengelig og dyptgående – et uttrykk som inviterer lytteren inn, og som stadig åpner nye rom.\r\n\r\nKjetil Mulelid slekter fra Skaret på Valderøya, og tilbrakte mye tid der i barndommen. Denne tilknytningen til Sunnmøre gir konserten en ekstra lokal dimensjon. Da Jazzsirkelen anskaffet nytt piano i 2025, var det nettopp Mulelid som prøvespilte og valgte ut instrumentet – et Schimmel K122E. Under Stormjazz får han endelig anledning til å utforske dette pianoet i konsertsammenheng, noe som gir en ekstra dimensjon til møtet mellom musiker og instrument.\r\n\r\nDet er et bevisst valg å presentere denne stjernetrioen i en intim «Jazzsirkelen jazzcafé»-setting. En jazzfestival i Ålesund er vanskelig å tenke seg uten denne rammen – tett på musikken, tett på utøverne, og med rom for den konsentrerte lytteopplevelsen.\r\n\r\nPå Stormjazz presenteres Kjetil Mulelid Trio i et format som legger til rette for nær lytting og tilstedeværelse. Dette er en konsert der detaljene får plass, og hvor samspillet står i sentrum.\r\n\r\nKjetil Mulelid – piano\r\nRune Nergaard – kontrabass\r\nAndreas Winther – trommer\r\n\r\nBilletter kan kjøpes via Tikkio. Eventuelle restbilletter selges i døren ved bruk av Vipps.\r\n\r\nKjøpte billetter refunderes ikke. Våre konserter fotograferes. Deltakere under 18 år, må være i følge med en ansvarlig voksen.",
+      "description": "<p>Kjetil Mulelid Trio regnes i dag som en av de fremste pianotrioene i Europa, og har siden debuten i 2017 markert seg med et særegent og gjenkjennelig uttrykk. Med tre kritikerroste album og omfattende internasjonal turnévirksomhet har trioen etablert seg som en sentral stemme i den nordiske jazztradisjonen.</p><p>Musikken tar utgangspunkt i Mulelids egne komposisjoner, der melodisk klarhet møter rytmisk kompleksitet og harmonisk dybde. Uttrykket balanserer det energiske og det stillferdige, og lar vakre, åpne melodier vokse frem i et lydbilde som stadig er i bevegelse. Det er en musikk som tar seg tid – som utvikler seg lag for lag, med en ro og ettertenksomhet som samtidig rommer stor intensitet.</p><p>Sammen med bassist Rune Nergaard og trommeslager Andreas Winther skaper Mulelid et tett og intuitivt samspill. Trioformatet er klassisk, men uttrykket er levende og fleksibelt, med stor vekt på kollektiv improvisasjon og felles formidling. Her oppstår et klangunivers preget av nyanser, dynamikk og en tydelig skandinavisk sensibilitet.</p><p>Referanser til pianister som Keith Jarrett og Bill Evans trekkes ofte frem, men trioen har samtidig utviklet et tydelig eget språk. Resultatet er musikk som både er tilgjengelig og dyptgående – et uttrykk som inviterer lytteren inn, og som stadig åpner nye rom.</p><p>Kjetil Mulelid slekter fra Skaret på Valderøya, og tilbrakte mye tid der i barndommen. Denne tilknytningen til Sunnmøre gir konserten en ekstra lokal dimensjon. Da Jazzsirkelen anskaffet nytt piano i 2025, var det nettopp Mulelid som prøvespilte og valgte ut instrumentet – et Schimmel K122E. Under Stormjazz får han endelig anledning til å utforske dette pianoet i konsertsammenheng, noe som gir en ekstra dimensjon til møtet mellom musiker og instrument.</p><p>Det er et bevisst valg å presentere denne stjernetrioen i en intim «Jazzsirkelen jazzcafé»-setting. En jazzfestival i Ålesund er vanskelig å tenke seg uten denne rammen – tett på musikken, tett på utøverne, og med rom for den konsentrerte lytteopplevelsen.</p><p>På Stormjazz presenteres Kjetil Mulelid Trio i et format som legger til rette for nær lytting og tilstedeværelse. Dette er en konsert der detaljene får plass, og hvor samspillet står i sentrum.</p><p>Kjetil Mulelid – piano</p><p>Rune Nergaard – kontrabass</p><p>Andreas Winther – trommer</p><p>Billetter kan kjøpes via Tikkio. Eventuelle restbilletter selges i døren ved bruk av Vipps.</p><p>Kjøpte billetter refunderes ikke. Våre konserter fotograferes. Deltakere under 18 år, må være i følge med en ansvarlig voksen.</p>",
       "start_at": "2026-09-05T13:30:00",
       "end_at": "2026-09-05T18:00:00",
-      "is_free": false,
-      "price_text": "NOK 165.00",
+      "is_free": true,
       "location_name": "Quality Hotel Ålesund",
       "city": "Ålesund",
       "latitude": 62.4756342,
@@ -3268,18 +3288,17 @@
     {
       "source": "tikkio",
       "source_id": "tikkio-1af5db7a6790a51fe6943ed0255cd07d",
-      "title": "Stormjazz 2026: Gabriela Garrubo trio + Neset/Eger duo (dobbeltkonsert)",
-      "description": "To vidt forskjellige, men like sterke musikalske univers møtes i denne dobbeltkonserten under Stormjazz. \r\n\r\nFra det eksplosive og virtuose til det varme og sanselige – dette er en kveld som spenner bredt, både i uttrykk og intensitet.\r\n\r\nGabriela Garrubo Trio åpner med et uttrykk forankret i brasiliansk musikktradisjon, jazz og personlige fortellinger. Den norsk-brasilianske vokalisten, bosatt i Bergen og mottaker av Vossajazzprisen 2024, har markert seg med sin debutplate Rodando – et album som løfter frem hennes luftige og klokkeklare stemme i et detaljrikt og nyansert lydbilde.\r\nSammen med 8-strengsgitarist Per Olav Kobberstad og perkusjonist Audun Humberset presenterer hun musikken i en ny og mer intim trioform. Her veves egne komposisjoner sammen med utvalgte perler fra den brasilianske sangboken, og resultatet er en konsert preget av rytmisk finesse, varme og nær formidling. Musikken beveger seg lett mellom språk og stemninger, og inviterer publikum inn i et åpent og sanselig landskap.\r\n\r\nDer Gabriela Garrubo trio åpner rommet, tar Neset/Eger-duoen det i en helt annen retning.\r\n\r\nNår saksofonist Marius Neset og trommeslager Anton Eger entrer scenen, oppstår et intenst og energisk samspill med høy temperatur. Duoen bygger på et mangeårig samarbeid gjennom blant annet Phronesis og JazzKamikaze, og kjennetegnes av en nærmest telepatisk forståelse.\r\n\r\nHer presses duoformatet til yttergrensene. Nesets melodiske overskudd og tekniske briljans møter Egers eksplosive og oppfinnsomme trommespill i et uttrykk som er både strukturert og uforutsigbart. Musikken beveger seg raskt mellom det komplekse og det umiddelbare, med en energi som driver konserten fremover med stor intensitet.\r\n\r\nSammen utgjør disse to konsertene en kveld av kontraster og sammenhenger – fra det intime og lyriske til det kraftfulle og grenseløse. En dobbeltkonsert som viser bredden i dagens jazz, og som gir publikum to sterke og tydelige kunstneriske opplevelser.\r\n\r\nKjøpte billetter refunderes ikke. Våre konserter fotograferes. Deltakere under 18 år, må være i følge med en ansvarlig voksen.",
+      "title": "Stormjazz 2026: Trippelkonsert: Gabriela Garrubo + Neset/Eger + Sirkelen Jazz Orchestra & JAM",
+      "description": "<h2>Gabriela Garrubo Trio + Neset/Eger Duo + Sirkelen Jazz Orchestra &amp; JAM</h2><p>Tre svært forskjellige musikalske univers møtes denne kvelden under Stormjazz. Fra det varme og sanselige, via det eksplosive og virtuose, til en hyllest til noen av jazzhistoriens aller største navn – før scenen åpnes og kvelden avsluttes med JAM.</p><p>Gabriela Garrubo Trio åpner med et uttrykk forankret i brasiliansk musikktradisjon, jazz og personlige fortellinger. Den norsk-brasilianske vokalisten, bosatt i Bergen og mottaker av Vossajazzprisen 2024, har markert seg med debutplaten <em>Rodando</em> – et album som løfter frem hennes luftige og klokkeklare stemme i et detaljrikt og nyansert lydbilde.</p><p>Sammen med 8-strengsgitarist Per Olav Kobberstad og perkusjonist Audun Humberset presenterer hun musikken i en intim trioform. Her veves egne komposisjoner sammen med utvalgte perler fra den brasilianske sangboken, og resultatet er en konsert preget av rytmisk finesse, varme og nær formidling. Musikken beveger seg lett mellom språk og stemninger og inviterer publikum inn i et åpent og sanselig landskap.</p><p>Der Gabriela Garrubo Trio åpner rommet, tar Neset/Eger-duoen det i en helt annen retning.</p><p>Når saksofonist Marius Neset og trommeslager Anton Eger entrer scenen, oppstår et intenst og energisk samspill med høy temperatur. Duoen bygger på et mangeårig samarbeid gjennom blant annet Phronesis og JazzKamikaze, og kjennetegnes av en nærmest telepatisk forståelse.</p><p>Her presses duoformatet til yttergrensene. Nesets melodiske overskudd og tekniske briljans møter Egers eksplosive og oppfinnsomme trommespill i et uttrykk som er både strukturert og uforutsigbart. Musikken beveger seg raskt mellom det komplekse og det umiddelbare, med en energi som driver konserten fremover med stor intensitet.</p><p>Men kvelden stopper ikke der.</p><p>Som tredje og siste konsert entrer <strong>Sirkelen Jazz Orchestra</strong> scenen – Jazzsirkelens eget husorkester. Denne gangen retter ensemblet blikket mot tre giganter i jazzhistorien: <strong>Miles Davis, John Coltrane og Thelonious Monk</strong>. Det blir en tribute-konsert der orkesteret tar utgangspunkt i musikken og arven etter tre musikere som på hver sin måte flyttet grensene for jazzen.</p><p>Og når siste låt i settet er spilt, er ikke scenen ferdig for kvelden. I direkte forlengelse av konserten åpnes det for <strong>JAM</strong>. Musikere inviteres opp på scenen, nye konstellasjoner oppstår, og ingen vet helt hvor musikken tar veien. Akkurat slik en skikkelig jazzkveld bør avsluttes.</p><p><strong>Sirkelen Jazz Orchestra denne kvelden:</strong><br>Micah Dale – slagverk<br>Frode Grønmyr – gitar<br>Arvid Liljestrand – saksofoner<br>Erling Skorpen – trompet<br>Norvald Dahl – piano<br>Terje Storsten – kontrabass</p><p>Tre konserter. Tre svært forskjellige uttrykk. Og til slutt en åpen scene. Fra brasilianske klanger og lyrisk nærhet, via Neset og Egers eksplosive samspill, til Miles, Coltrane og Monk – før JAM-en får siste ord. Dette blir en helaften som viser både bredden, historien og det levende fellesskapet i jazzen.</p><p>Kjøpte billetter refunderes ikke. Våre konserter fotograferes. Deltakere under 18 år må være i følge med en ansvarlig voksen.</p>",
       "start_at": "2026-09-05T19:00:00",
       "end_at": "2026-09-06T01:00:00",
-      "is_free": false,
-      "price_text": "NOK 400.00",
+      "is_free": true,
       "location_name": "Fabrikken kulturscene",
       "city": "Ålesund",
       "latitude": 62.4733509,
       "longitude": 6.1456947,
       "organizer": "STORMJAZZ",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_8441ad7713be05cef0ef900907e6b37d.png?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_1c03f124c435019185ac97ba0278d140.webp?class=w768",
       "url": "https://tikkio.com/events/63737-stormjazz-2026-dobbeltkonsert-gabriela-garrubo-trio-neseteger-duo",
       "tags": [],
       "age_groups": [],
@@ -3660,7 +3679,7 @@
       "latitude": 62.1969807,
       "longitude": 6.1266414,
       "organizer": "Musikk i Sentrum",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/64949-musikk-i-sentrum-afterparty",
       "tags": [],
       "age_groups": [],
@@ -5656,19 +5675,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-37540-2026-08-09",
-      "title": "Grillbuffet på Alnes Brygge",
-      "start_at": "2026-08-09T14:00:00",
-      "end_at": "2026-08-09T18:00:00",
-      "location_name": "Alnes Brygge",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/grillbuffet-pa-alnes-brygge/?occurrence=2026-08-09",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-24474-2026-08-09",
       "title": "Brettspillkveld",
       "start_at": "2026-08-09T19:00:00",
@@ -5806,6 +5812,32 @@
       "location_name": "Brudavollen, Ørsta",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/friluftsjazz-og-eventyr-pa-brudavolltunet/?occurrence=2026-08-10",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-37692-2026-08-10",
+      "title": "Åpningskonsert – FADDER 2026",
+      "start_at": "2026-08-10T19:00:00",
+      "end_at": "2026-08-10T22:00:00",
+      "location_name": "Terminalen Byscene",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/apningskonsert-fadder-2026/?occurrence=2026-08-10",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-37694-2026-08-10",
+      "title": "Minigolf med Spark på Samfunnet",
+      "start_at": "2026-08-10T19:00:00",
+      "end_at": "2026-08-10T23:00:00",
+      "location_name": "NTNU, Sundebygget",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/minigolf-med-spark-pa-samfunnet/?occurrence=2026-08-10",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -7775,6 +7807,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-37696-2026-08-23",
+      "title": "Ukrainske toner – konsert for frihet og fellesskap",
+      "start_at": "2026-08-23T16:00:00",
+      "end_at": "2026-08-23T18:00:00",
+      "location_name": "Sobra scene",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/ukrainske-toner-konsert-for-frihet-og-fellesskap/?occurrence=2026-08-23",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-24474-2026-08-23",
       "title": "Brettspillkveld",
       "start_at": "2026-08-23T19:00:00",
@@ -9709,234 +9754,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-290218e6-5a7d-49bf-a0e4-500278e2ef18",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-09T14:10:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e6f8ca2d-147d-4b20-9f1c-b6e6e53d55f6",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-08-09T14:45:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-87ffb378-97f0-438c-8c1b-43e03d2ca5c0",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-09T14:50:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-67923c94-1cfc-4446-80d1-faba0df8dc6d",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-08-09T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-13752b9e-0475-4da1-93e1-9364da2d84ab",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-09T15:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-403774fb-d6e4-4c26-891d-01f3623fbc9a",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-09T16:50:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8dd8d24f-d3bd-4a05-b71e-2aa4562fc3d4",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-08-09T17:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b01eced5-f462-489b-8359-9616f1c3422f",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-08-09T17:15:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ccee513a-90b1-4174-8de8-bc6cf655c1ae",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-09T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f643cc7a-043c-4e95-9ba7-874af64be52c",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-09T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-0898a4e4-ce85-465f-85de-b60b14476686",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-09T18:40:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-79b47be5-bb62-4f42-854f-3e4ffce7f483",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-08-09T19:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
