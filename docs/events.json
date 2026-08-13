@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T02:07:09.353967+00:00",
+  "generated_at": "2026-08-13T07:38:12.733181+00:00",
   "total": 755,
   "failed_sources": [
     "viti"
@@ -765,6 +765,25 @@
         "senior"
       ],
       "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-c847ad09-3231-4c80-a7c1-685ec65455c0",
+      "title": "Forfattarbesøk Ellen Vahr + markering av Nasjonal bibliotekdag",
+      "start_at": "2026-09-01T19:00:00",
+      "end_at": "2026-09-01T20:30:00",
+      "is_free": true,
+      "location_name": "Sula bibliotek",
+      "city": "Ålesund",
+      "organizer": "Sula bibliotek",
+      "image_url": "https://ucarecdn.com/ae9ccbc1-8ac8-4510-97b3-f84b755497f4/-/crop/1920x523/0,240/-/preview/",
+      "url": "https://alesund.friskus.com/events/c847ad09-3231-4c80-a7c1-685ec65455c0",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": false
     },
     {
       "source": "friskus",
@@ -3683,7 +3702,7 @@
       "latitude": 62.1969807,
       "longitude": 6.1266414,
       "organizer": "Musikk i Sentrum",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/64949-musikk-i-sentrum-afterparty",
       "tags": [],
       "age_groups": [],
@@ -5695,19 +5714,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35075-2026-08-13",
-      "title": "Stiftelsens dag 2026: Morgenmat og magisk musikk",
-      "start_at": "2026-08-13T08:30:00",
-      "end_at": "2026-08-13T09:30:00",
-      "location_name": "Hotel Brosundet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/stiftelsens-dag-2026-morgenmat-og-magisk-musikk/?occurrence=2026-08-13",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
