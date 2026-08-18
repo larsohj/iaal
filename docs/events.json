@@ -1,136 +1,10 @@
 {
-  "generated_at": "2026-08-18T06:46:17.389566+00:00",
-  "total": 582,
+  "generated_at": "2026-08-18T12:50:42.168780+00:00",
+  "total": 709,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-08-18T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
-      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
-      "start_at": "2026-08-18T10:00:00",
-      "end_at": "2027-06-18T20:00:00",
-      "is_free": true,
-      "location_name": "Dagplass for personer med demens",
-      "city": "Ålesund",
-      "organizer": "Dagplass for personer med demens",
-      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
-      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-oaa92ehjvx34l",
-      "title": "Tirsdagstur: Geitanibba via Vestrefjellet og Sætrefjellet med start fra Vestresætra",
-      "start_at": "2026-08-18T10:00:00",
-      "end_at": "2026-08-18T15:00:00",
-      "is_free": false,
-      "location_name": "DNT Sunnmøre",
-      "city": "Ålesund",
-      "organizer": "DNT Sunnmøre",
-      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_594826",
-      "url": "https://alesund.friskus.com/events/oaa92ehjvx34l",
-      "tags": [
-        "friluftsliv",
-        "tur"
-      ],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-46542d00-420e-45cb-abd3-76bc7b10b2df",
-      "title": "Naturmøteplass ved Elvaløa på Sjøholt",
-      "start_at": "2026-08-18T12:00:00",
-      "end_at": "2026-10-13T14:00:00",
-      "is_free": true,
-      "location_name": "Ørskog Frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Ørskog Frivilligsentral",
-      "image_url": "https://ucarecdn.com/21188cc4-6a9d-47bf-a831-2d5a9cb65d40/-/crop/632x488/0,272/-/preview/-/resize/x300/",
-      "url": "https://alesund.friskus.com/events/46542d00-420e-45cb-abd3-76bc7b10b2df",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-b5e37824-692f-4a64-9ba5-91d02d9bf737",
-      "title": "Frivillig ute i naturen - bli vert på Naturmøteplassen!",
-      "start_at": "2026-08-18T12:00:00",
-      "end_at": "2026-12-22T14:00:00",
-      "is_free": true,
-      "location_name": "Ålesund frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Ålesund frivilligsentral",
-      "image_url": "https://ucarecdn.com/905194ac-3634-432c-8abd-562fd29727fb/",
-      "url": "https://alesund.friskus.com/events/b5e37824-692f-4a64-9ba5-91d02d9bf737",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-08-18T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
@@ -487,6 +361,47 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-46542d00-420e-45cb-abd3-76bc7b10b2df",
+      "title": "Naturmøteplass ved Elvaløa på Sjøholt",
+      "start_at": "2026-08-25T12:00:00",
+      "end_at": "2026-10-13T14:00:00",
+      "is_free": true,
+      "location_name": "Ørskog Frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Ørskog Frivilligsentral",
+      "image_url": "https://ucarecdn.com/21188cc4-6a9d-47bf-a831-2d5a9cb65d40/-/crop/632x488/0,272/-/preview/-/resize/x300/",
+      "url": "https://alesund.friskus.com/events/46542d00-420e-45cb-abd3-76bc7b10b2df",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-b5e37824-692f-4a64-9ba5-91d02d9bf737",
+      "title": "Frivillig ute i naturen - bli vert på Naturmøteplassen!",
+      "start_at": "2026-08-25T12:00:00",
+      "end_at": "2026-12-22T14:00:00",
+      "is_free": true,
+      "location_name": "Ålesund frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Ålesund frivilligsentral",
+      "image_url": "https://ucarecdn.com/905194ac-3634-432c-8abd-562fd29727fb/",
+      "url": "https://alesund.friskus.com/events/b5e37824-692f-4a64-9ba5-91d02d9bf737",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-oaaY6AwN6EwpX",
       "title": "Frivilliglunsj på naustet",
       "start_at": "2026-08-26T11:30:00",
@@ -507,6 +422,25 @@
         "teenager"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-91df51b7-d2d5-4403-95c1-f87cabd2fe2d",
+      "title": "Les Vegas, baby!",
+      "start_at": "2026-08-27T11:00:00",
+      "end_at": "2026-12-17T12:00:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
+      "city": "Ålesund",
+      "organizer": "Ålesund bibliotek",
+      "image_url": "https://ucarecdn.com/e56c020b-fe9d-4814-9920-61270af3e68a/-/crop/1920x523/0,124/-/preview/-/scale_crop/1100x300/smart/",
+      "url": "https://alesund.friskus.com/events/91df51b7-d2d5-4403-95c1-f87cabd2fe2d",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "family"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -602,6 +536,27 @@
         "senior"
       ],
       "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-oaaX--_gf0XUh",
+      "title": "Påmelding til turboklubben på Ellingsøya - høst 2026",
+      "start_at": "2026-09-01T17:15:00",
+      "end_at": "2026-11-24T18:15:00",
+      "is_free": true,
+      "location_name": "DNT Sunnmøre",
+      "city": "Ålesund",
+      "organizer": "DNT Sunnmøre",
+      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_618382",
+      "url": "https://alesund.friskus.com/events/oaaX--_gf0XUh",
+      "tags": [
+        "friluftsliv",
+        "tur"
+      ],
+      "age_groups": [
+        "children"
+      ],
+      "is_recurring": false
     },
     {
       "source": "friskus",
@@ -1824,16 +1779,16 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-4099e8e2-02df-4c0a-880e-02130c8fd1c7",
-      "title": "Biblioteket er ope i dag!",
-      "start_at": "2026-08-18T10:30:00",
-      "end_at": "2026-09-04T15:30:00",
+      "source_id": "friskus-d5506892-f0a1-4988-9f24-be1968946796",
+      "title": "Naturmøteplass i Sandvika på Roald",
+      "start_at": "2026-08-19T12:00:00",
+      "end_at": "2026-09-30T13:30:00",
       "is_free": true,
-      "location_name": "Giske folkebibliotek",
+      "location_name": "Giske Rotaryklubb",
       "city": "Ålesund",
-      "organizer": "Giske folkebibliotek",
-      "image_url": "https://ucarecdn.com/291cb93f-fd25-460e-a4da-21b6d9547361/-/crop/1200x328/0,170/-/preview/",
-      "url": "https://alesund.friskus.com/events/4099e8e2-02df-4c0a-880e-02130c8fd1c7",
+      "organizer": "Giske Rotaryklubb",
+      "image_url": "https://ucarecdn.com/e93fe19b-1c1b-469e-84b4-0573aab3bd46/-/crop/2048x558/0,345/-/preview/-/scale_crop/1100x300/smart/",
+      "url": "https://alesund.friskus.com/events/d5506892-f0a1-4988-9f24-be1968946796",
       "tags": [],
       "age_groups": [
         "children",
@@ -1848,7 +1803,7 @@
       "source": "friskus",
       "source_id": "friskus-cb765ce4-6205-4627-95c9-32f0215b1e2c",
       "title": "Formiddagstreff",
-      "start_at": "2026-08-18T11:00:00",
+      "start_at": "2026-08-20T11:00:00",
       "end_at": "2026-12-31T14:00:00",
       "is_free": false,
       "location_name": "Vigra Aktivitets og Frivillighetssentral VAF",
@@ -1856,28 +1811,6 @@
       "organizer": "Vigra Aktivitets og Frivillighetssentral VAF",
       "image_url": "https://ucarecdn.com/1a2a6ea2-a5a0-4192-a3a5-7df8680151dc/-/scale_crop/1100x300/smart/-/resize/x300/-/setfill/6E37CB/-/crop/1100x300/center/",
       "url": "https://alesund.friskus.com/events/cb765ce4-6205-4627-95c9-32f0215b1e2c",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-d5506892-f0a1-4988-9f24-be1968946796",
-      "title": "Naturmøteplass i Sandvika på Roald",
-      "start_at": "2026-08-19T12:00:00",
-      "end_at": "2026-09-30T13:30:00",
-      "is_free": true,
-      "location_name": "Giske Rotaryklubb",
-      "city": "Ålesund",
-      "organizer": "Giske Rotaryklubb",
-      "image_url": "https://ucarecdn.com/e93fe19b-1c1b-469e-84b4-0573aab3bd46/-/crop/2048x558/0,345/-/preview/-/scale_crop/1100x300/smart/",
-      "url": "https://alesund.friskus.com/events/d5506892-f0a1-4988-9f24-be1968946796",
       "tags": [],
       "age_groups": [
         "children",
@@ -2790,6 +2723,26 @@
     },
     {
       "source": "tikkio",
+      "source_id": "tikkio-d0e817033efe9bde21f2c70d283b7d59",
+      "title": "Høstscena Festivalpass",
+      "description": "<p>Sikre deg festivalpass til Høstscena 2026 og få med deg så mye som mulig av årets festival!</p><p>Fra teater, dans og performance til musikk, film, rave og boksegalla – festivalpasset gir deg tilgang til arrangementene som inngår i passordningen. Vi anbefaler å reservere plass til arrangementene på forhånd!</p><p>Betal den prisen som passer deg:</p><p>Sunnmøringen: 100 kr – begrenset antall<br>Realisten: 2 200 kr<br>Idealisten: 50 000 kr</p><p>Alle priskategoriene gir samme festivalpass.</p>",
+      "start_at": "2026-09-19T08:00:00",
+      "end_at": "2026-09-27T22:00:00",
+      "is_free": false,
+      "price_text": "NOK 100.00",
+      "location_name": "Arbeideren kulturhus",
+      "city": "Ålesund",
+      "latitude": 62.4706714,
+      "longitude": 6.1526679,
+      "organizer": "Høstscena",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_bacbdaeb9bc240a868a8a886df2eabb2.webp?class=w768",
+      "url": "https://tikkio.com/events/65599-hostscena-festivalpass",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
       "source_id": "tikkio-a4f7139b3e3479a94d006d88e4b26b8e",
       "title": "Vennefest på Pir 2026",
       "description": "Du er invitert!\r\n\r\nÉn kveld. Ett hus. Gode venner. Musikk. Mat. Lys. Bobler. Alt samlet i én intens fest🔥\r\n\r\n- Åpningsshow\r\n- DJ og mat fra Damp\r\n- Surprise på scena\r\n- Underholdning i flere etasjer\r\n- Skikkelig kjekke folk\r\n- +++\r\n\r\nAntall billetter er begrenset og du er en av de vi har lyst å ha med, så vi tenker at det er lurt at du kjøper billett med en gang ;)\r\n\r\nVi gleder oss👏🏻\r\n\r\nXoXo \r\nJulie, Adriana, Victoria og Anja\r\n\r\nID 23år",
@@ -3571,6 +3524,26 @@
     },
     {
       "source": "tikkio",
+      "source_id": "tikkio-2e44ad4cd36ab107811ad57be998528a",
+      "title": "RJÅNES LIVE // BokkeReidars Blues Band // Baarelaget // Egil Olsen",
+      "description": "<p><strong>Rjånes Live</strong> - Ein kveld der vi fyller Rjånes med levande musikk, god stemning og artistar vi verkeleg gler oss til å få på scena. Her skal vi samlast, senke skuldrane og nyte ein skikkeleg god konsertkveld i lag!</p><p>Denne kvelden får du oppleve Egil Olsen, Baarelaget og BokkeReidars - tre artistar med kvart sitt uttrykk som saman skapar ein variert og stemningsfull kveld på Rjånes.</p><p><strong>Egil Olsen</strong> er ein allsidig artist og låtskrivar med ein heilt eigen stil og sterk sans for gode melodiar. Musikken hans balanserer det vare og melankolske med humor, varme og glimt i auget. På scena skaper han ei nær og personleg stemning, med låtar som både kan røre og overraske. Dette er ein artist som leverer ekte speleglede og god formidling – på sin heilt eigne måte.</p><p><strong>Sunnmøre Baarelag</strong> har halde det gåande sidan 1980 og har over 2000 konsertar bak seg. Bandet er framleis «live and kicking», og i 2026 er dei aktuelle med ny musikk og låtane «Idiot» og «Målet vårt». Dette er sunnmørsk rockehistorie – framleis høglydt, leiken og høgst levande.</p><p><strong>BokkeReidars</strong> har over 40 års fartstid og er det lengstlevande bandet i sin sjanger i Noreg. Musikken er ein energisk miks av blues, funk, salsa og ska, krydra med nynorske tekstar. Med nostalgisk trøkk og ekstrem speleglede er dette eit band som verkeleg trivst på scena. Gjer deg klar for BokkeReidars i festmodus – med live-musikk du vil kjenne langt inn i ryggmargen!</p><p>20.00: Egil Olsen<br>21.15: Baarelaget<br>22.45: BokkeReidars Blues Band</p><p>Ta med deg gode vener, finn deg noko godt i glaset og gjer deg klar for ein kveld med levande musikk og skikkeleg god stemning!</p>",
+      "start_at": "2026-09-05T18:00:00",
+      "end_at": "2026-09-06T01:00:00",
+      "is_free": false,
+      "price_text": "NOK 499.00",
+      "location_name": "Rjånes Feriesenter",
+      "city": "Ålesund",
+      "latitude": 62.2490375,
+      "longitude": 5.9707902,
+      "organizer": "Rjånes Feriesenter",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_822fbf80c1bcf2fd514f757e8ce4f5c9.webp?class=w768",
+      "url": "https://tikkio.com/events/65598-rjanes-live",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
       "source_id": "tikkio-0932ca78815fff8a709028755e745e2f",
       "title": "POSH - Konsert på Låven",
       "description": "<p></p>",
@@ -3782,8 +3755,8 @@
     {
       "source": "tikkio",
       "source_id": "tikkio-a91f117243ee5a86fbc485022076bf9c",
-      "title": "Ylva // ROKKEN",
-      "description": "18. august står Ylva på Rokken scene, klar til å kickstarte Fadderveka 2026!\r\n\r\nYlva hadde eit sterkt 2025 med ei rekkje låtslepp, fleire nye publikumsfavorittar, vekas låt på P3, opptreden på P3 Live, og låta hennar Maskulin, som gjennom seinsommaren klatra til førsteplass på Topp 50 i Noreg.\r\n\r\nHo har vore i artistbransjen lenge – allereie som 15-åring fekk ho sitt gjennombrot då ho deltok i TV 2-programmet The Stream. Sidan den gong har musikken kome på løpande band, og ho har gitt ut ei rekkje singlar og EP-ar, mellom anna suksessrike duettar med Stig Brenner, men òg eigne låtar som har gjort seg bemerka, som «Cut the Shit», «Ligge», «HÆ?» og den nyaste singelen hennar, «Get Money».\r\n\r\n\r\nDører: 20:00\r\nShow: 22:00\r\n18 års aldersgrense\r\n\r\n\r\n\r\n//ENGLISH//\r\n\r\n\r\n\r\nYlva had an outstanding 2025, releasing a string of new tracks, gaining several new fan favorites, earning P3’s Song of the Week, performing on P3 Live, and seeing her single Maskulin climb to the top of Norway’s Top 50 chart during late summer.\r\n\r\nShe has been in the music industry for many years. At just 15 years old, she had her breakthrough after competing in the TV 2 show The Stream. Since then, she has consistently released new music, including numerous singles and EPs. Along the way, she has delivered successful collaborations with Stig Brenner, while also making a name for herself with solo tracks such as Cut the Shit, Ligge, HÆ?, and her latest single, Get Money.\r\n\r\n\r\nDoors: 20:00\r\nShow: 22:00\r\nID: 18+",
+      "title": "Ylva // ROKKEN - FÅ BILLETTAR",
+      "description": "<p>18. august står Ylva på Rokken scene, klar til å kickstarte Fadderveka 2026!</p><p>Ylva hadde eit sterkt 2025 med ei rekkje låtslepp, fleire nye publikumsfavorittar, vekas låt på P3, opptreden på P3 Live, og låta hennar Maskulin, som gjennom seinsommaren klatra til førsteplass på Topp 50 i Noreg.</p><p>Ho har vore i artistbransjen lenge – allereie som 15-åring fekk ho sitt gjennombrot då ho deltok i TV 2-programmet The Stream. Sidan den gong har musikken kome på løpande band, og ho har gitt ut ei rekkje singlar og EP-ar, mellom anna suksessrike duettar med Stig Brenner, men òg eigne låtar som har gjort seg bemerka, som «Cut the Shit», «Ligge», «HÆ?» og den nyaste singelen hennar, «Get Money».</p><p>Dører: 20:00</p><p>Show: 22:00</p><p>18 års aldersgrense</p><p>//ENGLISH//</p><p>Ylva had an outstanding 2025, releasing a string of new tracks, gaining several new fan favorites, earning P3’s Song of the Week, performing on P3 Live, and seeing her single Maskulin climb to the top of Norway’s Top 50 chart during late summer.</p><p>She has been in the music industry for many years. At just 15 years old, she had her breakthrough after competing in the TV 2 show The Stream. Since then, she has consistently released new music, including numerous singles and EPs. Along the way, she has delivered successful collaborations with Stig Brenner, while also making a name for herself with solo tracks such as Cut the Shit, Ligge, HÆ?, and her latest single, Get Money.</p><p>Doors: 20:00</p><p>Show: 22:00</p><p>ID: 18+</p>",
       "start_at": "2026-08-18T20:00:00",
       "end_at": "2026-08-19T02:30:00",
       "is_free": false,
@@ -3826,7 +3799,8 @@
       "description": "<p>Kva har hausten 2026 å by på? Finn det ut når vi slepper HEILE HAUSTPROGRAMMET laurdag 22. august!</p><p>Vi byr på ein kveld med episke lysshow, energiske bangers, masse dansing og saaakleg god stemning! DJ&#039;en styrer skuta rett inn på Allsang Allé, og for deg som brukar ein time framfor klesskapet kan festens tema WHITE LIES lette presset! Finn fram ei kvit t-skjorte, skriv på ein kvit liten løgn, og så er du heilt klar!</p><p>Dører: 22:00<br>18 års aldersgrense<br>Billettar ute 18. august kl. 13:00</p><p>//ENGLISH//</p><p>What does fall 2026 have to offer? Find out when we release the ENTIRE FALL PROGRAM on Saturday, August 22!</p><p>We offer a nights with epic light shows, energetic bangers, lots of dancing, and grooovy good vibes! The DJ will steer the ship straight into Sing-along Alley, and for those who spend an hour in front of the closet, the party&#039;s theme WHITE LIES will surley ease the pressure! Just find yourself a white t-shirt, write a little white lie on it, and you&#039;re all on board!</p><p>Doors: 22:00<br>ID: 18+<br>Tickets out August 18, 13:00!</p>",
       "start_at": "2026-08-22T22:00:00",
       "end_at": "2026-08-23T02:30:00",
-      "is_free": true,
+      "is_free": false,
+      "price_text": "NOK 100.00",
       "location_name": "Studenthuset Rokken",
       "city": "Ålesund",
       "latitude": 62.1444128,
@@ -3865,7 +3839,8 @@
       "description": "<p>Det e laurdag, det e tida</p><p>For å klikke, som ein klokke</p><p>Sjå på tida, den blir borte...</p><p></p><p>Vi avsluttar Fadderveka 2026 med KLIKKEDISCO!!! Det skal smelle, det skal blinke, og det skal dansast til skosålane fell av! DJ Standal og DJ Twat står på scena for å spele publikum gjennom kvelden. Du trur du har vore på fest? KLIKKEDSCO er alle festars mor!</p><p></p><p>Dører: 22:00</p><p>18 års aldersgrense</p><p></p><p>//ENGLISH//</p><p></p><p>We&#039;re ending Fadderveka 2026 with KLIKKEDISCO!!! It will be explosive, it will be flashy, and you will danse until your shoes fall off! DJ Standal and DJ Twat are on stage to play the parties through the night. Think you&#039;ve been to a party before? KLIKKEDISCO is the mother of all parties!</p><p></p><p>Doors: 22:00</p><p>ID: 18+</p>",
       "start_at": "2026-08-29T22:00:00",
       "end_at": "2026-08-30T02:30:00",
-      "is_free": true,
+      "is_free": false,
+      "price_text": "NOK 130.00",
       "location_name": "Studenthuset Rokken",
       "city": "Ålesund",
       "latitude": 62.1444128,
@@ -3970,7 +3945,7 @@
       "latitude": 62.1216295,
       "longitude": 6.5860972,
       "organizer": "PIANIST JOHN INGE LEIRA BJØRINGSØY",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/65506-kjetil-mulelid-trio-oppvarming-vestavind-kvartett",
       "tags": [],
       "age_groups": [],
@@ -5465,6 +5440,23 @@
     },
     {
       "source": "parken",
+      "source_id": "parken-48778-balletak-pa-bransjen",
+      "title": "Balletak på bransjen",
+      "start_at": "2027-04-02T19:00:00",
+      "end_at": "2027-04-02T20:15:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Et stand up-show av og med Henrik Fladseth",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F48778%2Fweb-square.webp?version=jqilhphrOSfm+vnOeGqRrw==",
+      "url": "https://www.parkenkulturhus.no/program/48778-balletak-pa-bransjen/",
+      "tags": [
+        "humor"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
       "source_id": "parken-48269-jorn-hoel-steinar-albrigtsen",
       "title": "Jørn Hoel & Steinar Albrigtsen",
       "start_at": "2027-04-03T19:00:00",
@@ -5631,84 +5623,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-22059-2026-08-18",
-      "title": "Åpen barnehage",
-      "start_at": "2026-08-18T09:00:00",
-      "end_at": "2026-08-18T15:00:00",
-      "location_name": "Steinbua",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-barnehage/?occurrence=2026-08-18",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32362-2026-08-18",
-      "title": "Sommerfuglen Aktivitet",
-      "start_at": "2026-08-18T10:00:00",
-      "end_at": "2026-08-18T15:00:00",
-      "location_name": "Sommerfuglen Aktivitet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerfuglen-aktivitet/?occurrence=2026-08-18",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-08-18",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-08-18T10:00:00",
-      "end_at": "2026-08-18T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-08-18",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34595-2026-08-18",
-      "title": "Film: Året i Ålesund",
-      "start_at": "2026-08-18T11:00:00",
-      "end_at": "2026-08-18T16:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/film-aret-i-alesund-3/?occurrence=2026-08-18",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-13430-2026-08-18",
-      "title": "Naturmøteplass på Aksla",
-      "start_at": "2026-08-18T12:00:00",
-      "end_at": "2026-08-18T14:00:00",
-      "location_name": "Aksla, Dam 2",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/naturmoteplass-pa-aksla/?occurrence=2026-08-18",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-08-18",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-08-18T12:00:00",
-      "end_at": "2026-08-18T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-08-18",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -6759,6 +6673,19 @@
       "location_name": "Sommerfuglen Aktivitet",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/mental-helse-skodje-og-orskog/?occurrence=2026-08-26",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-38220-2026-08-26",
+      "title": "Kreativ kveld på Sunnmøre Museum: Gratis Verksted- Lær å trylle med Polymer Clay!",
+      "start_at": "2026-08-26T17:30:00",
+      "end_at": "2026-08-26T19:30:00",
+      "location_name": "Sunnmøre museum",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/kreativ-kveld-pa-sunnmore-museum-gratis-verksted-laer-a-trylle-med-polymer-clay/?occurrence=2026-08-26",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -8364,121 +8291,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-08199c23-12d8-450c-8742-b04b61f5a480",
-      "title": "The Invite",
-      "start_at": "2026-08-18T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
-      "url": "https://www.odeonkino.no/film/the-invite/",
-      "tags": [
-        "drama",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-12495969-b072-4c08-825a-d35d3a0301ae",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-08-18T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-49131c4d-d535-4227-b426-ee7c759c9c2b",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-08-18T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "isense",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-9cbbeade-f23e-4e48-9135-3c88b7d0675c",
-      "title": "The End of Oak Street",
-      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
-      "start_at": "2026-08-18T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
-      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
-      "tags": [
-        "luxe",
-        "sci-fi",
-        "mystery",
-        "thriller"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ad8c8f7e-d320-45e6-aa33-3e2ee46c8890",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-08-18T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-0ca78df7-6bdf-4c37-95c9-d55b4d4752c1",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-18T12:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-317e2de5-93b3-41c8-9fa3-2f0932e3b9ab",
       "title": "The Odyssey",
       "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
@@ -9636,6 +9448,2653 @@
       "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
       "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
       "tags": [
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0b51a6dd-5f92-47d7-867f-312b7b293a0b",
+      "title": "Paw Patrol: Dinofilmen",
+      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
+      "start_at": "2026-08-21T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
+      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
+      "tags": [
+        "isense",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0b013ff3-c4d4-44d8-a1bf-39670d3b11bb",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-21T12:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7b5c439f-5cba-4bd9-b4f4-be9447312bb0",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-21T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-bf87fdad-4774-4048-9d80-29797239fa92",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-21T13:10:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f8dcb934-ad48-4c6c-b5ed-eb4bc771819e",
+      "title": "The Invite",
+      "start_at": "2026-08-21T13:20:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
+      "url": "https://www.odeonkino.no/film/the-invite/",
+      "tags": [
+        "drama",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b5296a56-a3a2-44df-8d10-4cf07eb4da7e",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-21T14:15:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "isense",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-bb343689-3b64-45ce-a8bf-3cd6b0146b32",
+      "title": "Paw Patrol: Dinofilmen",
+      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
+      "start_at": "2026-08-21T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
+      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2b8477d8-3c52-4e6e-860a-bb5cbcef40a1",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-21T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1786e1ec-9722-43ee-b183-b0b69cb0c236",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-21T15:50:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c073da69-9dfd-4f78-b25f-3949c48bc226",
+      "title": "The Invite",
+      "start_at": "2026-08-21T16:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
+      "url": "https://www.odeonkino.no/film/the-invite/",
+      "tags": [
+        "luxe",
+        "drama",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-933d282b-01fa-4365-856f-1cdf755ae5f0",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-21T17:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-29ee25f2-6d10-449e-bd18-9cee1e71aba0",
+      "title": "Vaiana",
+      "start_at": "2026-08-21T17:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-934a1fd7-40ea-445d-9743-a8e648fe300c",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-21T17:50:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-881eeef4-9291-42e3-9cbc-d3d5cb2f42b4",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-21T18:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "luxe",
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-43206685-4bc2-4f5f-a89a-bca51d0e2d0c",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-21T19:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-30447e10-d11b-4097-a7fe-c3a09e440e8c",
+      "title": "The Invite",
+      "start_at": "2026-08-21T20:10:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
+      "url": "https://www.odeonkino.no/film/the-invite/",
+      "tags": [
+        "drama",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-24e421f9-11c7-4c1d-a67f-8eb03be5728e",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-21T20:40:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0343708e-b9c3-4d05-bc8e-9434b1b94bf9",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-21T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-fc3f991b-852c-423e-9651-f4f3f64cbfdf",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-21T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "luxe",
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4efeb1f3-ae6c-4935-ab20-7bd764dcc703",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-08-22T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-636a3660-0c35-44e8-adb4-0e9e467a3be8",
+      "title": "Paw Patrol: Dinofilmen",
+      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
+      "start_at": "2026-08-22T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
+      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1935e128-2cee-4337-97d2-a43d6a85521f",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-22T11:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "isense",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4147e82a-a581-45a1-a294-082a6ee228a5",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-08-22T11:10:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-415d00c5-ce2f-47e0-bad2-f2963bd6cbc4",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-08-22T11:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c4a99c19-3eb9-44ec-bcf2-18bcdbc92f13",
+      "title": "Paw Patrol: Dinofilmen",
+      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
+      "start_at": "2026-08-22T12:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
+      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-51d21d82-156b-44ad-bd1e-f7ee508841d3",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-22T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-5254adec-eda8-405f-8434-4671ba714a7f",
+      "title": "Vaiana",
+      "start_at": "2026-08-22T13:10:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-80612c07-5c2b-4cda-aeb2-615332b11fcb",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-22T13:20:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ca896312-960a-4674-a844-c22964a6e6fb",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-08-22T14:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-eb193694-7d34-4608-8eb6-23607c9d42ba",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-22T14:40:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e025fca5-d016-4dcd-a852-78270b2bc5b9",
+      "title": "Paw Patrol: Dinofilmen",
+      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
+      "start_at": "2026-08-22T15:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
+      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8a57ba88-5f64-4593-9023-c67bd65c2fa2",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-22T15:50:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c9556017-c0af-4ce3-994a-05e9019b1072",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-22T16:10:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6a6e5438-1c3a-431a-aa63-5b0d617af777",
+      "title": "The Invite",
+      "start_at": "2026-08-22T16:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
+      "url": "https://www.odeonkino.no/film/the-invite/",
+      "tags": [
+        "luxe",
+        "drama",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b3bf5e6b-249d-4161-807a-b8c1e9b775a0",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-22T17:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-02b08ad5-f691-458f-908b-d332024da5c9",
+      "title": "Vaiana",
+      "start_at": "2026-08-22T17:15:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e20a0e5a-571b-4e94-b1f4-777eac98962e",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-22T17:50:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-059e5890-18e4-42f7-8e21-16cfbbe37c1e",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-22T19:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "luxe",
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1a71780a-793a-47fe-8a3a-7b388b153dfe",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-22T19:50:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6a6ad255-fea8-4e75-908a-d6670cb6d737",
+      "title": "The Invite",
+      "start_at": "2026-08-22T20:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
+      "url": "https://www.odeonkino.no/film/the-invite/",
+      "tags": [
+        "drama",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-900457cf-34b4-4e3b-9bab-8bfe085dadee",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-22T20:40:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7dfa04c0-1e48-4c4d-bf4a-720a87f6b337",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-22T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-07a061f7-6a9d-43a6-b2db-440d912a9a4b",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-22T21:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "luxe",
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-34fca45b-f9c8-4cb6-a88d-00d5b7c119a0",
+      "title": "Paw Patrol: Dinofilmen",
+      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
+      "start_at": "2026-08-23T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
+      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-fc8f6b5d-e66c-4ba6-a4cd-8749ad1c7fa3",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-08-23T10:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-298035f4-6e30-45a4-b4b7-544c3ce5d48f",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-23T11:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "isense",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-14a311f7-c887-41f3-8d31-438630306910",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-08-23T11:10:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b6b1643d-7460-4ba9-8279-20a47b0e14fc",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-08-23T11:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-83d8014d-6bfc-4cc2-a7a4-d40de4f43bce",
+      "title": "Paw Patrol: Dinofilmen",
+      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
+      "start_at": "2026-08-23T12:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
+      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7c7eac0b-f18a-48d1-b4f3-24df208189d6",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-23T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-bdb2b759-3057-4f98-a150-0be51fb6f21d",
+      "title": "Vaiana",
+      "start_at": "2026-08-23T13:10:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-262fd0c1-d9a9-4883-915a-5a74eded9257",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-23T13:20:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2944f519-80eb-4175-82a5-bd0be5f84459",
+      "title": "Minions & monstre",
+      "description": "Minions inntar Hollywood!",
+      "start_at": "2026-08-23T14:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
+      "url": "https://www.odeonkino.no/film/minions-monstre/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "komedie",
+        "eventyr",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-54dc51f6-0859-478a-a709-4fb7e6b67535",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-23T14:40:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0323aae4-9014-4094-8fc3-1c22270d6080",
+      "title": "Paw Patrol: Dinofilmen",
+      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
+      "start_at": "2026-08-23T15:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
+      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4b16bbb1-bec8-4f04-a90b-54a7a6976319",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-23T15:50:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6d4b01a2-5e84-42c3-aae1-49f81e36bf4a",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-23T16:10:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7a38c862-0d0a-453e-9be9-3862d451e0eb",
+      "title": "The Invite",
+      "start_at": "2026-08-23T16:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
+      "url": "https://www.odeonkino.no/film/the-invite/",
+      "tags": [
+        "luxe",
+        "drama",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-5a5c174b-4d50-4e42-a4ab-e8fc132ff5fb",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-23T17:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-aa3779ef-a9ca-4fac-bed0-dc0bdfafd39c",
+      "title": "Vaiana",
+      "start_at": "2026-08-23T17:15:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-edc9010c-c2cf-4d1a-b9f2-59f1abbebbc1",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-23T17:50:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f6ce0e40-bb6e-451d-b96f-95247f15f9f0",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-23T19:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "luxe",
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-07adc177-9d7b-4650-9442-34d6c1e48006",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-23T19:50:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9b2eddf4-80b1-4eb2-8d76-78eae8ab02ee",
+      "title": "The Invite",
+      "start_at": "2026-08-23T20:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
+      "url": "https://www.odeonkino.no/film/the-invite/",
+      "tags": [
+        "drama",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e0a02256-d311-4b01-b245-7873acbed388",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-23T20:40:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f353ea84-f8fe-4f32-b9d2-2fc0dde08871",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-23T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-04068054-acba-4c04-8861-b54b77c58b94",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-23T21:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "luxe",
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-31c08e00-2936-48bc-befd-f9ed6399d502",
+      "title": "Paw Patrol: Dinofilmen",
+      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
+      "start_at": "2026-08-24T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
+      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
+      "tags": [
+        "isense",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-94369932-d2e8-4ce1-88e3-953c05733a68",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-24T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-85b69bf1-20ce-4f40-b558-640cecf41cce",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-24T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e978fbe5-a731-4af8-b69f-d02a4aa8f469",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-24T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-13a54b3d-3a95-4dff-a664-752d369ed45c",
+      "title": "Paw Patrol: Dinofilmen",
+      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
+      "start_at": "2026-08-24T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
+      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c146a2e5-3b45-4a12-a3be-252d3bf762b5",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-24T14:15:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "isense",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-094a4cdf-df98-4ac8-8e43-7532db7ab0ee",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-24T14:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "luxe",
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-cb81c6c5-5d81-47b0-b676-7e24ef699ad6",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-24T15:50:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-61349cab-91ee-4999-a14e-fc620fd0c1e1",
+      "title": "Vaiana",
+      "start_at": "2026-08-24T16:10:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0440818e-f0e2-4bdd-8922-2fe6db0a0b15",
+      "title": "The Invite",
+      "start_at": "2026-08-24T16:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
+      "url": "https://www.odeonkino.no/film/the-invite/",
+      "tags": [
+        "luxe",
+        "drama",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9fb21754-12e6-4a57-8a1b-62f3502376d9",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-24T16:50:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9b5e365b-dba9-4f74-bc82-083896a2c159",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-24T17:50:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-bb49df8f-b326-43ff-8fa0-a2fe4cd81fbd",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-24T18:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "luxe",
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-689ca12e-038b-42b1-9381-421cee012adb",
+      "title": "The Invite",
+      "start_at": "2026-08-24T18:50:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
+      "url": "https://www.odeonkino.no/film/the-invite/",
+      "tags": [
+        "drama",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b0b2d288-7f6a-4dd9-93b4-ad315986cdd7",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-24T19:40:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c8744a63-736f-4611-ba9e-6bfa942cc585",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-24T20:40:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-922a0555-19d3-4850-80e7-7243ac206324",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-24T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-06c5446d-84d6-4af0-814d-814cd13d786b",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-24T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "luxe",
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7379ac0e-f93f-4a3f-83f9-623720e7c475",
+      "title": "Obsession",
+      "start_at": "2026-08-24T21:20:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f0446f3a-b02a-48c0-b40a-4e74912a5788",
+      "title": "Paw Patrol: Dinofilmen",
+      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
+      "start_at": "2026-08-25T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
+      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
+      "tags": [
+        "isense",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f635c312-186d-4d6c-b598-de6d5c3cc5d6",
+      "title": "The Invite",
+      "start_at": "2026-08-25T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
+      "url": "https://www.odeonkino.no/film/the-invite/",
+      "tags": [
+        "luxe",
+        "drama",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-19f435ef-b8e4-4c62-b9c3-4dd789a3c5ce",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-25T12:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3d331a35-7a6d-4dd8-b139-b0d074aa95c6",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-25T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-425cae83-1820-41f0-9ce4-14aa098593b7",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-25T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-fe1f4c69-1ea9-464c-8597-f4bbefe01efd",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-25T14:15:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "isense",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8bdbac7b-74d7-49d3-8eba-3a8e4406bf11",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-25T14:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "luxe",
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7ed6ee05-baea-402f-b604-b3224924b2a9",
+      "title": "Paw Patrol: Dinofilmen",
+      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
+      "start_at": "2026-08-25T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
+      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c0ff2ad4-cd8e-4f3d-8ef1-9f20c1edd1df",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-25T15:50:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-97c15cfd-da66-41f1-85c2-539d0c1709e6",
+      "title": "The Invite",
+      "start_at": "2026-08-25T16:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
+      "url": "https://www.odeonkino.no/film/the-invite/",
+      "tags": [
+        "luxe",
+        "drama",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-5d084256-864f-4abb-a13a-0698bf85c730",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-25T16:50:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-afa38fca-165f-44dd-b6b3-05d5566306d1",
+      "title": "Vaiana",
+      "start_at": "2026-08-25T17:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
+      "url": "https://www.odeonkino.no/film/vaiana/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6ab48a35-01c7-4785-bda4-eef72147f3fb",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-25T17:50:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9d4b4af5-5430-4dbb-a063-2b8dc9f537dc",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-25T18:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "luxe",
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b558cce9-a1b1-4f9c-b2f3-5d005f92b7f1",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-25T19:40:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0d38006d-9898-4c26-9258-3916784625db",
+      "title": "The Invite",
+      "start_at": "2026-08-25T20:10:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
+      "url": "https://www.odeonkino.no/film/the-invite/",
+      "tags": [
+        "drama",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-bf626cb2-aab6-4504-a9c5-7ab419e1daa2",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-25T20:40:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6e60dba0-dea4-4c34-9b93-27407d65e0db",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-25T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2020755f-2110-465e-a01e-8624afd40af5",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-25T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "luxe",
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0611a764-4a63-4576-aca3-270003f5bca1",
+      "title": "Paw Patrol: Dinofilmen",
+      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
+      "start_at": "2026-08-26T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
+      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
+      "tags": [
+        "isense",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c16f99bb-a746-4a58-82f7-d863aa835674",
+      "title": "The Invite",
+      "start_at": "2026-08-26T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
+      "url": "https://www.odeonkino.no/film/the-invite/",
+      "tags": [
+        "luxe",
+        "drama",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-39c7c6a7-09f4-4eec-b00e-c83201bc5e50",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-26T12:40:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-71cb6ff7-f9fa-41dc-8d39-bedc900d7d78",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-26T13:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-71c2f241-72a1-435e-9cae-badd05b1327c",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-26T13:15:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4fbf1e2b-2ede-4668-beaf-7d6eb5426140",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-26T14:15:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "isense",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-17bf479f-d894-4753-8c12-1bbcfcd91dd3",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-26T14:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "luxe",
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-48493f2e-505c-4a48-9ae8-56a33b95a6c4",
+      "title": "Paw Patrol: Dinofilmen",
+      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
+      "start_at": "2026-08-26T14:40:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
+      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
+      "tags": [
+        "luxe",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-af0125c4-4238-405b-9a0d-0643ab56975f",
+      "title": "Paw Patrol: Dinofilmen",
+      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
+      "start_at": "2026-08-26T15:40:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
+      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-da377c27-0f53-414a-bc83-0725617fa735",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-26T15:50:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-03d0fa5c-ca56-46db-89b4-7c03dfbc3f75",
+      "title": "The Invite",
+      "start_at": "2026-08-26T16:50:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
+      "url": "https://www.odeonkino.no/film/the-invite/",
+      "tags": [
+        "luxe",
+        "drama",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ca81b269-333e-4493-a167-612efe2ba5ef",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-26T16:50:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c59d5e3c-bd72-4b7f-9505-99a195b23d21",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-26T17:50:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6a6e678b-8cf8-4827-bac2-f33ea5fc3a1f",
+      "title": "Obsession",
+      "start_at": "2026-08-26T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b521542b6f234baa9696dff6a65463b9.jpg?width=1440&version=AA35F9C76F751A0922693A64A5EAB531",
+      "url": "https://www.odeonkino.no/film/obsession/",
+      "tags": [
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e3205b0a-c12a-4189-a836-8797de31bff3",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-26T19:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "luxe",
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-db2b6100-0dd8-4d42-9dd0-32b90c12e08e",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-26T19:40:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-13b8e731-0a3d-4b24-bb28-3c960eae2e0d",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-26T20:40:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0b74400f-24e2-4167-a9e6-09d457c7ce4e",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-26T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-b92c1f78-bbc1-40a3-89a7-d617433b5453",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-26T21:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "luxe",
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-063c4870-a06e-4192-90a5-991507285277",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-27T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "isense",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-86bfae72-6175-4d71-a67a-7df11f3ee88f",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-27T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a14d65cf-012b-438b-a069-bd28563b0a04",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-27T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "luxe",
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e2caf3dc-7d01-4c18-85f2-6bdb1edc3885",
+      "title": "The Invite",
+      "start_at": "2026-08-27T12:15:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
+      "url": "https://www.odeonkino.no/film/the-invite/",
+      "tags": [
+        "luxe",
+        "drama",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2f22035f-3a92-463d-9a53-c020119a5ba9",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-27T13:20:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4e55f8c3-25db-49ea-9793-71211738a7e1",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-27T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "sci-fi",
+        "mystery",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-bb630e22-1139-4110-a1b6-aad8f173d181",
+      "title": "Toy Story 5",
+      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
+      "start_at": "2026-08-27T14:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
+      "url": "https://www.odeonkino.no/film/toy-story-5/",
+      "tags": [
+        "luxe",
+        "animasjon",
+        "eventyr",
+        "komedie",
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-67b76654-000f-415b-be45-0dd3ab844e86",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-27T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 1 - iSense",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "isense",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f00bb961-6f13-4c5e-9a91-7418f0d3f7bb",
+      "title": "Paw Patrol: Dinofilmen",
+      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
+      "start_at": "2026-08-27T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
+      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
+      "tags": [
+        "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7822aa8c-a6d7-4e20-b68e-b3bd8205b5eb",
+      "title": "The Invite",
+      "start_at": "2026-08-27T16:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
+      "url": "https://www.odeonkino.no/film/the-invite/",
+      "tags": [
+        "luxe",
+        "drama",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c557471e-bfbd-4f5c-814c-3ab1dd9444ee",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-08-27T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
+      "tags": [
+        "eventyr",
+        "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-d45ecdd0-dfd8-4a0b-9e03-75a77e3d727f",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-27T18:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-08f2adc1-fe91-47a6-9735-d73e5813adae",
+      "title": "The Odyssey",
+      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
+      "start_at": "2026-08-27T20:20:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
+      "url": "https://www.odeonkino.no/film/the-odyssey/",
+      "tags": [
+        "luxe",
+        "action",
+        "eventyr",
+        "fantasy",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-56e28bbb-1fa2-45eb-8549-0fd81d43f29e",
+      "title": "The End of Oak Street",
+      "description": "Etter en mystisk kosmisk hendelse blir den rolige gaten Oak Street brutalt revet løs fra forstaden den tilhører og transportert til et ukjent sted.",
+      "start_at": "2026-08-27T20:40:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a6ec5ede1b184a19ad567be4dc7f0fc2.jpg?width=1440&version=96E174F3BBC0A8EA73C4BC10AF0BF2A9",
+      "url": "https://www.odeonkino.no/film/the-end-of-oak-street/",
+      "tags": [
+        "luxe",
         "sci-fi",
         "mystery",
         "thriller"
