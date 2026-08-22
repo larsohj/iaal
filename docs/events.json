@@ -1,73 +1,10 @@
 {
-  "generated_at": "2026-08-22T06:43:05.564510+00:00",
-  "total": 645,
+  "generated_at": "2026-08-22T12:42:40.818870+00:00",
+  "total": 626,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-08-22T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-b7124c88-0d95-403c-9a23-3bcc2a108593",
-      "title": "Bokkino",
-      "start_at": "2026-08-22T12:00:00",
-      "end_at": "2026-12-12T12:30:00",
-      "is_free": true,
-      "location_name": "Moa Bibliotek",
-      "city": "Ålesund",
-      "organizer": "Moa Bibliotek",
-      "image_url": "https://ucarecdn.com/115fc208-1f69-4e70-88cc-0376893e7790/-/crop/1920x523/0,51/-/preview/",
-      "url": "https://alesund.friskus.com/events/b7124c88-0d95-403c-9a23-3bcc2a108593",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "family"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-08-22T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-f38d9dd0-15e0-4541-9de9-143ff3c5ad4a",
@@ -1853,6 +1790,25 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-b7124c88-0d95-403c-9a23-3bcc2a108593",
+      "title": "Bokkino",
+      "start_at": "2026-12-12T12:00:00",
+      "end_at": "2026-12-12T12:30:00",
+      "is_free": true,
+      "location_name": "Moa Bibliotek",
+      "city": "Ålesund",
+      "organizer": "Moa Bibliotek",
+      "image_url": "https://ucarecdn.com/115fc208-1f69-4e70-88cc-0376893e7790/-/crop/1920x523/0,51/-/preview/",
+      "url": "https://alesund.friskus.com/events/b7124c88-0d95-403c-9a23-3bcc2a108593",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-3cb618eb-b41a-4603-a6c1-0e1e43f63177",
       "title": "Valentinskonsert",
       "start_at": "2027-02-14T17:00:00",
@@ -2207,27 +2163,6 @@
       "url": "https://alesund.friskus.com/events/4678ff73-52d8-4f03-b95c-dd752c1cfc8b",
       "tags": [],
       "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-bb895911-6a7a-497c-915c-83161ab90839",
-      "title": "Friluftsjazz med The Brazz Brothers på Alnes",
-      "start_at": "2026-08-22T13:00:00",
-      "end_at": "2026-08-22T14:00:00",
-      "is_free": true,
-      "location_name": "Jazzsirkelen 04",
-      "city": "Ålesund",
-      "organizer": "Jazzsirkelen 04",
-      "image_url": "https://ucarecdn.com/27fed634-43ab-4a63-af31-422cbf7be8cc/-/crop/1956x1024/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/bb895911-6a7a-497c-915c-83161ab90839",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "family",
         "senior",
         "pensioner"
       ],
@@ -3882,25 +3817,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-4255b28e3209ef938b200bbc5bee7949",
-      "title": "Friluftsjazz med The Brazz Brothers på Alnes",
-      "description": "<p><strong>OPPDATERT INFO FØR LØRDAGENS KONSERT PÅ ALNES 🎺</strong></p><p>Vi har vært på rekognosering på Alnes i dag. Det er vått i marka, men vi håper selvfølgelig på bedring til i morgen.</p><p><strong>Det som er sikkert, er at konserten blir på Alnes fyr og opplevelsessenter.</strong> Vi håper fortsatt å kunne gjennomføre utendørs, men har da kort vei inn dersom været gjør det nødvendig.</p><p>🌦️ <strong>UTE ELLER INNE?</strong><br>Dersom konserten må flyttes inn i kunstsalen, er kapasiteten begrenset. De som lastet ned ordinær billett først, vil da bli prioritert. Publikum med <strong>stand-by-billett</strong> må derfor være forberedt på å vente og kan ikke garanteres plass i selve kunsthallen. Caféen er åpen med normal drift.</p><p>🪑 <strong>SITTEPLASSER</strong><br>Vi setter ut alle tilgjengelige stoler på opplevelsessenteret. Disse prioriteres til dem som har behov for å sitte. Ta derfor gjerne med <strong>egen turstol eller sitteunderlag</strong>. Det er selvfølgelig også fullt mulig å stå og nyte konserten.</p><p>🚗 <strong>PARKERING – VIKTIG!</strong><br>Vi oppfordrer fortsatt til <strong>samkjøring</strong> og ber alle som kan gå et lite stykke om å parkere på <strong>turparkeringen rett til høyre ved tunnelen</strong>.</p><p>Når denne er full, kan den <strong>lille grusplassen ved Alnes skule</strong> benyttes. Øvrig parkering ved skolen er forbeholdt et privat arrangement.</p><p>Det er også mulig å parkere ved <strong>bedehuset mot betaling</strong>.</p><p>Parkeringen ved <strong>Alnes fyr og opplevelsessenter</strong> ber vi om at i størst mulig grad forbeholdes dem som har behov for kort vei til konserten.</p><p>🥾 <strong>FELLES GANGE TIL KONSERTEN</strong><br>DNT Sunnmøre hjelper oss med å lose publikum fra parkeringsplassene og frem til konsertstedet. Det blir felles avmarsj:</p><p>• <strong>Kl. 12.20</strong> fra turparkeringen ved tunnelen<br>• <strong>Kl. 12.25</strong> fra bedehuset<br>• <strong>Kl. 12.30</strong> fra grusplassen ved Alnes skule</p><p>Parker gjerne i god tid og bli med på turen inn til konserten!</p><p>Følg anvisningene fra våre frivillige, ta det med ro og vis hensyn – så skal vi få trafikken til å flyte fint.</p><p>Vi håpet selvfølgelig på blå himmel, sol, shortstemperatur og sensommerbølgeskvulp. ☀️🌊 Det får vi kanskje ikke – men vi jobber på for at dette likevel skal bli en <strong>magisk konsertopplevelse på Alnes</strong>.</p><p>En stor takk til <strong>The Brazz Brothers, grunneierne, Alnes fyr og opplevelsessenter, de frivillige i Jazzsirkelen og DNT Sunnmøre</strong> for velvilje og godt samarbeid. Mange drar i samme retning for at vi skal kunne gjennomføre dette.</p><p>Vi vil også takke <strong>Sparebanken Møre</strong>, som støtter Friluftsjazz gjennom TEFT-midler, samt <strong>Møre og Romsdal fylkeskommune og Norsk jazzforum</strong>. Støtten gjør det mulig for oss å gjennomføre Friluftsjazz-serien som <strong>gratis arrangementer for publikum</strong>.</p><p>Hjelp oss gjerne med å få arrangementet til å gå så smidig som mulig – så sees vi i morgen!</p><p>🎺 <strong>The Brazz Brothers</strong><br>📍 Alnes fyr og opplevelsessenter<br>📅 Lørdag 22. august<br>🕐 Kl. 13.00</p><p>--//--</p><p>Hva skjer når et av Norges mest legendariske brassensemble møter et av Sunnmøres mest spektakulære konsertsteder?</p><p>Lørdag 22. august inviterer Jazzsirkelen til en helt spesiell friluftskonsert med Brazz Brothers i det unike omgivelser på Alnes.</p><p>Brazz Brothers har begeistret publikum verden over med virtuost samspill, smittende spilleglede og musikalsk overskudd. Til tross for en lang internasjonal karriere har ensemblet aldri tidligere spilt konsert på Alnes. Dette er en konsert musikerne selv har ønsket å gjennomføre – og nå blir den endelig en realitet.</p><p>Steinbrøta danner en unik atmosfære, omgitt av rå sunnmørsnatur, havutsikt, bølgeskvulp og den særegne atmosfæren som gjør Alnes til et av fylkets mest besøkte utfartsmål. Her blir naturen en del av konsertopplevelsen.</p><p>Ta med familie, venner, en campingstol eller et sitteunderlag, og opplev en sensommerkonsert litt utenom det vanlige.</p><p>Gratis arrangement</p><p>Passer for hele familien</p><p>Parkering: Vi anbefaler folk å samkjøre og parkere rett etter Alnes tunnelen på høyre side av hovedveien. DNT Sunnmøre vil lede publikum samlet herifra 12:30.</p><p>Det er svært begrenset med parkering ved Alnes fyr- og opplevelsessenter. Vi ber om at disse parkeringsplassene kan disponeres av de som ikke klarer å gå fra hovedparkeringen.</p><p>Forøvrig ber vi alle om å respektere privat grunn.</p><p>Friluftsjazz 2026 er et samarbeid mellom Jazzsirkelen, DNT Sunnmøre og Alnes Fyr- og Opplevelsessenter.</p><p>Friluftsjazz 2026 er muliggjort med støtte fra Sparebanken Møre (TEFT) og Møre og Romsdal fylkeskommune</p>",
-      "start_at": "2026-08-22T12:30:00",
-      "end_at": "2026-08-22T14:00:00",
-      "is_free": true,
-      "location_name": "Alnes fyr og opplevelsessenter",
-      "city": "Ålesund",
-      "latitude": 62.4894186,
-      "longitude": 5.9653679,
-      "organizer": "JAZZSIRKELEN 04",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_d382faacf0e1584ba4fbaa220ec738ab.jpeg?class=w768",
-      "url": "https://tikkio.com/events/64816-friluftsjazz-med-the-brazz-brothers-pa-alnes",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-6f773276d56142c4b8be1f3618697bcf",
       "title": "Harald Eia - «Det store VI»",
       "description": "<p><strong>HARALD EIA LIVE I ÅLESUND</strong> 🤩🔥<br><br>Opplev Harald Eia&#039;s underholdende og kritikerroste foredrag: <strong><em>«Det store VI»</em></strong></p><p>78% UTSOLGT - SIKRE DEG BILLETT NÅ!</p><p>Harald Eia er en av landets mest kjente og anerkjente komikere, men har også etablert seg som en respektert formidler av forskning, psykologi og menneskelig adferd, både gjennom foredrag og tv-suksesser som Hjernevask, Brille og Sånn er Norge.</p><p>Det er få mennesker i Norge som klarer å kombinere forskning og vitenskap med sylskarp humor slik Eia gjør. Han våger å utfordre etablerte sannheter og gir oss en dypere forståelse for hvorfor vi mennesker tenker og handler som vi gjør.</p><p>I foredraget «Det store VI» tar Eia deg med inn i et av de mest fascinerende spørsmålene som finnes: Hva er det som gjør at noen grupper blir ekte lag – mens andre bare blir en samling mennesker? Hvorfor kjenner vi på tilhørighet, hvorfor blir vi rørt, og hvordan kan vi skape sterkere fellesskap – både hjemme og på arbeidsplassen?</p><p>Kveldens tema treffer svært godt i en urolig og polariserende tid. Det handler om noe av det viktigste vi har – evnen til å skape tilhørighet, tillit og sterke fellesskap. Det gjør foredraget like relevant for ledere og medarbeidere som for familier, lag og organisasjoner.</p><p>Vi tror dette blir et av årets desidert mest spennende foredrag.</p><p>Gå ikke glipp av muligheten – sikre deg billett, NÅ!</p><hr><p><strong>PRAKTISK INFO:</strong></p><p>- Billettpris kr 480,-</p><p>- ODEON Kino - Sal 1</p><p>- Dørene åpner kl 19:00</p><p>- Foredraget starter kl 19:30 (varighet ca 1 time og 20 min)</p><p>- Det er mulig å kjøpe drikke/snacks i kiosken og ta med inn i salen.</p><p>- LUXE = en ekstra komfortabelt kinostol med varme i setet. Stolen kan lenes tilbake, har rikelig med benplass, samt eget bord til snacks og drikke. Pris kr 580,-</p><p><br><em>Hjertelig velkommen skal du være!</em></p>",
@@ -3955,6 +3871,26 @@
       "organizer": "Big-Z Bråk",
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_4d4e09cabcc3b0a860113436926fadc1.webp?class=w768",
       "url": "https://tikkio.com/events/65078-bigset-bonanza-26",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-da50bebb8aa8446159bb92d0fc972242",
+      "title": "2. Juledag // Brygga Sportsbar (20 år)",
+      "description": "<p>Endelig er det klart for den beste kvelden i året! Vi gjentar suksessen fra tidligere år, og det blir garantert stemning fra start til slutt. DJ Mork står bak spakene i år også!</p>",
+      "start_at": "2026-12-26T20:00:00",
+      "end_at": "2026-12-27T02:00:00",
+      "is_free": false,
+      "price_text": "NOK 199.00",
+      "location_name": "Brygga Sportsbar Ulsteinvik",
+      "city": "Ålesund",
+      "latitude": 62.3415727,
+      "longitude": 5.847517,
+      "organizer": "Brygga Sportsbar AS",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_72d910827aa42ed74151cf33a0002823.webp?class=w768",
+      "url": "https://tikkio.com/events/65717-2-juledag-brygga-sportsbar-20-ar",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -6153,84 +6089,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-08-22",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-08-22T10:00:00",
-      "end_at": "2026-08-22T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-08-22",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-25486-2026-08-22",
-      "title": "Aalesunds Museum",
-      "start_at": "2026-08-22T11:00:00",
-      "end_at": "2026-08-22T15:30:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum/?occurrence=2026-08-22",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34595-2026-08-22",
-      "title": "Film: Året i Ålesund",
-      "start_at": "2026-08-22T11:00:00",
-      "end_at": "2026-08-22T16:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/film-aret-i-alesund-3/?occurrence=2026-08-22",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-08-22",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-08-22T12:00:00",
-      "end_at": "2026-08-22T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-08-22",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33435-2026-08-22",
-      "title": "Modelljernbaneanlegget Devoldbanen",
-      "start_at": "2026-08-22T12:00:00",
-      "end_at": "2026-08-22T16:00:00",
-      "location_name": "Devoldfabrikken",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/modelljernbaneanlegget-devoldbanen/?occurrence=2026-08-22",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-38473-2026-08-22",
-      "title": "Friluftsjazz med The Brazz Brothers på Alnes",
-      "start_at": "2026-08-22T13:00:00",
-      "end_at": "2026-08-22T14:00:00",
-      "location_name": "Alnes Fyr og Opplevelsessenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/friluftsjazz-med-the-brazz-brothers-pa-alnes/?occurrence=2026-08-22",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-38412-2026-08-22",
       "title": "Toppserien 2026: AaFK – FK Haugesund",
       "start_at": "2026-08-22T14:00:00",
@@ -8399,197 +8257,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4efeb1f3-ae6c-4935-ab20-7bd764dcc703",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-08-22T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-636a3660-0c35-44e8-adb4-0e9e467a3be8",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-08-22T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7ecfde70-3592-4ec3-9249-8726dd5e2748",
-      "title": "Skolen med de magiske dyrene - Filmen",
-      "description": "De magiske dyrene er tilbake på kino med et nytt eventyr!\nEn av Europas største barnefilm-suksesser er tilbake. ",
-      "start_at": "2026-08-22T10:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/fa2055c83e2e4d979890d1221c590337.jpg?width=1440&version=B43D69387937D35343F6DC2A861D206C",
-      "url": "https://www.odeonkino.no/film/skolen-med-de-magiske-dyrene-filmen/",
-      "tags": [
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-1935e128-2cee-4337-97d2-a43d6a85521f",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-08-22T11:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "isense",
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4147e82a-a581-45a1-a294-082a6ee228a5",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-08-22T11:10:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-415d00c5-ce2f-47e0-bad2-f2963bd6cbc4",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-08-22T11:45:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c4a99c19-3eb9-44ec-bcf2-18bcdbc92f13",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-08-22T12:45:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-51d21d82-156b-44ad-bd1e-f7ee508841d3",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-22T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-5254adec-eda8-405f-8434-4671ba714a7f",
-      "title": "Vaiana",
-      "start_at": "2026-08-22T13:10:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
-      "url": "https://www.odeonkino.no/film/vaiana/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-80612c07-5c2b-4cda-aeb2-615332b11fcb",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-08-22T13:20:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
