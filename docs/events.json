@@ -1,54 +1,10 @@
 {
-  "generated_at": "2026-08-29T06:08:22.625755+00:00",
-  "total": 635,
+  "generated_at": "2026-08-29T16:23:27.554835+00:00",
+  "total": 612,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-08-29T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-08-29T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-856f0722-e12e-426c-a461-f4e15002ad04",
@@ -66,6 +22,28 @@
         "children",
         "teenager",
         "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-08-30T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -1188,6 +1166,28 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-50ff8fdc-c53d-47ee-8bf9-98f11d74ad12",
+      "title": "Emblemsfjellet Opp 2026",
+      "start_at": "2026-09-06T12:00:00",
+      "end_at": "2026-09-06T16:00:00",
+      "is_free": false,
+      "location_name": "Ålesund løpevenner",
+      "city": "Ålesund",
+      "organizer": "Ålesund løpevenner",
+      "image_url": "https://ucarecdn.com/8c11aa22-b11d-42fc-a8aa-cb50ec0f13b4/-/crop/650x177/0,12/-/preview/",
+      "url": "https://alesund.friskus.com/events/50ff8fdc-c53d-47ee-8bf9-98f11d74ad12",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-29e8e6c0-90e1-4731-92c7-658793f51aba",
       "title": "STORMJAZZ: Friluftsjazz med TRIO-TRICOLOR i Borgundgavlen",
       "start_at": "2026-09-06T14:00:00",
@@ -2257,7 +2257,7 @@
     {
       "source": "friskus",
       "source_id": "friskus-oaay-WifaxDQ9",
-      "title": "Friluftsskole (5.-7.trinn) - Ålesund",
+      "title": "Friluftsskole høstferie (5.-7.trinn) - Ålesund",
       "start_at": "2026-10-05T09:00:00",
       "end_at": "2026-10-08T15:00:00",
       "is_free": false,
@@ -4838,7 +4838,7 @@
       "latitude": 62.4750203,
       "longitude": 6.1536567,
       "organizer": "TIKKIO AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/65841-ticketswap-festival-2026",
       "tags": [],
       "age_groups": [],
@@ -5534,7 +5534,7 @@
       "latitude": 62.1216295,
       "longitude": 6.5860972,
       "organizer": "PIANIST JOHN INGE LEIRA BJØRINGSØY",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/65506-kjetil-mulelid-trio-oppvarming-vestavind-kvartett",
       "tags": [],
       "age_groups": [],
@@ -7303,97 +7303,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-08-29",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-08-29T10:00:00",
-      "end_at": "2026-08-29T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-08-29",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-25486-2026-08-29",
-      "title": "Aalesunds Museum",
-      "start_at": "2026-08-29T11:00:00",
-      "end_at": "2026-08-29T15:30:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum/?occurrence=2026-08-29",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34595-2026-08-29",
-      "title": "Film: Året i Ålesund",
-      "start_at": "2026-08-29T11:00:00",
-      "end_at": "2026-08-29T16:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/film-aret-i-alesund-3/?occurrence=2026-08-29",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-08-29",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-08-29T12:00:00",
-      "end_at": "2026-08-29T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-08-29",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33435-2026-08-29",
-      "title": "Modelljernbaneanlegget Devoldbanen",
-      "start_at": "2026-08-29T12:00:00",
-      "end_at": "2026-08-29T16:00:00",
-      "location_name": "Devoldfabrikken",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/modelljernbaneanlegget-devoldbanen/?occurrence=2026-08-29",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-38867-2026-08-29",
-      "title": "Fjord Cadenza 2026: INTRO – Vår familiedag",
-      "start_at": "2026-08-29T12:00:00",
-      "end_at": "2026-08-29T16:00:00",
-      "location_name": "Jentekolonien",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/fjord-cadenza-2026-intro-var-familiedag/?occurrence=2026-08-29",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-38831-2026-08-29",
-      "title": "Segltur med Storeggen",
-      "start_at": "2026-08-29T13:00:00",
-      "end_at": "2026-08-29T16:00:00",
-      "location_name": "Fiskerimuseet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/segltur-med-storeggen-3/?occurrence=2026-08-29",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-32516-2026-08-29",
       "title": "Krystall – Hotel 1904",
       "start_at": "2026-08-29T17:00:00",
@@ -8600,301 +8509,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e160ab07-1bce-4a13-9c1d-3c90726ed5d8",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-08-29T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a8f55114-5755-458c-a2ab-10f174e138a2",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-08-29T10:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-9d7213ac-9b37-43fe-a70b-eee5baf64d58",
-      "title": "Miss Moxy",
-      "start_at": "2026-08-29T11:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b3df278ed094b849af0aa9f86113645.jpg?width=1440&version=1283221B596F3098B22BD492E286927C",
-      "url": "https://www.odeonkino.no/film/miss-moxy/",
-      "tags": [
-        "luxe",
-        "familiefilm",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7aa3f1ad-c989-4089-a56f-8f858e13c6c3",
-      "title": "Harry Potter maraton 1-4",
-      "start_at": "2026-08-29T11:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/318c08ea921a4f2b9ca3c4efd3461469.jpg?width=1440&version=1C1272BA03D2D2D5EAF7DA10C303CBA9",
-      "url": "https://www.odeonkino.no/film/harry-potter-maraton-1-4/",
-      "tags": [
-        "luxe",
-        "klassiker"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-2cee4b0c-a5a0-4bdf-9720-7989de542d5d",
-      "title": "Vaiana",
-      "start_at": "2026-08-29T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
-      "url": "https://www.odeonkino.no/film/vaiana/",
-      "tags": [
-        "isense",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e29674aa-24c5-4847-9923-94b6226aa8e5",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-08-29T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-2cd8e96c-5553-49b9-9691-660fb664ea9f",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-08-29T12:45:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8b5afab1-258e-419f-8139-f8e45b0f95bc",
-      "title": "One Night Only",
-      "description": "I en verden hvor sex er tillatt kun én dag i året!\n\nPå den eneste natten i året der alle virker opptatt av å finne noen – for én natt eller for livet – møtes nysingle Owen og den håpløst romantiske Allie i New York. \n\nGnisten er umiddelbar, men skjebnen har andre planer. Gjennom en kaotisk natt fylt med misforståelser og folk som kommer i veien, forsøker de å finne tilbake til hverandre gjennom byens pulserende gater. Mens klokken tikker og mulighetene svinner, oppdager de at det de lengter etter kanskje ikke er den perfekte natten, men den rette personen. ",
-      "start_at": "2026-08-29T13:15:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/db623569412f4c6c9957949d0504b82c.jpg?width=1440&version=785CC21D774BE5DD940B3B49658B7E3A",
-      "url": "https://www.odeonkino.no/film/one-night-only/",
-      "tags": [
-        "luxe",
-        "romantic comedy"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-023f70e1-b0fd-4ff3-a6e1-17fc5153b342",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-08-29T13:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-fc835cfc-b0a8-4bac-86ad-3606d83dc296",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-08-29T14:15:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a75c7461-57db-4dfe-a6ff-d59bfc9a129e",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-08-29T14:45:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4e7ed5a9-fca8-4f66-a29c-c452a43a7535",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-08-29T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c509c092-cdb4-4310-a32e-3cc828b05d5b",
-      "title": "The Invite",
-      "start_at": "2026-08-29T15:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f37464eb6e7c4bfbbe5be43c5ddc11ec.jpg?width=1440&version=C3F18131BE0E0A8379FAE75459AF5950",
-      "url": "https://www.odeonkino.no/film/the-invite/",
-      "tags": [
-        "luxe",
-        "drama",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6c4481b6-57c8-401a-85fc-6e404c39068c",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-08-29T16:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-949aded5-4aec-4055-9cf0-0ae35196f9e4",
-      "title": "Vaiana",
-      "start_at": "2026-08-29T17:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?width=1440&version=77A23D84D1E523D934A496721D66D4EB",
-      "url": "https://www.odeonkino.no/film/vaiana/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d24319fd-7242-4af6-a76f-482a6ffa0b49",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-08-29T17:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
