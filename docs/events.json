@@ -1,70 +1,10 @@
 {
-  "generated_at": "2026-09-05T03:29:40.462040+00:00",
-  "total": 831,
+  "generated_at": "2026-09-05T10:09:40.538510+00:00",
+  "total": 819,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-09-05T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-9292952b-63a0-4440-8e8d-e05b338ada40",
-      "title": "AKTIV LØRDAG på Borgund Dyreklubb september 2026",
-      "start_at": "2026-09-05T10:00:00",
-      "end_at": "2026-09-26T12:00:00",
-      "is_free": true,
-      "location_name": "Borgund Dyreklubb Frivillig Organisasjon",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb Frivillig Organisasjon",
-      "image_url": "https://ucarecdn.com/ccfd79d8-3668-4c3d-8a17-d44ea0b89f24/-/crop/478x342/0,13/-/preview/",
-      "url": "https://alesund.friskus.com/events/9292952b-63a0-4440-8e8d-e05b338ada40",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-cdfe8fcd-848f-4ef0-95af-ecac03a87e3f",
-      "title": "Geologiens dag i Moa bibliotek",
-      "start_at": "2026-09-05T10:00:00",
-      "end_at": "2026-09-05T15:00:00",
-      "is_free": true,
-      "location_name": "Moa Bibliotek",
-      "city": "Ålesund",
-      "organizer": "Moa Bibliotek",
-      "image_url": "https://ucarecdn.com/48b54b7a-5111-4900-a6ad-54cdfc8769e7/-/crop/1920x523/0,207/-/preview/",
-      "url": "https://alesund.friskus.com/events/cdfe8fcd-848f-4ef0-95af-ecac03a87e3f",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "family"
-      ],
-      "is_recurring": false
-    },
     {
       "source": "friskus",
       "source_id": "friskus-bb583420-d260-4dbb-a994-52d58fc5f3e6",
@@ -2175,6 +2115,25 @@
         "teenager"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-9292952b-63a0-4440-8e8d-e05b338ada40",
+      "title": "AKTIV LØRDAG på Borgund Dyreklubb september 2026",
+      "start_at": "2026-09-26T10:00:00",
+      "end_at": "2026-09-26T12:00:00",
+      "is_free": true,
+      "location_name": "Borgund Dyreklubb Frivillig Organisasjon",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb Frivillig Organisasjon",
+      "image_url": "https://ucarecdn.com/ccfd79d8-3668-4c3d-8a17-d44ea0b89f24/-/crop/478x342/0,13/-/preview/",
+      "url": "https://alesund.friskus.com/events/9292952b-63a0-4440-8e8d-e05b338ada40",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -5372,7 +5331,7 @@
       "latitude": 62.4750203,
       "longitude": 6.1536567,
       "organizer": "TIKKIO AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/65841-ticketswap-festival-2026",
       "tags": [],
       "age_groups": [],
@@ -5698,7 +5657,7 @@
       "latitude": 62.3917269,
       "longitude": 6.5803557,
       "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/66098-quiz-bankplassen-september",
       "tags": [],
       "age_groups": [],
@@ -7713,21 +7672,6 @@
     },
     {
       "source": "bibliotek",
-      "source_id": "bibliotek-33731",
-      "title": "Geologiens dag",
-      "start_at": "2026-09-05T10:00:00",
-      "is_free": true,
-      "location_name": "Moa bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i140ca96c-b8c7-4d89-b282-618a487ac136/w300/k392936ffab07/design-uten-navn-2.png",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33731&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bibliotek",
       "source_id": "bibliotek-33632",
       "title": "Poesiverksted for alle i Ålesund bibliotek",
       "start_at": "2026-09-05T12:00:00",
@@ -7858,45 +7802,6 @@
       "is_recurring": false,
       "start_at": null,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-09-05",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-09-05T10:00:00",
-      "end_at": "2026-09-05T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-09-05",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-39501-2026-09-05",
-      "title": "Kjøkkenfest hos HTH Kjøkkenforum Ålesund 2026",
-      "start_at": "2026-09-05T10:00:00",
-      "end_at": "2026-09-05T15:00:00",
-      "location_name": "HTH Kjøkkenforum Ålesund",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/kjokkenfest-hos-hth-kjokkenforum-alesund-2026/?occurrence=2026-09-05&time=1788602400",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-39514-2026-09-05",
-      "title": "Ålesund gatefestival 2026: Åpen dag ved Ålesund fengsel",
-      "start_at": "2026-09-05T10:00:00",
-      "end_at": "2026-09-05T14:00:00",
-      "location_name": "Ålesund fengsel",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/alesund-gatefestival-2026-apen-dag-ved-alesund-fengsel-309/?occurrence=2026-09-05",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -11186,118 +11091,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-261fee2d-7caf-4ea8-afda-3e7afce9a6e8",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-09-05T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "isense",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-2667bf08-f353-44fd-a1b7-a378e62b4f56",
-      "title": "Det lille spøkelset Laban",
-      "start_at": "2026-09-05T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2ce1afa7db504465abaad2acdbb5e739.jpg?width=1440&version=EC55055BECEBCAFC59B6AFB2D8856C28",
-      "url": "https://www.odeonkino.no/film/det-lille-spokelset-laban/",
-      "tags": [
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-446f35b2-998b-4769-b8bb-c92b012608df",
-      "title": "Bamse og havets hemmelighet",
-      "start_at": "2026-09-05T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e571413b7e62460c961b3528125d4363.jpg?width=1440&version=4F7D6B4763AD1902FA470E20E133EC81",
-      "url": "https://www.odeonkino.no/film/bamse-og-havets-hemmelighet/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a76959c3-2ea0-42bb-9180-ce8b94a13d23",
-      "title": "Kikis budservice",
-      "description": "Når hekser fyller 13 år må de flytte hjemmefra, bli selvstendige og finne ut av hvilke evner de egentlig har. En fullmånekveld klatrer Kiki opp på sopelimen sin, og sammen med den snakkende katten Jiji reiser hun ut i den store verden som et flyvende bud.\n\nHistorien om den unge heksa Kiki er basert på en populær japansk barnebok av Eiko Kadono. Med nydelige tegninger og engasjerende fortellerkunst er Kikis budservice en av Studio Ghiblis mest folkekjære filmer.\n\nDenne herlige filmen, som nå er restaurert i 4K, er regissert av Hayao Miyazaki - en av grunnleggerne av Studio Ghibli og skaperen av Min nabo Totoro, Chihiro og heksene og Ponyo på klippen ved havet.",
-      "start_at": "2026-09-05T10:40:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/19c7d38a8e304b4b94a7da30ad1ae5a0.jpg?width=1440&version=3EC3CDA48DCACDA56AD5B190E484F030",
-      "url": "https://www.odeonkino.no/film/kikis-budservice/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "klassiker"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d1a680ea-0056-41f8-a286-340c5ab8fc77",
-      "title": "Miss Moxy",
-      "start_at": "2026-09-05T10:45:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b3df278ed094b849af0aa9f86113645.jpg?width=1440&version=1283221B596F3098B22BD492E286927C",
-      "url": "https://www.odeonkino.no/film/miss-moxy/",
-      "tags": [
-        "familiefilm",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f6d46363-c8c2-46e3-84fe-b2495727634b",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-09-05T10:45:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
