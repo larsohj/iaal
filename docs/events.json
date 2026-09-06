@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T15:07:25.793926+00:00",
-  "total": 729,
+  "generated_at": "2026-09-06T20:08:52.811297+00:00",
+  "total": 714,
   "failed_sources": [
     "viti"
   ],
@@ -95,6 +95,28 @@
       "url": "https://alesund.friskus.com/events/a8b0578b-c4b7-4985-bd81-e82a280fc2e7",
       "tags": [],
       "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-09-07T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
         "pensioner"
       ],
       "is_recurring": true
@@ -4996,7 +5018,7 @@
       "latitude": 62.4750203,
       "longitude": 6.1536567,
       "organizer": "TIKKIO AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/65841-ticketswap-festival-2026",
       "tags": [],
       "age_groups": [],
@@ -5253,19 +5275,20 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-4f8fa512d50422a06966299ef3f76e26",
-      "title": "kintsukuroi  den knuste krukka  (haustsuite)",
-      "description": "<p>Haustsuiten representerer ein viktig milepæl i Åms kunstnarskap og oppsummerer på mange måtar hans kompositoriske stil og virke. Det er også eit svært nært og personleg verk. Sjølv skildrar Åm det som ei takk til kjærleiken – denne krafta som både kan knuse ein, men også lime ein i hop.</p><p>Tittelen “Kintsukuroi - den knuste krukka” viser til den japanske kunstforma der ein set saman igjen ei knust krukke, men bruker forgylt lim. Slik kan brestane og såra etter knusinga verte synlege og bli ein vesentleg del av den nye heilskapen.</p><p>Hausten er den tida då naturen sjølv på ein måte knusest, går i oppløysing og samlar sine “potteskår” under stille snø. Fuglane reiser. Trea kler seg i sin finaste skrud til farvel og lar livskrafta renne ned i jorda. Før frosten tek over og dei første snøflaka dalar, stryk ein mild vind forbi, eit minne om det som var og det som skal kome.</p><p>Konserten er eit samarbeidsprosjekt mellom tonehimmel og Terjungensemble. Prosjektet er støttet av Kulturrådet, Sparebanken Møre og Sparebankstiftinga Søre Sunnmøre.</p><p>Dette er eit verk Åm og Terjungsensemble har arbeidt med over fleire år. Det starta med pianoimprovisasjonar der Åm bearbeida erfaringar frå eige liv. På bestilling frå ensemble og med støtte frå Det norske komponistfond har Åm komponert verket for strykeorkester. Det har blitt 9 satsar og varer totalt i ca. 75 minutt.</p><p>Terjungsensemble vart etablert i 2019 som eit prosjektbasert kammerorkester. Ensemblet er høgt verdsett i norsk musikkliv som eitt av dei leiande, uavhengige ensembla. Dei har etablert seg med ein tydeleg samtidsprofil og ei klar målsetting om jamnleg å bestille nye verk for kammerorkester. Fleire av desse bestillingsverka har fått nominasjonar og prisar.</p><p>Ensemblet har samarbeidt med Åm over lang tid, med mange ulike verk. På Sunnmøre er operaen Kimen kanskje det mest kjende samarbeidet. Ensemblet har jobba med Haustsuiten over fleire år og urframført einskildsatsane på ulike konsertar. Hausten 2026 satsar dei stort på å turnere med heile verket, som ein del av markeringa av Åms komande 75 årsjubileum.</p><p>TERJUNGENSEMBLE,</p><p>Lars-Erik ter Jung, dirigent</p><p>Musikarar:</p><p>Inga Mathilde Gorset, fiolin</p><p>Grace Rosier, fiolin</p><p>Iain Gibbs-Bergset, fiolin</p><p>Marit Egenes, fiolin</p><p>Emil Huckle-Kleve, fiolin</p><p>Mari Okshovd, fiolin</p><p>Anders Rensvik, bratsj</p><p>Inger Thommesen, bratsj</p><p>Ingvild Nesdal Sandnes, cello</p><p>Ulrikke Henninen, cello</p><p>Mathias Sunde Valseth, kontrabass</p><p>Terjungensemble er i 2026 støtta av Norsk kulturråd, Norsk Komponistforening, Fond for utøvende kunstnere, Fond for lyd og bilde, Furestiftelsen, Oslo Kommune og stiftelsen Ludimus.</p>",
-      "start_at": "2026-09-06T17:00:00",
-      "end_at": "2026-09-06T17:30:00",
-      "is_free": true,
-      "location_name": "Volda kyrkje",
+      "source_id": "tikkio-641800d8eb8f29425bcfd8e8eb30e5be",
+      "title": "FACULTY OF FUNK // FREDAG 2.OKTOBER // STØDT BAR & SCENE",
+      "description": "<p>Fredag 2.oktober er Faculty of Funk tilbake på Stødt!<br><br>Faculty of Funk dreg framleis dei heitaste låtane når dei står på scena, med eit repertoar som fengjer dei fleste. Det har blitt nokre konsertar på Stødt  i løpet av dei 11 første åra bandet har eksistert, og no kan du oppleve dei igjen.<br><br>Med full blåserekke, eit tight komp og solid vokal lovast det heftige rytmer og solid trøkk frå første til siste låt.<br>Faculty of Funk spelar hovudsakleg soul- og groovebasert musikk frå 60- og 70-talet, men har også med nokre hits frå nyare tider.<br><br></p><p>DØRENE OPNAR KL. 19</p><p>KONSERTSTART KL. 22:30<br>VARIGHET 2-2,5 TIME</p><p>ID: 20+</p>",
+      "start_at": "2026-10-02T19:00:00",
+      "end_at": "2026-10-03T02:00:00",
+      "is_free": false,
+      "price_text": "NOK 300.00",
+      "location_name": "Stødt Bar & Scene",
       "city": "Ålesund",
-      "latitude": 62.1456795,
-      "longitude": 6.067359,
-      "organizer": "Tonehimmel",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3471/uploads/event/c_7a50e413d59813b9ff82ce9a3774456c.webp?class=w768",
-      "url": "https://tikkio.com/events/65146-a-stranger-in-the-world",
+      "latitude": 62.1969807,
+      "longitude": 6.1266414,
+      "organizer": "Musikk i Sentrum",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3471/uploads/event/c_31a54d136cf3b91280b828633eb8707d.webp?class=w768",
+      "url": "https://tikkio.com/events/66130-faculty-of-funk-fredag-2oktober-stodt-bar-scene",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -6138,22 +6161,6 @@
       "image_url": "https://cdn.tikkio.com/static/1.0.3471/uploads/event/c_18af61041b3352c006aff6fc86bc1400.webp?class=w768",
       "url": "https://tikkio.com/events/65664-kortreist-mat-at-musikk",
       "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "parken",
-      "source_id": "parken-45083-eva-cassidy-tribute-concert",
-      "title": "Eva Cassidy Tribute Concert",
-      "start_at": "2026-09-06T19:00:00",
-      "end_at": "2026-09-06T21:15:00",
-      "location_name": "Parken kulturhus – Hovedscene",
-      "city": "Ålesund",
-      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F45083%2Fweb-square.webp?version=W64kYKU77GGTiABGAcsEjQ==",
-      "url": "https://www.parkenkulturhus.no/program/45083-eva-cassidy-tribute-concert/",
-      "tags": [
-        "konsert"
-      ],
       "age_groups": [],
       "is_recurring": false
     },
@@ -7310,58 +7317,6 @@
       "is_recurring": false,
       "start_at": null,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-24474-2026-09-06",
-      "title": "Brettspillkveld",
-      "start_at": "2026-09-06T19:00:00",
-      "end_at": "2026-09-06T23:55:00",
-      "location_name": "O'Connor's Irish Pub",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/brettspillkveld/?occurrence=2026-09-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-31491-2026-09-06",
-      "title": "Eva Cassidy Tribute konsert",
-      "start_at": "2026-09-06T19:00:00",
-      "end_at": "2026-09-06T21:00:00",
-      "location_name": "Parken kulturhus",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/eva-cassidy-tribute-konsert/?occurrence=2026-09-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-37129-2026-09-06",
-      "title": "Norgespremiere: Kristin Harila & Field Productions til Løvenvold",
-      "start_at": "2026-09-06T19:00:00",
-      "end_at": "2026-09-06T22:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/norgespremiere-kristin-harila-field-productions-til-lovenvold/?occurrence=2026-09-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-39346-2026-09-06",
-      "title": "Konsert – «Mellom puls og ekko»",
-      "start_at": "2026-09-06T19:00:00",
-      "end_at": "2026-09-06T20:15:00",
-      "location_name": "Borgund kirke",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/konsert-mellom-puls-og-ekko/?occurrence=2026-09-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -10261,209 +10216,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-1eb08358-907f-4528-9a7f-ccd06b30c9f1",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-09-06T16:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f97ad430-1b20-4d16-9e1e-e6dc50437760",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-09-06T17:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7109a9b1-28ca-46e5-ac86-aa5035cfa47f",
-      "title": "Fjord",
-      "description": "Fjord er et aktuelt, spennende og tankevekkende familiedrama som utforsker kulturforskjeller og de skjøre grensene mellom privatliv og institusjonell makt.",
-      "start_at": "2026-09-06T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3cd03f1a53bd4ddbb12e5eeb6010befc.jpg?width=1440&version=8E7D099FB26FB5A844D40CB404287712",
-      "url": "https://www.odeonkino.no/film/fjord/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a9d0f566-e002-4995-9800-5e19aded4f7c",
-      "title": "Harila - Nådeløse fjell",
-      "description": "De 14 høyeste fjellene i verden. På rekordtid.",
-      "start_at": "2026-09-06T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/10e3048238e6450a85ec118a07a3a7f4.jpg?width=1440&version=385597C08BEED5AB33797CFAE8F09D2C",
-      "url": "https://www.odeonkino.no/film/harila-nadelose-fjell/",
-      "tags": [
-        "isense",
-        "dokumentar"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4f273385-aee7-4856-846b-38ef8a54a8e8",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-09-06T17:50:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-dd032e3a-4079-436a-bbf5-9240b3e12128",
-      "title": "One Night Only",
-      "description": "I en verden hvor sex er tillatt kun én dag i året!\n\nPå den eneste natten i året der alle virker opptatt av å finne noen – for én natt eller for livet – møtes nysingle Owen og den håpløst romantiske Allie i New York. \n\nGnisten er umiddelbar, men skjebnen har andre planer. Gjennom en kaotisk natt fylt med misforståelser og folk som kommer i veien, forsøker de å finne tilbake til hverandre gjennom byens pulserende gater. Mens klokken tikker og mulighetene svinner, oppdager de at det de lengter etter kanskje ikke er den perfekte natten, men den rette personen. ",
-      "start_at": "2026-09-06T18:20:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/db623569412f4c6c9957949d0504b82c.jpg?width=1440&version=785CC21D774BE5DD940B3B49658B7E3A",
-      "url": "https://www.odeonkino.no/film/one-night-only/",
-      "tags": [
-        "luxe",
-        "romantic comedy"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-abd83199-06a7-4c39-8639-b41b08b3112c",
-      "title": "Mutiny",
-      "description": "Når hans milliardærsjef blir drept rett foran øynene hans, blir elitesikkerhetsvakten Cole Reed (Jason Statham) gjort til syndebukk.",
-      "start_at": "2026-09-06T19:10:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/4fb799ca5aa94ba6a1a5d2f014a568b8.jpg?width=1440&version=30E8D3CED0F7C23A21BE65ADD4980ED8",
-      "url": "https://www.odeonkino.no/film/mutiny/",
-      "tags": [
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a1ec4ce4-bd42-4f9a-bc79-86616ff23757",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-09-06T20:10:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-0a999b57-1d74-4ad3-845d-1118821f80d2",
-      "title": "Fjord",
-      "description": "Fjord er et aktuelt, spennende og tankevekkende familiedrama som utforsker kulturforskjeller og de skjøre grensene mellom privatliv og institusjonell makt.",
-      "start_at": "2026-09-06T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3cd03f1a53bd4ddbb12e5eeb6010befc.jpg?width=1440&version=8E7D099FB26FB5A844D40CB404287712",
-      "url": "https://www.odeonkino.no/film/fjord/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-336b9841-e914-43e0-889d-2318b99dd85e",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-09-06T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-2e241939-0a6f-44e9-bd85-b645f8b22ecb",
-      "title": "The Rivals of Amziah King",
-      "start_at": "2026-09-06T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/426361360d1f4a84935521f0e32bb88c.jpg?width=1440&version=0C1B52E289593485175D154E10AB13C0",
-      "url": "https://www.odeonkino.no/film/the-rivals-of-amziah-king/",
-      "tags": [
-        "luxe",
-        "drama",
-        "thriller"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
