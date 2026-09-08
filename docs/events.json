@@ -1,10 +1,32 @@
 {
-  "generated_at": "2026-09-07T21:15:52.108816+00:00",
-  "total": 690,
+  "generated_at": "2026-09-08T03:35:21.408426+00:00",
+  "total": 691,
   "failed_sources": [
     "viti"
   ],
   "events": [
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-09-08T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
+      "city": "Ålesund",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
     {
       "source": "friskus",
       "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
@@ -5176,7 +5198,7 @@
       "latitude": 62.4750203,
       "longitude": 6.1536567,
       "organizer": "TIKKIO AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/65841-ticketswap-festival-2026",
       "tags": [],
       "age_groups": [],
@@ -5429,6 +5451,26 @@
       "organizer": "Musikk i Sentrum",
       "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_31a54d136cf3b91280b828633eb8707d.webp?class=w768",
       "url": "https://tikkio.com/events/66130-faculty-of-funk-fredag-2oktober-stodt-bar-scene",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-ef9da9692ea108c42fb5c53e5ee5a50e",
+      "title": "BROTHERS IN ARMS - A TRIBUTE TO DIRE STRAITS // 17.OKT // STØDT BAR & SCENE",
+      "description": "<p></p>",
+      "start_at": "2026-10-17T19:00:00",
+      "end_at": "2026-10-18T02:00:00",
+      "is_free": false,
+      "price_text": "NOK 300.00",
+      "location_name": "Stødt Bar & Scene",
+      "city": "Ålesund",
+      "latitude": 62.1969807,
+      "longitude": 6.1266414,
+      "organizer": "Musikk i Sentrum",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_76f4589b42f125a76f337d1db40962d1.webp?class=w768",
+      "url": "https://tikkio.com/events/66159-brothers-in-arms-a-tribute-to-dire-straits-17okt-stodt-bar-scene",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -7599,19 +7641,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-21930-2026-09-08",
-      "title": "STUDIECAFÉ!",
-      "start_at": "2026-09-08T00:00:00",
-      "location_name": "Fellesverket Ålesund",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/studiecafe/?occurrence=2026-09-08",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
