@@ -1,89 +1,10 @@
 {
-  "generated_at": "2026-09-09T16:08:10.450579+00:00",
-  "total": 745,
+  "generated_at": "2026-09-09T20:39:06.484447+00:00",
+  "total": 729,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-b3e9d127-5acf-498f-8259-ab1b0555b60c",
-      "title": "Gamingkveld Volsdalen",
-      "start_at": "2026-09-09T17:00:00",
-      "end_at": "2027-06-16T19:00:00",
-      "is_free": true,
-      "location_name": "E-Teams",
-      "city": "Ålesund",
-      "organizer": "E-Teams",
-      "image_url": "https://ucarecdn.com/891283a9-96c3-4ce5-9b8d-1552a1444a9f/-/crop/1024x279/0,413/-/preview/",
-      "url": "https://alesund.friskus.com/events/b3e9d127-5acf-498f-8259-ab1b0555b60c",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-2fd13756-9260-47c4-aa6d-05c404f8f676",
-      "title": "CrossYoga med fokus på å styrke selvfølelsen",
-      "start_at": "2026-09-09T18:00:00",
-      "end_at": "2026-11-18T20:00:00",
-      "is_free": false,
-      "location_name": "BORGUND SOKN",
-      "city": "Ålesund",
-      "organizer": "BORGUND SOKN",
-      "image_url": "https://ucarecdn.com/867f274e-151e-49b5-985a-32207efa30c1/-/crop/596x589/54,89/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/2fd13756-9260-47c4-aa6d-05c404f8f676",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-e3e1a5ea-6268-46cf-8765-8d002f5c8502",
-      "title": "Ålesund Ju Jitsu – gratis prøvetrening for ungdom og voksne",
-      "start_at": "2026-09-09T18:00:00",
-      "end_at": "2026-09-30T21:15:00",
-      "is_free": false,
-      "location_name": "Ålesund Ju Jitsu Klubb",
-      "city": "Ålesund",
-      "organizer": "Ålesund Ju Jitsu Klubb",
-      "image_url": "https://ucarecdn.com/6cdeae49-60e0-4f36-b11a-4acdf2771a7c/-/crop/1797x490/2,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/e3e1a5ea-6268-46cf-8765-8d002f5c8502",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-e6267b23-9c0b-4c23-8702-f16432fc8be5",
-      "title": "Sosialiseringstreff i hundeparken",
-      "start_at": "2026-09-09T18:00:00",
-      "end_at": "2026-09-20T14:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/7a2f1eaa-da02-4936-829e-297d55f72e1a/-/crop/2000x545/0,374/-/preview/",
-      "url": "https://alesund.friskus.com/events/e6267b23-9c0b-4c23-8702-f16432fc8be5",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-28b10f66-dbb2-4b34-9f50-238530aa24d5",
@@ -99,6 +20,25 @@
       "tags": [],
       "age_groups": [
         "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
+      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
+      "start_at": "2026-09-10T10:00:00",
+      "end_at": "2027-06-18T20:00:00",
+      "is_free": true,
+      "location_name": "Dagplass for personer med demens",
+      "city": "Ålesund",
+      "organizer": "Dagplass for personer med demens",
+      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
+      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -858,6 +798,27 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-e6267b23-9c0b-4c23-8702-f16432fc8be5",
+      "title": "Sosialiseringstreff i hundeparken",
+      "start_at": "2026-09-13T13:00:00",
+      "end_at": "2026-09-20T14:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
+      "city": "Ålesund",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/7a2f1eaa-da02-4936-829e-297d55f72e1a/-/crop/2000x545/0,374/-/preview/",
+      "url": "https://alesund.friskus.com/events/e6267b23-9c0b-4c23-8702-f16432fc8be5",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-acf7c109-5dd3-4149-a02f-dd61a84677d2",
       "title": "Gruffalo-veka",
       "start_at": "2026-09-14T10:00:00",
@@ -1063,6 +1024,25 @@
         "teenager"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-e3e1a5ea-6268-46cf-8765-8d002f5c8502",
+      "title": "Ålesund Ju Jitsu – gratis prøvetrening for ungdom og voksne",
+      "start_at": "2026-09-14T18:00:00",
+      "end_at": "2026-09-30T21:15:00",
+      "is_free": false,
+      "location_name": "Ålesund Ju Jitsu Klubb",
+      "city": "Ålesund",
+      "organizer": "Ålesund Ju Jitsu Klubb",
+      "image_url": "https://ucarecdn.com/6cdeae49-60e0-4f36-b11a-4acdf2771a7c/-/crop/1797x490/2,0/-/preview/",
+      "url": "https://alesund.friskus.com/events/e3e1a5ea-6268-46cf-8765-8d002f5c8502",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "senior"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -1411,6 +1391,45 @@
       "url": "https://alesund.friskus.com/events/7b710e7a-a926-4f9f-be94-4fc3feea2f88",
       "tags": [],
       "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-b3e9d127-5acf-498f-8259-ab1b0555b60c",
+      "title": "Gamingkveld Volsdalen",
+      "start_at": "2026-09-16T17:00:00",
+      "end_at": "2027-06-16T19:00:00",
+      "is_free": true,
+      "location_name": "E-Teams",
+      "city": "Ålesund",
+      "organizer": "E-Teams",
+      "image_url": "https://ucarecdn.com/891283a9-96c3-4ce5-9b8d-1552a1444a9f/-/crop/1024x279/0,413/-/preview/",
+      "url": "https://alesund.friskus.com/events/b3e9d127-5acf-498f-8259-ab1b0555b60c",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-2fd13756-9260-47c4-aa6d-05c404f8f676",
+      "title": "CrossYoga med fokus på å styrke selvfølelsen",
+      "start_at": "2026-09-16T18:00:00",
+      "end_at": "2026-11-18T20:00:00",
+      "is_free": false,
+      "location_name": "BORGUND SOKN",
+      "city": "Ålesund",
+      "organizer": "BORGUND SOKN",
+      "image_url": "https://ucarecdn.com/867f274e-151e-49b5-985a-32207efa30c1/-/crop/596x589/54,89/-/preview/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/2fd13756-9260-47c4-aa6d-05c404f8f676",
+      "tags": [],
+      "age_groups": [
+        "teenager",
         "senior",
         "pensioner"
       ],
@@ -3195,25 +3214,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-3bdbb399-6af8-49d8-ac7d-27f5a4923353",
-      "title": "PMTO foreldrekurs (Parent management training - Oregon)",
-      "start_at": "2026-09-09T17:00:00",
-      "end_at": "2026-11-18T19:00:00",
-      "is_free": true,
-      "location_name": "Tiltakseininga for barn og unge",
-      "city": "Ålesund",
-      "organizer": "Tiltakseininga for barn og unge",
-      "image_url": "https://ucarecdn.com/8340e348-7e44-4ad7-9e77-ab19ae43daa4/-/crop/784x214/0,13/-/preview/",
-      "url": "https://alesund.friskus.com/events/3bdbb399-6af8-49d8-ac7d-27f5a4923353",
-      "tags": [],
-      "age_groups": [
-        "family",
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-973e7ece-070c-477f-bdba-230c8c8f6af4",
       "title": "Syng med oss",
       "start_at": "2026-09-10T11:30:00",
@@ -3459,6 +3459,24 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-70677e37-6cea-43a9-8cda-032c2ddd2457",
+      "title": "Donken-ungdomsklubb onsdag",
+      "start_at": "2026-09-16T14:30:00",
+      "end_at": "2026-12-09T21:00:00",
+      "is_free": true,
+      "location_name": "Fritidsklubbane Sula",
+      "city": "Ålesund",
+      "organizer": "Fritidsklubbane Sula",
+      "image_url": "https://ucarecdn.com/169c501c-eb04-403d-accd-21bf9c66e485/-/crop/1440x870/0,95/-/preview/",
+      "url": "https://alesund.friskus.com/events/70677e37-6cea-43a9-8cda-032c2ddd2457",
+      "tags": [],
+      "age_groups": [
+        "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-433e47ea-f864-4f7e-bff5-e47c6af34763",
       "title": "LHL - Krakketrim/Styrke, balanse og avspenning på Molvær senter",
       "start_at": "2026-09-16T16:30:00",
@@ -3473,6 +3491,25 @@
       "age_groups": [
         "senior",
         "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-3bdbb399-6af8-49d8-ac7d-27f5a4923353",
+      "title": "PMTO foreldrekurs (Parent management training - Oregon)",
+      "start_at": "2026-09-16T17:00:00",
+      "end_at": "2026-11-18T19:00:00",
+      "is_free": true,
+      "location_name": "Tiltakseininga for barn og unge",
+      "city": "Ålesund",
+      "organizer": "Tiltakseininga for barn og unge",
+      "image_url": "https://ucarecdn.com/8340e348-7e44-4ad7-9e77-ab19ae43daa4/-/crop/784x214/0,13/-/preview/",
+      "url": "https://alesund.friskus.com/events/3bdbb399-6af8-49d8-ac7d-27f5a4923353",
+      "tags": [],
+      "age_groups": [
+        "family",
+        "senior"
       ],
       "is_recurring": true
     },
@@ -6540,23 +6577,6 @@
     },
     {
       "source": "parken",
-      "source_id": "parken-48541-marc-chagall-hans-liv-og-kunst",
-      "title": "Marc Chagall – hans liv og kunst",
-      "start_at": "2026-09-09T19:00:00",
-      "end_at": "2026-09-09T21:00:00",
-      "location_name": "Parken kulturhus – Foajeen",
-      "city": "Ålesund",
-      "organizer": "Kunstklubben i Ålesund",
-      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F48541%2Fweb-square.webp?version=OByCkrVqlrZTFedR8yL4rA==",
-      "url": "https://www.parkenkulturhus.no/program/48541-marc-chagall-hans-liv-og-kunst/",
-      "tags": [
-        "foredrag"
-      ],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "parken",
       "source_id": "parken-48917-afterwork-m-quizkonsert",
       "title": "Afterwork m/Quizkonsert",
       "start_at": "2026-09-11T18:00:00",
@@ -7561,21 +7581,6 @@
     },
     {
       "source": "bibliotek",
-      "source_id": "bibliotek-33735",
-      "title": "DNA-kveld med Slekt og Data Ålesund",
-      "start_at": "2026-09-09T17:30:00",
-      "is_free": true,
-      "location_name": "Moa bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/ib3797715-ce4c-4e72-aed2-ae984620839b/w300/kbf0742ed861b/nybegynnerkurs-i-slektsforsking-2.png",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33735&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bibliotek",
       "source_id": "bibliotek-33745",
       "title": "Les Vegas, baby!",
       "start_at": "2026-09-10T11:00:00",
@@ -7695,56 +7700,32 @@
       "end_at": null
     },
     {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32363-2026-09-09",
-      "title": "Mental Helse Skodje og Ørskog",
-      "start_at": "2026-09-09T17:00:00",
-      "end_at": "2026-09-09T20:30:00",
-      "location_name": "Sommerfuglen Aktivitet",
+      "source": "bibliotek",
+      "source_id": "bibliotek-33657",
+      "title": "Leksehjelp for vaksne",
+      "start_at": "2026-09-14T14:30:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/mental-helse-skodje-og-orskog/?occurrence=2026-09-09",
+      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i9cc0acb9-4221-4b11-8cf4-ea2907e6b74c/w300/kfe280a3835c1/leksehjelp.png",
+      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33657&lang=1&MId1=18377",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-39801-2026-09-09",
-      "title": "DNA til slektsforskning",
-      "start_at": "2026-09-09T17:30:00",
-      "end_at": "2026-09-09T20:00:00",
-      "location_name": "Moa bibliotek",
+      "source_id": "bypatrioten-38968",
+      "title": "STORMJAZZ 2026: Kristina Farstad Bjørdal og Carl Petter Opsahl",
+      "location_name": "Forum Ålesund",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/dna-til-slektsforskning-4/?occurrence=2026-09-09",
+      "url": "https://stormjazz.no",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-29533-2026-09-09",
-      "title": "Brosundet etter seks",
-      "start_at": "2026-09-09T18:00:00",
-      "end_at": "2026-09-09T20:00:00",
-      "location_name": "Hotel Brosundet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/brosundet-etter-seks-5/?occurrence=2026-09-09",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-37698-2026-09-09",
-      "title": "Kunstklubben i Ålesund presenterer: Marc Chagall – liv og kunst.",
-      "start_at": "2026-09-09T19:00:00",
-      "end_at": "2026-09-09T21:00:00",
-      "location_name": "Parken kulturhus, Foajeen",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/kunstklubben-i-alesund-presenterer-marc-chagall-liv-og-kunst/?occurrence=2026-09-09",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "start_at": null,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -8262,19 +8243,6 @@
       "location_name": "Aalesunds Museum",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/aalesunds-museum/?occurrence=2026-09-13",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-39809-2026-09-13",
-      "title": "Folkemusikkmesse i Ålesund kirke",
-      "start_at": "2026-09-13T11:00:00",
-      "end_at": "2026-09-13T13:00:00",
-      "location_name": "Ålesund kirke",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/folkemusikkmesse-i-alesund-kirke/?occurrence=2026-09-13",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -10153,19 +10121,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-39823-2026-10-02",
-      "title": "Afterwork på Quality Hotel™ Waterfront",
-      "start_at": "2026-10-02T18:00:00",
-      "end_at": "2026-10-02T22:00:00",
-      "location_name": "Quality Hotel Waterfront",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/afterwork-pa-quality-hotel-waterfront/?occurrence=2026-10-02&time=1790964000",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-33122-2026-10-02",
       "title": "Terje Sporsem & Jon Brungot: Høy og mørk",
       "start_at": "2026-10-02T18:30:00",
@@ -10371,228 +10326,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7051894a-a2dc-45b7-9a78-e8c42af66e17",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-09-09T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-9c38a6d9-2422-45f4-bdf2-a13adfc21d84",
-      "title": "Harila - Nådeløse fjell",
-      "description": "De 14 høyeste fjellene i verden. På rekordtid.",
-      "start_at": "2026-09-09T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/10e3048238e6450a85ec118a07a3a7f4.jpg?width=1440&version=385597C08BEED5AB33797CFAE8F09D2C",
-      "url": "https://www.odeonkino.no/film/harila-nadelose-fjell/",
-      "tags": [
-        "luxe",
-        "dokumentar"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a55b7929-e27c-44ac-b6c5-ca53d9152373",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-09-09T17:40:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-237c303c-9e72-4911-99f4-d8edf1a3b47d",
-      "title": "The Rivals of Amziah King",
-      "start_at": "2026-09-09T17:50:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/426361360d1f4a84935521f0e32bb88c.jpg?width=1440&version=0C1B52E289593485175D154E10AB13C0",
-      "url": "https://www.odeonkino.no/film/the-rivals-of-amziah-king/",
-      "tags": [
-        "luxe",
-        "drama",
-        "thriller"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-fb776967-9a02-4b80-aeca-4465052976f5",
-      "title": "Fjord",
-      "description": "Fjord er et aktuelt, spennende og tankevekkende familiedrama som utforsker kulturforskjeller og de skjøre grensene mellom privatliv og institusjonell makt.",
-      "start_at": "2026-09-09T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3cd03f1a53bd4ddbb12e5eeb6010befc.jpg?width=1440&version=8E7D099FB26FB5A844D40CB404287712",
-      "url": "https://www.odeonkino.no/film/fjord/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4ae08b8b-ea06-4523-b44f-3b5a8ee404cb",
-      "title": "One Night Only",
-      "description": "I en verden hvor sex er tillatt kun én dag i året!\n\nPå den eneste natten i året der alle virker opptatt av å finne noen – for én natt eller for livet – møtes nysingle Owen og den håpløst romantiske Allie i New York. \n\nGnisten er umiddelbar, men skjebnen har andre planer. Gjennom en kaotisk natt fylt med misforståelser og folk som kommer i veien, forsøker de å finne tilbake til hverandre gjennom byens pulserende gater. Mens klokken tikker og mulighetene svinner, oppdager de at det de lengter etter kanskje ikke er den perfekte natten, men den rette personen. ",
-      "start_at": "2026-09-09T19:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/db623569412f4c6c9957949d0504b82c.jpg?width=1440&version=785CC21D774BE5DD940B3B49658B7E3A",
-      "url": "https://www.odeonkino.no/film/one-night-only/",
-      "tags": [
-        "romantic comedy"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c3f46297-7321-40fb-9bbe-47393b70e6a4",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-09-09T20:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b2312c68-f42d-46dd-b365-fee37f1d0dab",
-      "title": "The Rivals of Amziah King",
-      "start_at": "2026-09-09T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/426361360d1f4a84935521f0e32bb88c.jpg?width=1440&version=0C1B52E289593485175D154E10AB13C0",
-      "url": "https://www.odeonkino.no/film/the-rivals-of-amziah-king/",
-      "tags": [
-        "luxe",
-        "drama",
-        "thriller"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-5a92c76e-a0f6-47df-b7e3-d4aeb6592485",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-09-09T20:50:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "isense",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-96ab72bf-f29f-4429-8203-39e86c762def",
-      "title": "Fjord",
-      "description": "Fjord er et aktuelt, spennende og tankevekkende familiedrama som utforsker kulturforskjeller og de skjøre grensene mellom privatliv og institusjonell makt.",
-      "start_at": "2026-09-09T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3cd03f1a53bd4ddbb12e5eeb6010befc.jpg?width=1440&version=8E7D099FB26FB5A844D40CB404287712",
-      "url": "https://www.odeonkino.no/film/fjord/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-99b102d6-d6f7-4729-9c20-9f87f42d9041",
-      "title": "Insidious: Out of the Further",
-      "start_at": "2026-09-09T21:10:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a87558b52c614e56b0b0c8b2be431568.jpg?width=1440&version=1085B578843068E12FAB91CE5F67945B",
-      "url": "https://www.odeonkino.no/film/insidious-out-of-the-further/",
-      "tags": [
-        "thriller",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-36188d8d-c815-49d0-8bdf-9f1f6c883f3e",
-      "title": "By Any Means",
-      "description": "Mark Wahlberg og Yahya Abdul-Mateen II i en spennende thriller basert på den utrolige, men sanne historien om mafiaens hemmelige samarbeid med FBI",
-      "start_at": "2026-09-09T21:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5ec93f2370954077bd23686a28a16ea1.jpg?width=1440&version=9DEEA3D5F2DEF8C2FB2D46E6A9857588",
-      "url": "https://www.odeonkino.no/film/by-any-means/",
-      "tags": [
-        "thriller",
-        "krim",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
