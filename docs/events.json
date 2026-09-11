@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T16:04:56.678773+00:00",
-  "total": 748,
+  "generated_at": "2026-09-11T20:39:53.275384+00:00",
+  "total": 732,
   "failed_sources": [
     "viti"
   ],
@@ -226,6 +226,25 @@
         "family"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
+      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
+      "start_at": "2026-09-14T10:00:00",
+      "end_at": "2027-06-18T20:00:00",
+      "is_free": true,
+      "location_name": "Dagplass for personer med demens",
+      "city": "Ålesund",
+      "organizer": "Dagplass for personer med demens",
+      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
+      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -3857,26 +3876,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-7b0b1e4771c55fc6a17cfd64a2697eea",
-      "title": "Terje Sporsem & John Brungot “Høy og mørk”",
-      "description": "<p>To av Norges mest populære komikere har slått seg sammen med ett mål for øye: Å gi</p><p>deg et skikkelig artig show! Og DET trengs når verden går mer og mer av hengslene.</p><p>Høy og Mørk er en forestilling spekket med stand-up, musikk og parodier, og vi kan love</p><p>at latteren sitter løst når John og Terje begir seg inn i temaer som høye, mørke</p><p>maktsyke ledere, beredskap, generasjonskonflikter og frykten for å plutselig være den</p><p>eldste i familien</p><p>Hvorfor vil noen endre verden etter fylte 75? Var livet mindre komplisert på 80- og</p><p>90-tallet? Og kan man fake seg gjennom det meste i livet? Terje og John tar for seg</p><p>noen av de store og viktige spørsmålene i livet... men også ting du ikke visste at du</p><p>trengte svar på.</p><p>Gjør deg klar for en kveld spekket med masse latter og god stemning!</p><p>Regi: Martin Beyer-Olsen</p><p>Norgespremiere 8. januar på Christiania Teater</p>",
-      "start_at": "2026-09-11T17:30:00",
-      "end_at": "2026-09-11T20:00:00",
-      "is_free": false,
-      "price_text": "NOK 499.00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "latitude": 62.4730488,
-      "longitude": 6.1582367,
-      "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3471/uploads/event/c_35e5b58d1a5a60913655c546b97fbf63.jpg?class=w768",
-      "url": "https://tikkio.com/events/58733-terje-sporsem-jon-brungot-hoy-og-mork-lovenvold-theater",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-ccc5e6a7cd29aa8c1406655f771319ee",
       "title": "Demenskonferanse 2026",
       "description": "<p>Kveldens foredrag blir denne gangen å handle om fysisk helse for personer med demens og de pårørende.</p><p><strong>Dag Otto Lauritzen</strong> kommer og skal holde et inspirerende foredrag om fysisk aktivitet, motivasjon og mestring. Han deler også personlige erfaringer fra rollen som pårørende.</p><p>Vi får også besøk av <strong>Anne Marie Mork Rokstad</strong> som skal holde foredraget &quot;Hjerneløftet&quot;. Her deler hun kunnskap om hvordan fysisk aktivitet, kosthold og sosialt fellesskap kan bidra til god hjernehelse.</p><p>Det hele ledes av Nils Jarle Sætre som blir kveldens konferansier.</p>",
@@ -4717,26 +4716,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-ecc58677b21947e4f0960901989c763d",
-      "title": "Axel Wold Lamborg // Terminalen ",
-      "description": "<p>Axel Wold Lamborg inntar Terminalen fredag 11. september!<br><br>I mars 2025 slapp Axel Wold Lamborg sitt debutalbum «Helt usikker», og frem mot konserten på Terminalen kommer det nye singler på løpende bånd gjennom sommeren. Her er det med andre ord bare å forberede seg på potensielle sommerhits, masse god energi og et låtunivers som inviterer til både dans, allsang, latter og tårer på samme tid!<br><br>Axel Wold Lamborg er opprinnelig Kragerø-kar som nå har gjort permanent Ålesunder av seg. Med konserter på blant annet Fabrikken Kulturscene, Sommerteltet, Byfesten Ålesund og Parken Kulturhus (i anledning verdensdagen for psykisk helse) har Axel gjort inntrykk på flere av byens scener den siste tiden. Nå inviterer han og bandet til konsert på selveste Terminalen, og håper Ålesund-publikummet griper sjansen til å virkelig bli kjent med artisten Axel Wold Lamborg!<br><br>På konsert med Axel Wold Lamborg får du et ærlig og ettertenksomt tekstunivers pakket inn i et organisk og ujålete lydbilde. Sjangermessig ligger bandet i et melodiøst og fengende pop-rock/vise-landskap hvor tekstene handler om alt fra slitne småbarnsfedre og feilslått barneoppdragelse til platesjapper, frustrerte lærere og livets store oppturer og nedturer.<br><br>Vi håper du blir med oss på en kveld fylt med god energi, hæla i taket og forhåpentligvis en dose emosjonell tankevirksomhet. Kom, kom! <br><br>Axel Wold Lamborg – Gitar og vokal<br>Joakim Kristoffer Smedstuen – Gitar<br>Bjørn Helge Lervåg – Bass<br>Roar Heggstad – Tangenter (du vil ikke tro hvor mange tangenter denne mannen kan spille på!)<br>Marius Duestøl - Trommer</p>",
-      "start_at": "2026-09-11T20:00:00",
-      "end_at": "2026-09-11T23:59:00",
-      "is_free": false,
-      "price_text": "NOK 200.00",
-      "location_name": "Terminalen",
-      "city": "Ålesund",
-      "latitude": 62.4702872,
-      "longitude": 6.1533313,
-      "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3471/uploads/event/c_03bc64a3eaff35629e609aa391158188.webp?class=w768",
-      "url": "https://tikkio.com/events/63095-axel-wold-lamborg-terminalen",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-1665da1cec539cccc9d52b9e0dab6d53",
       "title": "Ozzy-tribute - Blizzard // Terminalen",
       "description": "Ozzy-tribute - Blizzard - er tilbake etter braksuksessen i oktober 2025.\r\n\r\nVi fortsetter å hylle Ozzy Osbourne - The Prince of Darkness - med de beste låtene både fra Black Sabbath og solokarrieren.\r\n\r\nDette blir nok en fest - kom glad!",
@@ -5269,7 +5248,7 @@
       "latitude": 62.4750203,
       "longitude": 6.1536567,
       "organizer": "TIKKIO AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/65841-ticketswap-festival-2026",
       "tags": [],
       "age_groups": [],
@@ -6500,23 +6479,6 @@
     },
     {
       "source": "parken",
-      "source_id": "parken-48917-afterwork-m-quizkonsert",
-      "title": "Afterwork m/Quizkonsert",
-      "start_at": "2026-09-11T18:00:00",
-      "end_at": "2026-09-11T19:00:00",
-      "location_name": "Parken kulturhus – Foajeen",
-      "city": "Ålesund",
-      "organizer": "Trio no treble",
-      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F48917%2Fweb-square.webp?version=aWvM8C5E4n30wlY1EBzgVw==",
-      "url": "https://www.parkenkulturhus.no/program/48917-afterwork-m-quizkonsert/",
-      "tags": [
-        "konsert"
-      ],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "parken",
       "source_id": "parken-49262-intro-fra-halling-til-afrobeat",
       "title": "INTRO – fra Halling til Afrobeat",
       "start_at": "2026-09-12T12:00:00",
@@ -7682,45 +7644,6 @@
       "is_recurring": false,
       "start_at": null,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32516-2026-09-11",
-      "title": "Krystall – Hotel 1904",
-      "start_at": "2026-09-11T17:00:00",
-      "end_at": "2026-09-11T23:55:00",
-      "location_name": "Hotel 1904",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/krystall-hotel-1904-358/?occurrence=2026-09-11",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33122-2026-09-11",
-      "title": "Terje Sporsem & Jon Brungot: Høy og mørk",
-      "start_at": "2026-09-11T18:30:00",
-      "end_at": "2026-09-11T20:00:00",
-      "location_name": "",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/terje-sporsem-jon-brungot-hoy-og-mork/?occurrence=2026-09-11&time=1789151400",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33129-2026-09-11",
-      "title": "Axel Wold Lamborg",
-      "start_at": "2026-09-11T20:00:00",
-      "end_at": "2026-09-11T21:30:00",
-      "location_name": "Terminalen Byscene",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/axel-wold-lamborg/?occurrence=2026-09-11",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -10035,208 +9958,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-289711a0-1e47-4f1f-ad5b-e610c26f80a3",
-      "title": "Coyote vs. Acme - Per Ulv på saken",
-      "start_at": "2026-09-11T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/88aeb55332f04007aae8d1fedd3f948f.jpg?width=1440&version=A383812A6C9EC798B5E1A10657B200F0",
-      "url": "https://www.odeonkino.no/film/coyote-vs-acme-per-ulv-pa-saken/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "eventyr",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a81acffd-93a1-4c62-9d70-03bfbe3ceef7",
-      "title": "Fjord",
-      "description": "Fjord er et aktuelt, spennende og tankevekkende familiedrama som utforsker kulturforskjeller og de skjøre grensene mellom privatliv og institusjonell makt.",
-      "start_at": "2026-09-11T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3cd03f1a53bd4ddbb12e5eeb6010befc.jpg?width=1440&version=8E7D099FB26FB5A844D40CB404287712",
-      "url": "https://www.odeonkino.no/film/fjord/",
-      "tags": [
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7aa74ad4-dd30-46c8-9ff9-052c76c958a6",
-      "title": "En nasjon i sjakk",
-      "start_at": "2026-09-11T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8c66656a2094a158e66eb9d698d1980.jpg?width=1440&version=CD9AF7C788A875FA30272EC9C5CC3C99",
-      "url": "https://www.odeonkino.no/film/en-nasjon-i-sjakk/",
-      "tags": [
-        "isense",
-        "thriller",
-        "spenning",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c75682c7-0a86-4d59-9c96-79a502c10d3c",
-      "title": "Lave forventninger",
-      "description": "\"Lave forventninger\" er et emosjonelt og intimt drama om hvor langt du vil gå for å nå drømmene dine, spesielt når alt du gjør for å lykkes bare gjør deg ulykkelig.",
-      "start_at": "2026-09-11T18:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efec8da5ee534e07828403698f6c225c.jpg?width=1440&version=B7ED15A5E4BA4179CE839C7D42640750",
-      "url": "https://www.odeonkino.no/film/lave-forventninger/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c7d03eb9-84a3-4a5a-9c15-d09a472de887",
-      "title": "Harila - Nådeløse fjell",
-      "description": "De 14 høyeste fjellene i verden. På rekordtid.",
-      "start_at": "2026-09-11T18:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/10e3048238e6450a85ec118a07a3a7f4.jpg?width=1440&version=385597C08BEED5AB33797CFAE8F09D2C",
-      "url": "https://www.odeonkino.no/film/harila-nadelose-fjell/",
-      "tags": [
-        "dokumentar"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-5deaf2de-405b-4c5d-a9f5-aa661a23596e",
-      "title": "Practical Magic: Family Legacy",
-      "description": "Magien er tilbake!",
-      "start_at": "2026-09-11T20:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7e7aa39e5f4441d0b4854ad1fd0f2ee4.jpg?width=1440&version=D7A1A2E50A02A92215CA6850757F5846",
-      "url": "https://www.odeonkino.no/film/practical-magic-family-legacy/",
-      "tags": [
-        "luxe",
-        "fantasy",
-        "romantikk",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c2052629-7c23-4636-82e1-ca3536b5b202",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-09-11T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f2e912ab-83ad-4d7f-993c-f6eb4c3daee9",
-      "title": "Oasis: Don't Look Back In Anger",
-      "description": "Oasis: Don't Look Back in Anger ser på en av tidenes største rocke-comeback; Liam og Noel Gallaghers triumferende gjenforeningsturné Oasis Live '25.",
-      "start_at": "2026-09-11T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/8816d5af04f4486682263a95fa6566ff.jpg?width=1440&version=99D76A59E06F20A5F2DC6A7DE85FB0DB",
-      "url": "https://www.odeonkino.no/film/oasis-dont-look-back-in-anger/",
-      "tags": [
-        "luxe",
-        "dokumentar",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7cea4a8c-fcfb-4b25-9a68-161d21199bbd",
-      "title": "En nasjon i sjakk",
-      "start_at": "2026-09-11T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8c66656a2094a158e66eb9d698d1980.jpg?width=1440&version=CD9AF7C788A875FA30272EC9C5CC3C99",
-      "url": "https://www.odeonkino.no/film/en-nasjon-i-sjakk/",
-      "tags": [
-        "isense",
-        "thriller",
-        "spenning",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7e36771a-5537-492f-9753-6b9bbdef4a4e",
-      "title": "KUZMA",
-      "start_at": "2026-09-11T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f485bbcd93a543e6a03ce41cfca691c3.jpg?width=1440&version=68CF3243CB476178B9FAFA72F324C4D9",
-      "url": "https://www.odeonkino.no/film/kuzma/",
-      "tags": [
-        "luxe",
-        "flc",
-        "dokumentar",
-        "biografi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8aab41f2-5680-406c-874d-0699dcd68ab6",
-      "title": "Insidious: Out of the Further",
-      "start_at": "2026-09-11T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a87558b52c614e56b0b0c8b2be431568.jpg?width=1440&version=1085B578843068E12FAB91CE5F67945B",
-      "url": "https://www.odeonkino.no/film/insidious-out-of-the-further/",
-      "tags": [
-        "thriller",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
