@@ -1,10 +1,32 @@
 {
-  "generated_at": "2026-09-11T20:39:53.275384+00:00",
-  "total": 732,
+  "generated_at": "2026-09-12T03:40:06.031692+00:00",
+  "total": 730,
   "failed_sources": [
     "viti"
   ],
   "events": [
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "title": "Friområde for hund",
+      "start_at": "2026-09-12T08:00:00",
+      "end_at": "2026-09-13T23:00:00",
+      "is_free": true,
+      "location_name": "Harøy Hundepark",
+      "city": "Ålesund",
+      "organizer": "Harøy Hundepark",
+      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
     {
       "source": "friskus",
       "source_id": "friskus-efcac4ac-c008-402f-acb9-ac7eb67fb303",
@@ -1875,7 +1897,7 @@
     {
       "source": "friskus",
       "source_id": "friskus-oaa1gvFbCoOb4",
-      "title": "Basecamp Standal (8.-10. trinn)",
+      "title": "Basecamp Standal (8.-10. trinn) i høstferien",
       "start_at": "2026-10-05T09:00:00",
       "end_at": "2026-10-09T15:00:00",
       "is_free": false,
@@ -1896,7 +1918,7 @@
     {
       "source": "friskus",
       "source_id": "friskus-oaaNM2Bg3BA_H",
-      "title": "Basecamp Extreme Slogen (10.trinn-19 år)",
+      "title": "Basecamp Extreme Slogen (10.trinn-19 år)i høstferien",
       "start_at": "2026-10-05T09:00:00",
       "end_at": "2026-10-09T15:00:00",
       "is_free": false,
@@ -3876,6 +3898,25 @@
     },
     {
       "source": "tikkio",
+      "source_id": "tikkio-25ea105a26254b1f768f557292a668e3",
+      "title": "Terje Sporsem & John Brungot “Høy og mørk”",
+      "description": "<p>To av Norges mest populære komikere har slått seg sammen med ett mål for øye: Å gi</p><p>deg et skikkelig artig show! Og DET trengs når verden går mer og mer av hengslene.</p><p>Høy og Mørk er en forestilling spekket med stand-up, musikk og parodier, og vi kan love</p><p>at latteren sitter løst når John og Terje begir seg inn i temaer som høye, mørke</p><p>maktsyke ledere, beredskap, generasjonskonflikter og frykten for å plutselig være den</p><p>eldste i familien</p><p>Hvorfor vil noen endre verden etter fylte 75? Var livet mindre komplisert på 80- og</p><p>90-tallet? Og kan man fake seg gjennom det meste i livet? Terje og John tar for seg</p><p>noen av de store og viktige spørsmålene i livet... men også ting du ikke visste at du</p><p>trengte svar på.</p><p>Gjør deg klar for en kveld spekket med masse latter og god stemning!</p><p>Regi: Martin Beyer-Olsen</p><p>Norgespremiere 8. januar på Christiania Teater</p>",
+      "start_at": "2026-09-12T17:30:00",
+      "end_at": "2026-09-12T20:00:00",
+      "is_free": true,
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "latitude": 62.4730488,
+      "longitude": 6.1582367,
+      "organizer": "Løvenvold Theater",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3471/uploads/event/c_35e5b58d1a5a60913655c546b97fbf63.jpg?class=w768",
+      "url": "https://tikkio.com/events/58734-terje-sporsem-jon-brungot-hoy-og-mork-lovenvold-theater",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
       "source_id": "tikkio-ccc5e6a7cd29aa8c1406655f771319ee",
       "title": "Demenskonferanse 2026",
       "description": "<p>Kveldens foredrag blir denne gangen å handle om fysisk helse for personer med demens og de pårørende.</p><p><strong>Dag Otto Lauritzen</strong> kommer og skal holde et inspirerende foredrag om fysisk aktivitet, motivasjon og mestring. Han deler også personlige erfaringer fra rollen som pårørende.</p><p>Vi får også besøk av <strong>Anne Marie Mork Rokstad</strong> som skal holde foredraget &quot;Hjerneløftet&quot;. Her deler hun kunnskap om hvordan fysisk aktivitet, kosthold og sosialt fellesskap kan bidra til god hjernehelse.</p><p>Det hele ledes av Nils Jarle Sætre som blir kveldens konferansier.</p>",
@@ -5248,7 +5289,7 @@
       "latitude": 62.4750203,
       "longitude": 6.1536567,
       "organizer": "TIKKIO AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/65841-ticketswap-festival-2026",
       "tags": [],
       "age_groups": [],
@@ -7647,32 +7688,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-28717-2026-09-12",
-      "title": "Helgeprogram i Atlanterhavsparken – akvarium og vitensenter",
-      "start_at": "2026-09-12T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/helgeprogram-i-atlanterhavsparken-akvarium-og-vitensenter-2/?occurrence=2026-09-12",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34266-2026-09-12",
-      "title": "Aalesund Folk Festival",
-      "start_at": "2026-09-12T00:00:00",
-      "location_name": "Fabrikken Kulturscene",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesund-folk-festival/?occurrence=2026-09-12",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-39503-2026-09-12",
       "title": "Navnefest – Alti Kremmergaarden",
       "start_at": "2026-09-12T09:00:00",
@@ -7800,32 +7815,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33970-2026-09-12",
-      "title": "Jervell Gjestehus har gleden av å invitere til en storslått aften i havets tegn!",
-      "start_at": "2026-09-12T00:00:00",
-      "location_name": "Jervell Gjestehus",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/jervell-gjestehus-har-gleden-av-a-invitere-til-en-storslatt-aften-i-havets-tegn/?occurrence=2026-09-12",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-31337-2026-09-12",
-      "title": "Damp Natt",
-      "start_at": "2026-09-12T00:00:00",
-      "location_name": "Dampsentralen",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/damp-natt-3/?occurrence=2026-09-12&time=1789254000",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
