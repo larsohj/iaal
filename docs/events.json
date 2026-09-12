@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T15:12:46.811095+00:00",
-  "total": 703,
+  "generated_at": "2026-09-12T20:20:00.195480+00:00",
+  "total": 683,
   "failed_sources": [
     "viti"
   ],
@@ -64,6 +64,28 @@
         "pensioner"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-09-13T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -2670,6 +2692,28 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-a19dc2f4-2978-46ee-b5c7-075f1320b4ab",
+      "title": "Allsong på Bedehuset",
+      "start_at": "2026-11-05T18:00:00",
+      "end_at": "2026-11-05T20:00:00",
+      "is_free": true,
+      "location_name": "Harøykoret",
+      "city": "Ålesund",
+      "organizer": "Harøykoret",
+      "image_url": "https://ucarecdn.com/0041b6f0-8898-4c38-bb4f-4e8539dd9b4b/-/crop/1006x274/0,2/-/preview/",
+      "url": "https://alesund.friskus.com/events/a19dc2f4-2978-46ee-b5c7-075f1320b4ab",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-759d53d8-7cf8-4f3a-a165-d247a2fa168f",
       "title": "Vær den du er, ved Tare Teksum",
       "start_at": "2026-11-05T19:30:00",
@@ -3786,25 +3830,6 @@
       "organizer": "ÅLESUND KAMMERMUSIKKFESTIVAL",
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_7bdd1f8d14fbe980fd3dfb1b08d13623.webp?class=w768",
       "url": "https://tikkio.com/events/65879-nar-barokken-moter-nord",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-25ea105a26254b1f768f557292a668e3",
-      "title": "Terje Sporsem & John Brungot “Høy og mørk”",
-      "description": "<p>To av Norges mest populære komikere har slått seg sammen med ett mål for øye: Å gi</p><p>deg et skikkelig artig show! Og DET trengs når verden går mer og mer av hengslene.</p><p>Høy og Mørk er en forestilling spekket med stand-up, musikk og parodier, og vi kan love</p><p>at latteren sitter løst når John og Terje begir seg inn i temaer som høye, mørke</p><p>maktsyke ledere, beredskap, generasjonskonflikter og frykten for å plutselig være den</p><p>eldste i familien</p><p>Hvorfor vil noen endre verden etter fylte 75? Var livet mindre komplisert på 80- og</p><p>90-tallet? Og kan man fake seg gjennom det meste i livet? Terje og John tar for seg</p><p>noen av de store og viktige spørsmålene i livet... men også ting du ikke visste at du</p><p>trengte svar på.</p><p>Gjør deg klar for en kveld spekket med masse latter og god stemning!</p><p>Regi: Martin Beyer-Olsen</p><p>Norgespremiere 8. januar på Christiania Teater</p>",
-      "start_at": "2026-09-12T17:30:00",
-      "end_at": "2026-09-12T20:00:00",
-      "is_free": true,
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "latitude": 62.4730488,
-      "longitude": 6.1582367,
-      "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_35e5b58d1a5a60913655c546b97fbf63.jpg?class=w768",
-      "url": "https://tikkio.com/events/58734-terje-sporsem-jon-brungot-hoy-og-mork-lovenvold-theater",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -5142,7 +5167,7 @@
       "latitude": 62.4737364,
       "longitude": 6.1585714,
       "organizer": "Restore Movement",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/66284-restore-conference",
       "tags": [],
       "age_groups": [],
@@ -5363,24 +5388,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-ebdaefcf0235bf9e169ac10b35963b80",
-      "title": "Konsert med Frode Alnæs",
-      "description": "Konsert med Frode Alnæs \r\nDørene åpner kl 1900, salg av mat og drikke,\r\nKontakt Alnes fyr for bordbestilling",
-      "start_at": "2026-09-12T18:30:00",
-      "end_at": "2026-09-12T23:00:00",
-      "is_free": false,
-      "price_text": "NOK 400.00",
-      "location_name": "Alnes Fyr og opplevelsessenter",
-      "city": "Ålesund",
-      "organizer": "Stiftelsen Alnes fyr",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_de56f30639835eb8b54b213dadfb46f6.png?class=w768",
-      "url": "https://tikkio.com/events/65139-konsert-med-frode-alnaes",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-c477c9c92f230d13d276b2d358922f5f",
       "title": "Oktoberfest med Rewind",
       "description": "<p>Lørdag 10. Oktober blir det Oktoberfest på Rorbua!</p><p>Og denne gangen har vi fått med oss bandet Rewind for å skape fantastisk stemning.</p><p>Bandet består av:</p><p>Mari - Vokal</p><p>Trond - Gitar</p><p>Tore - Bass</p><p>Odd Erik - Trommer</p><p>Rewind vil hjelpe oss å fylle høstkvelden med gode minner, allsang og rockefot🎸</p><p>Det blir kjente pop- og rockelåter, fra 80-tallet og frem til nåtid. Vi garanterer  deilige gitarriff, kjente låter du kan synge med på, god servering i baren, og muligheter for en svingom!</p><p>Dørene åpner 19.00, konsertstart ca. 22.00.</p><p>Kom</p><p>Som du er- eller kle deg for anledningen! Vi sørger for at Rorbua er pyntet til Oktoberfest!!</p>",
@@ -5395,26 +5402,6 @@
       "organizer": "Fole Festlig Rorbua",
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_ebecd7ccf193e74faaf9ba90810c63b3.webp?class=w768",
       "url": "https://tikkio.com/events/66216-oktoberfest-med-rewind",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-50c052f2c3304311bb5e97708312da6c",
-      "title": "Bigset Bonanza 26",
-      "description": "<p><strong>Laurdag 12. september er det igjen klart for Bigset Bonanza!</strong></p><p><strong>Eyes of Disaster annonsert!</strong></p><p>Bigset Bonanza har blitt ein årleg tradisjon på Bigset Kulturoase – ein kveld der livemusikk, god stemning og eit fantastisk publikum står i sentrum.</p><p>Også i 2026 inviterer vi til ein heilaften fylt med konsertar, mat og drikke, og den heilt spesielle atmosfæren som berre kan opplevast på Bigset Bonanza. Enten du har vore med sidan starten eller vurderer ditt første besøk, lovar vi ei konsertoppleving du seint vil gløyme.</p><p><strong>🎸 Kva kan du vente?</strong></p><p>• Fleire konsertar gjennom kvelden<br>• Artistar og band blir annonserte fortløpande<br>• Mat- og drikkeservering<br>• Ei unik konsertoppleving på Bigset Kulturoase</p><p>📍 <strong>Bigset Kulturoase</strong><br>📅 <strong>Laurdag 12. september 2026</strong></p><p>Vi gler oss til å ønskje deg velkomen til Bigset Bonanza 2026! 🤘</p>",
-      "start_at": "2026-09-12T17:00:00",
-      "end_at": "2026-09-13T02:00:00",
-      "is_free": false,
-      "price_text": "NOK 299.00",
-      "location_name": "Bigset Kulturoase",
-      "city": "Ålesund",
-      "latitude": 62.3587568,
-      "longitude": 5.9718508,
-      "organizer": "Big-Z Bråk",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_2d2955260ebaf71dda90b1c26f52f86f.webp?class=w768",
-      "url": "https://tikkio.com/events/65078-bigset-bonanza-26",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -5475,26 +5462,6 @@
       "organizer": "Brygga Sportsbar AS",
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_72d910827aa42ed74151cf33a0002823.webp?class=w768",
       "url": "https://tikkio.com/events/65717-2-juledag-brygga-sportsbar-20-ar",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-597131add21cff612846a37251592fbd",
-      "title": "Quarter Wolf - Back to Sykkylven [Bankplassen Scene]",
-      "description": "<p>Ti år etter at plata kom ut, gjør Quarter Wolf endelig alvor av tittelen.</p><p>«Back to Sykkylven» var navnet på garagerock-duoens tredje vinylutgivelse.</p><p>Nå kommer de hjem for å spille den — på åpningskvelden til Sykkylvens nye</p><p>konsertscene, Bankplassen Scene.</p><p>For gitarist og frontmann Marius Kromvoll er dette en runde tilbake til</p><p>begynnelsen. Hans aller første konsertopplevelse var da bandet hans varmet</p><p>opp for Ricochets på Høgtun. Bandets australske halvdel, trommeslager</p><p>Paul Daniel, er gift med ei fra Sykkylven og har spilt her før med</p><p>White Trash Blues Band.</p><p>– Det er på høy tid å spille her, sier Paul.</p><p>To mann. Voldsomt volum. Garagerock og blues-punk spilt som om huset står</p><p>i brann. Quarter Wolf har gitt ut en rekke kritikerroste plater og er</p><p>kjent for konserter som ikke ligner på noe annet.</p><p>«Veldig bra band. Det er jævlig mye rabalder på to pers!»</p><p>– Kristopher Schau</p><p>«Blir du ikke i godt humør av å se dem på ei scene, er det ikke håp.»</p><p>– Egon Holstad, iTromsø</p><p>«En eksplosjon og en energibombe av en duo. Du får bare lyst til å rope</p><p>yeah, baby!»</p><p>– Øyvind Rønning, Dagbladet</p>",
-      "start_at": "2026-09-12T20:00:00",
-      "end_at": "2026-09-13T02:00:00",
-      "is_free": false,
-      "price_text": "NOK 270.00",
-      "location_name": "Bankplassen",
-      "city": "Ålesund",
-      "latitude": 62.3917269,
-      "longitude": 6.5803557,
-      "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_c8cf067d44543d71413a0dbf0b7e7ee5.webp?class=w768",
-      "url": "https://tikkio.com/events/65827-quarter-wolf-back-to-sykkylven-bankplassen-scene",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -5956,25 +5923,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-cbd56f8cf054b3b5b6e5f5c7d572f385",
-      "title": "Øystein Greni - Spiller Bigbang // Die Tankstelle",
-      "description": "<p>Stående konsert på Die Tankstelle</p><p>Baren åpner: 18:00</p><p>Dørene åpner 20:00</p><p>Konsertstart 21:00</p><p>Øystein Greni</p><p>-presenterer Bigbang solo</p><p>Etter en lang karriere som bandleder og låtskriver har Øystein Greni en låtkatalog som er få forunt, fylt med melodier og gitarriff som vil leve evig i norsk musikk. Bigbang er aktive som aldri før, men Greni finner også tid i en travel timeplan til å gjøre noen solokonserter. Der tar han det hele et par hakk ned og presenterer Bigbang i soloformat. Det betyr ikke at konserten bare byr på rolige låter - Greni er en fabelaktig gitarist som vet hvordan han skal underholde et publikum. Bli med på en intim kveld der du får oppleve mange av Bigbangs klassikere i et nært og akustisk format!</p>",
-      "start_at": "2026-09-12T20:00:00",
-      "end_at": "2026-09-12T23:00:00",
-      "is_free": true,
-      "location_name": "Die Tankstelle",
-      "city": "Ålesund",
-      "latitude": 62.7366654,
-      "longitude": 7.1558625,
-      "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_32e5a1e06ec8b2dbf14733e541670742.png?class=w768",
-      "url": "https://tikkio.com/events/64282-oystein-greni-spiller-bigbang-die-tankstelle",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-b090511399c44e1b35179452b127f819",
       "title": "Korpub // Die Tankstelle",
       "description": "<p>Bill. pris. 175 kr + avg. / 125 kr + avg. for studenter</p><p>Baren åpner: 16:00<br>Arrangementsstart: 20:00</p><p>Nynner du når du når du føler deg i godt humør? Synger du en og annen gang i dusjen? Hva skjer når du sitter alene i bilen og skrur opp radioen på høyt volum? Ønsker du deg å teste røsten sammen med likesinnede i en uformell setting der ingen krever annet enn at du blir med?</p><p>BLI MED PÅ MOLDES ENESTE PUBKOR!!</p><p>MYLDR og Die Tankstelle inviterer i samarbeid med artist Bård Watn og akkompagnatør og med-dirigent Ragnhild Barra Wisløff til en uforglemmelig kveld med pub og kor på Die Tankstelle.</p><p>Vi skal guide dere gjennom en kjent popsang, og trygt bevege oss fra å klamre oss til glasset mens vi prøver oss på en strofe til sammen å løfte taket i løpet av bare to timer. Dette blir GØY!</p>",
@@ -6271,7 +6219,8 @@
       "description": "Fredag 20. november på Die Tankstelle\r\nDørene åpner kl. 20:00\r\nKonsertstart kl. 21:00\r\n\r\nGiddy up! Embla and the Karidotters lager moderne, queer outlaw country, inspirert av alt mellom Willie Nelson og Shania Twain. Med humor, spilleglede og solide doser twang, er de i 2026 klare for å snu countrybransjen på hodet med sitt kommende tredjealbum.\r\n\r\nEmbla and the Karidotters er bandprosjektet til Razika-trommis Embla Karidotter. Etter at Razika ble lagt på is, samlet Embla sine «Karidotters» fra omkringliggende band som Slomosa, Honningbarna, Sløtface og Aiming for Enrike. Høsten 2022 kom debutalbumet Hello, I’m Embla som ble belønnet med Spellemannprisen for beste countryalbum. Oppfølgeren Off Leash ble sluppet i 2024 og ble nok en gang nominert til Spellemann i tillegg til at den satte E&TK på kartet også utenfor Norge. De to siste årene har bandet turnert Norge nærmest kontinuerlig, i tillegg til at de utenlands har spilt på festivaler som på  SXSW (US), Stagecoach (US), Cold Country (DK), SPOT (DK), Live At Heart (SE), Viva Sounds (SE), og Static Roots (DE).\r\n\r\nBandet koser seg med å levere konserter av høy kunstnerisk kvalitet og får publikum til å både danse, le og gråte. Musikken er ektefølt, du blir kjent med Emblas mørke humor både under og mellom låtene, og de avslutter alltid konsertene sine med å line dance seg av scenen. Kanskje byr de opp til dans etterpå også?",
       "start_at": "2026-11-20T20:00:00",
       "end_at": "2026-11-20T23:00:00",
-      "is_free": true,
+      "is_free": false,
+      "price_text": "NOK 368.00",
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "latitude": 62.7366654,
@@ -6448,22 +6397,6 @@
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_c1f24fb1a452542648becd504d92f2f6.webp?class=w768",
       "url": "https://tikkio.com/events/65664-kortreist-mat-at-musikk",
       "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "parken",
-      "source_id": "parken-49033-aalesund-folk-festival-festkonsert",
-      "title": "Aalesund Folk Festival Festkonsert",
-      "start_at": "2026-09-12T19:30:00",
-      "end_at": "2026-09-12T21:00:00",
-      "location_name": "Parken kulturhus – Foajeen",
-      "city": "Ålesund",
-      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F49033%2Fweb-square.webp?version=LTNXKnnESK8Hu8pXIf/AOw==",
-      "url": "https://www.parkenkulturhus.no/program/49033-aalesund-folk-festival-festkonsert/",
-      "tags": [
-        "musikk"
-      ],
       "age_groups": [],
       "is_recurring": false
     },
@@ -7583,58 +7516,6 @@
       "is_recurring": false,
       "start_at": null,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-37661-2026-09-12",
-      "title": "Vinkurs med tema “Musserende vin”",
-      "start_at": "2026-09-12T16:00:00",
-      "end_at": "2026-09-12T18:00:00",
-      "location_name": "Vino Bar",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/vinkurs-med-tema-musserende-vin-355-654-325-354-558-307-398/?occurrence=2026-09-12",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32516-2026-09-12",
-      "title": "Krystall – Hotel 1904",
-      "start_at": "2026-09-12T17:00:00",
-      "end_at": "2026-09-12T23:55:00",
-      "location_name": "Hotel 1904",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/krystall-hotel-1904-358/?occurrence=2026-09-12",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-38231-2026-09-12",
-      "title": "Den Norske Opera til Horisont Fosnavåg",
-      "start_at": "2026-09-12T17:00:00",
-      "end_at": "2026-09-12T22:00:00",
-      "location_name": "Horisont Fosnavåg",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/den-norske-opera-til-horisont-fosnavag/?occurrence=2026-09-12",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33122-2026-09-12",
-      "title": "Terje Sporsem & Jon Brungot: Høy og mørk",
-      "start_at": "2026-09-12T18:30:00",
-      "end_at": "2026-09-12T20:00:00",
-      "location_name": "",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/terje-sporsem-jon-brungot-hoy-og-mork/?occurrence=2026-09-12&time=1789237800",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -9767,229 +9648,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4d273203-4ba7-4965-b35c-1af093b722b7",
-      "title": "Coyote vs. Acme - Per Ulv på saken",
-      "start_at": "2026-09-12T16:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/88aeb55332f04007aae8d1fedd3f948f.jpg?width=1440&version=A383812A6C9EC798B5E1A10657B200F0",
-      "url": "https://www.odeonkino.no/film/coyote-vs-acme-per-ulv-pa-saken/",
-      "tags": [
-        "komedie",
-        "eventyr",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-43cd83cb-8012-43f6-b2bb-a1c191366b2d",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-09-12T17:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?width=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d9ec0e18-0128-44ac-bbe5-5825a9a7222f",
-      "title": "Coyote vs. Acme - Per Ulv på saken",
-      "start_at": "2026-09-12T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/88aeb55332f04007aae8d1fedd3f948f.jpg?width=1440&version=A383812A6C9EC798B5E1A10657B200F0",
-      "url": "https://www.odeonkino.no/film/coyote-vs-acme-per-ulv-pa-saken/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "eventyr",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-acb07e53-defa-459a-80c6-cefddf6f67d0",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-09-12T17:45:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?width=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a51983f5-46ae-4d7b-86d5-42528d90b8f2",
-      "title": "En nasjon i sjakk",
-      "start_at": "2026-09-12T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8c66656a2094a158e66eb9d698d1980.jpg?width=1440&version=CD9AF7C788A875FA30272EC9C5CC3C99",
-      "url": "https://www.odeonkino.no/film/en-nasjon-i-sjakk/",
-      "tags": [
-        "isense",
-        "thriller",
-        "spenning",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ce8f5c41-619e-4fbe-adb7-ba800c573b41",
-      "title": "Fjord",
-      "description": "Fjord er et aktuelt, spennende og tankevekkende familiedrama som utforsker kulturforskjeller og de skjøre grensene mellom privatliv og institusjonell makt.",
-      "start_at": "2026-09-12T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3cd03f1a53bd4ddbb12e5eeb6010befc.jpg?width=1440&version=8E7D099FB26FB5A844D40CB404287712",
-      "url": "https://www.odeonkino.no/film/fjord/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4821d3ae-fac9-4ba2-b90a-c4a7dbc6a222",
-      "title": "Harila - Nådeløse fjell",
-      "description": "De 14 høyeste fjellene i verden. På rekordtid.",
-      "start_at": "2026-09-12T19:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/10e3048238e6450a85ec118a07a3a7f4.jpg?width=1440&version=385597C08BEED5AB33797CFAE8F09D2C",
-      "url": "https://www.odeonkino.no/film/harila-nadelose-fjell/",
-      "tags": [
-        "dokumentar"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-0dd9ec2e-7f92-4794-942d-80ade7fe804c",
-      "title": "Practical Magic: Family Legacy",
-      "description": "Magien er tilbake!",
-      "start_at": "2026-09-12T20:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7e7aa39e5f4441d0b4854ad1fd0f2ee4.jpg?width=1440&version=D7A1A2E50A02A92215CA6850757F5846",
-      "url": "https://www.odeonkino.no/film/practical-magic-family-legacy/",
-      "tags": [
-        "luxe",
-        "fantasy",
-        "romantikk",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-40ee844b-ca6a-41fb-a948-aaf76d1b41c1",
-      "title": "Fjord",
-      "description": "Fjord er et aktuelt, spennende og tankevekkende familiedrama som utforsker kulturforskjeller og de skjøre grensene mellom privatliv og institusjonell makt.",
-      "start_at": "2026-09-12T20:40:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3cd03f1a53bd4ddbb12e5eeb6010befc.jpg?width=1440&version=8E7D099FB26FB5A844D40CB404287712",
-      "url": "https://www.odeonkino.no/film/fjord/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-3b9246e2-fbc4-4212-99c0-e986168bb0e5",
-      "title": "En nasjon i sjakk",
-      "start_at": "2026-09-12T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8c66656a2094a158e66eb9d698d1980.jpg?width=1440&version=CD9AF7C788A875FA30272EC9C5CC3C99",
-      "url": "https://www.odeonkino.no/film/en-nasjon-i-sjakk/",
-      "tags": [
-        "isense",
-        "thriller",
-        "spenning",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-1608d84d-51e4-4d01-8829-1207327dca59",
-      "title": "KUZMA",
-      "start_at": "2026-09-12T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f485bbcd93a543e6a03ce41cfca691c3.jpg?width=1440&version=68CF3243CB476178B9FAFA72F324C4D9",
-      "url": "https://www.odeonkino.no/film/kuzma/",
-      "tags": [
-        "luxe",
-        "flc",
-        "dokumentar",
-        "biografi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-357845eb-49f2-4aeb-8287-b1787bbb4b25",
-      "title": "Lave forventninger",
-      "description": "\"Lave forventninger\" er et emosjonelt og intimt drama om hvor langt du vil gå for å nå drømmene dine, spesielt når alt du gjør for å lykkes bare gjør deg ulykkelig.",
-      "start_at": "2026-09-12T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efec8da5ee534e07828403698f6c225c.jpg?width=1440&version=B7ED15A5E4BA4179CE839C7D42640750",
-      "url": "https://www.odeonkino.no/film/lave-forventninger/",
-      "tags": [
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
