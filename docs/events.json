@@ -1,53 +1,10 @@
 {
-  "generated_at": "2026-09-13T03:46:55.348203+00:00",
-  "total": 681,
+  "generated_at": "2026-09-13T11:18:09.361666+00:00",
+  "total": 669,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "title": "Friområde for hund",
-      "start_at": "2026-09-13T08:00:00",
-      "end_at": "2026-09-13T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/7a416626-c7f9-414f-baa3-0c21c027ff08",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-606c46cd-567e-48b7-8458-ee5553fd86c5",
-      "title": "Folkemusikkmesse i Ålesund kirke",
-      "start_at": "2026-09-13T11:00:00",
-      "end_at": "2026-09-13T13:00:00",
-      "is_free": false,
-      "location_name": "Ålesund Kyrkjelege Fellesråd",
-      "city": "Ålesund",
-      "organizer": "Ålesund Kyrkjelege Fellesråd",
-      "image_url": "https://ucarecdn.com/83fa11ac-2653-4802-b3dd-5790bf94c582/-/crop/1920x1004/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/606c46cd-567e-48b7-8458-ee5553fd86c5",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
     {
       "source": "friskus",
       "source_id": "friskus-856f0722-e12e-426c-a461-f4e15002ad04",
@@ -67,25 +24,6 @@
         "family"
       ],
       "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-8ee8c921-b5da-4ba7-811f-9c07bcf3a8f8",
-      "title": "Omvisning i Tyra Kleen - Evig søkende",
-      "start_at": "2026-09-13T12:00:00",
-      "end_at": "2026-09-13T12:30:00",
-      "is_free": false,
-      "location_name": "Jugendstilsenteret og KUBE /",
-      "city": "Ålesund",
-      "organizer": "Jugendstilsenteret og KUBE /",
-      "image_url": "https://ucarecdn.com/3933f9e0-33b9-46d9-9a55-77f6e597320b/-/crop/3388x1692/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/8ee8c921-b5da-4ba7-811f-9c07bcf3a8f8",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
     },
     {
       "source": "friskus",
@@ -3135,25 +3073,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-7a0ca462-a062-42e0-89aa-9b5753e7ee9f",
-      "title": "Søndagsskule",
-      "start_at": "2026-09-13T11:00:00",
-      "end_at": "2026-12-06T12:00:00",
-      "is_free": false,
-      "location_name": "Langevåg søndagsskule",
-      "city": "Ålesund",
-      "organizer": "Langevåg søndagsskule",
-      "image_url": "https://ucarecdn.com/9fc4b4a8-7f18-4fb1-9c3e-7e8a7232ea0b/-/crop/600x163/0,44/-/preview/",
-      "url": "https://alesund.friskus.com/events/7a0ca462-a062-42e0-89aa-9b5753e7ee9f",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "family"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-760248f4-1591-45c3-9209-1b4726ed8a97",
       "title": "Sogevandring på Molværgaard",
       "start_at": "2026-09-13T13:00:00",
@@ -3527,6 +3446,25 @@
       "tags": [],
       "age_groups": [
         "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a0ca462-a062-42e0-89aa-9b5753e7ee9f",
+      "title": "Søndagsskule",
+      "start_at": "2026-09-27T11:00:00",
+      "end_at": "2026-12-06T12:00:00",
+      "is_free": false,
+      "location_name": "Langevåg søndagsskule",
+      "city": "Ålesund",
+      "organizer": "Langevåg søndagsskule",
+      "image_url": "https://ucarecdn.com/9fc4b4a8-7f18-4fb1-9c3e-7e8a7232ea0b/-/crop/600x163/0,44/-/preview/",
+      "url": "https://alesund.friskus.com/events/7a0ca462-a062-42e0-89aa-9b5753e7ee9f",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "family"
       ],
       "is_recurring": true
     },
@@ -5269,7 +5207,7 @@
       "latitude": 62.4750203,
       "longitude": 6.1536567,
       "organizer": "TIKKIO AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3471/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/65841-ticketswap-festival-2026",
       "tags": [],
       "age_groups": [],
@@ -7541,32 +7479,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-09-13",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-09-13T10:00:00",
-      "end_at": "2026-09-13T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-09-13",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-25486-2026-09-13",
-      "title": "Aalesunds Museum",
-      "start_at": "2026-09-13T11:00:00",
-      "end_at": "2026-09-13T15:30:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum/?occurrence=2026-09-13",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-30716-2026-09-13",
       "title": "Åpen gård – Borgund Dyreklubb",
       "start_at": "2026-09-13T12:00:00",
@@ -9644,139 +9556,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-02435858-7593-4a39-8f5e-856823043e02",
-      "title": "Miss Moxy",
-      "start_at": "2026-09-13T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1b3df278ed094b849af0aa9f86113645.jpg?width=1440&version=1283221B596F3098B22BD492E286927C",
-      "url": "https://www.odeonkino.no/film/miss-moxy/",
-      "tags": [
-        "isense",
-        "familiefilm",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-0b347fd7-f966-4ec1-bc3b-001cfed51051",
-      "title": "Det lille spøkelset Laban",
-      "start_at": "2026-09-13T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2ce1afa7db504465abaad2acdbb5e739.jpg?width=1440&version=EC55055BECEBCAFC59B6AFB2D8856C28",
-      "url": "https://www.odeonkino.no/film/det-lille-spokelset-laban/",
-      "tags": [
-        "luxe",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d93baf38-cfa2-4971-b704-9aeec5e88c6b",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-09-13T10:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?width=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "luxe",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-85bcb0f7-0364-4357-908f-586465ba9dd6",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-09-13T11:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?width=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a18f781c-0ae1-4652-b2b4-c7b570f3a95b",
-      "title": "Coyote vs. Acme - Per Ulv på saken",
-      "start_at": "2026-09-13T11:20:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/88aeb55332f04007aae8d1fedd3f948f.jpg?width=1440&version=A383812A6C9EC798B5E1A10657B200F0",
-      "url": "https://www.odeonkino.no/film/coyote-vs-acme-per-ulv-pa-saken/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "eventyr",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-57c461a8-8287-41d8-9e17-ed59284d05ca",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-09-13T11:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?width=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-804df1c2-1c29-45c7-932e-a834e3a98937",
-      "title": "Oasis: Don't Look Back In Anger",
-      "description": "Oasis: Don't Look Back in Anger ser på en av tidenes største rocke-comeback; Liam og Noel Gallaghers triumferende gjenforeningsturné Oasis Live '25.",
-      "start_at": "2026-09-13T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/8816d5af04f4486682263a95fa6566ff.jpg?width=1440&version=99D76A59E06F20A5F2DC6A7DE85FB0DB",
-      "url": "https://www.odeonkino.no/film/oasis-dont-look-back-in-anger/",
-      "tags": [
-        "luxe",
-        "dokumentar",
-        "musikkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
