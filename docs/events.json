@@ -1,163 +1,10 @@
 {
-  "generated_at": "2026-09-14T03:55:24.933886+00:00",
-  "total": 639,
+  "generated_at": "2026-09-14T12:07:58.572018+00:00",
+  "total": 636,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-acf7c109-5dd3-4149-a02f-dd61a84677d2",
-      "title": "Gruffalo-veka",
-      "start_at": "2026-09-14T10:00:00",
-      "end_at": "2026-09-18T15:00:00",
-      "is_free": true,
-      "location_name": "Moa Bibliotek",
-      "city": "Ålesund",
-      "organizer": "Moa Bibliotek",
-      "image_url": "https://ucarecdn.com/3cece895-8507-493d-9e7c-9614b9ece79f/-/crop/720x591/0,111/-/preview/",
-      "url": "https://alesund.friskus.com/events/acf7c109-5dd3-4149-a02f-dd61a84677d2",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "family"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
-      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
-      "start_at": "2026-09-14T10:00:00",
-      "end_at": "2027-06-18T20:00:00",
-      "is_free": true,
-      "location_name": "Dagplass for personer med demens",
-      "city": "Ålesund",
-      "organizer": "Dagplass for personer med demens",
-      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
-      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-fd3cf089-fd4b-4773-85d6-707e40071b55",
-      "title": "Få hjelp av Kreftforeningens hverdagshjelp i Ålesund",
-      "start_at": "2026-09-14T10:00:00",
-      "end_at": "2028-06-05T22:00:00",
-      "is_free": true,
-      "location_name": "Kreftforeningen",
-      "city": "Ålesund",
-      "organizer": "Kreftforeningen",
-      "image_url": "https://ucarecdn.com/a788b2e4-169e-4d6c-a754-3bdb22a9c2d7/-/crop/1181x322/0,106/-/preview/",
-      "url": "https://alesund.friskus.com/events/fd3cf089-fd4b-4773-85d6-707e40071b55",
-      "tags": [],
-      "age_groups": [
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-70ada1f1-c592-46f7-a037-09be6fba244b",
-      "title": "LHL - Krakketrim - Nivå 1 på SIFtun",
-      "start_at": "2026-09-14T11:00:00",
-      "end_at": "2026-12-14T13:00:00",
-      "is_free": false,
-      "location_name": "LHL Ålesund Sula og Giske",
-      "city": "Ålesund",
-      "organizer": "LHL Ålesund Sula og Giske",
-      "image_url": "https://ucarecdn.com/7e85608e-01d2-49bb-9218-52fd347763f6/-/crop/550x288/0,9/-/preview/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/70ada1f1-c592-46f7-a037-09be6fba244b",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-070ae3b9-804a-4a1f-aabb-7d89d55f2557",
-      "title": "Bingo",
-      "start_at": "2026-09-14T11:30:00",
-      "end_at": "2027-06-21T12:30:00",
-      "is_free": false,
-      "location_name": "Klipra seniorsenter",
-      "city": "Ålesund",
-      "organizer": "Klipra seniorsenter",
-      "image_url": "https://ucarecdn.com/4fdf71ce-1f1c-4746-ad9c-e2637d35193c/-/crop/650x177/0,76/-/preview/",
-      "url": "https://alesund.friskus.com/events/070ae3b9-804a-4a1f-aabb-7d89d55f2557",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-86b03b20-4afd-4df6-80ee-d172aedb9705",
-      "title": "Sangkafeer",
-      "start_at": "2026-09-14T11:30:00",
-      "end_at": "2026-12-21T12:30:00",
-      "is_free": false,
-      "location_name": "Spjelkavik seniorsenter",
-      "city": "Ålesund",
-      "organizer": "Spjelkavik seniorsenter",
-      "image_url": "https://ucarecdn.com/4f0edd34-b073-4730-a8c3-dbcef6e13cb2/-/crop/1190x324/0,150/-/preview/",
-      "url": "https://alesund.friskus.com/events/86b03b20-4afd-4df6-80ee-d172aedb9705",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-a8b0578b-c4b7-4985-bd81-e82a280fc2e7",
-      "title": "Dans med Aspøy Seniordansering",
-      "start_at": "2026-09-14T12:00:00",
-      "end_at": "2026-12-07T14:30:00",
-      "is_free": true,
-      "location_name": "Ålesund frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Ålesund frivilligsentral",
-      "image_url": "https://ucarecdn.com/f048d761-23cd-4ddf-b774-53d7113c0588/-/crop/500x136/0,151/-/preview/",
-      "url": "https://alesund.friskus.com/events/a8b0578b-c4b7-4985-bd81-e82a280fc2e7",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-09-14T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
@@ -1249,6 +1096,28 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-2c399c20-5f55-43d4-9beb-12dd730b7005",
+      "title": "Internasjonal Kafè",
+      "start_at": "2026-09-19T13:00:00",
+      "end_at": "2026-12-12T15:00:00",
+      "is_free": false,
+      "location_name": "Ålesund Kyrkjelege Fellesråd",
+      "city": "Ålesund",
+      "organizer": "Ålesund Kyrkjelege Fellesråd",
+      "image_url": "https://ucarecdn.com/2c661c15-40f6-4c77-a52a-2a06b8255204/-/crop/1122x478/0,221/-/preview/",
+      "url": "https://alesund.friskus.com/events/2c399c20-5f55-43d4-9beb-12dd730b7005",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-eedd9d23-b5a0-44cc-b094-ead45d3f9598",
       "title": "Konsert med \"To strenge Herrer\"",
       "start_at": "2026-09-19T19:30:00",
@@ -1345,6 +1214,43 @@
         "pensioner"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-70ada1f1-c592-46f7-a037-09be6fba244b",
+      "title": "LHL - Krakketrim - Nivå 1 på SIFtun",
+      "start_at": "2026-09-21T11:00:00",
+      "end_at": "2026-12-14T13:00:00",
+      "is_free": false,
+      "location_name": "LHL Ålesund Sula og Giske",
+      "city": "Ålesund",
+      "organizer": "LHL Ålesund Sula og Giske",
+      "image_url": "https://ucarecdn.com/7e85608e-01d2-49bb-9218-52fd347763f6/-/crop/550x288/0,9/-/preview/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/70ada1f1-c592-46f7-a037-09be6fba244b",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-070ae3b9-804a-4a1f-aabb-7d89d55f2557",
+      "title": "Bingo",
+      "start_at": "2026-09-21T11:30:00",
+      "end_at": "2027-06-21T12:30:00",
+      "is_free": false,
+      "location_name": "Klipra seniorsenter",
+      "city": "Ålesund",
+      "organizer": "Klipra seniorsenter",
+      "image_url": "https://ucarecdn.com/4fdf71ce-1f1c-4746-ad9c-e2637d35193c/-/crop/650x177/0,76/-/preview/",
+      "url": "https://alesund.friskus.com/events/070ae3b9-804a-4a1f-aabb-7d89d55f2557",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -1598,6 +1504,24 @@
         "pensioner"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-86b03b20-4afd-4df6-80ee-d172aedb9705",
+      "title": "Sangkafeer",
+      "start_at": "2026-09-28T11:30:00",
+      "end_at": "2026-12-21T12:30:00",
+      "is_free": false,
+      "location_name": "Spjelkavik seniorsenter",
+      "city": "Ålesund",
+      "organizer": "Spjelkavik seniorsenter",
+      "image_url": "https://ucarecdn.com/4f0edd34-b073-4730-a8c3-dbcef6e13cb2/-/crop/1190x324/0,150/-/preview/",
+      "url": "https://alesund.friskus.com/events/86b03b20-4afd-4df6-80ee-d172aedb9705",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -2462,7 +2386,7 @@
       "location_name": "Ålesund Kyrkjelege Fellesråd",
       "city": "Ålesund",
       "organizer": "Ålesund Kyrkjelege Fellesråd",
-      "image_url": "https://ucarecdn.com/d1dbcd37-8fca-443e-98c5-066d9c128f86/-/crop/1452x396/106,0/-/preview/",
+      "image_url": "https://ucarecdn.com/8b85569c-91b5-4014-948b-11abfd01d2d2/-/crop/1452x396/93,0/-/preview/",
       "url": "https://alesund.friskus.com/events/a1585ea0-6094-458b-b54d-77f5520c5935",
       "tags": [],
       "age_groups": [
@@ -3031,6 +2955,28 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-oaaP9nfts2E37",
+      "title": "Introduksjon til vintertelting",
+      "start_at": "2027-01-09T14:00:00",
+      "end_at": "2027-01-09T15:00:00",
+      "is_free": false,
+      "location_name": "DNT Sunnmøre",
+      "city": "Ålesund",
+      "organizer": "DNT Sunnmøre",
+      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_622171",
+      "url": "https://alesund.friskus.com/events/oaaP9nfts2E37",
+      "tags": [
+        "friluftsliv",
+        "tur"
+      ],
+      "age_groups": [
+        "senior",
+        "teenager"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-3cb618eb-b41a-4603-a6c1-0e1e43f63177",
       "title": "Valentinskonsert",
       "start_at": "2027-02-14T17:00:00",
@@ -3427,6 +3373,26 @@
         "family"
       ],
       "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-4e17777e-22c0-4adf-add0-43f978abdcbd",
+      "title": "På sidelinja i Noreg - eit modig forsøk på å bli norsk v/Gert Rietman",
+      "start_at": "2026-10-20T18:00:00",
+      "end_at": "2026-10-20T19:30:00",
+      "is_free": true,
+      "location_name": "Sula bibliotek",
+      "city": "Ålesund",
+      "organizer": "Sula bibliotek",
+      "image_url": "https://ucarecdn.com/9b582600-cfb5-4082-beec-dd50f58b47d8/-/crop/1920x523/0,117/-/preview/",
+      "url": "https://alesund.friskus.com/events/4e17777e-22c0-4adf-add0-43f978abdcbd",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": false
     },
     {
       "source": "friskus",
@@ -3835,7 +3801,7 @@
       "source": "tikkio",
       "source_id": "tikkio-21f6193b204e116a8b6bf99782713497",
       "title": "50 år med The Beatles",
-      "description": "Det Betales - et norsk kulturfenomen\r\n\r\nDet er 50 år siden bandet Det Betales ble dannet av haldenseren Torleif Svendsen. Tor Henning Olsen og Odd Kleven var samtidig gang med sin duo The Two of us. Da Torleif og Tor møttes ble de raskt enige om å slå seg sammen og navnet Det Betales ble videreført.\r\nTorleif Svendsen døde tidlig på 80 tallet og Tor har siden den gang holdt bandet i gang.\r\n\r\nBandet har spilt over 50 konserter på The Cavern Club i Liverpool og Beatles manager Alan Williams utropte de til «The best Beatles tribute band in the world»  Ikke fordi de ligner på originalene utseendemessig, men fordi de har energi, musikalitet, humor og ekte kjærlighet til musikken de spiller.\r\n\r\nBandet er nå igang med sin 50 års jubileumsturne og skal spille på de største scenene over hele landet. På scenen stiller 6 profesjonelle musikere som er dedikert til Beatlesmusikken. De fleste har spilt i bandet i over 25 år. \r\n\r\nTor sin sønn Joachim er blitt en viktig del av bandet, og vil forhåpentligvis bringe Beatles arven videre inn i fremtiden til nye generasjoner. \r\n\r\nBesetning :\r\nRolf Øyvind Hæg - Trommer\r\nBernt Michael Johansen - Bass og vokal\r\nDag Svartskuren - Gitar\r\nErik Damberg - Key’s og gitar\r\nJoachim Olsen - Perkusjon og vokal\r\nTor Henning Olsen - Gitar og vokal",
+      "description": "<p>Det Betales - et norsk kulturfenomen</p><p>Det er 50 år siden bandet Det Betales ble dannet av haldenseren Torleif Svendsen. Tor Henning Olsen og Odd Kleven var samtidig gang med sin duo The Two of us. Da Torleif og Tor møttes ble de raskt enige om å slå seg sammen og navnet Det Betales ble videreført.</p><p>Torleif Svendsen døde tidlig på 80 tallet og Tor har siden den gang holdt bandet i gang.</p><p>Bandet har spilt over 50 konserter på The Cavern Club i Liverpool og Beatles manager Alan Williams utropte de til «The best Beatles tribute band in the world»  Ikke fordi de ligner på originalene utseendemessig, men fordi de har energi, musikalitet, humor og ekte kjærlighet til musikken de spiller.</p><p>Bandet er nå igang med sin 50 års jubileumsturne og skal spille på de største scenene over hele landet. På scenen stiller 6 profesjonelle musikere som er dedikert til Beatlesmusikken. De fleste har spilt i bandet i over 25 år.</p><p>Tor sin sønn Joachim er blitt en viktig del av bandet, og vil forhåpentligvis bringe Beatles arven videre inn i fremtiden til nye generasjoner.</p><p>Besetning :</p><p>Rolf Øyvind Hæg - Trommer</p><p>Bernt Michael Johansen - Bass og vokal</p><p>Dag Svartskuren - Gitar</p><p>Erik Damberg - Key’s og gitar</p><p>Joachim Olsen - Perkusjon og vokal</p><p>Tor Henning Olsen - Gitar og vokal</p>",
       "start_at": "2026-10-24T17:30:00",
       "end_at": "2026-10-24T20:00:00",
       "is_free": true,
@@ -5079,7 +5045,7 @@
       "source": "tikkio",
       "source_id": "tikkio-662bf61438ee26eaa707c34ee5fc4555",
       "title": "Restore Conference",
-      "description": "<p></p>",
+      "description": "<p>Restore Conference er mer enn noen dager med møter.</p><p>Vi setter av tid til å søke Gud, tilbe, lytte, bli formet og stå sammen som Kristi kropp.</p><p>Vi lengter etter en konferanse der mennesker møter Jesus, blir styrket i troen og går derfra med større klarhet, mot og forventning til det Gud gjør.</p><p>Vi tror Gud fortsatt gjenoppretter, forener og kaller mennesker nærmere seg og vi ønsker å skape rom for nettopp det. Vi tror også at det Gud gjør i mennesker, kan få ringvirkninger langt utover konferansen. Når mennesker blir fornyet i troen og utrustet til å leve ut evangeliet, kan det påvirke familier, menigheter, arbeidsplasser og lokalsamfunn og bidra til håp, enhet og forvandling i byen vår, regionen vår og landet vårt.</p><p><strong>Sett av 9.–11. oktober 2026.</strong></p><p><br>Vi gleder oss til å samles i Ålesund.</p>",
       "start_at": "2026-10-09T17:00:00",
       "end_at": "2026-10-11T15:00:00",
       "is_free": false,
@@ -5089,7 +5055,7 @@
       "latitude": 62.4737364,
       "longitude": 6.1585714,
       "organizer": "Restore Movement",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_a0d7e63b9f89fd2b661c48cb692b7504.webp?class=w768",
       "url": "https://tikkio.com/events/66284-restore-conference",
       "tags": [],
       "age_groups": [],
@@ -5149,7 +5115,7 @@
       "latitude": 62.4750203,
       "longitude": 6.1536567,
       "organizer": "TIKKIO AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/65841-ticketswap-festival-2026",
       "tags": [],
       "age_groups": [],
@@ -5218,7 +5184,7 @@
       "source_id": "tikkio-00c817a0bdd41e02ffded4dc83dadc5e",
       "title": "Pubkonsert med quiz",
       "description": "<p>Nørvøy Ungdomskorps med vår dirigent Tom Gontier har gleden av å invitere til ny pubkonsert med quiz på Fabrikken! I år har vi med oss Vigra og Valderøy Ungdomsmusikk med sin dirigent Terje Tafjord som våre gjester. Tradisjonen tro skal Sindre Nakken innta rollen som quizmaster. Han gleder seg til å geleide oss gjennom kvelden, som i år har temaet «Mord og mysterier». Har du kontroll på helter og skurker fra diverse filmer og tv-serier? Det finner vi ut av denne kvelden. Ta med deg dine beste quizvenner, og bli med å konkurrere om fine premier</p>",
-      "start_at": "2026-10-24T18:30:00",
+      "start_at": "2026-10-24T20:00:00",
       "end_at": "2026-10-25T00:00:00",
       "is_free": false,
       "price_text": "NOK 200.00",
@@ -5227,7 +5193,7 @@
       "latitude": 62.4733509,
       "longitude": 6.1456948,
       "organizer": "NØRVØY UNGDOMSKORPS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_505afe3c97d5c55ec6b201f9ce2f2cde.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_e4ad0906eac1c7f516e6d8a93589448a.webp?class=w768",
       "url": "https://tikkio.com/events/65970-pubkonsert-med-quiz",
       "tags": [],
       "age_groups": [],
@@ -5267,6 +5233,25 @@
       "organizer": "Fole Festlig Devoldfabrikken",
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_51b022c7a50a30c912c636bdbf8ba229.jpeg?class=w768",
       "url": "https://tikkio.com/events/64834-jaevelungen-magnus-jackson-krogh",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-d661451d5e13320909392f5a10997231",
+      "title": "Bli med UT!  Foredrag med Lars Monsen -  kun for studenter",
+      "description": "<p><strong>Bli med UT! Foredrag med Lars Monsen for studenter!</strong></p><p>Bli inspirert av en av Norges mest kjente eventyrere! Gjennom spektakulære historier fra ekspedisjoner i villmarken deler Lars Monsen erfaringer om å sette seg mål, takle motgang og våge å gå sin egen vei. Dette er et foredrag fylt med humor, sterke opplevelser og verdifulle refleksjoner om samhold, utholdenhet og hva som skal til for å lykkes. Lars utfordrer deg til å tenke større, tro på egne muligheter og forstå at nesten alt er mulig når du tør å satse.</p><p>Et inspirerende foredrag for studenter i Samfunnet for deg som ønsker motivasjon til studiehverdagen, karrieren og livet videre. Arrangementet er en del av Bli med UT dagen på Campus Ålesund og er et samarbeid mellom studentfrivilligheten, Sparebanken Møre, NTNU Ålesund, Momentium og Sit - Studentsamskipnaden i Gjøvik, Ålesund og Trondheim. Før arrangementet kl.16.15 vil det bli servert Sunnmørsk Middag for deg som har billett. Begrenset antall.  VELKOMMEN!</p>",
+      "start_at": "2026-09-17T16:30:00",
+      "end_at": "2026-09-17T22:00:00",
+      "is_free": true,
+      "location_name": "Samfunnet, Sundebygget Campus Ålesund",
+      "city": "Ålesund",
+      "latitude": 62.4720068,
+      "longitude": 6.2334481,
+      "organizer": "Sit- Studentsamskipnaden i Gjøvik, Ålesund og Trondheim",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_3604d306ac44db82f1f2e97d5b2e6189.webp?class=w768",
+      "url": "https://tikkio.com/events/66269-bli-med-ut-foredrag-med-lars-monsen-kun-for-studenter",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -7461,58 +7446,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-23231-2026-09-14",
-      "title": "Seniorsvømming",
-      "start_at": "2026-09-14T08:00:00",
-      "end_at": "2026-09-14T11:00:00",
-      "location_name": "Bybadet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/seniorsvomming/?occurrence=2026-09-14",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32362-2026-09-14",
-      "title": "Sommerfuglen Aktivitet",
-      "start_at": "2026-09-14T10:00:00",
-      "end_at": "2026-09-14T15:00:00",
-      "location_name": "Sommerfuglen Aktivitet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerfuglen-aktivitet/?occurrence=2026-09-14",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-09-14",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-09-14T10:00:00",
-      "end_at": "2026-09-14T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-09-14",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-09-14",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-09-14T12:00:00",
-      "end_at": "2026-09-14T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-09-14",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-39005-2026-09-14",
       "title": "Samlesing på Sula bibliotek",
       "start_at": "2026-09-14T18:00:00",
@@ -9463,78 +9396,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-43a05e0b-e854-4bd4-8dda-cd1a834750b1",
-      "title": "Harila - Nådeløse fjell",
-      "description": "De 14 høyeste fjellene i verden. På rekordtid.",
-      "start_at": "2026-09-14T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/10e3048238e6450a85ec118a07a3a7f4.jpg?width=1440&version=385597C08BEED5AB33797CFAE8F09D2C",
-      "url": "https://www.odeonkino.no/film/harila-nadelose-fjell/",
-      "tags": [
-        "luxe",
-        "dokumentar"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4e747a1b-2de3-48e1-a477-29552fe8411d",
-      "title": "En nasjon i sjakk",
-      "start_at": "2026-09-14T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8c66656a2094a158e66eb9d698d1980.jpg?width=1440&version=CD9AF7C788A875FA30272EC9C5CC3C99",
-      "url": "https://www.odeonkino.no/film/en-nasjon-i-sjakk/",
-      "tags": [
-        "luxe",
-        "thriller",
-        "spenning",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-bc505ac3-b9a6-4536-843c-59d6cf9b13cb",
-      "title": "Fjord",
-      "description": "Fjord er et aktuelt, spennende og tankevekkende familiedrama som utforsker kulturforskjeller og de skjøre grensene mellom privatliv og institusjonell makt.",
-      "start_at": "2026-09-14T12:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3cd03f1a53bd4ddbb12e5eeb6010befc.jpg?width=1440&version=8E7D099FB26FB5A844D40CB404287712",
-      "url": "https://www.odeonkino.no/film/fjord/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-edf04b48-0884-444c-b7aa-aa7e15ba2266",
-      "title": "Mutiny",
-      "description": "Når hans milliardærsjef blir drept rett foran øynene hans, blir elitesikkerhetsvakten Cole Reed (Jason Statham) gjort til syndebukk.",
-      "start_at": "2026-09-14T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/4fb799ca5aa94ba6a1a5d2f014a568b8.jpg?width=1440&version=30E8D3CED0F7C23A21BE65ADD4980ED8",
-      "url": "https://www.odeonkino.no/film/mutiny/",
-      "tags": [
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-c189f63f-aa8f-417e-8ed2-97df578505d4",
       "title": "The Odyssey",
       "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
@@ -9999,26 +9860,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-0d8e7c21-0efb-4cf6-8dfa-5652de3aadbe",
-      "title": "Practical Magic: Family Legacy",
-      "description": "Magien er tilbake!",
-      "start_at": "2026-09-15T15:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7e7aa39e5f4441d0b4854ad1fd0f2ee4.jpg?width=1440&version=D7A1A2E50A02A92215CA6850757F5846",
-      "url": "https://www.odeonkino.no/film/practical-magic-family-legacy/",
-      "tags": [
-        "luxe",
-        "fantasy",
-        "romantikk",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-4d289195-5bd4-4bcb-bb65-f96198e8822b",
       "title": "Spider-Man: Brand New Day",
       "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
@@ -10031,6 +9872,24 @@
         "isense",
         "eventyr",
         "superheltfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0759eda3-165b-421d-a94a-7fc03744bee7",
+      "title": "Harila - Nådeløse fjell",
+      "description": "De 14 høyeste fjellene i verden. På rekordtid.",
+      "start_at": "2026-09-15T15:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/10e3048238e6450a85ec118a07a3a7f4.jpg?width=1440&version=385597C08BEED5AB33797CFAE8F09D2C",
+      "url": "https://www.odeonkino.no/film/harila-nadelose-fjell/",
+      "tags": [
+        "luxe",
+        "dokumentar"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -10092,18 +9951,19 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-777f79d0-b415-4e1c-992a-9e95069fbba1",
-      "title": "KUZMA",
+      "source_id": "odeon-8e32ca3e-4e01-4d9c-9989-2d53fad4239c",
+      "title": "Practical Magic: Family Legacy",
+      "description": "Magien er tilbake!",
       "start_at": "2026-09-15T18:00:00",
       "location_name": "ODEON Ålesund – Sal 5 LUXE",
       "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f485bbcd93a543e6a03ce41cfca691c3.jpg?width=1440&version=68CF3243CB476178B9FAFA72F324C4D9",
-      "url": "https://www.odeonkino.no/film/kuzma/",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7e7aa39e5f4441d0b4854ad1fd0f2ee4.jpg?width=1440&version=D7A1A2E50A02A92215CA6850757F5846",
+      "url": "https://www.odeonkino.no/film/practical-magic-family-legacy/",
       "tags": [
         "luxe",
-        "flc",
-        "dokumentar",
-        "biografi"
+        "fantasy",
+        "romantikk",
+        "komedie"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -10111,9 +9971,9 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-c3f29922-83b8-4f0d-b942-74485186ad74",
+      "source_id": "odeon-a1e934ee-b49b-4162-a307-950e6446285c",
       "title": "Coyote vs. Acme - Per Ulv på saken",
-      "start_at": "2026-09-15T18:30:00",
+      "start_at": "2026-09-15T18:10:00",
       "location_name": "ODEON Ålesund – Sal 6 LUXE",
       "city": "Ålesund",
       "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/88aeb55332f04007aae8d1fedd3f948f.jpg?width=1440&version=A383812A6C9EC798B5E1A10657B200F0",
@@ -10205,6 +10065,24 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-9bd501b2-8762-463b-85eb-cbc58011bcd3",
+      "title": "Lave forventninger",
+      "description": "\"Lave forventninger\" er et emosjonelt og intimt drama om hvor langt du vil gå for å nå drømmene dine, spesielt når alt du gjør for å lykkes bare gjør deg ulykkelig.",
+      "start_at": "2026-09-15T20:40:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efec8da5ee534e07828403698f6c225c.jpg?width=1440&version=B7ED15A5E4BA4179CE839C7D42640750",
+      "url": "https://www.odeonkino.no/film/lave-forventninger/",
+      "tags": [
+        "luxe",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-c5efc5a1-8a56-44a1-8957-c9d6cdc1c20b",
       "title": "Practical Magic: Family Legacy",
       "description": "Magien er tilbake!",
@@ -10218,24 +10096,6 @@
         "fantasy",
         "romantikk",
         "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e479a5c8-6f5f-4293-85a6-d10398dbf877",
-      "title": "Lave forventninger",
-      "description": "\"Lave forventninger\" er et emosjonelt og intimt drama om hvor langt du vil gå for å nå drømmene dine, spesielt når alt du gjør for å lykkes bare gjør deg ulykkelig.",
-      "start_at": "2026-09-15T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efec8da5ee534e07828403698f6c225c.jpg?width=1440&version=B7ED15A5E4BA4179CE839C7D42640750",
-      "url": "https://www.odeonkino.no/film/lave-forventninger/",
-      "tags": [
-        "luxe",
-        "drama"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -11100,6 +10960,63 @@
     },
     {
       "source": "ticketmaster",
+      "source_id": "ticketmaster-Z698xZb_Z1k7wbt39",
+      "title": "Ålesund Live | Festivalpass",
+      "location_name": "Skutvika Havn",
+      "address": "Skutvika",
+      "city": "Ålesund",
+      "latitude": 62.46912,
+      "longitude": 6.13828,
+      "image_url": "https://s1.ticketm.net/dam/a/be6/c12188a9-5f80-4daf-8975-6bb6edb06be6_TABLET_LANDSCAPE_16_9.jpg",
+      "url": "https://www.ticketmaster.no/event/alesund-live-%7C-festivalpass-billetter/132629497",
+      "tags": [
+        "rock"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "start_at": null,
+      "end_at": null
+    },
+    {
+      "source": "ticketmaster",
+      "source_id": "ticketmaster-Z698xZb_Z1kuPGvuk",
+      "title": "Ålesund Live | Fredagspass",
+      "location_name": "Skutvika Havn",
+      "address": "Skutvika",
+      "city": "Ålesund",
+      "latitude": 62.46912,
+      "longitude": 6.13828,
+      "image_url": "https://s1.ticketm.net/dam/a/be6/c12188a9-5f80-4daf-8975-6bb6edb06be6_TABLET_LANDSCAPE_16_9.jpg",
+      "url": "https://www.ticketmaster.no/event/alesund-live-%7C-fredagspass-billetter/365301346",
+      "tags": [
+        "udefinert"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "start_at": null,
+      "end_at": null
+    },
+    {
+      "source": "ticketmaster",
+      "source_id": "ticketmaster-Z698xZb_Z16vb_Z0ZF",
+      "title": "Ålesund Live | Lørdagspass",
+      "location_name": "Skutvika Havn",
+      "address": "Skutvika",
+      "city": "Ålesund",
+      "latitude": 62.46912,
+      "longitude": 6.13828,
+      "image_url": "https://s1.ticketm.net/dam/a/be6/c12188a9-5f80-4daf-8975-6bb6edb06be6_TABLET_LANDSCAPE_16_9.jpg",
+      "url": "https://www.ticketmaster.no/event/alesund-live-%7C-lordagspass-billetter/1619024008",
+      "tags": [
+        "rock"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "start_at": null,
+      "end_at": null
+    },
+    {
+      "source": "ticketmaster",
       "source_id": "ticketmaster-Z698xZb_Z16voKOgA9",
       "title": "Bjørn Tomren prøver så godt han kan i Tomrefjord",
       "start_at": "2026-09-19T18:00:00",
@@ -11164,6 +11081,60 @@
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1067225/default_file-1788763689.jpeg",
       "url": "https://aafk.ticketco.events/no/nb/e/eliteserien_aalesund_-_sarpsborg_08",
+      "tags": [
+        "fotball"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "aafk",
+      "source_id": "aafk-24e2e731-eb08-4b4d-afc7-49524cfdc42b",
+      "title": "Eliteserien: Aalesund - Sandefjord",
+      "start_at": "2026-10-31T18:00:00",
+      "is_free": false,
+      "price_text": "50 kr",
+      "location_name": "Color Line Stadion",
+      "city": "Ålesund",
+      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1067227/default_default_event_image.png",
+      "url": "https://aafk.ticketco.events/no/nb/e/eliteserien_aalesund_-_sandefjord",
+      "tags": [
+        "fotball"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "aafk",
+      "source_id": "aafk-c05bbd8c-2d8d-47f4-9d3c-db1af4816d61",
+      "title": "Eliteserien: Aalesund - Rosenborg",
+      "start_at": "2026-11-22T17:00:00",
+      "is_free": false,
+      "price_text": "50 kr",
+      "location_name": "Color Line Stadion",
+      "city": "Ålesund",
+      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1067229/default_default_event_image.png",
+      "url": "https://aafk.ticketco.events/no/nb/e/eliteserien_aalesund_-_rosenborg",
+      "tags": [
+        "fotball"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "aafk",
+      "source_id": "aafk-12a539df-d617-4487-b02f-c626e86e7a35",
+      "title": "Eliteserien: Aalesund - Bodø\\u002FGlimt",
+      "start_at": "2026-12-05T16:00:00",
+      "is_free": false,
+      "price_text": "50 kr",
+      "location_name": "Color Line Stadion",
+      "city": "Ålesund",
+      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1067231/default_default_event_image.png",
+      "url": "https://aafk.ticketco.events/no/nb/e/eliteserien_aalesund_-_bodøu002fglimt",
       "tags": [
         "fotball"
       ],
