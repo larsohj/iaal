@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T20:29:36.581893+00:00",
-  "total": 640,
+  "generated_at": "2026-09-14T03:55:24.933886+00:00",
+  "total": 639,
   "failed_sources": [
     "viti"
   ],
@@ -5089,7 +5089,7 @@
       "latitude": 62.4737364,
       "longitude": 6.1585714,
       "organizer": "Restore Movement",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/66284-restore-conference",
       "tags": [],
       "age_groups": [],
@@ -9460,23 +9460,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-02f3143f-016e-48e6-b30e-e349fbd066fb",
-      "title": "Insidious: Out of the Further",
-      "start_at": "2026-09-13T21:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a87558b52c614e56b0b0c8b2be431568.jpg?width=1440&version=1085B578843068E12FAB91CE5F67945B",
-      "url": "https://www.odeonkino.no/film/insidious-out-of-the-further/",
-      "tags": [
-        "thriller",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
