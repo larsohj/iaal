@@ -1,63 +1,22 @@
 {
-  "generated_at": "2026-09-15T16:31:44.350404+00:00",
-  "total": 751,
+  "generated_at": "2026-09-15T20:59:40.161890+00:00",
+  "total": 744,
   "failed_sources": [
     "viti"
   ],
   "events": [
     {
       "source": "friskus",
-      "source_id": "friskus-30165da6-2d09-4e6c-987d-c8e60b0b3945",
-      "title": "LHL - Trim Nivå 3 - Volsdalen skole",
-      "start_at": "2026-09-15T17:30:00",
-      "end_at": "2026-12-08T19:00:00",
+      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
+      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
+      "start_at": "2026-09-16T10:00:00",
+      "end_at": "2027-06-18T20:00:00",
       "is_free": true,
-      "location_name": "LHL Ålesund Sula og Giske",
+      "location_name": "Dagplass for personer med demens",
       "city": "Ålesund",
-      "organizer": "LHL Ålesund Sula og Giske",
-      "image_url": "https://ucarecdn.com/fa8ebdae-a999-4e5f-82b7-f91858575625/-/crop/3217x1684/521,452/-/preview/",
-      "url": "https://alesund.friskus.com/events/30165da6-2d09-4e6c-987d-c8e60b0b3945",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-oaaRCr3qun-jw",
-      "title": "Tirsdagsklatring Ålesund (18-35år)",
-      "start_at": "2026-09-15T19:00:00",
-      "end_at": "2026-12-15T21:00:00",
-      "is_free": true,
-      "location_name": "DNT Sunnmøre",
-      "city": "Ålesund",
-      "organizer": "DNT Sunnmøre",
-      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_493782",
-      "url": "https://alesund.friskus.com/events/oaaRCr3qun-jw",
-      "tags": [
-        "friluftsliv",
-        "tur"
-      ],
-      "age_groups": [
-        "senior",
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-3fa816f7-e563-4d1b-9a91-3a5b4eea8bb9",
-      "title": "LHL -Vanntrim på Aspøy",
-      "start_at": "2026-09-15T19:15:00",
-      "end_at": "2026-12-08T21:00:00",
-      "is_free": true,
-      "location_name": "LHL Ålesund Sula og Giske",
-      "city": "Ålesund",
-      "organizer": "LHL Ålesund Sula og Giske",
-      "image_url": "https://ucarecdn.com/4781f658-3116-45a5-af31-3cedd1dbefcd/-/crop/3216x1684/378,452/-/preview/",
-      "url": "https://alesund.friskus.com/events/3fa816f7-e563-4d1b-9a91-3a5b4eea8bb9",
+      "organizer": "Dagplass for personer med demens",
+      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
+      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
       "tags": [],
       "age_groups": [
         "senior",
@@ -378,6 +337,26 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
+      "title": "Fellesverket – Møteplassen for ungdom i Ålesund",
+      "start_at": "2026-09-17T14:00:00",
+      "end_at": "2026-12-17T19:00:00",
+      "is_free": true,
+      "location_name": "Fellesverket Dragen",
+      "city": "Ålesund",
+      "organizer": "Fellesverket Dragen",
+      "image_url": "https://ucarecdn.com/5bdfad7e-4862-4303-b648-c12c7be60e43/-/crop/1000x272/0,106/-/preview/",
+      "url": "https://alesund.friskus.com/events/6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-9590fc29-9989-4391-ae1a-6ac982dad9be",
       "title": "Strikkekafe",
       "start_at": "2026-09-17T16:00:00",
@@ -390,6 +369,27 @@
       "url": "https://alesund.friskus.com/events/9590fc29-9989-4391-ae1a-6ac982dad9be",
       "tags": [],
       "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-43fbfab6-6c15-4ee0-877b-f0fb5511f5d3",
+      "title": "Fellesverket søker frivillige: Vil du være der for ungdommene?",
+      "start_at": "2026-09-17T16:30:00",
+      "end_at": "2026-12-31T19:00:00",
+      "is_free": true,
+      "location_name": "Fellesverket Dragen",
+      "city": "Ålesund",
+      "organizer": "Fellesverket Dragen",
+      "image_url": "https://ucarecdn.com/86e08a04-1898-4c9e-adc7-b4789057f13b/-/crop/1536x419/0,246/-/preview/",
+      "url": "https://alesund.friskus.com/events/43fbfab6-6c15-4ee0-877b-f0fb5511f5d3",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "family",
+        "senior",
         "pensioner"
       ],
       "is_recurring": true
@@ -1230,6 +1230,25 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-30165da6-2d09-4e6c-987d-c8e60b0b3945",
+      "title": "LHL - Trim Nivå 3 - Volsdalen skole",
+      "start_at": "2026-09-22T17:30:00",
+      "end_at": "2026-12-08T19:00:00",
+      "is_free": true,
+      "location_name": "LHL Ålesund Sula og Giske",
+      "city": "Ålesund",
+      "organizer": "LHL Ålesund Sula og Giske",
+      "image_url": "https://ucarecdn.com/fa8ebdae-a999-4e5f-82b7-f91858575625/-/crop/3217x1684/521,452/-/preview/",
+      "url": "https://alesund.friskus.com/events/30165da6-2d09-4e6c-987d-c8e60b0b3945",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-1c77243b-6f6b-44a5-b8b1-ddfd0816bcef",
       "title": "Inspirasjonsforedrag med Terrassehagen",
       "start_at": "2026-09-22T18:00:00",
@@ -1263,6 +1282,47 @@
         "senior"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-oaaRCr3qun-jw",
+      "title": "Tirsdagsklatring Ålesund (18-35år)",
+      "start_at": "2026-09-22T19:00:00",
+      "end_at": "2026-12-15T21:00:00",
+      "is_free": true,
+      "location_name": "DNT Sunnmøre",
+      "city": "Ålesund",
+      "organizer": "DNT Sunnmøre",
+      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_493782",
+      "url": "https://alesund.friskus.com/events/oaaRCr3qun-jw",
+      "tags": [
+        "friluftsliv",
+        "tur"
+      ],
+      "age_groups": [
+        "senior",
+        "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-3fa816f7-e563-4d1b-9a91-3a5b4eea8bb9",
+      "title": "LHL -Vanntrim på Aspøy",
+      "start_at": "2026-09-22T19:15:00",
+      "end_at": "2026-12-08T21:00:00",
+      "is_free": true,
+      "location_name": "LHL Ålesund Sula og Giske",
+      "city": "Ålesund",
+      "organizer": "LHL Ålesund Sula og Giske",
+      "image_url": "https://ucarecdn.com/4781f658-3116-45a5-af31-3cedd1dbefcd/-/crop/3216x1684/378,452/-/preview/",
+      "url": "https://alesund.friskus.com/events/3fa816f7-e563-4d1b-9a91-3a5b4eea8bb9",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -3017,43 +3077,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-e0bf08b8-ca8b-4ab6-a745-a3be77e7d07e",
-      "title": "LHL - Trim Niva 3 i Solevågshallen",
-      "start_at": "2026-09-15T16:45:00",
-      "end_at": "2026-12-08T18:30:00",
-      "is_free": true,
-      "location_name": "LHL Ålesund Sula og Giske",
-      "city": "Ålesund",
-      "organizer": "LHL Ålesund Sula og Giske",
-      "image_url": "https://ucarecdn.com/a76ee936-ab0b-4484-828c-97442a214089/-/crop/3217x1684/521,401/-/preview/",
-      "url": "https://alesund.friskus.com/events/e0bf08b8-ca8b-4ab6-a745-a3be77e7d07e",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-6aa8e122-f5d1-4a3c-832e-ec6b714649aa",
-      "title": "Barnekor",
-      "start_at": "2026-09-15T17:30:00",
-      "end_at": "2026-12-15T18:30:00",
-      "is_free": true,
-      "location_name": "Sula Frikirke",
-      "city": "Ålesund",
-      "organizer": "Sula Frikirke",
-      "image_url": "https://ucarecdn.com/3e5f378d-3bcc-4931-9e1c-5e6e0f69a4e8/-/crop/1917x448/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/6aa8e122-f5d1-4a3c-832e-ec6b714649aa",
-      "tags": [],
-      "age_groups": [
-        "children"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-70677e37-6cea-43a9-8cda-032c2ddd2457",
       "title": "Donken-ungdomsklubb onsdag",
       "start_at": "2026-09-16T14:30:00",
@@ -3338,6 +3361,25 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-e0bf08b8-ca8b-4ab6-a745-a3be77e7d07e",
+      "title": "LHL - Trim Niva 3 i Solevågshallen",
+      "start_at": "2026-09-22T16:45:00",
+      "end_at": "2026-12-08T18:30:00",
+      "is_free": true,
+      "location_name": "LHL Ålesund Sula og Giske",
+      "city": "Ålesund",
+      "organizer": "LHL Ålesund Sula og Giske",
+      "image_url": "https://ucarecdn.com/a76ee936-ab0b-4484-828c-97442a214089/-/crop/3217x1684/521,401/-/preview/",
+      "url": "https://alesund.friskus.com/events/e0bf08b8-ca8b-4ab6-a745-a3be77e7d07e",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-4cb9ce7b-64c7-47fd-9b51-cff755a1ea4b",
       "title": "Glennes Foreldreprogram",
       "start_at": "2026-09-22T17:00:00",
@@ -3352,6 +3394,24 @@
       "age_groups": [
         "children",
         "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-6aa8e122-f5d1-4a3c-832e-ec6b714649aa",
+      "title": "Barnekor",
+      "start_at": "2026-09-22T17:30:00",
+      "end_at": "2026-12-15T18:30:00",
+      "is_free": true,
+      "location_name": "Sula Frikirke",
+      "city": "Ålesund",
+      "organizer": "Sula Frikirke",
+      "image_url": "https://ucarecdn.com/3e5f378d-3bcc-4931-9e1c-5e6e0f69a4e8/-/crop/1917x448/0,0/-/preview/",
+      "url": "https://alesund.friskus.com/events/6aa8e122-f5d1-4a3c-832e-ec6b714649aa",
+      "tags": [],
+      "age_groups": [
+        "children"
       ],
       "is_recurring": true
     },
@@ -4726,7 +4786,7 @@
       "start_at": "2026-10-09T20:00:00",
       "end_at": "2026-10-09T23:00:00",
       "is_free": false,
-      "price_text": "NOK 299.00",
+      "price_text": "NOK 149.00",
       "location_name": "Terminalen",
       "city": "Ålesund",
       "latitude": 62.4702872,
@@ -5192,7 +5252,7 @@
       "latitude": 62.4750203,
       "longitude": 6.1536567,
       "organizer": "TIKKIO AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/65841-ticketswap-festival-2026",
       "tags": [],
       "age_groups": [],
@@ -6426,24 +6486,6 @@
     },
     {
       "source": "parken",
-      "source_id": "parken-41531-yoga-piano",
-      "title": "Yoga Piano",
-      "location_name": "Parken kulturhus – Foajeen",
-      "city": "Ålesund",
-      "organizer": "Høsten 2026",
-      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F41531%2Fweb-square.webp?version=PqKM2MvZUg1w9a6HSfIlvA==",
-      "url": "https://www.parkenkulturhus.no/program/41531-yoga-piano/",
-      "tags": [
-        "annet",
-        "yoga"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "start_at": null,
-      "end_at": null
-    },
-    {
-      "source": "parken",
       "source_id": "parken-45968-enkel-servering",
       "title": "Enkel servering",
       "start_at": "2026-09-16T19:00:00",
@@ -6746,6 +6788,24 @@
       ],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-41531-yoga-piano",
+      "title": "Yoga Piano",
+      "location_name": "Parken kulturhus – Foajeen",
+      "city": "Ålesund",
+      "organizer": "Høsten 2026",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F41531%2Fweb-square.webp?version=PqKM2MvZUg1w9a6HSfIlvA==",
+      "url": "https://www.parkenkulturhus.no/program/41531-yoga-piano/",
+      "tags": [
+        "annet",
+        "yoga"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "start_at": null,
+      "end_at": null
     },
     {
       "source": "parken",
@@ -9682,194 +9742,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8e32ca3e-4e01-4d9c-9989-2d53fad4239c",
-      "title": "Practical Magic: Family Legacy",
-      "description": "Magien er tilbake!",
-      "start_at": "2026-09-15T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7e7aa39e5f4441d0b4854ad1fd0f2ee4.jpg?w=1440&version=D7A1A2E50A02A92215CA6850757F5846",
-      "url": "https://www.odeonkino.no/film/practical-magic-family-legacy/",
-      "tags": [
-        "luxe",
-        "fantasy",
-        "romantikk",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a1e934ee-b49b-4162-a307-950e6446285c",
-      "title": "Coyote vs. Acme - Per Ulv på saken",
-      "start_at": "2026-09-15T18:10:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/88aeb55332f04007aae8d1fedd3f948f.jpg?w=1440&version=A383812A6C9EC798B5E1A10657B200F0",
-      "url": "https://www.odeonkino.no/film/coyote-vs-acme-per-ulv-pa-saken/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "eventyr",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-05544312-d828-4ecc-94b8-3c8d1b0bcbfe",
-      "title": "En nasjon i sjakk",
-      "start_at": "2026-09-15T18:40:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8c66656a2094a158e66eb9d698d1980.jpg?w=1440&version=CD9AF7C788A875FA30272EC9C5CC3C99",
-      "url": "https://www.odeonkino.no/film/en-nasjon-i-sjakk/",
-      "tags": [
-        "isense",
-        "thriller",
-        "spenning",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-902a4e4d-d472-41b1-aa87-a0c6b4e10907",
-      "title": "Harila - Nådeløse fjell",
-      "description": "De 14 høyeste fjellene i verden. På rekordtid.",
-      "start_at": "2026-09-15T19:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/10e3048238e6450a85ec118a07a3a7f4.jpg?w=1440&version=385597C08BEED5AB33797CFAE8F09D2C",
-      "url": "https://www.odeonkino.no/film/harila-nadelose-fjell/",
-      "tags": [
-        "dokumentar"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b987b2e0-acc7-4f30-a8fb-ed10c22f584a",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-09-15T20:10:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?w=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "luxe",
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-dd70a973-e046-4290-a7ea-9333021d48a6",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-09-15T20:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?w=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-9bd501b2-8762-463b-85eb-cbc58011bcd3",
-      "title": "Lave forventninger",
-      "description": "\"Lave forventninger\" er et emosjonelt og intimt drama om hvor langt du vil gå for å nå drømmene dine, spesielt når alt du gjør for å lykkes bare gjør deg ulykkelig.",
-      "start_at": "2026-09-15T20:40:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efec8da5ee534e07828403698f6c225c.jpg?w=1440&version=B7ED15A5E4BA4179CE839C7D42640750",
-      "url": "https://www.odeonkino.no/film/lave-forventninger/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c5efc5a1-8a56-44a1-8957-c9d6cdc1c20b",
-      "title": "Practical Magic: Family Legacy",
-      "description": "Magien er tilbake!",
-      "start_at": "2026-09-15T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7e7aa39e5f4441d0b4854ad1fd0f2ee4.jpg?w=1440&version=D7A1A2E50A02A92215CA6850757F5846",
-      "url": "https://www.odeonkino.no/film/practical-magic-family-legacy/",
-      "tags": [
-        "luxe",
-        "fantasy",
-        "romantikk",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ebd01fc1-9dfe-4c00-a80c-dedb024d50e3",
-      "title": "En nasjon i sjakk",
-      "start_at": "2026-09-15T21:15:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8c66656a2094a158e66eb9d698d1980.jpg?w=1440&version=CD9AF7C788A875FA30272EC9C5CC3C99",
-      "url": "https://www.odeonkino.no/film/en-nasjon-i-sjakk/",
-      "tags": [
-        "isense",
-        "thriller",
-        "spenning",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ec0ec0a8-5f8d-458c-ac29-ca6baa50ecc8",
-      "title": "Insidious: Out of the Further",
-      "start_at": "2026-09-15T21:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a87558b52c614e56b0b0c8b2be431568.jpg?w=1440&version=1085B578843068E12FAB91CE5F67945B",
-      "url": "https://www.odeonkino.no/film/insidious-out-of-the-further/",
-      "tags": [
-        "thriller",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
