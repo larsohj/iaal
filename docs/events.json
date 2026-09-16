@@ -1,68 +1,10 @@
 {
-  "generated_at": "2026-09-16T03:52:09.734697+00:00",
+  "generated_at": "2026-09-16T11:02:38.029751+00:00",
   "total": 745,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
-      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
-      "start_at": "2026-09-16T10:00:00",
-      "end_at": "2027-06-18T20:00:00",
-      "is_free": true,
-      "location_name": "Dagplass for personer med demens",
-      "city": "Ålesund",
-      "organizer": "Dagplass for personer med demens",
-      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
-      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-oaaNprBe8Gl46",
-      "title": "Seniorklatring Ålesund",
-      "start_at": "2026-09-16T10:00:00",
-      "end_at": "2026-12-16T12:00:00",
-      "is_free": true,
-      "location_name": "DNT Sunnmøre",
-      "city": "Ålesund",
-      "organizer": "DNT Sunnmøre",
-      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_584177",
-      "url": "https://alesund.friskus.com/events/oaaNprBe8Gl46",
-      "tags": [
-        "friluftsliv",
-        "tur"
-      ],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-1575f55e-58e5-47a5-bdc4-07ca98ae0a47",
-      "title": "Herregruppe",
-      "start_at": "2026-09-16T12:00:00",
-      "end_at": "2027-06-23T13:00:00",
-      "is_free": true,
-      "location_name": "Klipra seniorsenter",
-      "city": "Ålesund",
-      "organizer": "Klipra seniorsenter",
-      "image_url": "https://ucarecdn.com/e0ac9cfc-5652-498f-949f-02fe3678c70c/-/crop/800x218/0,115/-/preview/",
-      "url": "https://alesund.friskus.com/events/1575f55e-58e5-47a5-bdc4-07ca98ae0a47",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-3710f250-4713-4995-b194-04ab3ae63a0e",
@@ -1320,6 +1262,45 @@
       "tags": [],
       "age_groups": [
         "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-oaaNprBe8Gl46",
+      "title": "Seniorklatring Ålesund",
+      "start_at": "2026-09-23T10:00:00",
+      "end_at": "2026-12-16T12:00:00",
+      "is_free": true,
+      "location_name": "DNT Sunnmøre",
+      "city": "Ålesund",
+      "organizer": "DNT Sunnmøre",
+      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_584177",
+      "url": "https://alesund.friskus.com/events/oaaNprBe8Gl46",
+      "tags": [
+        "friluftsliv",
+        "tur"
+      ],
+      "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-1575f55e-58e5-47a5-bdc4-07ca98ae0a47",
+      "title": "Herregruppe",
+      "start_at": "2026-09-23T12:00:00",
+      "end_at": "2027-06-23T13:00:00",
+      "is_free": true,
+      "location_name": "Klipra seniorsenter",
+      "city": "Ålesund",
+      "organizer": "Klipra seniorsenter",
+      "image_url": "https://ucarecdn.com/e0ac9cfc-5652-498f-949f-02fe3678c70c/-/crop/800x218/0,115/-/preview/",
+      "url": "https://alesund.friskus.com/events/1575f55e-58e5-47a5-bdc4-07ca98ae0a47",
+      "tags": [],
+      "age_groups": [
         "pensioner"
       ],
       "is_recurring": true
@@ -3515,28 +3496,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-4099e8e2-02df-4c0a-880e-02130c8fd1c7",
-      "title": "Biblioteket er ope :)",
-      "start_at": "2026-09-16T10:30:00",
-      "end_at": "2026-09-25T15:30:00",
-      "is_free": true,
-      "location_name": "Giske folkebibliotek",
-      "city": "Ålesund",
-      "organizer": "Giske folkebibliotek",
-      "image_url": "https://ucarecdn.com/291cb93f-fd25-460e-a4da-21b6d9547361/-/crop/1200x328/0,170/-/preview/",
-      "url": "https://alesund.friskus.com/events/4099e8e2-02df-4c0a-880e-02130c8fd1c7",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-d5506892-f0a1-4988-9f24-be1968946796",
       "title": "Naturmøteplass i Sandvika på Roald",
       "start_at": "2026-09-16T12:00:00",
@@ -3576,6 +3535,24 @@
         "family",
         "senior",
         "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-e7d7a721-b85e-445b-a274-92bac52bf7a6",
+      "title": "Gospelkorøving",
+      "start_at": "2026-09-24T20:00:00",
+      "end_at": "2026-11-12T21:30:00",
+      "is_free": true,
+      "location_name": "Giske kyrkjelege fellesråd",
+      "city": "Ålesund",
+      "organizer": "Giske kyrkjelege fellesråd",
+      "image_url": "https://ucarecdn.com/d397d3a7-3413-4d6a-ab82-9ecfa0049899/-/crop/1054x288/0,464/-/preview/",
+      "url": "https://alesund.friskus.com/events/e7d7a721-b85e-445b-a274-92bac52bf7a6",
+      "tags": [],
+      "age_groups": [
+        "senior"
       ],
       "is_recurring": true
     },
@@ -3721,6 +3698,26 @@
       "is_recurring": false
     },
     {
+      "source": "friskus",
+      "source_id": "friskus-3fe2ad08-6976-4cae-a227-a06425575ab5",
+      "title": "Gospel og kafé",
+      "start_at": "2026-10-22T20:00:00",
+      "end_at": "2026-11-26T22:00:00",
+      "is_free": false,
+      "location_name": "Giske kyrkjelege fellesråd",
+      "city": "Ålesund",
+      "organizer": "Giske kyrkjelege fellesråd",
+      "image_url": "https://ucarecdn.com/57d848d7-b6a3-4aeb-bc7f-caae4c4cf873/-/crop/1182x322/0,235/-/preview/",
+      "url": "https://alesund.friskus.com/events/3fe2ad08-6976-4cae-a227-a06425575ab5",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
       "source": "tikkio",
       "source_id": "tikkio-7075bc62648417c532e2b4212d73b342",
       "title": "Mannskoret Varde 100 års Jubileumskonsert",
@@ -3796,6 +3793,25 @@
       "organizer": "ÅLESUND KAMMERMUSIKKFESTIVAL",
       "image_url": "https://cdn.tikkio.com/static/1.0.3480/uploads/event/c_7bdd1f8d14fbe980fd3dfb1b08d13623.webp?class=w768",
       "url": "https://tikkio.com/events/65879-nar-barokken-moter-nord",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-6bd3ed53ca343c9eb6b29386e980d23a",
+      "title": "Kimbofestival",
+      "description": "Join us for Kimbofestival. More details about this event will be published soon.",
+      "start_at": "2026-09-23T12:55:00",
+      "end_at": "2026-09-24T12:55:00",
+      "is_free": true,
+      "location_name": "kimboslice",
+      "city": "Ålesund",
+      "latitude": 62.4710978,
+      "longitude": 6.1558168,
+      "organizer": "kimbo",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-2.jpeg?class=w768",
+      "url": "https://tikkio.com/events/66369-kimbofestival",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -5246,13 +5262,13 @@
       "start_at": "2026-09-16T12:00:00",
       "end_at": "2026-09-28T14:00:00",
       "is_free": false,
-      "price_text": "NOK 10.00",
+      "price_text": "NOK 1.00",
       "location_name": "Tollbugata 2",
       "city": "Ålesund",
       "latitude": 62.4750203,
       "longitude": 6.1536567,
       "organizer": "TIKKIO AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/65841-ticketswap-festival-2026",
       "tags": [],
       "age_groups": [],
@@ -5606,6 +5622,25 @@
       "organizer": "Musikk i Sentrum",
       "image_url": "https://cdn.tikkio.com/static/1.0.3480/uploads/event/c_76f4589b42f125a76f337d1db40962d1.webp?class=w768",
       "url": "https://tikkio.com/events/66159-brothers-in-arms-a-tribute-to-dire-straits-17okt-stodt-bar-scene",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-01a9d6fd4649304ba380455c8119cffb",
+      "title": "Tangokonsert med Symfoniorkesteret ved Høgskulen i Volda",
+      "description": "<p>Symfoniorkesteret ved Høgskulen i Volda inviterer til tangokonsert med danseframsyning av Mariano Pignatiello og Aleksandra Kliuchko.  <br>Søndag 18. oktober 2026 kl 18:00 på Berte Kanutte, ved Høgskulen i Volda (Joplassvegen 11) får de høyre høgskuleorkesteret spele flott argentinsk tangomusikk med Øyvind Skatvedt Robak på bandòneon, og oppleve fantastisk tangodans. Vel møtt! Dirigent: Miki Campins<br><br>Laurdag 17. oktober frå kl 17:30-22:00 på Uppheim, Gymnasvegen 6, vert det høve til å lære seg å danse tango med desse to som instruktørar. Då blir det eit kurs i tango. Frå 19:00-22:00 har vi milonga, sosial tangofest. Ta med deg dansepartnaren din eller berre deg sjølv og dans til Øyvind S. Robak sitt fantastiske tangospel på bandòneon. <br>Billettpris på milonga: 250 kr<br>Konsert: 350 kr (Sal i døra og på Tikkio)<br>Student/born: Gratis<br>Ta med familien på konsert. Vel møtt!</p>",
+      "start_at": "2026-10-18T17:00:00",
+      "end_at": "2026-10-18T20:00:00",
+      "is_free": true,
+      "location_name": "Berte Kanutte",
+      "city": "Ålesund",
+      "latitude": 62.147909,
+      "longitude": 6.0825715,
+      "organizer": "Symfoniorkesteret ved Høgskulen i Volda",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3480/uploads/event/c_edcde61d0b3ca747d398e0888f4a523b.webp?class=w768",
+      "url": "https://tikkio.com/events/66352-tangokonsert-med-symfoniorkesteret-ved-hogskulen-i-volda",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -6412,6 +6447,25 @@
     },
     {
       "source": "tikkio",
+      "source_id": "tikkio-26eb0ca4ed428d3f9a3986a9d9c97863",
+      "title": "Konsert med Odd-Erik Lothe på Creperiet",
+      "description": "<p>I september 2025 feira Odd-Erik Lothe 30 år som plateartist i eit stappfullt Operahus med ein haug med utvalde gjester. Odd-Erik har sidan fortsett å feire jubileum med fleire turnear og opptredenar på aust- og vestland. Til Crêperiet kjem han aleine med gitaren til ei intim og nær stund der røysta, tekstane og fortjeljingane rundt songane står i sentrum. <br><br>Heilt sidan den fyrste tida med Fabel og gjennombruddslåta Jordbær og grasbrann har han skapt seg ein tydelig identitet som artist med ei lett gjennkjenneleg røyst og tekstar på uforfalska nordfjordmål. Heile tida er det visesjangeren som har vore i fokus, sjølv om han undervegs har lefla med både rockabilly, rootsrock og humor. Samarbeid med andre har det vore mange av, så som Mighty Magnolias, Olav Stedje, Finn Tokvam, Sigrid Moldestad, og Rita Eriksen for å nemne nokon. I tillegg til Fabel har også Odd-Erik Krom, Green Granadas og Finn-Erix under vesten. Alt i alt har dette resultert i 14 album. <br><br>Sidan han framleis feirar jubileum, vil det dukke opp element frå det meste av fartstida hans, samt ei og anna overrasking. <br><br>Dette blir ein intim og nær staskveld.<br><br>Tid: 14.november 2026<br>Dørene opnar: kl 19.00 <br>Konsertstart: 20.00 <br>Billettpris: 250,- + avgift<br><br>Etter konserten blir det open bar, og barsnacks-meny (Croque Monsieur osv).<br><br>NB: 18års aldersgrense pga rettigheitar <br><br>Vel møtt!<img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t14/2/16/1f618.png\" alt=\"😘\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"></p>",
+      "start_at": "2026-11-14T19:00:00",
+      "end_at": "2026-11-14T23:00:00",
+      "is_free": true,
+      "location_name": "Creperiet",
+      "city": "Ålesund",
+      "latitude": 61.9120409,
+      "longitude": 5.985718,
+      "organizer": "ODD-ERIK LOTHE",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3480/uploads/event/c_ab0571aeb9d92cc8ce1e9d2e44e61aa4.webp?class=w768",
+      "url": "https://tikkio.com/events/66335-konsert-med-odd-erik-lothe-pa-creperiet",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
       "source_id": "tikkio-4c8c2b9e6ac7eaaec8641202dad1cf09",
       "title": "Rossman Magnifikk 30.Okt.26",
       "description": "Rossman Solo 2026\r\nDører opnar kl.19\r\nKonsertstart kl.21\r\n\r\nRossman er artisten som den litt rare tanten din elsker, men som også din lillebror har plakater av på veggene. \r\nEn visesanger i bunn, men i sin konstante søken på nye idéer og impulser så ramler musikken innom både rock, country og blues. Alt med sine særegne norske tekster. \r\nNå står han helt alene på scenen med gitaren og kofferten full av sanger og historier. Det er nesten som en blanding av standup og konsert, med mye humor, men det er hvordan Rossman knytter sammen det lyse og det mørke som gjør konsertene hans til noe eget. \r\nArtisten fra vestlandet har spilt på by:Larm, spilt konsert i Oslo Spektrum med NRK-podcasten \"Berrum og Beyer\", spilt for fulle hus på Parkteatret og John Dee i Oslo, solgt ut konserter på Haugalandet og begynner på alvor å etablere seg som en av landets mest lovende live-artister. \r\nMed fire utgitte studioalbum og 250+ konserter foran alt fra 8 til 8000 folk over hele Norge under beltet er det ingen tvil om at Rossman er en artist man bør få med seg!",
@@ -6684,23 +6738,6 @@
       "url": "https://www.parkenkulturhus.no/program/46346-hivju-the-garbage-king/",
       "tags": [
         "hostscena"
-      ],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "parken",
-      "source_id": "parken-49151-villskap",
-      "title": "Villskap",
-      "start_at": "2026-09-27T14:00:00",
-      "end_at": "2026-09-27T15:00:00",
-      "location_name": "Parken kulturhus – Foajeen",
-      "city": "Ålesund",
-      "organizer": "Høstscena",
-      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F49151%2Fweb-square.webp?version=DrzY2vs8zDZinKuu1dMJMA==",
-      "url": "https://www.parkenkulturhus.no/program/49151-villskap/",
-      "tags": [
-        "dans"
       ],
       "age_groups": [],
       "is_recurring": false
@@ -7268,6 +7305,24 @@
     },
     {
       "source": "parken",
+      "source_id": "parken-49425-velvet-christmas",
+      "title": "Velvet Christmas",
+      "start_at": "2026-12-12T19:00:00",
+      "end_at": "2026-12-12T20:45:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Aalesund Big Band / Piker, Vin og Sang",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F49425%2Fweb-square.webp?version=9UROVTXlhQIfwxcdVxDpVA==",
+      "url": "https://www.parkenkulturhus.no/program/49425-velvet-christmas/",
+      "tags": [
+        "julekonsert",
+        "konsert"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
       "source_id": "parken-44202-christel-alsos",
       "title": "Christel Alsos",
       "start_at": "2026-12-13T19:00:00",
@@ -7506,21 +7561,6 @@
     },
     {
       "source": "bibliotek",
-      "source_id": "bibliotek-33723",
-      "title": "Gruffaloveke",
-      "start_at": "2026-09-16T10:00:00",
-      "is_free": true,
-      "location_name": "Moa bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i105241e3-c84b-4b47-8767-08b6801ee0d3/w300/k343572749c54/moa-bibliotek-presenterer-1920-x-1080-px-1.png",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33723&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bibliotek",
       "source_id": "bibliotek-33675",
       "title": "Strikkekafé på Ålesund bibliotek",
       "start_at": "2026-09-16T12:00:00",
@@ -7638,32 +7678,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32362-2026-09-16",
-      "title": "Sommerfuglen Aktivitet",
-      "start_at": "2026-09-16T10:00:00",
-      "end_at": "2026-09-16T15:00:00",
-      "location_name": "Sommerfuglen Aktivitet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerfuglen-aktivitet/?occurrence=2026-09-16",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-09-16",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-09-16T10:00:00",
-      "end_at": "2026-09-16T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-09-16",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -9760,61 +9774,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-393120f1-7fa5-45e5-a7e7-ed9a60ae9bc9",
-      "title": "En nasjon i sjakk",
-      "start_at": "2026-09-16T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8c66656a2094a158e66eb9d698d1980.jpg?w=1440&version=CD9AF7C788A875FA30272EC9C5CC3C99",
-      "url": "https://www.odeonkino.no/film/en-nasjon-i-sjakk/",
-      "tags": [
-        "luxe",
-        "thriller",
-        "spenning",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4cfae12a-8aa7-47af-80a6-add19fe23089",
-      "title": "Lave forventninger",
-      "description": "\"Lave forventninger\" er et emosjonelt og intimt drama om hvor langt du vil gå for å nå drømmene dine, spesielt når alt du gjør for å lykkes bare gjør deg ulykkelig.",
-      "start_at": "2026-09-16T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efec8da5ee534e07828403698f6c225c.jpg?w=1440&version=B7ED15A5E4BA4179CE839C7D42640750",
-      "url": "https://www.odeonkino.no/film/lave-forventninger/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-aa3fc2b1-d800-4c6c-a79d-5281b849c3f2",
-      "title": "Harila - Nådeløse fjell",
-      "description": "De 14 høyeste fjellene i verden. På rekordtid.",
-      "start_at": "2026-09-16T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/10e3048238e6450a85ec118a07a3a7f4.jpg?w=1440&version=385597C08BEED5AB33797CFAE8F09D2C",
-      "url": "https://www.odeonkino.no/film/harila-nadelose-fjell/",
-      "tags": [
-        "luxe",
-        "dokumentar"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-c5d3706c-3c8c-40fe-b9d9-d12c248b516b",
       "title": "Mutiny",
       "description": "Når hans milliardærsjef blir drept rett foran øynene hans, blir elitesikkerhetsvakten Cole Reed (Jason Statham) gjort til syndebukk.",
@@ -11581,17 +11540,18 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-9d47c09c-6cb1-45d3-96f3-68cb2538b93c",
-      "title": "Harila - Nådeløse fjell",
-      "description": "De 14 høyeste fjellene i verden. På rekordtid.",
+      "source_id": "odeon-b4044a53-2562-4e83-9b16-ec971745b5aa",
+      "title": "KUZMA",
       "start_at": "2026-09-20T18:10:00",
       "location_name": "ODEON Ålesund – Sal 5 LUXE",
       "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/10e3048238e6450a85ec118a07a3a7f4.jpg?w=1440&version=385597C08BEED5AB33797CFAE8F09D2C",
-      "url": "https://www.odeonkino.no/film/harila-nadelose-fjell/",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/f485bbcd93a543e6a03ce41cfca691c3.jpg?w=1440&version=68CF3243CB476178B9FAFA72F324C4D9",
+      "url": "https://www.odeonkino.no/film/kuzma/",
       "tags": [
         "luxe",
-        "dokumentar"
+        "flc",
+        "dokumentar",
+        "biografi"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -11654,26 +11614,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-3c3706a7-2f82-4dd1-864b-4da28f0c1048",
-      "title": "Practical Magic: Family Legacy",
-      "description": "Magien er tilbake!",
-      "start_at": "2026-09-20T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7e7aa39e5f4441d0b4854ad1fd0f2ee4.jpg?w=1440&version=D7A1A2E50A02A92215CA6850757F5846",
-      "url": "https://www.odeonkino.no/film/practical-magic-family-legacy/",
-      "tags": [
-        "luxe",
-        "fantasy",
-        "romantikk",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-b0931dbc-6c11-48d7-b192-9572f0c2105a",
       "title": "En nasjon i sjakk",
       "start_at": "2026-09-20T20:45:00",
@@ -11686,6 +11626,24 @@
         "thriller",
         "spenning",
         "action"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-40ecd2ab-5780-4586-a78f-71013595cd10",
+      "title": "Harila - Nådeløse fjell",
+      "description": "De 14 høyeste fjellene i verden. På rekordtid.",
+      "start_at": "2026-09-20T21:10:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/10e3048238e6450a85ec118a07a3a7f4.jpg?w=1440&version=385597C08BEED5AB33797CFAE8F09D2C",
+      "url": "https://www.odeonkino.no/film/harila-nadelose-fjell/",
+      "tags": [
+        "luxe",
+        "dokumentar"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -11728,17 +11686,17 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-3f9e366e-80c0-4757-a6b9-a118eeadaddc",
-      "title": "Coyote vs. Acme - Per Ulv på saken",
-      "start_at": "2026-09-21T12:10:00",
+      "source_id": "odeon-1e507628-354d-47dd-a351-6cdd38d63176",
+      "title": "Spider-Man: Brand New Day",
+      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
+      "start_at": "2026-09-21T12:30:00",
       "location_name": "ODEON Ålesund – Sal 3",
       "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/88aeb55332f04007aae8d1fedd3f948f.jpg?w=1440&version=A383812A6C9EC798B5E1A10657B200F0",
-      "url": "https://www.odeonkino.no/film/coyote-vs-acme-per-ulv-pa-saken/",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?w=1440&version=19D053F5FEB8D998EA3782485544708E",
+      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
       "tags": [
-        "komedie",
         "eventyr",
-        "animasjon"
+        "superheltfilm"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -12961,7 +12919,7 @@
       "source": "ticketmaster",
       "source_id": "ticketmaster-Z698xZb_Z16vQ9O_uK",
       "title": "Vamp i kapellet",
-      "start_at": "2027-03-05T18:00:00",
+      "start_at": "2027-03-05T19:00:00",
       "location_name": "Herøy Kyrkje",
       "address": "Lisjebøvegen 1",
       "city": "Fosnavåg",
@@ -12997,24 +12955,6 @@
     },
     {
       "source": "aafk",
-      "source_id": "aafk-5d24bb6a-02f7-45f3-926e-facd3528ce0a",
-      "title": "Bli med AaFK-båten til Molde!",
-      "start_at": "2026-09-19T15:00:00",
-      "is_free": false,
-      "price_text": "500 kr",
-      "location_name": "Color Line Stadion",
-      "city": "Ålesund",
-      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1198853/default_file-1789033104.png",
-      "url": "https://aafk.ticketco.events/no/nb/e/bli_med_aafk-båten_til_molde",
-      "tags": [
-        "fotball"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "aafk",
       "source_id": "aafk-0a78a2a1-d41c-4a0e-940f-74faa814d686",
       "title": "Toppserien: AaFK - Molde",
       "start_at": "2026-09-20T15:00:00",
@@ -13024,6 +12964,24 @@
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1084520/default_file-1789029288.jpeg",
       "url": "https://aafk.ticketco.events/no/nb/e/toppserien_aafk_-_molde",
+      "tags": [
+        "fotball"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "aafk",
+      "source_id": "aafk-5d24bb6a-02f7-45f3-926e-facd3528ce0a",
+      "title": "Bli med AaFK-båten til Molde!",
+      "start_at": "2026-09-19T15:00:00",
+      "is_free": false,
+      "price_text": "500 kr",
+      "location_name": "Rådhsukaia, Ålesund",
+      "city": "Ålesund",
+      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1198853/default_file-1789033104.png",
+      "url": "https://aafk.ticketco.events/no/nb/e/bli_med_aafk-båten_til_molde",
       "tags": [
         "fotball"
       ],
@@ -13051,6 +13009,42 @@
     },
     {
       "source": "aafk",
+      "source_id": "aafk-2608c474-e5af-49c6-bd73-b8f3ba0e96a5",
+      "title": "Toppserien: AaFK Kvinner - Røa",
+      "start_at": "2026-10-16T18:00:00",
+      "is_free": false,
+      "price_text": "50 kr",
+      "location_name": "Color Line Stadion",
+      "city": "Ålesund",
+      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1084523/default_file-1789550568.jpeg",
+      "url": "https://aafk.ticketco.events/no/nb/e/toppserien_aafk_kvinner_-_røa",
+      "tags": [
+        "fotball"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "aafk",
+      "source_id": "aafk-71ff287b-9136-413a-ac5d-f64229585d91",
+      "title": "Toppserien: AaFK Kvinner - LSK Kvinner",
+      "start_at": "2026-10-24T14:00:00",
+      "is_free": false,
+      "price_text": "50 kr",
+      "location_name": "Color Line Stadion",
+      "city": "Ålesund",
+      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1084527/default_file-1789550682.jpeg",
+      "url": "https://aafk.ticketco.events/no/nb/e/toppserien_aafk_kvinner_-_lsk_kvinner",
+      "tags": [
+        "fotball"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "aafk",
       "source_id": "aafk-24e2e731-eb08-4b4d-afc7-49524cfdc42b",
       "title": "Eliteserien: Aalesund - Sandefjord",
       "start_at": "2026-10-31T18:00:00",
@@ -13060,6 +13054,24 @@
       "city": "Ålesund",
       "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1067227/default_file-1789475971.jpeg",
       "url": "https://aafk.ticketco.events/no/nb/e/eliteserien_aalesund_-_sandefjord",
+      "tags": [
+        "fotball"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "aafk",
+      "source_id": "aafk-3a9746ae-0fca-4db9-8e7e-0cff820be5f5",
+      "title": "Toppserien: AaFK Kvinner - Vålerenga",
+      "start_at": "2026-11-07T13:00:00",
+      "is_free": false,
+      "price_text": "50 kr",
+      "location_name": "Color Line Stadion",
+      "city": "Ålesund",
+      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1084530/default_file-1789550986.jpeg",
+      "url": "https://aafk.ticketco.events/no/nb/e/toppserien_aafk_kvinner_-_vålerenga",
       "tags": [
         "fotball"
       ],
