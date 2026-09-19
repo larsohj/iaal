@@ -1,77 +1,11 @@
 {
-  "generated_at": "2026-09-19T10:30:37.114125+00:00",
-  "total": 674,
+  "generated_at": "2026-09-19T15:34:19.321932+00:00",
+  "total": 657,
   "failed_sources": [
     "viti",
     "odeon"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-f1956031-910c-459c-b180-d8590bc4e317",
-      "title": "Open dag ved MAKS- Maritimt aktivitetssenter",
-      "start_at": "2026-09-19T12:00:00",
-      "end_at": "2026-09-19T16:00:00",
-      "is_free": true,
-      "location_name": "MAKS - Maritimt aktivitetssenter",
-      "city": "Ålesund",
-      "organizer": "MAKS - Maritimt aktivitetssenter",
-      "image_url": "https://ucarecdn.com/a7c9bab0-f563-4357-83fd-26796f72a988/-/crop/1958x534/0,100/-/preview/",
-      "url": "https://alesund.friskus.com/events/f1956031-910c-459c-b180-d8590bc4e317",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-09-19T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-2c399c20-5f55-43d4-9beb-12dd730b7005",
-      "title": "Internasjonal Kafè",
-      "start_at": "2026-09-19T13:00:00",
-      "end_at": "2026-12-12T15:00:00",
-      "is_free": false,
-      "location_name": "Ålesund Kyrkjelege Fellesråd",
-      "city": "Ålesund",
-      "organizer": "Ålesund Kyrkjelege Fellesråd",
-      "image_url": "https://ucarecdn.com/2c661c15-40f6-4c77-a52a-2a06b8255204/-/crop/1122x478/0,221/-/preview/",
-      "url": "https://alesund.friskus.com/events/2c399c20-5f55-43d4-9beb-12dd730b7005",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-eedd9d23-b5a0-44cc-b094-ead45d3f9598",
@@ -1943,6 +1877,28 @@
       "url": "https://alesund.friskus.com/events/c8e9334b-520c-4ae2-a39c-9a6f8973cae8",
       "tags": [],
       "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-2c399c20-5f55-43d4-9beb-12dd730b7005",
+      "title": "Internasjonal Kafè",
+      "start_at": "2026-10-10T13:00:00",
+      "end_at": "2026-12-12T15:00:00",
+      "is_free": false,
+      "location_name": "Ålesund Kyrkjelege Fellesråd",
+      "city": "Ålesund",
+      "organizer": "Ålesund Kyrkjelege Fellesråd",
+      "image_url": "https://ucarecdn.com/2c661c15-40f6-4c77-a52a-2a06b8255204/-/crop/1122x478/0,221/-/preview/",
+      "url": "https://alesund.friskus.com/events/2c399c20-5f55-43d4-9beb-12dd730b7005",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
         "pensioner"
       ],
       "is_recurring": true
@@ -5355,6 +5311,26 @@
     },
     {
       "source": "tikkio",
+      "source_id": "tikkio-ce34974e96084be25a904cc3c34f3e61",
+      "title": "Synne Vo, Her vil e vær - Norgesturné // Spire Ålesund",
+      "description": "<p>Det er klart for nok en Spirekonsert, denne gangen med Synne Vo!</p><p><strong>VIKTIG OPPDATERING:</strong> Vi åpner for fri alder på Spirekonserten med Synne Vo! Barn under 13 år er nå velkomne sammen med verge over 18 år (verge trenger også billett). Ungdom mellom 13 og 18 år kan komme alene.</p><p>På få år har artisten fra Lesja etablert seg som en av landets mest populære og kritikerroste artister. Med låter som “Lykke te”, “MVH” og “Heime” har hun tatt både festivaler, scener og spillelister med storm, og debutalbumet «Kanskje det går te helvete» som kom ut i 2024 fikk terningkast 6 i både Aftenposten og Dagsavisen.</p><p>I 2026 ble publikum enda bedre kjent med artisten gjennom deltakelsen på Hver gang vi møtes på TV2, hvor hun markerte seg med tolkninger som ble hyllet av både publikum og anmeldere. Etter enorm respons til konserten i Oslo Spektrum 13. november, ble det satt opp et ekstra show i storstua i Oslo – som i skrivende stund har få billetter.</p><p><strong>Over 18 år?</strong> Da finner du billetter <a href=\"https://tikkio.com/events/66142\">her.</a></p><p>—</p><p><strong>Regler for SPIREkonserter</strong></p><p></p><p>Alkohol og rusmidler:</p><ul><li><p>SPIREkonserter er <strong>helt alkohol- og rusfrie</strong>.</p></li><li><p>Synlig påvirkning medfører bortvisning.</p></li></ul><p></p><p><strong>Praktisk informasjon<br><br></strong>Garderobe:</p><ul><li><p>Garderoben er åpen på alle SPIREkonserter.</p></li><li><p>Lav pris for å oppfordre til bruk.</p></li><li><p>Det er <strong>ikke tillatt</strong> å legge fra seg jakker eller eiendeler andre steder i lokalet<br>(av hensyn til brannsikkerhet og tyveri).</p></li></ul><p></p><p>Kiosk:</p><ul><li><p>Salg av mineralvann og snacks.</p></li><li><p>Gratis vann deles ut.</p></li></ul>",
+      "start_at": "2027-03-19T17:00:00",
+      "end_at": "2027-03-19T19:00:00",
+      "is_free": false,
+      "price_text": "NOK 523.00",
+      "location_name": "Terminalen Byscene",
+      "city": "Ålesund",
+      "latitude": 62.4702872,
+      "longitude": 6.1533313,
+      "organizer": "Spire Ålesund",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3473/uploads/event/c_69a259c1705f8f426c04ad2caa6c56d9.webp?class=w768",
+      "url": "https://tikkio.com/events/66143-synne-vo-her-vil-e-vaer-norgesturne-spire-alesund",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
       "source_id": "tikkio-662bf61438ee26eaa707c34ee5fc4555",
       "title": "Restore Conference",
       "description": "<p>Restore Conference er mer enn noen dager med møter.</p><p>Vi setter av tid til å søke Gud, tilbe, lytte, bli formet og stå sammen som Kristi kropp.</p><p>Vi lengter etter en konferanse der mennesker møter Jesus, blir styrket i troen og går derfra med større klarhet, mot og forventning til det Gud gjør.</p><p>Vi tror Gud fortsatt gjenoppretter, forener og kaller mennesker nærmere seg og vi ønsker å skape rom for nettopp det. Vi tror også at det Gud gjør i mennesker, kan få ringvirkninger langt utover konferansen. Når mennesker blir fornyet i troen og utrustet til å leve ut evangeliet, kan det påvirke familier, menigheter, arbeidsplasser og lokalsamfunn og bidra til håp, enhet og forvandling i byen vår, regionen vår og landet vårt.</p><p><strong>Sett av 9.–11. oktober 2026.</strong></p><p><br>Vi gleder oss til å samles i Ålesund.</p>",
@@ -5660,7 +5636,7 @@
       "latitude": 62.3917269,
       "longitude": 6.5803557,
       "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3473/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3473/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/66380-quiz-bankplassen-oppgjer-nr-2-oktober",
       "tags": [],
       "age_groups": [],
@@ -6056,26 +6032,6 @@
       "organizer": "MYLDR",
       "image_url": "https://cdn.tikkio.com/static/1.0.3473/uploads/event/c_ccbaf4eaebc83b3a78faf055801594ff.jpg?class=w768",
       "url": "https://tikkio.com/events/63532-linda-eide-spraksjov-bjornsonhuset-molde",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-32b4a93e4413fc86b504066530f1b89f",
-      "title": "Kamppakke Molde FK",
-      "description": "<h3><strong>VI KJØRER DEG TIL KAMPEN – DU SØRGER FOR STEMNINGEN! ⚽️</strong></h3><p>Molde Fotballklubb ønsker å komme tettere på sine supportere som bor utenfor Molde, og ser etter nye måter å gjøre det enklere for flere å oppleve hjemmekampene på Aker Stadion.<br></p><p>Med de sterke båndene mellom Molde FK og Sykkylven, og mange engasjerte Molde-supportere i området, har vi fått muligheten til å være med på dette spennende samarbeidet.<br></p><p>Derfor tilbyr vi nå kampbillett og busstransport samlet i én pakke – slik at det blir enklere å bli med på kamp, uten å måtte tenke på kjøringen selv.</p><p><br><strong>SLIK FUNGERER DET:</strong><br><br><strong>1. BESTILL</strong><br>Bestill din kampbillett med busstransport gjennom Sykkylven Turbuss.<br><br><strong>2. MØT OPP</strong><br>    <strong>Avreise:</strong> Kai-trappa, Sykkylven<br>    <strong>Tid:</strong> Avreise kl. 13.50 når kampen starter kl. 17.00, og kl. 14.50 når kampen starter kl. 18.00.<br><br><strong>3. VI KJØRER TIL KAMPEN</strong><br>Len deg tilbake og nyt turen. Vi tar oss av kjøringen.<br><br><strong>4. HEIA MOLDE!</strong><br>Nyt kampen og stemningen på stadion! <br><br><strong>5. VI KJØRER DEG HJEM</strong><br>Etter kampen venter bussen på deg – og vi kjører trygt tilbake.</p>",
-      "start_at": "2026-09-19T14:30:00",
-      "end_at": "2026-09-19T23:59:00",
-      "is_free": false,
-      "price_text": "NOK 375.00",
-      "location_name": "Aker Stadion",
-      "city": "Ålesund",
-      "latitude": 62.7330235,
-      "longitude": 7.1478252,
-      "organizer": "Sykkylven Turbuss AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3473/uploads/event/c_8c18774dd357a767212d4c87b7e12e39.webp?class=w768",
-      "url": "https://tikkio.com/events/66289-kamppakke-molde-fk",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -7649,21 +7605,6 @@
     },
     {
       "source": "bibliotek",
-      "source_id": "bibliotek-33771",
-      "title": "Sommarlesfest for Sjøholt",
-      "start_at": "2026-09-19T13:00:00",
-      "is_free": true,
-      "location_name": "Ørskog frivilligsentral",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i412daa24-891f-4df8-8b80-a6016b091a48/w300/kc6a5d667f2d7/sommerlesfest-2026.jpg",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33771&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bibliotek",
       "source_id": "bibliotek-33658",
       "title": "Leksehjelp for vaksne",
       "start_at": "2026-09-21T14:30:00",
@@ -7768,56 +7709,34 @@
       "end_at": null
     },
     {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-25486-2026-09-19",
-      "title": "Aalesunds Museum",
-      "start_at": "2026-09-19T11:00:00",
-      "end_at": "2026-09-19T15:30:00",
-      "location_name": "Aalesunds Museum",
+      "source": "bibliotek",
+      "source_id": "bibliotek-33747",
+      "title": "Les Vegas, baby!",
+      "start_at": "2026-09-24T11:00:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum/?occurrence=2026-09-19",
+      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i5e614b6f-3fb7-4566-8508-c18674f363d4/w300/k628e26cd06ab/778504861_1466354918851751_6224747989334387217_n.jpg",
+      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33747&lang=1&MId1=18377",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "end_at": null
     },
     {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-09-19",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-09-19T12:00:00",
-      "end_at": "2026-09-19T18:00:00",
-      "location_name": "Borgund Dyreklubb",
+      "source": "bibliotek",
+      "source_id": "bibliotek-33690",
+      "title": "Lesestund ved Sjøholt bibliotek",
+      "start_at": "2026-09-24T11:30:00",
+      "is_free": true,
+      "location_name": "Sjøholt bibliotek",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-09-19",
+      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i983123fe-851f-46e8-8d9b-9a3a1022117c/w300/k5028f03d37fb/2025-lesestund-for-barn-plakat-staande-line.jpg",
+      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33690&lang=1&MId1=18377",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33435-2026-09-19",
-      "title": "Modelljernbaneanlegget Devoldbanen",
-      "start_at": "2026-09-19T12:00:00",
-      "end_at": "2026-09-19T16:00:00",
-      "location_name": "Devoldfabrikken",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/modelljernbaneanlegget-devoldbanen/?occurrence=2026-09-19",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-39023-2026-09-19",
-      "title": "Kulturkafé på Sobra Scene – To Strenge Herrer",
-      "start_at": "2026-09-19T13:00:00",
-      "end_at": "2026-09-19T15:00:00",
-      "location_name": "Sobra scene",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/kulturkafe-pa-sobra-scene-2/?occurrence=2026-09-19",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -9617,24 +9536,6 @@
     },
     {
       "source": "aafk",
-      "source_id": "aafk-5d24bb6a-02f7-45f3-926e-facd3528ce0a",
-      "title": "Bli med AaFK-båten til Molde!",
-      "start_at": "2026-09-19T15:00:00",
-      "is_free": false,
-      "price_text": "500 kr",
-      "location_name": "Rådhsukaia, Ålesund",
-      "city": "Ålesund",
-      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1198853/default_file-1789033104.png",
-      "url": "https://aafk.ticketco.events/no/nb/e/bli_med_aafk-båten_til_molde",
-      "tags": [
-        "fotball"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "aafk",
       "source_id": "aafk-953ae1b3-9447-4baf-b143-0e52de8457a7",
       "title": "Eliteserien: Aalesund - Sarpsborg 08",
       "start_at": "2026-10-11T17:00:00",
@@ -9754,211 +9655,6 @@
       "url": "https://aafk.ticketco.events/no/nb/e/eliteserien_aalesund_-_bodøu002fglimt",
       "tags": [
         "fotball"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-fa82366b-187e-42e4-b88d-5e5e0b9e47ff",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-09-19T10:45:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?w=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-1e541032-f620-4ae9-af22-899b97fd8107",
-      "title": "Toy Story 5",
-      "description": "Lekene er tilbake i Toy Story 5, og denne gangen er det leker mot tech.",
-      "start_at": "2026-09-19T10:50:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/e08802bafe4040bfaf94529fcfd96291.jpg?w=1440&version=BD7989D1EDCB7CFDFA6D6CC74F5C9997",
-      "url": "https://www.odeonkino.no/film/toy-story-5/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "komedie",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-cacaf866-fbcd-4917-96eb-5f71e1663ebf",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-09-19T11:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?w=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c4f31160-ae72-46e6-b894-4e492c3edcdc",
-      "title": "Coyote vs. Acme - Per Ulv på saken",
-      "start_at": "2026-09-19T11:10:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/88aeb55332f04007aae8d1fedd3f948f.jpg?w=1440&version=A383812A6C9EC798B5E1A10657B200F0",
-      "url": "https://www.odeonkino.no/film/coyote-vs-acme-per-ulv-pa-saken/",
-      "tags": [
-        "isense",
-        "komedie",
-        "eventyr",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-df1e6dea-a1ee-4861-b265-11a86f55da1e",
-      "title": "Coyote vs. Acme - Per Ulv på saken",
-      "start_at": "2026-09-19T12:40:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/88aeb55332f04007aae8d1fedd3f948f.jpg?w=1440&version=A383812A6C9EC798B5E1A10657B200F0",
-      "url": "https://www.odeonkino.no/film/coyote-vs-acme-per-ulv-pa-saken/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "eventyr",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-435a2128-ec2a-4605-9916-41d61e95c3e8",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-09-19T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?w=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-3f94eae2-1777-4d22-a49b-a33183503bfa",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-09-19T13:20:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?w=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-496842ea-e05c-418f-90c9-d2e023aeb01d",
-      "title": "En nasjon i sjakk",
-      "start_at": "2026-09-19T13:40:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8c66656a2094a158e66eb9d698d1980.jpg?w=1440&version=CD9AF7C788A875FA30272EC9C5CC3C99",
-      "url": "https://www.odeonkino.no/film/en-nasjon-i-sjakk/",
-      "tags": [
-        "isense",
-        "thriller",
-        "spenning",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c009cc23-58f8-4f67-8775-b663d6b5e231",
-      "title": "Vaiana",
-      "start_at": "2026-09-19T14:15:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/395e9bb5a0744835b23902b9c77a342a.jpg?w=1440&version=77A23D84D1E523D934A496721D66D4EB",
-      "url": "https://www.odeonkino.no/film/vaiana/",
-      "tags": [
-        "luxe",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6700a06e-eb50-43de-98fb-37d7bb85ca25",
-      "title": "Coyote vs. Acme - Per Ulv på saken",
-      "start_at": "2026-09-19T15:10:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/88aeb55332f04007aae8d1fedd3f948f.jpg?w=1440&version=A383812A6C9EC798B5E1A10657B200F0",
-      "url": "https://www.odeonkino.no/film/coyote-vs-acme-per-ulv-pa-saken/",
-      "tags": [
-        "luxe",
-        "komedie",
-        "eventyr",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ff68536f-a593-47f5-99a4-4ecfc03f0d59",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-09-19T15:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?w=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "familiefilm"
       ],
       "age_groups": [],
       "is_recurring": false,
