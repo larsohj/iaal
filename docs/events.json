@@ -1,31 +1,11 @@
 {
-  "generated_at": "2026-09-19T20:13:18.878543+00:00",
-  "total": 642,
+  "generated_at": "2026-09-20T03:57:25.760550+00:00",
+  "total": 634,
   "failed_sources": [
     "viti",
     "odeon"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-05448e5b-231d-4034-8d0e-63ce60fd6b01",
-      "title": "Afrobass",
-      "start_at": "2026-09-19T21:00:00",
-      "end_at": "2026-09-19T22:30:00",
-      "is_free": false,
-      "location_name": "Jazzsirkelen 04",
-      "city": "Ålesund",
-      "organizer": "Jazzsirkelen 04",
-      "image_url": "https://ucarecdn.com/724b12fb-c36e-4f6b-9231-bcd89c36b6f2/-/crop/2002x1047/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/05448e5b-231d-4034-8d0e-63ce60fd6b01",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
     {
       "source": "friskus",
       "source_id": "friskus-d8cad460-d629-49a6-8261-d3e890973725",
@@ -3135,24 +3115,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-0deef70d-24b1-4f09-acb7-cabea6fbcb17",
-      "title": "Connect",
-      "start_at": "2026-09-19T20:30:00",
-      "end_at": "2026-12-12T23:59:00",
-      "is_free": true,
-      "location_name": "Sula Frikirke",
-      "city": "Ålesund",
-      "organizer": "Sula Frikirke",
-      "image_url": "https://ucarecdn.com/4c115c49-6349-4447-abbf-fb8c70300fd1/-/crop/2045x559/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/0deef70d-24b1-4f09-acb7-cabea6fbcb17",
-      "tags": [],
-      "age_groups": [
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-oaaNRwe3vl5NE",
       "title": "Tilrettelagt tur til Rollonhytta i samarbeid med Blindeforbundet Møre og Romsdal",
       "start_at": "2026-09-20T10:30:00",
@@ -3488,6 +3450,24 @@
       "tags": [],
       "age_groups": [
         "children"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-0deef70d-24b1-4f09-acb7-cabea6fbcb17",
+      "title": "Connect",
+      "start_at": "2026-09-26T20:30:00",
+      "end_at": "2026-12-12T23:59:00",
+      "is_free": true,
+      "location_name": "Sula Frikirke",
+      "city": "Ålesund",
+      "organizer": "Sula Frikirke",
+      "image_url": "https://ucarecdn.com/4c115c49-6349-4447-abbf-fb8c70300fd1/-/crop/2045x559/0,0/-/preview/",
+      "url": "https://alesund.friskus.com/events/0deef70d-24b1-4f09-acb7-cabea6fbcb17",
+      "tags": [],
+      "age_groups": [
+        "teenager"
       ],
       "is_recurring": true
     },
@@ -3909,7 +3889,7 @@
       "latitude": 62.4710978,
       "longitude": 6.1558168,
       "organizer": "kimbo",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/66369-kimbofestival",
       "tags": [],
       "age_groups": [],
@@ -3930,6 +3910,25 @@
       "organizer": "Løvenvold Theater",
       "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_c4b0a85869e11847f774c6478c13795b.webp?class=w768",
       "url": "https://tikkio.com/events/65856-demenskonferanse-2026",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-61824aa85275b2bb30c4ec386336d571",
+      "title": "Terje Sporsem & John Brungot “Høy og mørk”",
+      "description": "<p>To av Norges mest populære komikere har slått seg sammen med ett mål for øye: Å gi</p><p>deg et skikkelig artig show! Og DET trengs når verden går mer og mer av hengslene.</p><p>Høy og Mørk er en forestilling spekket med stand-up, musikk og parodier, og vi kan love</p><p>at latteren sitter løst når John og Terje begir seg inn i temaer som høye, mørke</p><p>maktsyke ledere, beredskap, generasjonskonflikter og frykten for å plutselig være den</p><p>eldste i familien</p><p>Hvorfor vil noen endre verden etter fylte 75? Var livet mindre komplisert på 80- og</p><p>90-tallet? Og kan man fake seg gjennom det meste i livet? Terje og John tar for seg</p><p>noen av de store og viktige spørsmålene i livet... men også ting du ikke visste at du</p><p>trengte svar på.</p><p>Gjør deg klar for en kveld spekket med masse latter og god stemning!</p><p>Regi: Martin Beyer-Olsen</p><p>Norgespremiere 8. januar på Christiania Teater</p>",
+      "start_at": "2026-09-24T17:30:00",
+      "end_at": "2026-09-24T20:00:00",
+      "is_free": true,
+      "location_name": "Løvenvold Theater",
+      "city": "Ålesund",
+      "latitude": 62.4730488,
+      "longitude": 6.1582367,
+      "organizer": "Løvenvold Theater",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_35e5b58d1a5a60913655c546b97fbf63.jpg?class=w768",
+      "url": "https://tikkio.com/events/58738-terje-sporsem-jon-brungot-hoy-og-mork-lovenvold-theater",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -4750,26 +4749,6 @@
       "organizer": "Høstscena",
       "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_1379bee539f4e51d25d570667644ba33.webp?class=w768",
       "url": "https://tikkio.com/events/65318-boksegalla",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-7ab6c8dcd00310a8ebe83bdfcd2888c2",
-      "title": "KLUBB | DJ Sierra // Terminalen Byscene",
-      "description": "<p>Det er endelig klart for ny KLUBB på Terminalen!</p><p>Etter en liten pause er vi klare for å fyre opp stemningen igjen på lørdag! DJ Sierra står bak miksepulten og garanterer fullt trøkk på dansegulvet.</p><p>Dørene åpner: 23:00<br>CC: 50 kr<br>ID: 20 år</p><p>Ta med deg vennegjengen, så sees vi på dansegulvet! 💃🕺</p><p>Som kunde av DNB får du GRATIS inngang på klubb!</p>",
-      "start_at": "2026-09-19T23:00:00",
-      "end_at": "2026-09-20T02:00:00",
-      "is_free": false,
-      "price_text": "NOK 50.00",
-      "location_name": "Terminalen",
-      "city": "Ålesund",
-      "latitude": 62.4702872,
-      "longitude": 6.1533313,
-      "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_362b68fb219e65f1182634caa7352c48.webp?class=w768",
-      "url": "https://tikkio.com/events/66398-klubb-dj-sierra-terminalen-byscene",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -5603,7 +5582,7 @@
       "latitude": 62.3917269,
       "longitude": 6.5803557,
       "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3485/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/66380-quiz-bankplassen-oppgjer-nr-2-oktober",
       "tags": [],
       "age_groups": [],
@@ -6543,24 +6522,6 @@
       "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_c1f24fb1a452542648becd504d92f2f6.webp?class=w768",
       "url": "https://tikkio.com/events/65664-kortreist-mat-at-musikk",
       "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "parken",
-      "source_id": "parken-47821-afrobass",
-      "title": "Afrobass",
-      "start_at": "2026-09-19T21:00:00",
-      "end_at": "2026-09-19T22:30:00",
-      "location_name": "Parken kulturhus – Foajeen",
-      "city": "Ålesund",
-      "organizer": "Parken kulturhus x Jazzsirkelen",
-      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F47821%2Fweb-square.webp?version=ERxXe+/g1Tbux+PQgOkVZw==",
-      "url": "https://www.parkenkulturhus.no/program/47821-afrobass/",
-      "tags": [
-        "musikk",
-        "få billetter igjen"
-      ],
       "age_groups": [],
       "is_recurring": false
     },
@@ -7701,32 +7662,6 @@
       "city": "Ålesund",
       "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i983123fe-851f-46e8-8d9b-9a3a1022117c/w300/k5028f03d37fb/2025-lesestund-for-barn-plakat-staande-line.jpg",
       "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33690&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-38984-2026-09-19",
-      "title": "Jazzsirkelen: Afrobass",
-      "start_at": "2026-09-19T21:00:00",
-      "end_at": "2026-09-19T22:30:00",
-      "location_name": "Parken kulturhus",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/jazzsirkelen-afrobass-2/?occurrence=2026-09-19",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-28717-2026-09-20",
-      "title": "Helgeprogram i Atlanterhavsparken – akvarium og vitensenter",
-      "start_at": "2026-09-20T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/helgeprogram-i-atlanterhavsparken-akvarium-og-vitensenter-2/?occurrence=2026-09-20",
       "tags": [],
       "age_groups": [],
       "is_recurring": false,
@@ -9552,81 +9487,6 @@
       "url": "https://aafk.ticketco.events/no/nb/e/eliteserien_aalesund_-_bodøu002fglimt",
       "tags": [
         "fotball"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-1052276d-f182-4aa1-9818-65db9d1c8871",
-      "title": "Practical Magic: Family Legacy",
-      "description": "Magien er tilbake!",
-      "start_at": "2026-09-19T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7e7aa39e5f4441d0b4854ad1fd0f2ee4.jpg?w=1440&version=D7A1A2E50A02A92215CA6850757F5846",
-      "url": "https://www.odeonkino.no/film/practical-magic-family-legacy/",
-      "tags": [
-        "luxe",
-        "fantasy",
-        "romantikk",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f6873801-eec6-4ea3-8924-530dd702a754",
-      "title": "En nasjon i sjakk",
-      "start_at": "2026-09-19T20:40:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8c66656a2094a158e66eb9d698d1980.jpg?w=1440&version=CD9AF7C788A875FA30272EC9C5CC3C99",
-      "url": "https://www.odeonkino.no/film/en-nasjon-i-sjakk/",
-      "tags": [
-        "luxe",
-        "thriller",
-        "spenning",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e9600453-8d85-4914-8551-ff4436ecfca2",
-      "title": "Insidious: Out of the Further",
-      "start_at": "2026-09-19T21:20:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a87558b52c614e56b0b0c8b2be431568.jpg?w=1440&version=1085B578843068E12FAB91CE5F67945B",
-      "url": "https://www.odeonkino.no/film/insidious-out-of-the-further/",
-      "tags": [
-        "thriller",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-9806c170-ebf2-497d-b725-ef8843eb74cd",
-      "title": "Resident Evil",
-      "description": "Fra filmskaperen Zach Cregger (Weapons, Barbarian) kommer en spennende og skremmende nytolkning av Resident Evil-franchisen.",
-      "start_at": "2026-09-19T21:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/72ac34f44f7c450d80d970e4f12fd2c6.jpg?w=1440&version=C0216EE70239B9E7F429B5285D459F37",
-      "url": "https://www.odeonkino.no/film/resident-evil/",
-      "tags": [
-        "isense",
-        "sci-fi",
-        "skrekkfilm"
       ],
       "age_groups": [],
       "is_recurring": false,
