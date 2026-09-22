@@ -1,188 +1,11 @@
 {
-  "generated_at": "2026-09-22T11:10:12.899901+00:00",
-  "total": 616,
+  "generated_at": "2026-09-22T16:31:44.093701+00:00",
+  "total": 614,
   "failed_sources": [
     "viti",
     "odeon"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-46542d00-420e-45cb-abd3-76bc7b10b2df",
-      "title": "Naturmøteplass ved Elvaløa på Sjøholt",
-      "start_at": "2026-09-22T12:00:00",
-      "end_at": "2026-10-13T14:00:00",
-      "is_free": true,
-      "location_name": "Ørskog Frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Ørskog Frivilligsentral",
-      "image_url": "https://ucarecdn.com/21188cc4-6a9d-47bf-a831-2d5a9cb65d40/-/crop/632x488/0,272/-/preview/-/resize/x300/",
-      "url": "https://alesund.friskus.com/events/46542d00-420e-45cb-abd3-76bc7b10b2df",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-b5e37824-692f-4a64-9ba5-91d02d9bf737",
-      "title": "Frivillig ute i naturen - bli vert på Naturmøteplassen!",
-      "start_at": "2026-09-22T12:00:00",
-      "end_at": "2026-12-22T14:00:00",
-      "is_free": true,
-      "location_name": "Ålesund frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Ålesund frivilligsentral",
-      "image_url": "https://ucarecdn.com/905194ac-3634-432c-8abd-562fd29727fb/",
-      "url": "https://alesund.friskus.com/events/b5e37824-692f-4a64-9ba5-91d02d9bf737",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-b8a9b9e9-7c31-41a6-999e-feadc54176d4",
-      "title": "Strikkekafe kvar tysdag 12-15",
-      "start_at": "2026-09-22T12:00:00",
-      "end_at": "2027-06-22T15:00:00",
-      "is_free": true,
-      "location_name": "Harøy bibliotek",
-      "city": "Ålesund",
-      "organizer": "Harøy bibliotek",
-      "image_url": "https://ucarecdn.com/eefbead1-5f59-49b4-8854-06348d450fc8/-/crop/1517x414/0,37/-/preview/",
-      "url": "https://alesund.friskus.com/events/b8a9b9e9-7c31-41a6-999e-feadc54176d4",
-      "tags": [],
-      "age_groups": [
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-09-22T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-b3c49368-eab2-4681-88d4-172c754e73db",
-      "title": "LHL - Bowling i Vika",
-      "start_at": "2026-09-22T13:00:00",
-      "end_at": "2026-12-15T15:00:00",
-      "is_free": false,
-      "location_name": "LHL Ålesund Sula og Giske",
-      "city": "Ålesund",
-      "organizer": "LHL Ålesund Sula og Giske",
-      "image_url": "https://ucarecdn.com/079a8715-a113-4ddf-9396-bfdf82098d49/-/crop/1149x601/73,84/-/preview/",
-      "url": "https://alesund.friskus.com/events/b3c49368-eab2-4681-88d4-172c754e73db",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
-      "title": "Fellesverket – Møteplassen for ungdom i Ålesund",
-      "start_at": "2026-09-22T14:00:00",
-      "end_at": "2026-12-17T19:00:00",
-      "is_free": true,
-      "location_name": "Fellesverket Dragen",
-      "city": "Ålesund",
-      "organizer": "Fellesverket Dragen",
-      "image_url": "https://ucarecdn.com/5bdfad7e-4862-4303-b648-c12c7be60e43/-/crop/1000x272/0,106/-/preview/",
-      "url": "https://alesund.friskus.com/events/6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-85769806-4520-43fe-862b-8b417e5d9d60",
-      "title": "Svømming på Ørskog skule  - Nytt aktivitetstiltak i haust",
-      "start_at": "2026-09-22T14:00:00",
-      "end_at": "2026-12-08T16:00:00",
-      "is_free": true,
-      "location_name": "Ørskog Pensjonistlag",
-      "city": "Ålesund",
-      "organizer": "Ørskog Pensjonistlag",
-      "image_url": "https://ucarecdn.com/2ae47b15-903a-4d9e-a41c-c7db8b151a3f/",
-      "url": "https://alesund.friskus.com/events/85769806-4520-43fe-862b-8b417e5d9d60",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-693de171-0482-4b0c-876b-72ea004ecdac",
-      "title": "Samtalegruppe for ungdom over 15 år",
-      "start_at": "2026-09-22T14:15:00",
-      "end_at": "2026-12-08T15:15:00",
-      "is_free": true,
-      "location_name": "Ålesund kommune",
-      "city": "Ålesund",
-      "organizer": "Ålesund kommune",
-      "image_url": "https://ucarecdn.com/9ae5f148-033f-4e00-b9dd-97c5b515bccf/-/crop/2019x1058/332,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/693de171-0482-4b0c-876b-72ea004ecdac",
-      "tags": [],
-      "age_groups": [
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-43fbfab6-6c15-4ee0-877b-f0fb5511f5d3",
-      "title": "Fellesverket søker frivillige: Vil du være der for ungdommene?",
-      "start_at": "2026-09-22T16:30:00",
-      "end_at": "2026-12-31T19:00:00",
-      "is_free": true,
-      "location_name": "Fellesverket Dragen",
-      "city": "Ålesund",
-      "organizer": "Fellesverket Dragen",
-      "image_url": "https://ucarecdn.com/86e08a04-1898-4c9e-adc7-b4789057f13b/-/crop/1536x419/0,246/-/preview/",
-      "url": "https://alesund.friskus.com/events/43fbfab6-6c15-4ee0-877b-f0fb5511f5d3",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-30165da6-2d09-4e6c-987d-c8e60b0b3945",
@@ -355,6 +178,28 @@
         "pensioner"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-09-23T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -1206,6 +1051,102 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-46542d00-420e-45cb-abd3-76bc7b10b2df",
+      "title": "Naturmøteplass ved Elvaløa på Sjøholt",
+      "start_at": "2026-09-29T12:00:00",
+      "end_at": "2026-10-13T14:00:00",
+      "is_free": true,
+      "location_name": "Ørskog Frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Ørskog Frivilligsentral",
+      "image_url": "https://ucarecdn.com/21188cc4-6a9d-47bf-a831-2d5a9cb65d40/-/crop/632x488/0,272/-/preview/-/resize/x300/",
+      "url": "https://alesund.friskus.com/events/46542d00-420e-45cb-abd3-76bc7b10b2df",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-b5e37824-692f-4a64-9ba5-91d02d9bf737",
+      "title": "Frivillig ute i naturen - bli vert på Naturmøteplassen!",
+      "start_at": "2026-09-29T12:00:00",
+      "end_at": "2026-12-22T14:00:00",
+      "is_free": true,
+      "location_name": "Ålesund frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Ålesund frivilligsentral",
+      "image_url": "https://ucarecdn.com/905194ac-3634-432c-8abd-562fd29727fb/",
+      "url": "https://alesund.friskus.com/events/b5e37824-692f-4a64-9ba5-91d02d9bf737",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-b8a9b9e9-7c31-41a6-999e-feadc54176d4",
+      "title": "Strikkekafe kvar tysdag 12-15",
+      "start_at": "2026-09-29T12:00:00",
+      "end_at": "2027-06-22T15:00:00",
+      "is_free": true,
+      "location_name": "Harøy bibliotek",
+      "city": "Ålesund",
+      "organizer": "Harøy bibliotek",
+      "image_url": "https://ucarecdn.com/eefbead1-5f59-49b4-8854-06348d450fc8/-/crop/1517x414/0,37/-/preview/",
+      "url": "https://alesund.friskus.com/events/b8a9b9e9-7c31-41a6-999e-feadc54176d4",
+      "tags": [],
+      "age_groups": [
+        "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-b3c49368-eab2-4681-88d4-172c754e73db",
+      "title": "LHL - Bowling i Vika",
+      "start_at": "2026-09-29T13:00:00",
+      "end_at": "2026-12-15T15:00:00",
+      "is_free": false,
+      "location_name": "LHL Ålesund Sula og Giske",
+      "city": "Ålesund",
+      "organizer": "LHL Ålesund Sula og Giske",
+      "image_url": "https://ucarecdn.com/079a8715-a113-4ddf-9396-bfdf82098d49/-/crop/1149x601/73,84/-/preview/",
+      "url": "https://alesund.friskus.com/events/b3c49368-eab2-4681-88d4-172c754e73db",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-693de171-0482-4b0c-876b-72ea004ecdac",
+      "title": "Samtalegruppe for ungdom over 15 år",
+      "start_at": "2026-09-29T14:15:00",
+      "end_at": "2026-12-08T15:15:00",
+      "is_free": true,
+      "location_name": "Ålesund kommune",
+      "city": "Ålesund",
+      "organizer": "Ålesund kommune",
+      "image_url": "https://ucarecdn.com/9ae5f148-033f-4e00-b9dd-97c5b515bccf/-/crop/2019x1058/332,0/-/preview/",
+      "url": "https://alesund.friskus.com/events/693de171-0482-4b0c-876b-72ea004ecdac",
+      "tags": [],
+      "age_groups": [
+        "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-b4adf087-1415-492d-828b-4ca27a074aad",
       "title": "Les Vegas, baby!",
       "start_at": "2026-09-30T11:00:00",
@@ -1540,7 +1481,7 @@
       "source_id": "friskus-oaaNM2Bg3BA_H",
       "title": "Basecamp Extreme Slogen (10.trinn-19 år)i høstferien",
       "start_at": "2026-10-05T09:00:00",
-      "end_at": "2026-10-09T15:00:00",
+      "end_at": "2026-10-08T15:00:00",
       "is_free": false,
       "location_name": "DNT Sunnmøre",
       "city": "Ålesund",
@@ -1590,6 +1531,25 @@
       "organizer": "Moa Bibliotek",
       "image_url": "https://ucarecdn.com/d178d2cb-e17a-461e-bc25-992d039bf3ae/-/crop/1920x523/0,43/-/preview/",
       "url": "https://alesund.friskus.com/events/77edaaf3-1b67-43c1-8341-5dd4e29c2b20",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "family"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-57fe440c-f7ce-4d88-84a4-c4211f9251eb",
+      "title": "Forskningseksperimenter",
+      "start_at": "2026-10-05T15:00:00",
+      "end_at": "2026-10-05T17:00:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
+      "city": "Ålesund",
+      "organizer": "Ålesund bibliotek",
+      "image_url": "https://ucarecdn.com/5392521d-8ca6-461c-a55a-290dde1a00d2/-/crop/1920x523/0,61/-/preview/",
+      "url": "https://alesund.friskus.com/events/57fe440c-f7ce-4d88-84a4-c4211f9251eb",
       "tags": [],
       "age_groups": [
         "children",
@@ -1672,6 +1632,25 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-788db4e0-2b2d-4bbb-b860-513e3b883d41",
+      "title": "Kahoot med premier",
+      "start_at": "2026-10-06T16:30:00",
+      "end_at": "2026-10-06T18:00:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
+      "city": "Ålesund",
+      "organizer": "Ålesund bibliotek",
+      "image_url": "https://ucarecdn.com/5392521d-8ca6-461c-a55a-290dde1a00d2/-/crop/1920x523/0,61/-/preview/",
+      "url": "https://alesund.friskus.com/events/788db4e0-2b2d-4bbb-b860-513e3b883d41",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "family"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-3fac76b4-e8e1-4b97-a783-3f9be3a89288",
       "title": "Samlesing i Ålesund bibliotek",
       "start_at": "2026-10-06T17:00:00",
@@ -1746,6 +1725,25 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-adcf5279-c440-4b18-a835-6b6e3c213ca8",
+      "title": "Kreativt verksted",
+      "start_at": "2026-10-07T14:00:00",
+      "end_at": "2026-10-07T16:00:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
+      "city": "Ålesund",
+      "organizer": "Ålesund bibliotek",
+      "image_url": "https://ucarecdn.com/5392521d-8ca6-461c-a55a-290dde1a00d2/-/crop/1920x523/0,61/-/preview/",
+      "url": "https://alesund.friskus.com/events/adcf5279-c440-4b18-a835-6b6e3c213ca8",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "family"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-97bac3bf-dce1-4fbe-9675-0acd05beef0e",
       "title": "Litteratur med klimablikk",
       "start_at": "2026-10-07T18:00:00",
@@ -1776,6 +1774,44 @@
       "organizer": "Moa Bibliotek",
       "image_url": "https://ucarecdn.com/c0c08998-feba-4922-9f72-97067bf58fe5/-/crop/1920x523/0,58/-/preview/",
       "url": "https://alesund.friskus.com/events/d6b64017-b2e3-41f0-b645-76ab700c438b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "family"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-32745052-c27d-46ee-99d5-b7292046d720",
+      "title": "Bokkino: Matilda av Roald Dahl",
+      "start_at": "2026-10-08T14:00:00",
+      "end_at": "2026-10-08T14:30:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
+      "city": "Ålesund",
+      "organizer": "Ålesund bibliotek",
+      "image_url": "https://ucarecdn.com/5392521d-8ca6-461c-a55a-290dde1a00d2/-/crop/1920x523/0,61/-/preview/",
+      "url": "https://alesund.friskus.com/events/32745052-c27d-46ee-99d5-b7292046d720",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "family"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-e1bd7db4-ab1a-43d7-bb8f-2ca267fddd94",
+      "title": "Poesiverksted",
+      "start_at": "2026-10-08T15:00:00",
+      "end_at": "2026-10-08T17:00:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
+      "city": "Ålesund",
+      "organizer": "Ålesund bibliotek",
+      "image_url": "https://ucarecdn.com/5392521d-8ca6-461c-a55a-290dde1a00d2/-/crop/1920x523/0,61/-/preview/",
+      "url": "https://alesund.friskus.com/events/e1bd7db4-ab1a-43d7-bb8f-2ca267fddd94",
       "tags": [],
       "age_groups": [
         "children",
@@ -1841,6 +1877,25 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-2a4e7dba-d1ff-44dc-b616-2e669d8eb798",
+      "title": "Buttonsverksted med halloween-tema",
+      "start_at": "2026-10-09T14:00:00",
+      "end_at": "2026-10-09T16:00:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
+      "city": "Ålesund",
+      "organizer": "Ålesund bibliotek",
+      "image_url": "https://ucarecdn.com/5392521d-8ca6-461c-a55a-290dde1a00d2/-/crop/1920x523/0,61/-/preview/",
+      "url": "https://alesund.friskus.com/events/2a4e7dba-d1ff-44dc-b616-2e669d8eb798",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "family"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-2c399c20-5f55-43d4-9beb-12dd730b7005",
       "title": "Internasjonal Kafè",
       "start_at": "2026-10-10T13:00:00",
@@ -1860,6 +1915,25 @@
         "pensioner"
       ],
       "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f5bd1b54-6f2c-4956-ba6f-2547d3fefbc3",
+      "title": "Bokkino",
+      "start_at": "2026-10-10T13:00:00",
+      "end_at": "2026-10-10T13:30:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
+      "city": "Ålesund",
+      "organizer": "Ålesund bibliotek",
+      "image_url": "https://ucarecdn.com/5392521d-8ca6-461c-a55a-290dde1a00d2/-/crop/1920x523/0,61/-/preview/",
+      "url": "https://alesund.friskus.com/events/f5bd1b54-6f2c-4956-ba6f-2547d3fefbc3",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "family"
+      ],
+      "is_recurring": false
     },
     {
       "source": "friskus",
@@ -1975,6 +2049,24 @@
         "pensioner"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-85769806-4520-43fe-862b-8b417e5d9d60",
+      "title": "Svømming på Ørskog skule  - Nytt aktivitetstiltak i haust",
+      "start_at": "2026-10-13T14:00:00",
+      "end_at": "2026-12-08T16:00:00",
+      "is_free": true,
+      "location_name": "Ørskog Pensjonistlag",
+      "city": "Ålesund",
+      "organizer": "Ørskog Pensjonistlag",
+      "image_url": "https://ucarecdn.com/2ae47b15-903a-4d9e-a41c-c7db8b151a3f/",
+      "url": "https://alesund.friskus.com/events/85769806-4520-43fe-862b-8b417e5d9d60",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -2571,6 +2663,27 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-e6f85e53-007a-46f4-aee0-0bc94cdf2bc4",
+      "title": "Drop in - hjelp med Friskus og fritidskonto på Gjenbrukskafèen - Ålesund frivilligsentral",
+      "start_at": "2026-10-30T11:00:00",
+      "end_at": "2026-10-30T15:00:00",
+      "is_free": false,
+      "location_name": "Ålesund kommune",
+      "city": "Ålesund",
+      "organizer": "Ålesund kommune",
+      "image_url": "https://ucarecdn.com/a6b37904-7465-4a8c-aac8-8273d227824a/",
+      "url": "https://alesund.friskus.com/events/e6f85e53-007a-46f4-aee0-0bc94cdf2bc4",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-89802582-2bd5-4f9b-b011-4a9721f144e9",
       "title": "Halloween-kahoot",
       "start_at": "2026-10-31T12:00:00",
@@ -3133,43 +3246,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-ffe3106d-d94d-4d48-99df-8461d769ce08",
-      "title": "Kurs i bekymringsmestring",
-      "start_at": "2026-09-22T13:00:00",
-      "end_at": "2026-11-24T16:00:00",
-      "is_free": false,
-      "location_name": "Psykisk helse og rus, Sula kommune",
-      "city": "Ålesund",
-      "organizer": "Psykisk helse og rus, Sula kommune",
-      "image_url": "https://ucarecdn.com/15ba02ed-c71f-406e-bf06-b82917b9d3c3/-/crop/1875x982/12,250/-/preview/",
-      "url": "https://alesund.friskus.com/events/ffe3106d-d94d-4d48-99df-8461d769ce08",
-      "tags": [],
-      "age_groups": [
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-4e8e384e-0dbb-4ca4-8381-baea502e674e",
-      "title": "LHL Trim Nivå 3 - Molvær senter",
-      "start_at": "2026-09-22T16:30:00",
-      "end_at": "2026-12-08T18:00:00",
-      "is_free": true,
-      "location_name": "LHL Ålesund Sula og Giske",
-      "city": "Ålesund",
-      "organizer": "LHL Ålesund Sula og Giske",
-      "image_url": "https://ucarecdn.com/5de9c680-058b-44d2-9e40-333b87fdbd0b/-/crop/3369x1764/401,355/-/preview/",
-      "url": "https://alesund.friskus.com/events/4e8e384e-0dbb-4ca4-8381-baea502e674e",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-e0bf08b8-ca8b-4ab6-a745-a3be77e7d07e",
       "title": "LHL - Trim Niva 3 i Solevågshallen",
       "start_at": "2026-09-22T16:45:00",
@@ -3491,6 +3567,43 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-ffe3106d-d94d-4d48-99df-8461d769ce08",
+      "title": "Kurs i bekymringsmestring",
+      "start_at": "2026-09-29T13:00:00",
+      "end_at": "2026-11-24T16:00:00",
+      "is_free": false,
+      "location_name": "Psykisk helse og rus, Sula kommune",
+      "city": "Ålesund",
+      "organizer": "Psykisk helse og rus, Sula kommune",
+      "image_url": "https://ucarecdn.com/15ba02ed-c71f-406e-bf06-b82917b9d3c3/-/crop/1875x982/12,250/-/preview/",
+      "url": "https://alesund.friskus.com/events/ffe3106d-d94d-4d48-99df-8461d769ce08",
+      "tags": [],
+      "age_groups": [
+        "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-4e8e384e-0dbb-4ca4-8381-baea502e674e",
+      "title": "LHL Trim Nivå 3 - Molvær senter",
+      "start_at": "2026-09-29T16:30:00",
+      "end_at": "2026-12-08T18:00:00",
+      "is_free": true,
+      "location_name": "LHL Ålesund Sula og Giske",
+      "city": "Ålesund",
+      "organizer": "LHL Ålesund Sula og Giske",
+      "image_url": "https://ucarecdn.com/5de9c680-058b-44d2-9e40-333b87fdbd0b/-/crop/3369x1764/401,355/-/preview/",
+      "url": "https://alesund.friskus.com/events/4e8e384e-0dbb-4ca4-8381-baea502e674e",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-4e17777e-22c0-4adf-add0-43f978abdcbd",
       "title": "På sidelinja i Noreg - eit modig forsøk på å bli norsk v/Gert Rietman",
       "start_at": "2026-10-20T18:00:00",
@@ -3552,6 +3665,28 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-4099e8e2-02df-4c0a-880e-02130c8fd1c7",
+      "title": "Biblioteket er ope :)",
+      "start_at": "2026-09-23T10:30:00",
+      "end_at": "2026-09-25T15:30:00",
+      "is_free": true,
+      "location_name": "Giske folkebibliotek",
+      "city": "Ålesund",
+      "organizer": "Giske folkebibliotek",
+      "image_url": "https://ucarecdn.com/291cb93f-fd25-460e-a4da-21b6d9547361/-/crop/1200x328/0,170/-/preview/",
+      "url": "https://alesund.friskus.com/events/4099e8e2-02df-4c0a-880e-02130c8fd1c7",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-d5506892-f0a1-4988-9f24-be1968946796",
       "title": "Naturmøteplass i Sandvika på Roald",
       "start_at": "2026-09-23T12:00:00",
@@ -3562,6 +3697,28 @@
       "organizer": "Giske Rotaryklubb",
       "image_url": "https://ucarecdn.com/e93fe19b-1c1b-469e-84b4-0573aab3bd46/-/crop/2048x558/0,345/-/preview/-/scale_crop/1100x300/smart/",
       "url": "https://alesund.friskus.com/events/d5506892-f0a1-4988-9f24-be1968946796",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-cb765ce4-6205-4627-95c9-32f0215b1e2c",
+      "title": "Formiddagstreff",
+      "start_at": "2026-09-24T11:00:00",
+      "end_at": "2026-12-31T14:00:00",
+      "is_free": false,
+      "location_name": "Vigra Aktivitets og Frivillighetssentral VAF",
+      "city": "Ålesund",
+      "organizer": "Vigra Aktivitets og Frivillighetssentral VAF",
+      "image_url": "https://ucarecdn.com/1a2a6ea2-a5a0-4192-a3a5-7df8680151dc/-/scale_crop/1100x300/smart/-/resize/x300/-/setfill/6E37CB/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/cb765ce4-6205-4627-95c9-32f0215b1e2c",
       "tags": [],
       "age_groups": [
         "children",
@@ -3844,7 +4001,7 @@
       "latitude": 62.4710978,
       "longitude": 6.1558168,
       "organizer": "kimbo",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3464/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3464/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/66369-kimbofestival",
       "tags": [],
       "age_groups": [],
@@ -5596,7 +5753,7 @@
       "latitude": 62.3917269,
       "longitude": 6.5803557,
       "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3464/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3464/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/66380-quiz-bankplassen-oppgjer-nr-2-oktober",
       "tags": [],
       "age_groups": [],
@@ -5936,6 +6093,26 @@
       "organizer": "Koie Lavvo",
       "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_566135425a89cee4d2e8ce9829d6d76c.webp?class=w768",
       "url": "https://tikkio.com/events/66483-quiz-med-mk-og-ingvild",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-90e1cf604e4421de32300d1f7d3efacd",
+      "title": "DJ MATTIS // 2. JULEDAG PÅ KOIE LAVVO 🎄🔥",
+      "description": "<p>DJ MATTIS // 2. JULEDAG PÅ KOIE LAVVO <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/ta6/2/16/1f384.png\" alt=\"🎄\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tef/2/16/1f525.png\" alt=\"🔥\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"></p><p>Heime til jul? Då veit du kvar du skal 2. juledag.</p><p>Tradisjonen tru inviterer vi til den store get-together-kvelden i Koie Lavvo – kvelden der gamle vener, utflytta strandarar, heimkomne studentar og resten av bygda møtest igjen etter julefeiringa.</p><p>I år er det DJ Mattis – Mathias Kalstad som tek kontroll over musikken og sørger for at vi får fart på dansegolvet utover kvelden.</p><p>Dette er ikkje kvelden for å sitte heime og ete restar av ribba.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tef/2/16/1f525.png\" alt=\"🔥\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> DJ Mattis<br><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/ta6/2/16/1f384.png\" alt=\"🎄\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> 2. juledag<br><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/2/16/1f4cd.png\" alt=\"📍\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Koie Lavvo, Stranda<br><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t66/2/16/1f483.png\" alt=\"💃\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Dans, fest og den store jule-reunionen</p><p>Samle gjengen. Send melding til dei som kjem heim til jul. 2. juledag møtest vi på Koie.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t77/2/16/1f39f.png\" alt=\"🎟️\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Sikre deg billett på Tikkio – dette er ein av kveldane i jula du ikkje vil stå utan billett til - her bruker det og bli utsolgt</p><p>DJ MATTIS // KOIE LAVVO // 2. JULEDAG</p>",
+      "start_at": "2026-12-26T21:00:00",
+      "end_at": "2026-12-27T02:00:00",
+      "is_free": false,
+      "price_text": "NOK 350.00",
+      "location_name": "Koie Lavvo",
+      "city": "Ålesund",
+      "latitude": 62.3061002,
+      "longitude": 6.9488962,
+      "organizer": "Koie Lavvo",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_5578bb19c52a728d8a453509b908abe8.webp?class=w768",
+      "url": "https://tikkio.com/events/66495-dj-mattis-2-juledag-pa-koie-lavvo",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -6591,7 +6768,7 @@
       "latitude": 62.8620094,
       "longitude": 7.6787316,
       "organizer": "Frikjøring og Topptur - NTNU Ålesund",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3464/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3464/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/66462-hyttetur-2-4-oktober",
       "tags": [],
       "age_groups": [],
@@ -7607,21 +7784,6 @@
     },
     {
       "source": "bibliotek",
-      "source_id": "bibliotek-33719",
-      "title": "Snakk tysk med Finn fra Wien!",
-      "start_at": "2026-09-22T15:00:00",
-      "is_free": true,
-      "location_name": "Moa bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/ib4afd974-2d62-4ad8-acc4-d5f85fd447d1/w300/k6d8a24526a2e/lar-tysk-med-finn-1.png",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33719&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bibliotek",
       "source_id": "bibliotek-33676",
       "title": "Strikkekafé på Ålesund bibliotek",
       "start_at": "2026-09-23T12:00:00",
@@ -7741,56 +7903,19 @@
       "end_at": null
     },
     {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-13430-2026-09-22",
-      "title": "Naturmøteplass på Aksla",
-      "start_at": "2026-09-22T12:00:00",
-      "end_at": "2026-09-22T14:00:00",
-      "location_name": "Aksla, Dam 2",
+      "source": "bibliotek",
+      "source_id": "bibliotek-33774",
+      "title": "To justismord – snikkarmeister Carl Andreas Hoel",
+      "start_at": "2026-09-24T18:00:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/naturmoteplass-pa-aksla/?occurrence=2026-09-22",
+      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i8ad504d8-047f-4d19-9e07-3b9dea2a3147/w300/k2e43001d882e/svein-linge_infoskjermfb.png",
+      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33774&lang=1&MId1=18377",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-09-22",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-09-22T12:00:00",
-      "end_at": "2026-09-22T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-09-22",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-21920-2026-09-22",
-      "title": "Hybeltreff på Fellesverket",
-      "start_at": "2026-09-22T14:00:00",
-      "end_at": "2026-09-22T19:00:00",
-      "location_name": "Fellesverket Ålesund",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/hybeltreff-pa-fellesverket/?occurrence=2026-09-22",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-37892-2026-09-22",
-      "title": "Snakk tysk med Finn fra Wien!",
-      "start_at": "2026-09-22T15:00:00",
-      "end_at": "2026-09-22T16:30:00",
-      "location_name": "Moa bibliotek",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/snakk-tysk-med-finn-fra-wien/?occurrence=2026-09-22",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -9815,135 +9940,6 @@
       "url": "https://aafk.ticketco.events/no/nb/e/eliteserien_aalesund_-_bodøu002fglimt",
       "tags": [
         "fotball"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-a985cebd-83db-4f8d-b78f-5bf6981a93b0",
-      "title": "En nasjon i sjakk",
-      "start_at": "2026-09-22T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8c66656a2094a158e66eb9d698d1980.jpg?w=1440&version=CD9AF7C788A875FA30272EC9C5CC3C99",
-      "url": "https://www.odeonkino.no/film/en-nasjon-i-sjakk/",
-      "tags": [
-        "thriller",
-        "spenning",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-bbde1b6f-febd-411c-86d1-808407eb43e8",
-      "title": "Harila - Nådeløse fjell",
-      "description": "De 14 høyeste fjellene i verden. På rekordtid.",
-      "start_at": "2026-09-22T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/10e3048238e6450a85ec118a07a3a7f4.jpg?w=1440&version=385597C08BEED5AB33797CFAE8F09D2C",
-      "url": "https://www.odeonkino.no/film/harila-nadelose-fjell/",
-      "tags": [
-        "dokumentar"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-69b945ce-ae4b-48d3-99e9-5e1a50d1f79c",
-      "title": "En nasjon i sjakk",
-      "start_at": "2026-09-22T13:20:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8c66656a2094a158e66eb9d698d1980.jpg?w=1440&version=CD9AF7C788A875FA30272EC9C5CC3C99",
-      "url": "https://www.odeonkino.no/film/en-nasjon-i-sjakk/",
-      "tags": [
-        "isense",
-        "thriller",
-        "spenning",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-452b21c2-83f5-4b43-ab39-52cf79049726",
-      "title": "Fjord",
-      "description": "Fjord er et aktuelt, spennende og tankevekkende familiedrama som utforsker kulturforskjeller og de skjøre grensene mellom privatliv og institusjonell makt.",
-      "start_at": "2026-09-22T14:15:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3cd03f1a53bd4ddbb12e5eeb6010befc.jpg?w=1440&version=8E7D099FB26FB5A844D40CB404287712",
-      "url": "https://www.odeonkino.no/film/fjord/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-36020d0f-7f48-4868-9d0f-b65c6bfea19d",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-09-22T14:20:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?w=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-af638685-2a12-40ff-8dc4-b6c6b4476438",
-      "title": "Harila - Nådeløse fjell",
-      "description": "De 14 høyeste fjellene i verden. På rekordtid.",
-      "start_at": "2026-09-22T15:15:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/10e3048238e6450a85ec118a07a3a7f4.jpg?w=1440&version=385597C08BEED5AB33797CFAE8F09D2C",
-      "url": "https://www.odeonkino.no/film/harila-nadelose-fjell/",
-      "tags": [
-        "luxe",
-        "dokumentar"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-da615597-10c5-440b-bcf7-4c1c252b2f9c",
-      "title": "Resident Evil",
-      "description": "Fra filmskaperen Zach Cregger (Weapons, Barbarian) kommer en spennende og skremmende nytolkning av Resident Evil-franchisen.",
-      "start_at": "2026-09-22T16:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/72ac34f44f7c450d80d970e4f12fd2c6.jpg?w=1440&version=C0216EE70239B9E7F429B5285D459F37",
-      "url": "https://www.odeonkino.no/film/resident-evil/",
-      "tags": [
-        "isense",
-        "sci-fi",
-        "skrekkfilm"
       ],
       "age_groups": [],
       "is_recurring": false,
