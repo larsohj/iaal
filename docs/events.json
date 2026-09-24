@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T21:15:36.062792+00:00",
-  "total": 578,
+  "generated_at": "2026-09-24T03:41:51.305281+00:00",
+  "total": 576,
   "failed_sources": [
     "viti",
     "odeon"
@@ -5861,7 +5861,7 @@
       "latitude": 62.3917269,
       "longitude": 6.5803557,
       "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/66380-quiz-bankplassen-oppgjer-nr-2-oktober",
       "tags": [],
       "age_groups": [],
@@ -6956,7 +6956,7 @@
       "latitude": 62.8620094,
       "longitude": 7.6787316,
       "organizer": "Frikjøring og Topptur - NTNU Ålesund",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3476/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/66462-hyttetur-2-4-oktober",
       "tags": [],
       "age_groups": [],
@@ -8239,19 +8239,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-39984-2026-09-24",
-      "title": "Salmekveld med Sindre Skeie i Spjelkavik kyrkje",
-      "start_at": "2026-09-24T00:00:00",
-      "location_name": "Spjelkavik kirke",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/salmekveld-med-sindre-skeie-i-spjelkavik-kyrkje/?occurrence=2026-09-24",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -9886,23 +9873,6 @@
       "url": "https://aafk.ticketco.events/no/nb/e/eliteserien_aalesund_-_bodøu002fglimt",
       "tags": [
         "fotball"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-0b4038ff-0186-40b4-8bf6-a0df11610367",
-      "title": "Insidious: Out of the Further",
-      "start_at": "2026-09-23T21:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a87558b52c614e56b0b0c8b2be431568.jpg?w=1440&version=1085B578843068E12FAB91CE5F67945B",
-      "url": "https://www.odeonkino.no/film/insidious-out-of-the-further/",
-      "tags": [
-        "thriller",
-        "skrekkfilm"
       ],
       "age_groups": [],
       "is_recurring": false,
