@@ -1,88 +1,11 @@
 {
-  "generated_at": "2026-09-25T03:58:15.321206+00:00",
-  "total": 550,
+  "generated_at": "2026-09-25T11:24:53.933410+00:00",
+  "total": 539,
   "failed_sources": [
     "viti",
     "odeon"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
-      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
-      "start_at": "2026-09-25T10:00:00",
-      "end_at": "2027-06-18T20:00:00",
-      "is_free": true,
-      "location_name": "Dagplass for personer med demens",
-      "city": "Ålesund",
-      "organizer": "Dagplass for personer med demens",
-      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
-      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-oaaKhUelcrDHO",
-      "title": "Informasjonsmøte: Lyst til å vite mer om det å være turleder i DNT?",
-      "start_at": "2026-09-25T10:00:00",
-      "end_at": "2026-09-25T10:30:00",
-      "is_free": true,
-      "location_name": "DNT Sunnmøre",
-      "city": "Ålesund",
-      "organizer": "DNT Sunnmøre",
-      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_623092",
-      "url": "https://alesund.friskus.com/events/oaaKhUelcrDHO",
-      "tags": [
-        "friluftsliv",
-        "tur"
-      ],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-006c7c00-d4f5-46fe-9f75-5dae47136a14",
-      "title": "Onsdags- og fredagstrim",
-      "start_at": "2026-09-25T10:30:00",
-      "end_at": "2027-06-25T11:15:00",
-      "is_free": false,
-      "location_name": "Spjelkavik seniorsenter",
-      "city": "Ålesund",
-      "organizer": "Spjelkavik seniorsenter",
-      "image_url": "https://ucarecdn.com/463810e7-d870-4c7f-a565-dd0d242edc8a/-/crop/589x160/0,44/-/preview/",
-      "url": "https://alesund.friskus.com/events/006c7c00-d4f5-46fe-9f75-5dae47136a14",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-894ebe6d-ed9d-43c5-8392-85a40fe3d4db",
-      "title": "Gjenbrukskafe søker frivillige på Ålesund Frivilligsentral",
-      "start_at": "2026-09-25T11:00:00",
-      "end_at": "2026-12-18T16:00:00",
-      "is_free": true,
-      "location_name": "Ålesund frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Ålesund frivilligsentral",
-      "image_url": "https://ucarecdn.com/24ef317a-b2e3-4022-87c0-76e8fb6d2238/-/crop/1536x420/0,258/-/preview/",
-      "url": "https://alesund.friskus.com/events/894ebe6d-ed9d-43c5-8392-85a40fe3d4db",
-      "tags": [],
-      "age_groups": [
-        "senior"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-32d3924a-7d96-4b41-b783-e5a18ce764fa",
@@ -98,24 +21,6 @@
       "tags": [],
       "age_groups": [
         "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-c5a52312-c50a-4a18-ac70-1b211c9e7b61",
-      "title": "Bokkino for barnehager (3 - 6 år)",
-      "start_at": "2026-09-25T12:00:00",
-      "end_at": "2026-12-18T12:30:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "organizer": "Ålesund bibliotek",
-      "image_url": "https://ucarecdn.com/da7879cf-57e4-4365-bb81-938a9be906bf/-/crop/855x233/0,150/-/preview/",
-      "url": "https://alesund.friskus.com/events/c5a52312-c50a-4a18-ac70-1b211c9e7b61",
-      "tags": [],
-      "age_groups": [
-        "children"
       ],
       "is_recurring": true
     },
@@ -140,27 +45,6 @@
         "pensioner"
       ],
       "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-oaasxmxcoOHxl",
-      "title": "Stiløping i Tafjordfjella",
-      "start_at": "2026-09-25T12:00:00",
-      "end_at": "2026-09-27T17:00:00",
-      "is_free": false,
-      "location_name": "DNT Sunnmøre",
-      "city": "Ålesund",
-      "organizer": "DNT Sunnmøre",
-      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_601318",
-      "url": "https://alesund.friskus.com/events/oaasxmxcoOHxl",
-      "tags": [
-        "friluftsliv",
-        "tur"
-      ],
-      "age_groups": [
-        "senior"
-      ],
-      "is_recurring": false
     },
     {
       "source": "friskus",
@@ -588,6 +472,24 @@
       "tags": [],
       "age_groups": [
         "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-006c7c00-d4f5-46fe-9f75-5dae47136a14",
+      "title": "Onsdags- og fredagstrim",
+      "start_at": "2026-09-29T10:30:00",
+      "end_at": "2027-06-25T11:15:00",
+      "is_free": false,
+      "location_name": "Spjelkavik seniorsenter",
+      "city": "Ålesund",
+      "organizer": "Spjelkavik seniorsenter",
+      "image_url": "https://ucarecdn.com/463810e7-d870-4c7f-a565-dd0d242edc8a/-/crop/589x160/0,44/-/preview/",
+      "url": "https://alesund.friskus.com/events/006c7c00-d4f5-46fe-9f75-5dae47136a14",
+      "tags": [],
+      "age_groups": [
         "pensioner"
       ],
       "is_recurring": true
@@ -1241,6 +1143,24 @@
       "tags": [],
       "age_groups": [
         "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-c5a52312-c50a-4a18-ac70-1b211c9e7b61",
+      "title": "Bokkino for barnehager (3 - 6 år)",
+      "start_at": "2026-10-02T12:00:00",
+      "end_at": "2026-12-18T12:30:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
+      "city": "Ålesund",
+      "organizer": "Ålesund bibliotek",
+      "image_url": "https://ucarecdn.com/da7879cf-57e4-4365-bb81-938a9be906bf/-/crop/855x233/0,150/-/preview/",
+      "url": "https://alesund.friskus.com/events/c5a52312-c50a-4a18-ac70-1b211c9e7b61",
+      "tags": [],
+      "age_groups": [
+        "children"
       ],
       "is_recurring": true
     },
@@ -3366,24 +3286,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-e02e5a3d-18b5-44dc-b21e-fdefa7732990",
-      "title": "Kurs i stressmeistring/ avspenning teknikk",
-      "start_at": "2026-09-25T08:30:00",
-      "end_at": "2026-10-02T09:15:00",
-      "is_free": false,
-      "location_name": "Friskliv og Meistring i Sula kommune",
-      "city": "Ålesund",
-      "organizer": "Friskliv og Meistring i Sula kommune",
-      "image_url": "https://ucarecdn.com/ff0a0686-301c-45d7-9a81-100b9a72273b/-/crop/1440x392/0,209/-/preview/",
-      "url": "https://alesund.friskus.com/events/e02e5a3d-18b5-44dc-b21e-fdefa7732990",
-      "tags": [],
-      "age_groups": [
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-10b36b94-d76b-4811-bafa-df2a4ac0355f",
       "title": "Sprangtrening Toril Hemmingby",
       "start_at": "2026-09-25T16:00:00",
@@ -3519,6 +3421,24 @@
         "family",
         "senior",
         "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-e02e5a3d-18b5-44dc-b21e-fdefa7732990",
+      "title": "Kurs i stressmeistring/ avspenning teknikk",
+      "start_at": "2026-09-29T08:30:00",
+      "end_at": "2026-10-02T09:15:00",
+      "is_free": false,
+      "location_name": "Friskliv og Meistring i Sula kommune",
+      "city": "Ålesund",
+      "organizer": "Friskliv og Meistring i Sula kommune",
+      "image_url": "https://ucarecdn.com/ff0a0686-301c-45d7-9a81-100b9a72273b/-/crop/1440x392/0,209/-/preview/",
+      "url": "https://alesund.friskus.com/events/e02e5a3d-18b5-44dc-b21e-fdefa7732990",
+      "tags": [],
+      "age_groups": [
+        "senior"
       ],
       "is_recurring": true
     },
@@ -3866,28 +3786,6 @@
         "pensioner"
       ],
       "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-4099e8e2-02df-4c0a-880e-02130c8fd1c7",
-      "title": "Biblioteket er ope :)",
-      "start_at": "2026-09-25T10:30:00",
-      "end_at": "2026-10-16T15:30:00",
-      "is_free": true,
-      "location_name": "Giske folkebibliotek",
-      "city": "Ålesund",
-      "organizer": "Giske folkebibliotek",
-      "image_url": "https://ucarecdn.com/291cb93f-fd25-460e-a4da-21b6d9547361/-/crop/1200x328/0,170/-/preview/",
-      "url": "https://alesund.friskus.com/events/4099e8e2-02df-4c0a-880e-02130c8fd1c7",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -5018,7 +4916,7 @@
       "start_at": "2026-10-23T19:00:00",
       "end_at": "2026-10-24T02:00:00",
       "is_free": false,
-      "price_text": "NOK 895.00",
+      "price_text": "NOK 880.00",
       "location_name": "Dampsentralen",
       "city": "Ålesund",
       "latitude": 62.4711327,
@@ -5652,26 +5550,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-b85c1d18f23082ca034283a9687c178e",
-      "title": "Sofia Emelia & Robert Botn",
-      "description": "<p>Pianist Sofia Emelia og poet og beatmaker Robert Botn slår seg sammen for en kveld, og lover en lun, varm og omsluttende musikkopplevelse i kjelleren på Dråpe kaffehus.<br>Robert Botn har under aliaset Xeno Sounds laget en remix av Sofia Emelias «Protected by love», og denne slippes samme dag!<br>Cc 150 kr.</p>",
-      "start_at": "2026-11-13T18:30:00",
-      "end_at": "2026-11-13T21:00:00",
-      "is_free": false,
-      "price_text": "NOK 150.00",
-      "location_name": "Dråpe Ålesund Kaffehus",
-      "city": "Ålesund",
-      "latitude": 62.4719155,
-      "longitude": 6.1601977,
-      "organizer": "Anna Sofia Emelia Ohlsson",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_12875a1cb6512a152f47b9499b7e5191.webp?class=w768",
-      "url": "https://tikkio.com/events/66424-sofia-emelia-robert-botnxeno-sounds",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-a2fa36cacb010836492ceb4fe553d4db",
       "title": "Fra Ålesund til Buenos Aires",
       "description": "<p>Duokonsert med fiolinist Ai-Ling Chiu og Kristina Farstad Bjørdal på akkordeon. De vil fremføre et variert program som spenner fra  Sommerro og annen norsk musikk, via Bach og til Til Piazzollas suite &quot;Tangoens Historie&quot;</p>",
@@ -6207,7 +6085,7 @@
       "source": "tikkio",
       "source_id": "tikkio-cc74e831f8e1c1a0b17007ae522abab1",
       "title": "TØFL // ROKKEN",
-      "description": "Eg e deg - TURNÉ!\r\n\r\nTØFL slepper ny musikk og spelar sine største klubbkonsertar over heile landet.\r\n\r\nEnorm energi, relaterbare tekstar og rungande allsang. Skiljet mellom publikum og bandet forsvinn, og det er som om heile salen strekkjer seg mot noko større saman.\r\n\r\n«Det var rein uhemma glede både på og framfor scena. Ein slik konsert der du kosar deg, sjølv om det pøsregnar» – Adresseavisen, om TØFL på Pstereo, terningkast 6\r\n\r\nMed debut-EP-en «Eg ska» frå 2018 etablerte TØFL seg raskt som eit band med ei unik evne til å setje ord på eksistensen, på ein måte dei fleste kan kjenne seg att i. Debutalbumet «Eg fins, WTF!?» frå 2022 fekk solide meldingar, og blei etterfølgt av utseld Rockefeller. Sist sommar var dei det mest etterspurde bandet på Balestrand Badeklubb, og dei har headlina Mablisfestivalen og Fredvikafestivalen. Dei har selt ut scener som Samfundet og Fiskepiren fleire gonger.\r\n\r\n«På scena er TØFL eit band med uendeleg publikumstekke og energi. (...) Om du aldri har høyrt ei TØFL-låt før, så tek det deg eit par minutt før du er sjarmert i senk. (...) Her stod dei på plakaten saman med live-legender som Honningbarna og Spidergawd, men klarte likevel å levere dei beste augneblikka av rein festival-lykke.» – NRK P3, Jesper Nondal om TØFL på Fresn\r\n\r\n«EP-en «Eg ska» og debutplata «Eg fins, WTF!?» kunne like gjerne blitt kalla «Greatest Hits Vol. 1» og «Vol. 2», for heile salen syng med på samtlige låtar, som alle blir møtte med like store dosar engasjement. (...) Hadde eg vore bookingansvarleg for sommarfestivalar i vårt langstrakte land, hadde eg gjort mitt ytste for å få Tøfl så langt opp på plakaten som mogleg. Kvifor? Fordi publikum går bananas over alt dei gjer.» – Aftenbladet, om TØFL på Fiskepiren\r\n\r\n18 års aldersgrense\r\nBillettar i sal frå Fredag 10. april kl. 10:00!\r\n\r\n\r\n\r\n//ENGLISH//\r\n\r\n\r\n\r\nTØFL are releasing new music and playing their biggest club shows across the country.\r\n\r\nMassive energy, relatable lyrics, and booming singalongs. The line between audience and band disappears, and it feels as if the entire room is reaching toward something bigger together.\r\n\r\n“It was pure, uninhibited joy both on and in front of the stage. The kind of concert where you’re having a great time even if it’s pouring rain.” – Adresseavisen, about TØFL at Pstereo, rating: 6/6\r\n\r\nWith their debut EP “Eg ska” in 2018, TØFL quickly established themselves as a band with a unique ability to put existence into words in a way most people can relate to. Their debut album “Eg fins, WTF!?” (2022) received strong reviews and was followed by a sold-out show at Rockefeller.\r\n\r\nLast summer, they were the most in-demand band at Balestrand Badeklubb, and they have headlined both Mablisfestivalen and Fredvikafestivalen. They have sold out venues such as Samfundet and Fiskepiren multiple times.\r\n\r\n“On stage, TØFL is a band with endless crowd appeal and energy. (...) Even if you’ve never heard a TØFL song before, it only takes a couple of minutes before you’re completely won over. (...) They shared the lineup with live legends like Honningbarna and Spidergawd, yet still managed to deliver the finest moments of pure festival joy.” – NRK P3, Jesper Nondal on TØFL at Fresn\r\n\r\n“The EP ‘Eg ska’ and the debut album ‘Eg fins, WTF!?’ might as well have been called ‘Greatest Hits Vol. 1’ and ‘Vol. 2’, because the entire crowd sings along to every single song, all met with equal levels of enthusiasm. (...) If I were booking summer festivals across this long country, I would do everything in my power to place Tøfl as high on the lineup as possible. Why? Because audiences go absolutely wild over everything they do.” – Aftenbladet, about TØFL at Fiskepiren\r\n\r\nID: 18+\r\nTickets go on sale Friday, April 10 at 10:00 AM!",
+      "description": "<p>Eg e deg - TURNÉ!</p><p>TØFL slepper ny musikk og spelar sine største klubbkonsertar over heile landet.</p><p>Enorm energi, relaterbare tekstar og rungande allsang. Skiljet mellom publikum og bandet forsvinn, og det er som om heile salen strekkjer seg mot noko større saman.</p><p>«Det var rein uhemma glede både på og framfor scena. Ein slik konsert der du kosar deg, sjølv om det pøsregnar» – Adresseavisen, om TØFL på Pstereo, terningkast 6</p><p>Med debut-EP-en «Eg ska» frå 2018 etablerte TØFL seg raskt som eit band med ei unik evne til å setje ord på eksistensen, på ein måte dei fleste kan kjenne seg att i. Debutalbumet «Eg fins, WTF!?» frå 2022 fekk solide meldingar, og blei etterfølgt av utseld Rockefeller. Sist sommar var dei det mest etterspurde bandet på Balestrand Badeklubb, og dei har headlina Mablisfestivalen og Fredvikafestivalen. Dei har selt ut scener som Samfundet og Fiskepiren fleire gonger.</p><p>«På scena er TØFL eit band med uendeleg publikumstekke og energi. (...) Om du aldri har høyrt ei TØFL-låt før, så tek det deg eit par minutt før du er sjarmert i senk. (...) Her stod dei på plakaten saman med live-legender som Honningbarna og Spidergawd, men klarte likevel å levere dei beste augneblikka av rein festival-lykke.» – NRK P3, Jesper Nondal om TØFL på Fresn</p><p>«EP-en «Eg ska» og debutplata «Eg fins, WTF!?» kunne like gjerne blitt kalla «Greatest Hits Vol. 1» og «Vol. 2», for heile salen syng med på samtlige låtar, som alle blir møtte med like store dosar engasjement. (...) Hadde eg vore bookingansvarleg for sommarfestivalar i vårt langstrakte land, hadde eg gjort mitt ytste for å få Tøfl så langt opp på plakaten som mogleg. Kvifor? Fordi publikum går bananas over alt dei gjer.» – Aftenbladet, om TØFL på Fiskepiren</p><p>18 års aldersgrense</p><p>Billettar i sal frå Fredag 10. april kl. 10:00!</p><p>Doors: 20:00</p><p>Konsertstart: 22.00</p><p></p><p>//ENGLISH//</p><p>TØFL are releasing new music and playing their biggest club shows across the country.</p><p>Massive energy, relatable lyrics, and booming singalongs. The line between audience and band disappears, and it feels as if the entire room is reaching toward something bigger together.</p><p>“It was pure, uninhibited joy both on and in front of the stage. The kind of concert where you’re having a great time even if it’s pouring rain.” – Adresseavisen, about TØFL at Pstereo, rating: 6/6</p><p>With their debut EP “Eg ska” in 2018, TØFL quickly established themselves as a band with a unique ability to put existence into words in a way most people can relate to. Their debut album “Eg fins, WTF!?” (2022) received strong reviews and was followed by a sold-out show at Rockefeller.</p><p>Last summer, they were the most in-demand band at Balestrand Badeklubb, and they have headlined both Mablisfestivalen and Fredvikafestivalen. They have sold out venues such as Samfundet and Fiskepiren multiple times.</p><p>“On stage, TØFL is a band with endless crowd appeal and energy. (...) Even if you’ve never heard a TØFL song before, it only takes a couple of minutes before you’re completely won over. (...) They shared the lineup with live legends like Honningbarna and Spidergawd, yet still managed to deliver the finest moments of pure festival joy.” – NRK P3, Jesper Nondal on TØFL at Fresn</p><p>“The EP ‘Eg ska’ and the debut album ‘Eg fins, WTF!?’ might as well have been called ‘Greatest Hits Vol. 1’ and ‘Vol. 2’, because the entire crowd sings along to every single song, all met with equal levels of enthusiasm. (...) If I were booking summer festivals across this long country, I would do everything in my power to place Tøfl as high on the lineup as possible. Why? Because audiences go absolutely wild over everything they do.” – Aftenbladet, about TØFL at Fiskepiren</p><p>ID: 18+</p><p>Tickets go on sale Friday, April 10 at 10:00 AM!</p><p></p><p></p><p>Doors: 20:00</p><p>Showstart: 22.00</p>",
       "start_at": "2026-09-25T20:00:00",
       "end_at": "2026-09-26T02:30:00",
       "is_free": false,
@@ -7097,23 +6975,6 @@
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/66462-hyttetur-2-4-oktober",
       "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "parken",
-      "source_id": "parken-49406-poesiscena-joakim-kjorsvik-christian-winther",
-      "title": "Poesiscena: Joakim Kjørsvik & Christian Winther",
-      "start_at": "2026-09-25T12:00:00",
-      "end_at": "2026-09-25T12:30:00",
-      "location_name": "Parken kulturhus – Foajeen",
-      "city": "Ålesund",
-      "organizer": "Høstscena 2026",
-      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F49406%2Fweb-square.webp?version=XO5ddamIsddjYehG2s8iww==",
-      "url": "https://www.parkenkulturhus.no/program/49406-poesiscena-joakim-kjorsvik-christian-winther/",
-      "tags": [
-        "scenekunst"
-      ],
       "age_groups": [],
       "is_recurring": false
     },
@@ -8059,21 +7920,6 @@
     },
     {
       "source": "bibliotek",
-      "source_id": "bibliotek-33806",
-      "title": "Bokkino for barnehagar (3 - 6 år)",
-      "start_at": "2026-09-25T11:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/iba4374cf-3db5-4730-9af7-bc57f3ec8b05/w300/k4a9fa91e830d/bokkino-med-anna-kalenderbilde.png",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33806&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bibliotek",
       "source_id": "bibliotek-33780",
       "title": "Poesiverksted med Finn",
       "start_at": "2026-09-25T14:00:00",
@@ -8193,56 +8039,19 @@
       "end_at": null
     },
     {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-40444-2026-09-25",
-      "title": "Høstscena 2026: Poesiscena – Christian Winther & Joakim Kjørsvik",
-      "start_at": "2026-09-25T08:00:00",
-      "end_at": "2026-09-25T08:30:00",
-      "location_name": "Baker Walderhaug",
+      "source": "bibliotek",
+      "source_id": "bibliotek-33725",
+      "title": "Språkkafe",
+      "start_at": "2026-09-30T17:30:00",
+      "is_free": true,
+      "location_name": "Moa bibliotek",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/hostscena-2026-poesiscena-christian-winther-joakim-kjorsvik/?occurrence=2026-09-25",
+      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/ic93c1d69-aa2d-452a-9765-34f0b3254a62/w300/kac5d4b9b6aae/sprakkafe-facebook-arrangementforside-3.png",
+      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33725&lang=1&MId1=18377",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32362-2026-09-25",
-      "title": "Sommerfuglen Aktivitet",
-      "start_at": "2026-09-25T10:00:00",
-      "end_at": "2026-09-25T15:00:00",
-      "location_name": "Sommerfuglen Aktivitet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerfuglen-aktivitet/?occurrence=2026-09-25",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-09-25",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-09-25T10:00:00",
-      "end_at": "2026-09-25T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-09-25",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33315-2026-09-25",
-      "title": "Bokkino for barnehagar (3 – 6 år)",
-      "start_at": "2026-09-25T11:00:00",
-      "end_at": "2026-09-25T11:30:00",
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/bokkino-for-barnehagar-3-6-ar/?occurrence=2026-09-25",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
