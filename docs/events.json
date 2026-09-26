@@ -1,30 +1,11 @@
 {
-  "generated_at": "2026-09-26T04:03:00.444876+00:00",
+  "generated_at": "2026-09-26T11:00:25.876844+00:00",
   "total": 518,
   "failed_sources": [
     "viti",
     "odeon"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-9292952b-63a0-4440-8e8d-e05b338ada40",
-      "title": "AKTIV LØRDAG på Borgund Dyreklubb september 2026",
-      "start_at": "2026-09-26T10:00:00",
-      "end_at": "2026-09-26T12:00:00",
-      "is_free": true,
-      "location_name": "Borgund Dyreklubb Frivillig Organisasjon",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb Frivillig Organisasjon",
-      "image_url": "https://ucarecdn.com/ccfd79d8-3668-4c3d-8a17-d44ea0b89f24/-/crop/478x342/0,13/-/preview/",
-      "url": "https://alesund.friskus.com/events/9292952b-63a0-4440-8e8d-e05b338ada40",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
@@ -601,6 +582,26 @@
       "url": "https://alesund.friskus.com/events/30165da6-2d09-4e6c-987d-c8e60b0b3945",
       "tags": [],
       "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-ad886f78-4387-4d8d-8e68-9a25b3fad309",
+      "title": "Skodje blandakor - korøving",
+      "start_at": "2026-09-29T18:30:00",
+      "end_at": "2027-06-29T21:00:00",
+      "is_free": false,
+      "location_name": "Skodje Blandakor",
+      "city": "Ålesund",
+      "organizer": "Skodje Blandakor",
+      "image_url": "https://ucarecdn.com/fe4864dc-8a51-4e1e-869d-ca65d76633e7/-/crop/960x262/0,229/-/preview/",
+      "url": "https://alesund.friskus.com/events/ad886f78-4387-4d8d-8e68-9a25b3fad309",
+      "tags": [],
+      "age_groups": [
+        "teenager",
         "senior",
         "pensioner"
       ],
@@ -3689,6 +3690,28 @@
       "organizer": "Sula Rideklubb",
       "image_url": "https://ucarecdn.com/b66f16a4-d670-4447-9e5b-1caf25b2e0da/-/crop/861x451/39,22/-/preview/",
       "url": "https://alesund.friskus.com/events/8bb799a7-3d6b-4a85-98c7-1bbb77248e59",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-15d711b7-15ec-46da-accc-ff4cf85472f2",
+      "title": "Haustmarknad",
+      "start_at": "2026-10-24T11:00:00",
+      "end_at": "2026-10-24T15:00:00",
+      "is_free": true,
+      "location_name": "Mauseidvåg Bedehusforening",
+      "city": "Ålesund",
+      "organizer": "Mauseidvåg Bedehusforening",
+      "image_url": "https://ucarecdn.com/2fc4b36f-1b7e-474c-a0a4-5eaec5e6f8b5/-/crop/760x207/0,49/-/preview/",
+      "url": "https://alesund.friskus.com/events/15d711b7-15ec-46da-accc-ff4cf85472f2",
       "tags": [],
       "age_groups": [
         "children",
@@ -6908,26 +6931,9 @@
       "latitude": 62.8620094,
       "longitude": 7.6787316,
       "organizer": "Frikjøring og Topptur - NTNU Ålesund",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/66462-hyttetur-2-4-oktober",
       "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "parken",
-      "source_id": "parken-49407-poesiscena-fatemeh-ekhtesari-hakon-hagen-knudsen",
-      "title": "Poesiscena: Fatemeh Ekhtesari & Håkon Hagen Knudsen",
-      "start_at": "2026-09-26T12:00:00",
-      "end_at": "2026-09-26T12:30:00",
-      "location_name": "Parken kulturhus – Foajeen",
-      "city": "Ålesund",
-      "organizer": "Høstscena 2026",
-      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F49407%2Fweb-square.webp?version=L8FVl2+YiZW4Zcs6nZlXgQ==",
-      "url": "https://www.parkenkulturhus.no/program/49407-poesiscena-fatemeh-ekhtesari-hakon-hagen-knudsen/",
-      "tags": [
-        "scenekunst"
-      ],
       "age_groups": [],
       "is_recurring": false
     },
@@ -7974,58 +7980,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-40527-2026-09-26",
-      "title": "Høstscena 2026: Poesiscena – Håkon Hagen Knudsen & Fatemeh Ekhtesari",
-      "start_at": "2026-09-26T09:00:00",
-      "end_at": "2026-09-26T09:30:00",
-      "location_name": "Baker Walderhaug",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/hostscena-2026-poesiscena-hakon-hagen-knudsen-fatemeh-ekhtesari/?occurrence=2026-09-26",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-09-26",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-09-26T10:00:00",
-      "end_at": "2026-09-26T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-09-26",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-25486-2026-09-26",
-      "title": "Aalesunds Museum",
-      "start_at": "2026-09-26T11:00:00",
-      "end_at": "2026-09-26T15:30:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum/?occurrence=2026-09-26",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-39448-2026-09-26",
-      "title": "Loppemarked i Borgundhallen",
-      "start_at": "2026-09-26T11:00:00",
-      "end_at": "2026-09-26T14:00:00",
-      "location_name": "Borgundhallen",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/loppemarked-i-borgundhallen/?occurrence=2026-09-26",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-30716-2026-09-26",
       "title": "Åpen gård – Borgund Dyreklubb",
       "start_at": "2026-09-26T12:00:00",
@@ -8754,6 +8708,32 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-40845-2026-10-01",
+      "title": "Bjørnov tar det piano",
+      "start_at": "2026-10-01T19:00:00",
+      "end_at": "2026-10-01T20:20:00",
+      "location_name": "Parken kulturhus",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/bjornov-tar-det-piano/?occurrence=2026-10-01",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-40843-2026-10-01",
+      "title": "Bare Egil Band",
+      "start_at": "2026-10-01T20:30:00",
+      "end_at": "2026-10-01T21:30:00",
+      "location_name": "Parken kulturhus",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/bare-egil-band-2/?occurrence=2026-10-01",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-40543-2026-10-02",
       "title": "Quiz på Steinovnen",
       "start_at": "2026-10-02T00:00:00",
@@ -9024,6 +9004,32 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-40841-2026-10-03",
+      "title": "Live Musikkquiz // Fabrikken 3. oktober",
+      "start_at": "2026-10-03T20:30:00",
+      "end_at": "2026-10-03T23:55:00",
+      "location_name": "Fabrikken Kulturscene",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/live-musikkquiz-fabrikken-3-oktober/?occurrence=2026-10-03",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-40653-2026-10-03",
+      "title": "E39 Ekspressen Vol.4 – Damp Takeover",
+      "start_at": "2026-10-03T00:00:00",
+      "location_name": "Dampsentralen",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/e39-ekspressen-vol-4-damp-takeover/?occurrence=2026-10-03",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
