@@ -1,33 +1,11 @@
 {
-  "generated_at": "2026-09-27T16:36:55.579467+00:00",
-  "total": 492,
+  "generated_at": "2026-09-27T21:03:30.553713+00:00",
+  "total": 489,
   "failed_sources": [
     "viti",
     "odeon"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-f7157f63-e5de-4e4a-8fbb-a5d9d31a81e5",
-      "title": "Mannskorkonsert i Spjelkavik kyrkje",
-      "start_at": "2026-09-27T17:00:00",
-      "end_at": "2026-09-27T19:00:00",
-      "is_free": false,
-      "location_name": "Aalesunds Mandssangforening",
-      "city": "Ålesund",
-      "organizer": "Aalesunds Mandssangforening",
-      "image_url": "https://ucarecdn.com/d769809a-e475-4022-84d5-4b4524fda32b/-/crop/696x287/0,218/-/preview/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/f7157f63-e5de-4e4a-8fbb-a5d9d31a81e5",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
     {
       "source": "friskus",
       "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
@@ -5569,6 +5547,26 @@
     },
     {
       "source": "tikkio",
+      "source_id": "tikkio-b85c1d18f23082ca034283a9687c178e",
+      "title": "Sofia Emelia & Robert Botn",
+      "description": "<p>Pianist Sofia Emelia og poet og beatmaker Robert Botn slår seg sammen for en kveld, og lover en lun, varm og omsluttende musikkopplevelse i kjelleren på Dråpe kaffehus.<br>Robert Botn har under aliaset Xeno Sounds laget en remix av Sofia Emelias «Protected by love», og denne slippes samme dag!<br>Cc 150 kr.</p>",
+      "start_at": "2026-11-13T18:30:00",
+      "end_at": "2026-11-13T21:00:00",
+      "is_free": false,
+      "price_text": "NOK 150.00",
+      "location_name": "Dråpe Ålesund Kaffehus",
+      "city": "Ålesund",
+      "latitude": 62.4719155,
+      "longitude": 6.1601977,
+      "organizer": "Anna Sofia Emelia Ohlsson",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_12875a1cb6512a152f47b9499b7e5191.webp?class=w768",
+      "url": "https://tikkio.com/events/66424-sofia-emelia-robert-botnxeno-sounds",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
       "source_id": "tikkio-a2fa36cacb010836492ceb4fe553d4db",
       "title": "Fra Ålesund til Buenos Aires",
       "description": "<p>Duokonsert med fiolinist Ai-Ling Chiu og Kristina Farstad Bjørdal på akkordeon. De vil fremføre et variert program som spenner fra  Sommerro og annen norsk musikk, via Bach og til Til Piazzollas suite &quot;Tangoens Historie&quot;</p>",
@@ -6320,26 +6318,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-a943363013939e82caeea148e1a98a7c",
-      "title": "Norge mot Portugal",
-      "description": "<p>Portugal kommer til Ullevaal som regjerende Nations League-mestere. Norge tar imot dem søndag kveld, og vi viser hele kampen på storskjerm.</p><p>600 kroner per person inkluderer:</p><p>Fast bord i lokalet<br>2 øl, eller husets vin, mineralvann eller annen alkoholfri drikke<br>1 valgfri burger fra menyen</p><p>Praktisk:</p><p>Søndag 27. september<br>Kampstart 20:45<br>Oppmøte 19:45, én time før avspark<br>Du velger bord selv i salkartet når du booker</p><p>Søndagskveld, full pakke og storskjerm. Samle gjengen og sikre bordet. Vi ses på O&#039;Learys Molde!</p>",
-      "start_at": "2026-09-27T19:45:00",
-      "end_at": "2026-09-27T23:59:00",
-      "is_free": false,
-      "price_text": "NOK 1200.00",
-      "location_name": "O'Learys Molde",
-      "city": "Ålesund",
-      "latitude": 62.7354774,
-      "longitude": 7.1556999,
-      "organizer": "O'Learys Molde",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_01f36b3e7dea670da7c31bbbfd2b5930.webp?class=w768",
-      "url": "https://tikkio.com/events/66117-norge-mot-portugal",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-97f1487dc37268cbc22c0c7771a00cd9",
       "title": "Molde Mundo 2026: Nai Barghouti (Palestina) med Steinar Raknes, Tord Gustavsen og Ruven Ruppik",
       "description": "<p><strong>Molde Mundo 2026: Nai Barghouti med Steinar Raknes, Tord Gustavsen og Ruven Ruppik</strong></p><p><strong>Sted:</strong> Storyville, plassen<br><strong>Doors:</strong> 19:30<br><strong>Showstart:</strong> 20:00<br><strong>Format:</strong> Seated - free seating</p><p><strong>Molde Mundo 5 år -</strong><br>Vi gleder oss til å se Nai Barghouti fra Palestina på scena på Storyville lørdag 31. oktober i det som er det femte året med Molde Mundo!</p><p><strong>Om:</strong><br>Et unikt møte mellom palestinsk poesi og nordisk jazz i verdensklasse. Nai Barghouti sammen med Tord Gustavsen, Steinar Raknes og Ruven Ruppik skaper et vakkert, intenst og grenseløst lydbilde. For første og kanskje siste gang.</p>",
@@ -6894,7 +6872,7 @@
       "latitude": 62.8620094,
       "longitude": 7.6787316,
       "organizer": "Frikjøring og Topptur - NTNU Ålesund",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/66462-hyttetur-2-4-oktober",
       "tags": [],
       "age_groups": [],
@@ -7869,32 +7847,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-24474-2026-09-27",
-      "title": "Brettspillkveld",
-      "start_at": "2026-09-27T19:00:00",
-      "end_at": "2026-09-27T23:55:00",
-      "location_name": "O'Connor's Irish Pub",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/brettspillkveld/?occurrence=2026-09-27",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-40541-2026-09-27",
-      "title": "Høstscena 2026: Kjærast",
-      "start_at": "2026-09-27T19:00:00",
-      "end_at": "2026-09-27T20:30:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/hostscena-2026-kjaerast/?occurrence=2026-09-27",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
