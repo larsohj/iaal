@@ -1,107 +1,11 @@
 {
-  "generated_at": "2026-10-07T12:53:07.424576+00:00",
-  "total": 673,
+  "generated_at": "2026-10-07T22:53:24.130641+00:00",
+  "total": 670,
   "failed_sources": [
     "viti",
     "odeon"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-adcf5279-c440-4b18-a835-6b6e3c213ca8",
-      "title": "Kreativt verksted",
-      "start_at": "2026-10-07T14:00:00",
-      "end_at": "2026-10-07T16:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "organizer": "Ålesund bibliotek",
-      "image_url": "https://ucarecdn.com/5392521d-8ca6-461c-a55a-290dde1a00d2/-/crop/1920x523/0,61/-/preview/",
-      "url": "https://alesund.friskus.com/events/adcf5279-c440-4b18-a835-6b6e3c213ca8",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "family"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-0ba3dfb1-6ce0-429b-922b-e809287797a9",
-      "title": "Seniordans på Ørskog.",
-      "start_at": "2026-10-07T16:45:00",
-      "end_at": "2026-12-16T19:15:00",
-      "is_free": false,
-      "location_name": "LHL Skodje, Ørskog og Haram",
-      "city": "Ålesund",
-      "organizer": "LHL Skodje, Ørskog og Haram",
-      "image_url": "https://ucarecdn.com/1949c5d9-8efd-45a5-bff1-5366a37a8706/-/crop/1245x409/0,67/-/preview/",
-      "url": "https://alesund.friskus.com/events/0ba3dfb1-6ce0-429b-922b-e809287797a9",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-97bac3bf-dce1-4fbe-9675-0acd05beef0e",
-      "title": "Litteratur med klimablikk",
-      "start_at": "2026-10-07T18:00:00",
-      "end_at": "2026-10-07T19:00:00",
-      "is_free": true,
-      "location_name": "Moa Bibliotek",
-      "city": "Ålesund",
-      "organizer": "Moa Bibliotek",
-      "image_url": "https://ucarecdn.com/1cd6fa1e-e901-45c1-9996-2cdf1c59e226/-/crop/1099x300/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/97bac3bf-dce1-4fbe-9675-0acd05beef0e",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-ad1e405d-ece1-4642-b447-b30d8644b2e8",
-      "title": "Helsetrim for damer og herrer.",
-      "start_at": "2026-10-07T18:30:00",
-      "end_at": "2026-12-16T20:00:00",
-      "is_free": false,
-      "location_name": "LHL Skodje, Ørskog og Haram",
-      "city": "Ålesund",
-      "organizer": "LHL Skodje, Ørskog og Haram",
-      "image_url": "https://ucarecdn.com/04078114-2f23-4665-ab85-7e31ace6e2d6/-/crop/1105x344/0,41/-/preview/",
-      "url": "https://alesund.friskus.com/events/ad1e405d-ece1-4642-b447-b30d8644b2e8",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-6831e674-b2fe-4553-a3c3-0887a89fad2a",
-      "title": "Helsetrim for damer og herrer.",
-      "start_at": "2026-10-07T18:45:00",
-      "end_at": "2026-12-16T20:15:00",
-      "is_free": false,
-      "location_name": "LHL Skodje, Ørskog og Haram",
-      "city": "Ålesund",
-      "organizer": "LHL Skodje, Ørskog og Haram",
-      "image_url": "https://ucarecdn.com/a51d1740-4f38-4f18-8589-a652b6095b86/-/crop/1331x400/0,89/-/preview/",
-      "url": "https://alesund.friskus.com/events/6831e674-b2fe-4553-a3c3-0887a89fad2a",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-28b10f66-dbb2-4b34-9f50-238530aa24d5",
@@ -117,6 +21,25 @@
       "tags": [],
       "age_groups": [
         "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
+      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
+      "start_at": "2026-10-08T10:00:00",
+      "end_at": "2027-06-18T20:00:00",
+      "is_free": true,
+      "location_name": "Dagplass for personer med demens",
+      "city": "Ålesund",
+      "organizer": "Dagplass for personer med demens",
+      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
+      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -178,6 +101,25 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-37d299d9-e60c-4c99-9ebd-e8e8bc5a16f5",
+      "title": "Haustferie på biblioteket",
+      "start_at": "2026-10-08T12:00:00",
+      "end_at": "2026-10-08T16:00:00",
+      "is_free": true,
+      "location_name": "Skodje bibliotek",
+      "city": "Ålesund",
+      "organizer": "Skodje bibliotek",
+      "image_url": "https://ucarecdn.com/164ab93b-326c-4bda-a9b0-3747dbd88669/",
+      "url": "https://alesund.friskus.com/events/37d299d9-e60c-4c99-9ebd-e8e8bc5a16f5",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-a28eb8b7-da9c-464c-a838-a7a352e88326",
       "title": "Naturmøteplassen ved Gomerløa",
       "start_at": "2026-10-08T12:00:00",
@@ -216,6 +158,28 @@
         "family"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-10-08T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -1055,24 +1019,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-85769806-4520-43fe-862b-8b417e5d9d60",
-      "title": "Svømming på Ørskog skule  - Nytt aktivitetstiltak i haust",
-      "start_at": "2026-10-13T14:00:00",
-      "end_at": "2026-12-08T16:00:00",
-      "is_free": true,
-      "location_name": "Ørskog Pensjonistlag",
-      "city": "Ålesund",
-      "organizer": "Ørskog Pensjonistlag",
-      "image_url": "https://ucarecdn.com/2ae47b15-903a-4d9e-a41c-c7db8b151a3f/",
-      "url": "https://alesund.friskus.com/events/85769806-4520-43fe-862b-8b417e5d9d60",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-693de171-0482-4b0c-876b-72ea004ecdac",
       "title": "Samtalegruppe for ungdom over 15 år",
       "start_at": "2026-10-13T14:15:00",
@@ -1086,6 +1032,24 @@
       "tags": [],
       "age_groups": [
         "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-85769806-4520-43fe-862b-8b417e5d9d60",
+      "title": "Svømming på Ørskog skule  - Nytt aktivitetstiltak i haust",
+      "start_at": "2026-10-13T14:15:00",
+      "end_at": "2026-12-08T16:15:00",
+      "is_free": true,
+      "location_name": "Ørskog Pensjonistlag",
+      "city": "Ålesund",
+      "organizer": "Ørskog Pensjonistlag",
+      "image_url": "https://ucarecdn.com/2ae47b15-903a-4d9e-a41c-c7db8b151a3f/",
+      "url": "https://alesund.friskus.com/events/85769806-4520-43fe-862b-8b417e5d9d60",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -1305,6 +1269,25 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-0ba3dfb1-6ce0-429b-922b-e809287797a9",
+      "title": "Seniordans på Ørskog.",
+      "start_at": "2026-10-14T16:45:00",
+      "end_at": "2026-12-16T19:15:00",
+      "is_free": false,
+      "location_name": "LHL Skodje, Ørskog og Haram",
+      "city": "Ålesund",
+      "organizer": "LHL Skodje, Ørskog og Haram",
+      "image_url": "https://ucarecdn.com/1949c5d9-8efd-45a5-bff1-5366a37a8706/-/crop/1245x409/0,67/-/preview/",
+      "url": "https://alesund.friskus.com/events/0ba3dfb1-6ce0-429b-922b-e809287797a9",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-b3e9d127-5acf-498f-8259-ab1b0555b60c",
       "title": "Gamingkveld Volsdalen",
       "start_at": "2026-10-14T17:00:00",
@@ -1357,6 +1340,44 @@
       "tags": [],
       "age_groups": [
         "teenager",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-ad1e405d-ece1-4642-b447-b30d8644b2e8",
+      "title": "Helsetrim for damer og herrer.",
+      "start_at": "2026-10-14T18:30:00",
+      "end_at": "2026-12-16T20:00:00",
+      "is_free": false,
+      "location_name": "LHL Skodje, Ørskog og Haram",
+      "city": "Ålesund",
+      "organizer": "LHL Skodje, Ørskog og Haram",
+      "image_url": "https://ucarecdn.com/04078114-2f23-4665-ab85-7e31ace6e2d6/-/crop/1105x344/0,41/-/preview/",
+      "url": "https://alesund.friskus.com/events/ad1e405d-ece1-4642-b447-b30d8644b2e8",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-6831e674-b2fe-4553-a3c3-0887a89fad2a",
+      "title": "Helsetrim for damer og herrer.",
+      "start_at": "2026-10-14T18:45:00",
+      "end_at": "2026-12-16T20:15:00",
+      "is_free": false,
+      "location_name": "LHL Skodje, Ørskog og Haram",
+      "city": "Ålesund",
+      "organizer": "LHL Skodje, Ørskog og Haram",
+      "image_url": "https://ucarecdn.com/a51d1740-4f38-4f18-8589-a652b6095b86/-/crop/1331x400/0,89/-/preview/",
+      "url": "https://alesund.friskus.com/events/6831e674-b2fe-4553-a3c3-0887a89fad2a",
+      "tags": [],
+      "age_groups": [
         "senior",
         "pensioner"
       ],
@@ -3338,6 +3359,28 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-oaaxS2ZdQ2Skc",
+      "title": "Tirsdagstur: Trugetur til Nihusen",
+      "start_at": "2027-02-16T10:00:00",
+      "end_at": "2027-02-16T16:00:00",
+      "is_free": false,
+      "location_name": "DNT Sunnmøre",
+      "city": "Ålesund",
+      "organizer": "DNT Sunnmøre",
+      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_623123",
+      "url": "https://alesund.friskus.com/events/oaaxS2ZdQ2Skc",
+      "tags": [
+        "friluftsliv",
+        "tur"
+      ],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-oaa12PVJ1OQil",
       "title": "Grunnleggende turlederkurs",
       "start_at": "2027-04-30T18:00:00",
@@ -3381,43 +3424,6 @@
         "teenager"
       ],
       "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-70677e37-6cea-43a9-8cda-032c2ddd2457",
-      "title": "Donken-ungdomsklubb onsdag",
-      "start_at": "2026-10-07T14:30:00",
-      "end_at": "2026-12-09T21:00:00",
-      "is_free": true,
-      "location_name": "Fritidsklubbane Sula",
-      "city": "Ålesund",
-      "organizer": "Fritidsklubbane Sula",
-      "image_url": "https://ucarecdn.com/169c501c-eb04-403d-accd-21bf9c66e485/-/crop/1440x870/0,95/-/preview/",
-      "url": "https://alesund.friskus.com/events/70677e37-6cea-43a9-8cda-032c2ddd2457",
-      "tags": [],
-      "age_groups": [
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-433e47ea-f864-4f7e-bff5-e47c6af34763",
-      "title": "LHL - Krakketrim/Styrke, balanse og avspenning på Molvær senter",
-      "start_at": "2026-10-07T16:30:00",
-      "end_at": "2026-12-23T17:30:00",
-      "is_free": true,
-      "location_name": "LHL Ålesund Sula og Giske",
-      "city": "Ålesund",
-      "organizer": "LHL Ålesund Sula og Giske",
-      "image_url": "https://ucarecdn.com/a76ee936-ab0b-4484-828c-97442a214089/-/crop/3217x1684/521,401/-/preview/",
-      "url": "https://alesund.friskus.com/events/433e47ea-f864-4f7e-bff5-e47c6af34763",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -3643,6 +3649,43 @@
       "tags": [],
       "age_groups": [
         "children"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-70677e37-6cea-43a9-8cda-032c2ddd2457",
+      "title": "Donken-ungdomsklubb onsdag",
+      "start_at": "2026-10-14T14:30:00",
+      "end_at": "2026-12-09T21:00:00",
+      "is_free": true,
+      "location_name": "Fritidsklubbane Sula",
+      "city": "Ålesund",
+      "organizer": "Fritidsklubbane Sula",
+      "image_url": "https://ucarecdn.com/169c501c-eb04-403d-accd-21bf9c66e485/-/crop/1440x870/0,95/-/preview/",
+      "url": "https://alesund.friskus.com/events/70677e37-6cea-43a9-8cda-032c2ddd2457",
+      "tags": [],
+      "age_groups": [
+        "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-433e47ea-f864-4f7e-bff5-e47c6af34763",
+      "title": "LHL - Krakketrim/Styrke, balanse og avspenning på Molvær senter",
+      "start_at": "2026-10-14T16:30:00",
+      "end_at": "2026-12-23T17:30:00",
+      "is_free": true,
+      "location_name": "LHL Ålesund Sula og Giske",
+      "city": "Ålesund",
+      "organizer": "LHL Ålesund Sula og Giske",
+      "image_url": "https://ucarecdn.com/a76ee936-ab0b-4484-828c-97442a214089/-/crop/3217x1684/521,401/-/preview/",
+      "url": "https://alesund.friskus.com/events/433e47ea-f864-4f7e-bff5-e47c6af34763",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -3945,6 +3988,28 @@
         "children"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-4099e8e2-02df-4c0a-880e-02130c8fd1c7",
+      "title": "Biblioteket er ope :)",
+      "start_at": "2026-10-08T13:00:00",
+      "end_at": "2026-10-16T15:30:00",
+      "is_free": true,
+      "location_name": "Giske folkebibliotek",
+      "city": "Ålesund",
+      "organizer": "Giske folkebibliotek",
+      "image_url": "https://ucarecdn.com/291cb93f-fd25-460e-a4da-21b6d9547361/-/crop/1200x328/0,170/-/preview/",
+      "url": "https://alesund.friskus.com/events/4099e8e2-02df-4c0a-880e-02130c8fd1c7",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -5280,7 +5345,7 @@
       "source": "tikkio",
       "source_id": "tikkio-c3f3ed37e8e9b6dc2cc6537da679903b",
       "title": "Maria Mena // Terminalen",
-      "description": "Maria Mena feirer 40 år og 25 år som artist og kommer tilbake til Terminalen 6. november 2026. Opplev hits som I Don’t Wanna See You With Her, Just Hold Me og Home For Christmas live, med hennes varme og ærlige formidling.\r\n\r\nSikre deg billetter allerede nå!\r\n\r\n-- \r\n\r\nI 2026 er det duket for en dobbel feiring av en av Norges mest folkekjære artister. Maria Mena fyller 40 år og markerer samtidig 25 år som artist. Dette feires med en omfattende turné som tar henne gjennom hele Norge.\r\nHelt siden hun fikk platekontrakt i 2001 og slo gjennom med «My Lullaby» i 2002, har Maria Mena gitt publikum et unikt innblikk i hennes liv og hjerte. Gjennom ni kritikerroste studioalbum, inkludert suksesser som «Apparently Unaffected», «Cause and Effect», «Viktoria», og «And Then Came You», har Mena etablert seg som en låtskriver og formidler i særklasse.\r\n\r\nMaria lever, skriver og synger fra hjertet og evner å sette ord på tanker og følelser. Selv de som for mange føles tunge å bære og umulige å dele.\r\nHennes talent har resultert i en imponerende hitparade som inkluderer sanger som «I Don't Wanna See You With Her», «Just Hold Me», «You’re The Only One», «All This Time», «It Took Me By Surprise», «You Live And You Learn», «Not OK» og den tidløse klassikeren «Home For Christmas».\r\n\r\nSom artist er Mena kjent for sin dype ærlighet og sårbarhet. Hennes mot og kompromissløse tilnærming til kunsten, kombinert med hennes varme, empatiske og morsomme personlighet, gjør at musikken oppleves både ufiltrert og nyansert. Etter en pause i 2025, vil turneen i 2026 bli en mulighet til å oppleve Maria Menas helt unike formidlingsevne live igjen, og en feiring av hennes lange karriere og personlige reise. Konsertene vil spenne over hele hennes katalog, levert med den intimiteten og nærheten publikum elsker henne for.\r\n\r\n2026 blir et meget innholdsrikt år for Maria. Hun skal blant annet turnére med anerkjente Amsterdam Sinfonietta med 13 konserter i Nederland i januar og det det skal spilles inn et live-album i Oslo konserthus i februar.\r\n\r\n\"Jeg gleder meg mer enn jeg klarer å uttrykke, pausen i 2025 har gjort meg enda mer klar over hvor heldig jeg er med jobb, kollegaer og publikum! Jeg er klar for å levere nære, såre, håpefulle og tidvis morsomme konserter igjen i 2026!\" \r\nMaria Mena",
+      "description": "<p>Maria Mena feirer 40 år og 25 år som artist og kommer tilbake til Terminalen 6. november 2026. Opplev hits som I Don’t Wanna See You With Her, Just Hold Me og Home For Christmas live, med hennes varme og ærlige formidling.</p><p>Sikre deg billetter allerede nå!</p><p>--</p><p>I 2026 er det duket for en dobbel feiring av en av Norges mest folkekjære artister. Maria Mena fyller 40 år og markerer samtidig 25 år som artist. Dette feires med en omfattende turné som tar henne gjennom hele Norge.</p><p>Helt siden hun fikk platekontrakt i 2001 og slo gjennom med «My Lullaby» i 2002, har Maria Mena gitt publikum et unikt innblikk i hennes liv og hjerte. Gjennom ni kritikerroste studioalbum, inkludert suksesser som «Apparently Unaffected», «Cause and Effect», «Viktoria», og «And Then Came You», har Mena etablert seg som en låtskriver og formidler i særklasse.</p><p>Maria lever, skriver og synger fra hjertet og evner å sette ord på tanker og følelser. Selv de som for mange føles tunge å bære og umulige å dele.</p><p>Hennes talent har resultert i en imponerende hitparade som inkluderer sanger som «I Don&#039;t Wanna See You With Her», «Just Hold Me», «You’re The Only One», «All This Time», «It Took Me By Surprise», «You Live And You Learn», «Not OK» og den tidløse klassikeren «Home For Christmas».</p><p>Som artist er Mena kjent for sin dype ærlighet og sårbarhet. Hennes mot og kompromissløse tilnærming til kunsten, kombinert med hennes varme, empatiske og morsomme personlighet, gjør at musikken oppleves både ufiltrert og nyansert. Etter en pause i 2025, vil turneen i 2026 bli en mulighet til å oppleve Maria Menas helt unike formidlingsevne live igjen, og en feiring av hennes lange karriere og personlige reise. Konsertene vil spenne over hele hennes katalog, levert med den intimiteten og nærheten publikum elsker henne for.</p><p>2026 blir et meget innholdsrikt år for Maria. Hun skal blant annet turnére med anerkjente Amsterdam Sinfonietta med 13 konserter i Nederland i januar og det det skal spilles inn et live-album i Oslo konserthus i februar.</p><p>&quot;Jeg gleder meg mer enn jeg klarer å uttrykke, pausen i 2025 har gjort meg enda mer klar over hvor heldig jeg er med jobb, kollegaer og publikum! Jeg er klar for å levere nære, såre, håpefulle og tidvis morsomme konserter igjen i 2026!&quot;</p><p>Maria Mena</p>",
       "start_at": "2026-11-06T20:00:00",
       "end_at": "2026-11-06T22:00:00",
       "is_free": false,
@@ -5680,7 +5745,7 @@
       "source": "tikkio",
       "source_id": "tikkio-705ebe32732d25f352d9bc71f32b3ac2",
       "title": "Bryllupsmesse på Quality Hotel™ Ålesund",
-      "description": "<p>Velkommen til høstens store inspirasjonsmesse innen bryllup og feiring på Quality Hotel™ Ålesund!</p><p>Vi samler de beste leverandørene innen brudekjoler, blomster, smykker, foto, hår &amp; makeup – og alt annet som setter prikken over i-en på din store dag <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t75/2/16/2728.png\" alt=\"✨\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t40/2/16/1f470_1f3fc.png\" alt=\"👰🏼\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t7d/2/16/1f935_1f3fb_200d_2642.png\" alt=\"🤵🏻&zwj;♂️\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"></p><p>Det blir velkomstdrink, lekre stander, spennende tilbud, konkurranser og masse inspirasjon.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1d/2/16/1f4c5.png\" alt=\"📅\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Søndag 18. oktober <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc8/2/16/1f551.png\" alt=\"🕑\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Kom når du vil mellom kl. 13:00–16:00<br><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/2/16/1f4cd.png\" alt=\"📍\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Quality Hotel™ Ålesund, Sorenskriver Bulls gate 7</p><p>Ta med forloveren, mamma, svigermor eller hele vennegjengen – dette blir en dag full av ideer til ditt neste store øyeblikk.<br><br>Utstillere ⬇️</p><p>Chérie Brud | Kortshop | Quality Hotel™ Ålesund | Quality Hotel™ Waterfront | Ticket | BD Event | Aseco | Baker Walderhaug | Tilbords | Fotograf Lene CS | Kerek Foto | Brudeegget | N.A Dessert | NIKITAWED WEDDING FOTO / VIDEO | Archana Beauty Studio | Green Ålesund | Sour &amp; Sweet | Aerly | I Do Ålesund | Mestergull Hagen | Mester Grønn Ålesund Storsenter | AMOR Atelier Skredderi | Blikk Photography<br><br>Se eventet på Facebook 👉🏼 <a href=\"https://fb.me/e/6LIOjcDjP\">https://fb.me/e/6LIOjcDjP</a></p>",
+      "description": "<p>Velkommen til høstens store inspirasjonsmesse innen bryllup og feiring på Quality Hotel™ Ålesund!</p><p>Vi samler de beste leverandørene innen brudekjoler, blomster, smykker, foto, hår &amp; makeup – og alt annet som setter prikken over i-en på din store dag <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t75/2/16/2728.png\" alt=\"✨\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t40/2/16/1f470_1f3fc.png\" alt=\"👰🏼\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t7d/2/16/1f935_1f3fb_200d_2642.png\" alt=\"🤵🏻&zwj;♂️\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"></p><p>Det blir velkomstdrink, lekre stander, spennende tilbud, konkurranser og masse inspirasjon.</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t1d/2/16/1f4c5.png\" alt=\"📅\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Søndag 18. oktober <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tc8/2/16/1f551.png\" alt=\"🕑\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Kom når du vil mellom kl. 13:00–16:00<br><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/2/16/1f4cd.png\" alt=\"📍\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Quality Hotel™ Ålesund, Sorenskriver Bulls gate 7</p><p>Ta med forloveren, mamma, svigermor eller hele vennegjengen – dette blir en dag full av ideer til ditt neste store øyeblikk.<br><br>Utstillere ⬇️</p><p>Chérie Brud | Kortshop | Quality Hotel™ Ålesund | Quality Hotel™ Waterfront | Ticket | BD Event | Aseco | Baker Walderhaug | Tilbords | Fotograf Lene CS | Kerek Foto | Brudeegget | N.A Dessert | NIKITAWED WEDDING FOTO / VIDEO | Archana Beauty Studio | Green Ålesund | Sour &amp; Sweet | Aerly | I Do Ålesund | Mestergull Hagen | Mester Grønn Ålesund Storsenter | AMOR Atelier Skredderi | Blikk Photography | Gullsmed Stamnæss<br><br>Se eventet på Facebook 👉🏼 <a href=\"https://fb.me/e/6LIOjcDjP\">https://fb.me/e/6LIOjcDjP</a></p>",
       "start_at": "2026-10-18T13:00:00",
       "end_at": "2026-10-18T16:00:00",
       "is_free": true,
@@ -5985,7 +6050,7 @@
       "latitude": 62.3917269,
       "longitude": 6.5803557,
       "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/66694-apningsfest-borsen-scene",
       "tags": [],
       "age_groups": [],
@@ -6547,25 +6612,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-3fd94a331d34bb80844f7755f853d27b",
-      "title": "Bushman´s Revenge",
-      "description": "Stående konsert. \r\n\r\nEt av landets tøffeste liveband, super-trioen Bushman’s Revenge, kommer til Molde og Die Tankstelle. Dette er musikere fra øverste hylle, med en fot i rocken og den andre i jazzen, omtalt som ett av Norges mest hardtslående og interessante band. Bushman’s Revenge er produktive pionerer som har gitt ut elleve kritikerroste album så langt. Det tolvte kommer sommeren 2026. \r\n\r\nBandet består av garvede veteraner i norsk musikkliv, med en imponerende merittliste i bagasjen; Even Hermansen, Tor Egil Kreken og Gard Nilssen. Nilssen, en av de mest sentrale og aktive musikere på den norske og europeiske jazzscenen, vant i å vant Spellemann-prisen i kategorien jazz for den siste plata til Gard Nilssen’s Acoustic Unity.\r\n\r\nBILLETTER\r\nEven Hermansen – gitar\r\nTor Egil Kreken – bass\r\nGard Nilssen – trommer\r\nJørgen Brennhovd – lyd",
-      "start_at": "2026-10-07T20:00:00",
-      "end_at": "2026-10-07T23:00:00",
-      "is_free": true,
-      "location_name": "Die Tankstelle",
-      "city": "Ålesund",
-      "latitude": 62.7366654,
-      "longitude": 7.1558625,
-      "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3480/uploads/event/c_464497dbfbe9b1a1c8e1b4f93cb7eb06.png?class=w768",
-      "url": "https://tikkio.com/events/64100-bushmans-revenge",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-8dfe8131a5ba2ce8c7a5f984e8aabc3f",
       "title": "TUTTI FRUTTI - Rir igjen!",
       "description": "<p><strong>TUTTI FRUTTI RIR IGJEN!</strong><br>Baren åpner: 18:00<br>Tutti Frutti: 20:00<br>Ferdig: 23:59<br>Aldersgrense: 20 år</p><p><br>Lørdag 10. oktober rir gamle-jockeyene Sivert og Peder ut på byen og inn på Die Tankstelle igjen. På utallige oppfordringer (minst 14) fra de som var der sist og danset, sang, klappet og knipset til gamle, swingende godlåter fra 50, 60 og 70-tallet, samt blues, americana, jazz og country. Ingen roing sia det var før fotballVM!</p><p>Uten konkurranse fra konfirmasjoner og Sirkus Agora denne gangen, håper vi at vi kan slå antall besøkende fra sist (163). Bill. på nettsida til Myldr. Når vi har med musikken og stæsjet vårt (gamle lamper, radioer og grammafoner), så stiller dere i dansesko og godt humør! Blir knall! Vi får neppe så mye PR som vi ufortjent fikk sist, så vennligst spre budskapet og del i vei!!<br></p><p>Historien til TUTTI FRUTTI - viden kjent og elsket av mange - som godteri, fruktdrops, fruktis, brus, tysk tv-serie - og nå også som betegnelsen på den fargerike støttekoalisjonen av politiske partier til dagens AP-regjering - men aller mest som debutlåta til Little Richard fra 1955, innspilt i New Orleans med bandet til Fats Domino og covret av bla Elvis i 1956.</p><p>Men for Moldefolk flest (de som har levd ei stund) forbindes Tutti Frutti med musikk-konseptet til to amatørDJer og lidenskapelige musikkelskere, Sivert og Peder (Sverre Sivertsen og Jan IngarPedersen (som våren 1986 startet å spille voksen dansemusikk (50&#039;s &amp; 60&#039;s,  blues, swing, country &amp; rock&#039;n roll for voksne natteranglere på Vertshuset Gamle Molde i regi av Storyville Jazzclub.</p><p>Køen for å komme inn snodde seg til tider langt nedover Amtm. Kroghs gt. og rundt Bistroen!</p><p>&quot;Dansingen&quot; ( swing, twist, shake og div ukontrollerte sprell) mellom trebjelkene på dansegolvet var til tider så vill at arr. måtte sette opp kraftige sperretau foran scena så ikke rå-danserne skulle havne oppi platespillerne!</p><p>Senere ble Tutti Frutti lydteppe på utallige festligheter på alle byens og distriktets festlokaler (bryllup, vennefester, nabofester, gatefester, kurvfester, firmafester, klubbfester, årsfester, bursdagsfester, julebord, nyttårsball og slektsstevner etc) i flere tiår.</p><p>Nå har det gått 40 år og det er tid for comeback! En snart pensjonert postmann og en pensjonert lærer og oldefar(!!) skal igjen snurre plater ute på byen!</p>",
@@ -7025,23 +7071,6 @@
       "image_url": "https://cdn.tikkio.com/static/1.0.3480/uploads/event/c_598019ddd00c1cfefcf792b26de258e2.jpg?class=w768",
       "url": "https://tikkio.com/events/66587-akustisk-elvis-aften",
       "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "parken",
-      "source_id": "parken-48825-falsk-kunst-ser-du-forskjell",
-      "title": "Falsk kunst – ser du forskjell?",
-      "start_at": "2026-10-07T19:00:00",
-      "end_at": "2026-10-07T21:00:00",
-      "location_name": "Parken kulturhus – Foajeen",
-      "city": "Ålesund",
-      "organizer": "Kunstklubben i Ålesund",
-      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F48825%2Fweb-square.webp?version=OVPBHluNWqci2u/qB/Pxgw==",
-      "url": "https://www.parkenkulturhus.no/program/48825-falsk-kunst-ser-du-forskjell/",
-      "tags": [
-        "foredrag"
-      ],
       "age_groups": [],
       "is_recurring": false
     },
@@ -7917,36 +7946,6 @@
     },
     {
       "source": "bibliotek",
-      "source_id": "bibliotek-33824",
-      "title": "Kreativt verksted",
-      "start_at": "2026-10-07T14:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i0ca5baf6-d20a-4879-895f-dfd40c77644f/w300/kade5ea67ef8e/hostferien-i-alesund-bib-facebook-1.png",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33824&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bibliotek",
-      "source_id": "bibliotek-33721",
-      "title": "Litteratur med klimablikk",
-      "start_at": "2026-10-07T18:00:00",
-      "is_free": true,
-      "location_name": "Moa bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/ideff061f-3ac8-43ad-9780-7b2d42093842/w300/k1ee08c75c1eb/litteratur-med-klimablikk-191-x-100-px-1920-x-1080-px.png",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33721&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bibliotek",
       "source_id": "bibliotek-33833",
       "title": "Høstferien: Sy en ball",
       "start_at": "2026-10-08T11:00:00",
@@ -8051,56 +8050,34 @@
       "end_at": null
     },
     {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32363-2026-10-07",
-      "title": "Mental Helse Skodje og Ørskog",
-      "start_at": "2026-10-07T17:00:00",
-      "end_at": "2026-10-07T20:30:00",
-      "location_name": "Sommerfuglen Aktivitet",
+      "source": "bibliotek",
+      "source_id": "bibliotek-33828",
+      "title": "Bokkino",
+      "start_at": "2026-10-09T14:00:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/mental-helse-skodje-og-orskog/?occurrence=2026-10-07",
+      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i0ca5baf6-d20a-4879-895f-dfd40c77644f/w300/kade5ea67ef8e/hostferien-i-alesund-bib-facebook-1.png",
+      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33828&lang=1&MId1=18377",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "end_at": null
     },
     {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-29533-2026-10-07",
-      "title": "Brosundet etter seks",
-      "start_at": "2026-10-07T18:00:00",
-      "end_at": "2026-10-07T20:00:00",
-      "location_name": "Hotel Brosundet",
+      "source": "bibliotek",
+      "source_id": "bibliotek-33660",
+      "title": "Leksehjelp for vaksne",
+      "start_at": "2026-10-12T14:30:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/brosundet-etter-seks-5/?occurrence=2026-10-07",
+      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i9cc0acb9-4221-4b11-8cf4-ea2907e6b74c/w300/kfe280a3835c1/leksehjelp.png",
+      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33660&lang=1&MId1=18377",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-37663-2026-10-07",
-      "title": "Vin, vind og vulkan – vin fra øyer",
-      "start_at": "2026-10-07T18:00:00",
-      "end_at": "2026-10-07T20:00:00",
-      "location_name": "Vino Bar",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/vin-vind-og-vulkan-vin-fra-oyer/?occurrence=2026-10-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-40847-2026-10-07",
-      "title": "Kunstklubben: Falsk kunst – ser du forskjell?",
-      "start_at": "2026-10-07T19:00:00",
-      "end_at": "2026-10-07T21:00:00",
-      "location_name": "Parken kulturhus, Foajeen",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/kunstklubben-falsk-kunst-ser-du-forskjell/?occurrence=2026-10-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
