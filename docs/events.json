@@ -1,33 +1,11 @@
 {
-  "generated_at": "2026-10-10T12:05:58.039255+00:00",
-  "total": 640,
+  "generated_at": "2026-10-10T21:18:59.965482+00:00",
+  "total": 633,
   "failed_sources": [
     "viti",
     "odeon"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-2c399c20-5f55-43d4-9beb-12dd730b7005",
-      "title": "Internasjonal Kafè",
-      "start_at": "2026-10-10T13:00:00",
-      "end_at": "2026-12-12T15:00:00",
-      "is_free": false,
-      "location_name": "Ålesund Kyrkjelege Fellesråd",
-      "city": "Ålesund",
-      "organizer": "Ålesund Kyrkjelege Fellesråd",
-      "image_url": "https://ucarecdn.com/2c661c15-40f6-4c77-a52a-2a06b8255204/-/crop/1122x478/0,221/-/preview/",
-      "url": "https://alesund.friskus.com/events/2c399c20-5f55-43d4-9beb-12dd730b7005",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-856f0722-e12e-426c-a461-f4e15002ad04",
@@ -45,6 +23,28 @@
         "children",
         "teenager",
         "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-10-11T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -2629,6 +2629,28 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-2c399c20-5f55-43d4-9beb-12dd730b7005",
+      "title": "Internasjonal Kafè",
+      "start_at": "2026-11-07T13:00:00",
+      "end_at": "2026-12-12T15:00:00",
+      "is_free": false,
+      "location_name": "Ålesund Kyrkjelege Fellesråd",
+      "city": "Ålesund",
+      "organizer": "Ålesund Kyrkjelege Fellesråd",
+      "image_url": "https://ucarecdn.com/2c661c15-40f6-4c77-a52a-2a06b8255204/-/crop/1122x478/0,221/-/preview/",
+      "url": "https://alesund.friskus.com/events/2c399c20-5f55-43d4-9beb-12dd730b7005",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-oaaYAQkGyHK6j",
       "title": "Tirsdagstur: Mørkeset - Rødlandstua - Olsvika",
       "start_at": "2026-11-10T10:00:00",
@@ -3465,24 +3487,6 @@
         "teenager"
       ],
       "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-0deef70d-24b1-4f09-acb7-cabea6fbcb17",
-      "title": "Connect",
-      "start_at": "2026-10-10T20:30:00",
-      "end_at": "2026-12-12T23:59:00",
-      "is_free": true,
-      "location_name": "Sula Frikirke",
-      "city": "Ålesund",
-      "organizer": "Sula Frikirke",
-      "image_url": "https://ucarecdn.com/4c115c49-6349-4447-abbf-fb8c70300fd1/-/crop/2045x559/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/0deef70d-24b1-4f09-acb7-cabea6fbcb17",
-      "tags": [],
-      "age_groups": [
-        "teenager"
-      ],
-      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -5903,26 +5907,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-c477c9c92f230d13d276b2d358922f5f",
-      "title": "Oktoberfest med Rewind",
-      "description": "<p>Lørdag 10. Oktober blir det Oktoberfest på Rorbua!</p><p>Og denne gangen har vi fått med oss bandet Rewind for å skape fantastisk stemning.</p><p>Bandet består av:</p><p>Mari - Vokal</p><p>Trond - Gitar</p><p>Tore - Bass</p><p>Odd Erik - Trommer</p><p>Rewind vil hjelpe oss å fylle høstkvelden med gode minner, allsang og rockefot🎸</p><p>Det blir kjente pop- og rockelåter, fra 80-tallet og frem til nåtid. Vi garanterer  deilige gitarriff, kjente låter du kan synge med på, god servering i baren, og muligheter for en svingom!</p><p>Dørene åpner 19.00, konsertstart ca. 22.00.</p><p>Kom</p><p>Som du er- eller kle deg for anledningen! Vi sørger for at Rorbua er pyntet til Oktoberfest!!</p>",
-      "start_at": "2026-10-10T19:00:00",
-      "end_at": "2026-10-11T02:00:00",
-      "is_free": false,
-      "price_text": "NOK 200.00",
-      "location_name": "Rorbua under Vegsundbroa ",
-      "city": "Ålesund",
-      "latitude": 62.4315995,
-      "longitude": 6.3564497,
-      "organizer": "Fole Festlig Rorbua",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_ebecd7ccf193e74faaf9ba90810c63b3.webp?class=w768",
-      "url": "https://tikkio.com/events/66216-oktoberfest-med-rewind",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-4cab59bb4b712da81578a2c717cd9c48",
       "title": "Quiz & musikkbingo med Iselin og Stig Erik",
       "description": "<p>Lørdag 24. Oktober kjører vi på med en ny Quiz og Musikkbingo!</p><p>Kom og test kunnskapen og hellet med Iselin og Stig Erik! De utfordrer de små grå med quiz om alt mulig rart og alltid med en liten vri, før de avslutter med musikkbingo der det er hæla i taket og tenna i tapeten! Vi lover premier og absolutt stemningsgaranti! 💃🕺</p><p>Dørene åpner kl 19.</p><p>Quiz start kl 21.</p><p>Kjøkkenet er åpent til kl 22- med nattmat helt frem til kl 01:)</p>",
@@ -6611,26 +6595,6 @@
       "organizer": "MYLDR",
       "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_3bd56bf3b318fb2299991a0a1a7ee79d.png?class=w768",
       "url": "https://tikkio.com/events/64236-molde-mundo-2026-lelee",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-8dfe8131a5ba2ce8c7a5f984e8aabc3f",
-      "title": "TUTTI FRUTTI - Rir igjen!",
-      "description": "<p><strong>TUTTI FRUTTI RIR IGJEN!</strong><br>Baren åpner: 18:00<br>Tutti Frutti: 20:00<br>Ferdig: 23:59<br>Aldersgrense: 20 år</p><p><br>Lørdag 10. oktober rir gamle-jockeyene Sivert og Peder ut på byen og inn på Die Tankstelle igjen. På utallige oppfordringer (minst 14) fra de som var der sist og danset, sang, klappet og knipset til gamle, swingende godlåter fra 50, 60 og 70-tallet, samt blues, americana, jazz og country. Ingen roing sia det var før fotballVM!</p><p>Uten konkurranse fra konfirmasjoner og Sirkus Agora denne gangen, håper vi at vi kan slå antall besøkende fra sist (163). Bill. på nettsida til Myldr. Når vi har med musikken og stæsjet vårt (gamle lamper, radioer og grammafoner), så stiller dere i dansesko og godt humør! Blir knall! Vi får neppe så mye PR som vi ufortjent fikk sist, så vennligst spre budskapet og del i vei!!<br></p><p>Historien til TUTTI FRUTTI - viden kjent og elsket av mange - som godteri, fruktdrops, fruktis, brus, tysk tv-serie - og nå også som betegnelsen på den fargerike støttekoalisjonen av politiske partier til dagens AP-regjering - men aller mest som debutlåta til Little Richard fra 1955, innspilt i New Orleans med bandet til Fats Domino og covret av bla Elvis i 1956.</p><p>Men for Moldefolk flest (de som har levd ei stund) forbindes Tutti Frutti med musikk-konseptet til to amatørDJer og lidenskapelige musikkelskere, Sivert og Peder (Sverre Sivertsen og Jan IngarPedersen (som våren 1986 startet å spille voksen dansemusikk (50&#039;s &amp; 60&#039;s,  blues, swing, country &amp; rock&#039;n roll for voksne natteranglere på Vertshuset Gamle Molde i regi av Storyville Jazzclub.</p><p>Køen for å komme inn snodde seg til tider langt nedover Amtm. Kroghs gt. og rundt Bistroen!</p><p>&quot;Dansingen&quot; ( swing, twist, shake og div ukontrollerte sprell) mellom trebjelkene på dansegolvet var til tider så vill at arr. måtte sette opp kraftige sperretau foran scena så ikke rå-danserne skulle havne oppi platespillerne!</p><p>Senere ble Tutti Frutti lydteppe på utallige festligheter på alle byens og distriktets festlokaler (bryllup, vennefester, nabofester, gatefester, kurvfester, firmafester, klubbfester, årsfester, bursdagsfester, julebord, nyttårsball og slektsstevner etc) i flere tiår.</p><p>Nå har det gått 40 år og det er tid for comeback! En snart pensjonert postmann og en pensjonert lærer og oldefar(!!) skal igjen snurre plater ute på byen!</p>",
-      "start_at": "2026-10-10T20:00:00",
-      "end_at": "2026-10-10T23:59:00",
-      "is_free": false,
-      "price_text": "NOK 158.00",
-      "location_name": "Die Tankstelle",
-      "city": "Ålesund",
-      "latitude": 62.7366654,
-      "longitude": 7.1558625,
-      "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_9b11e855591751e29aaf456020e189f9.webp?class=w768",
-      "url": "https://tikkio.com/events/66021-tutti-frutti-rir-igjen",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -8117,71 +8081,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-38328-2026-10-10",
-      "title": "Berit Stavseng minneutstilling 1926-2026",
-      "start_at": "2026-10-10T13:00:00",
-      "end_at": "2026-10-10T18:00:00",
-      "location_name": "Ørskog kulturhus",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/berit-stavseng-minneutstilling-1926-2026/?occurrence=2026-10-10&time=1791637200",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-41221-2026-10-10",
-      "title": "Gresk takeover på Dampsentralen",
-      "start_at": "2026-10-10T16:00:00",
-      "end_at": "2026-10-10T21:00:00",
-      "location_name": "Dampsentralen",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/gresk-takeover-pa-dampsentralen/?occurrence=2026-10-10",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32516-2026-10-10",
-      "title": "Krystall – Hotel 1904",
-      "start_at": "2026-10-10T17:00:00",
-      "end_at": "2026-10-10T23:55:00",
-      "location_name": "Hotel 1904",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/krystall-hotel-1904-358/?occurrence=2026-10-10",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-40923-2026-10-10",
-      "title": "Konradsen konsert på Dråpe",
-      "start_at": "2026-10-10T19:30:00",
-      "end_at": "2026-10-10T21:00:00",
-      "location_name": "Dråpe Ålesund Kaffehus",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/konradsen-konsert-pa-drape/?occurrence=2026-10-10",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33119-2026-10-10",
-      "title": "Mil etter mil – en hyllest til Jahn Teigen – 10.10.26",
-      "start_at": "2026-10-10T21:00:00",
-      "end_at": "2026-10-10T23:00:00",
-      "location_name": "Fabrikken Kulturscene",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/mil-etter-mil-en-hyllest-til-jahn-teigen-10-10-26/?occurrence=2026-10-10",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
