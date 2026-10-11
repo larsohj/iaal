@@ -1,53 +1,11 @@
 {
-  "generated_at": "2026-10-11T04:39:01.272711+00:00",
-  "total": 632,
+  "generated_at": "2026-10-11T12:19:02.672447+00:00",
+  "total": 627,
   "failed_sources": [
     "viti",
     "odeon"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-856f0722-e12e-426c-a461-f4e15002ad04",
-      "title": "Prøv klatring",
-      "start_at": "2026-10-11T12:00:00",
-      "end_at": "2026-12-20T14:00:00",
-      "is_free": true,
-      "location_name": "Klatreklubben Ålesund",
-      "city": "Ålesund",
-      "organizer": "Klatreklubben Ålesund",
-      "image_url": "https://ucarecdn.com/323a9799-8c45-4fe8-a5da-2c9f84d2f4d1/-/crop/6870x2630/0,9/-/preview/",
-      "url": "https://alesund.friskus.com/events/856f0722-e12e-426c-a461-f4e15002ad04",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-10-11T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
@@ -1514,6 +1472,26 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-856f0722-e12e-426c-a461-f4e15002ad04",
+      "title": "Prøv klatring",
+      "start_at": "2026-10-18T12:00:00",
+      "end_at": "2026-12-20T14:00:00",
+      "is_free": true,
+      "location_name": "Klatreklubben Ålesund",
+      "city": "Ålesund",
+      "organizer": "Klatreklubben Ålesund",
+      "image_url": "https://ucarecdn.com/323a9799-8c45-4fe8-a5da-2c9f84d2f4d1/-/crop/6870x2630/0,9/-/preview/",
+      "url": "https://alesund.friskus.com/events/856f0722-e12e-426c-a461-f4e15002ad04",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-oaaz4f8L9Psua",
       "title": "Søndagstur med mening - TV aksjonen 2026",
       "start_at": "2026-10-18T14:00:00",
@@ -2272,26 +2250,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-25551122-bd86-4882-b86b-c8294d6d4d41",
-      "title": "Todagers workshop med Viggo Venn",
-      "start_at": "2026-10-31T12:00:00",
-      "end_at": "2026-11-01T16:00:00",
-      "is_free": false,
-      "location_name": "Sobra scene",
-      "city": "Ålesund",
-      "organizer": "Sobra scene",
-      "image_url": "https://ucarecdn.com/4ef2dc18-dd9c-4cab-8fee-ed3cb164ca12/-/crop/851x232/0,10/-/preview/",
-      "url": "https://alesund.friskus.com/events/25551122-bd86-4882-b86b-c8294d6d4d41",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-89802582-2bd5-4f9b-b011-4a9721f144e9",
       "title": "Halloween-kahoot",
       "start_at": "2026-10-31T12:00:00",
@@ -2307,6 +2265,26 @@
         "children",
         "teenager",
         "family"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-cea97484-1bcb-46f5-82bb-ee26b61c5d76",
+      "title": "Todagers kurs med Viggo Venn",
+      "start_at": "2026-10-31T12:00:00",
+      "end_at": "2026-11-01T16:00:00",
+      "is_free": false,
+      "location_name": "Sobra scene",
+      "city": "Ålesund",
+      "organizer": "Sobra scene",
+      "image_url": "https://ucarecdn.com/7a59bed4-4052-4871-a207-0372a444b469/-/crop/1295x353/0,191/-/preview/",
+      "url": "https://alesund.friskus.com/events/cea97484-1bcb-46f5-82bb-ee26b61c5d76",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": false
     },
@@ -3490,25 +3468,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-7a0ca462-a062-42e0-89aa-9b5753e7ee9f",
-      "title": "Søndagsskule",
-      "start_at": "2026-10-11T11:00:00",
-      "end_at": "2026-12-06T12:00:00",
-      "is_free": false,
-      "location_name": "Langevåg søndagsskule",
-      "city": "Ålesund",
-      "organizer": "Langevåg søndagsskule",
-      "image_url": "https://ucarecdn.com/9fc4b4a8-7f18-4fb1-9c3e-7e8a7232ea0b/-/crop/600x163/0,44/-/preview/",
-      "url": "https://alesund.friskus.com/events/7a0ca462-a062-42e0-89aa-9b5753e7ee9f",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "family"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-778e8475-81bb-4791-9c57-5c5308278847",
       "title": "JuniorDonken",
       "start_at": "2026-10-12T15:00:00",
@@ -3916,6 +3875,25 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-7a0ca462-a062-42e0-89aa-9b5753e7ee9f",
+      "title": "Søndagsskule",
+      "start_at": "2026-10-25T11:00:00",
+      "end_at": "2026-12-06T12:00:00",
+      "is_free": false,
+      "location_name": "Langevåg søndagsskule",
+      "city": "Ålesund",
+      "organizer": "Langevåg søndagsskule",
+      "image_url": "https://ucarecdn.com/9fc4b4a8-7f18-4fb1-9c3e-7e8a7232ea0b/-/crop/600x163/0,44/-/preview/",
+      "url": "https://alesund.friskus.com/events/7a0ca462-a062-42e0-89aa-9b5753e7ee9f",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-b568d3bb-eb3f-4c99-acf2-1e50ccf1c739",
       "title": "Datakafè",
       "start_at": "2026-10-29T12:00:00",
@@ -3990,24 +3968,6 @@
         "teenager",
         "senior",
         "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-595f0084-03a8-4857-8dd7-f3ae902c85b9",
-      "title": "Aktivitetsdag på Valdervoll",
-      "start_at": "2026-10-11T11:00:00",
-      "end_at": "2026-10-11T14:00:00",
-      "is_free": true,
-      "location_name": "IL Valder",
-      "city": "Ålesund",
-      "organizer": "IL Valder",
-      "image_url": "https://ucarecdn.com/5d1ef6e7-4f88-4d05-bc31-8f4bfd1aba2e/-/crop/1055x288/0,346/-/preview/",
-      "url": "https://alesund.friskus.com/events/595f0084-03a8-4857-8dd7-f3ae902c85b9",
-      "tags": [],
-      "age_groups": [
-        "children"
       ],
       "is_recurring": false
     },
@@ -8079,45 +8039,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-10-11",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-10-11T10:00:00",
-      "end_at": "2026-10-11T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-10-11",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-25486-2026-10-11",
-      "title": "Aalesunds Museum",
-      "start_at": "2026-10-11T11:00:00",
-      "end_at": "2026-10-11T15:30:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum/?occurrence=2026-10-11",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-10-11",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-10-11T12:00:00",
-      "end_at": "2026-10-11T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-10-11",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
