@@ -1,29 +1,11 @@
 {
-  "generated_at": "2026-10-16T16:16:56.547527+00:00",
-  "total": 650,
+  "generated_at": "2026-10-16T20:39:01.487738+00:00",
+  "total": 642,
   "failed_sources": [
     "viti",
     "odeon"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-5d4179e7-25b5-4d3f-9080-0fe0e9506a6c",
-      "title": "Ungdomsklubben Kvalen - Harøy. Fra 8 klasse til 20 år.",
-      "start_at": "2026-10-16T18:30:00",
-      "end_at": "2027-06-11T23:00:00",
-      "is_free": true,
-      "location_name": "Sandøy Frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Sandøy Frivilligsentral",
-      "image_url": "https://ucarecdn.com/893c5724-96f4-4d19-b07d-c93ef20421dc/-/crop/628x537/44,0/-/preview/-/resize/x300/-/setfill/3885cc/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/5d4179e7-25b5-4d3f-9080-0fe0e9506a6c",
-      "tags": [],
-      "age_groups": [
-        "teenager"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-d8c364cf-0302-48fe-9e46-3c5e6994f3f7",
@@ -297,6 +279,25 @@
         "pensioner"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
+      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
+      "start_at": "2026-10-19T10:00:00",
+      "end_at": "2027-06-18T20:00:00",
+      "is_free": true,
+      "location_name": "Dagplass for personer med demens",
+      "city": "Ålesund",
+      "organizer": "Dagplass for personer med demens",
+      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
+      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -3473,24 +3474,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-75d7d7de-f8f4-4952-a443-460ccb77ea39",
-      "title": "Open Hall",
-      "start_at": "2026-10-16T20:00:00",
-      "end_at": "2027-04-09T23:00:00",
-      "is_free": true,
-      "location_name": "Sula kommune",
-      "city": "Ålesund",
-      "organizer": "Sula kommune",
-      "image_url": "https://ucarecdn.com/177b67bb-64c0-4e87-903f-e78b2fa3cb58/-/crop/2481x794/0,915/-/preview/",
-      "url": "https://alesund.friskus.com/events/75d7d7de-f8f4-4952-a443-460ccb77ea39",
-      "tags": [],
-      "age_groups": [
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-cad1dfcd-9418-49ea-aecf-b09944bdd1ba",
       "title": "Søndagsskole",
       "start_at": "2026-10-18T11:00:00",
@@ -4294,25 +4277,6 @@
       "organizer": "ÅLESUND KAMMERMUSIKKFESTIVAL",
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_7bdd1f8d14fbe980fd3dfb1b08d13623.webp?class=w768",
       "url": "https://tikkio.com/events/65879-nar-barokken-moter-nord",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-99ddeacd8231b6befdb083eef33419e5",
-      "title": "Espen Abrahamsen – Avantgarde",
-      "description": "<p>Live Nation Presenterer:</p><p>Espen Abrahamsen er endelig klar med sitt første helaftens standupshow.</p><p>Du kjenner ham fra TV og podkaster, men det er på scenen Espen virkelig briljerer. Siden debuten på standupscenen i 2020 har målet vært klart, et eget show og en Norgesturné.</p><p>I dette showet får du Espens helt særegne blanding av personlige historier og skarp samfunnshumor. Han tar for seg både små og store ting, fra det nære og personlige, til det som rører seg i Norge og verden.</p><p>Stilen hans er direkte, kompromissløs og veldig morsom. Etter at han vant “Stå opp-prisen” for årets gjennombrudd i 2024, har han hatt fullt fokus på sitt eget show.</p><p>Nå er det endelig klart: «Avantgarde»</p>",
-      "start_at": "2026-10-16T18:00:00",
-      "end_at": "2026-10-16T20:15:00",
-      "is_free": true,
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "latitude": 62.4730488,
-      "longitude": 6.1582367,
-      "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_8febbe8d559497f60fd8c0a9cbf3a7c0.jpg?class=w768",
-      "url": "https://tikkio.com/events/62239-espen-abrahamsen-avantgarde",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -6199,7 +6163,7 @@
       "latitude": 62.5964884,
       "longitude": 6.4461846,
       "organizer": "Brattvåg Fjordhotell AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/67005-pepperkakeverksted-for-barn",
       "tags": [],
       "age_groups": [],
@@ -6339,7 +6303,7 @@
       "latitude": 62.3917269,
       "longitude": 6.5803557,
       "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/66694-apningsfest-borsen-scene",
       "tags": [],
       "age_groups": [],
@@ -6360,26 +6324,6 @@
       "organizer": "SYKKYLVEN IDROTTSLAG",
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_21943927cd278564cb84aacc0e6f7df0.webp?class=w768",
       "url": "https://tikkio.com/events/66689-quiz",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-35cf640ead301b657f7922306f2b4f48",
-      "title": "HAUSTFEST MED TRIO DE LID // FREDAG 16.OKT // STØDT BAR & SCENE",
-      "description": "<p>Trio de Lid er tilbake på Stødt og vi inviterar til haustfest og ei knallgod stemning! 🤩</p><p>&quot;Trio de Lid er eit akustisk coverband som har sitt utspring frå musikkmiljøet på Steinnes i Ørstra. Trio de Lid spelar alt frå funk, country og blues til popmusikk, hiphop og rock. Reportoaret spenner frå 50-talet og fram til i dag. Vi tek oss ikkje spesielt høgtidlig og prøver å bringe både musikk og humor til massene!&quot;</p><p></p><p>Trio de Lid består av:</p><p>Hans Førde: Bass/vokal</p><p>Marius Myklebust: Cajun/rytmer/vokal</p><p>Adriane Langeland: Mandolin/vokal</p><p>Gard Eirik Austrheim: Gitar/vokal</p><p></p><p>Billettar i døra og på TIKKIO</p><p>Cover kr. 150,-</p><p>Dørene opnar kl. 19</p><p>Konsertstart kring kl. 22</p><p>ID: 20+</p><p></p>",
-      "start_at": "2026-10-16T19:00:00",
-      "end_at": "2026-10-17T02:00:00",
-      "is_free": false,
-      "price_text": "NOK 150.00",
-      "location_name": "Stødt Bar & Scene",
-      "city": "Ålesund",
-      "latitude": 62.1969807,
-      "longitude": 6.1266414,
-      "organizer": "Musikk i Sentrum",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_a47942a4396ceb0b6eb4986c05fff339.webp?class=w768",
-      "url": "https://tikkio.com/events/66539-haustfest-med-trio-de-lid-fredag-16okt-stodt-bar-scene",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -6565,7 +6509,7 @@
     {
       "source": "tikkio",
       "source_id": "tikkio-9c17931aa2c5c8e2366e43ffb21b059c",
-      "title": "Side Brok // Propellhallen",
+      "title": "Side Brok // Propellhallen ",
       "description": "<p>I oktober er det endeleg tid for å lage liv i Propellhallen igjen, då Side Brok skal halde konsert!</p><p></p><p>Det er 26 år sidan Side Brok vart danna. No feirar dei eittårsjubileet til albumet «All verda» med å leggje ut på ein aldri så liten turné!</p><p></p><p>Sidan i fjor har singelen Esso rokke å bli ein moderne klassikar i Side Brok-universet, og bandet har mellom anna spelt utselde konsertar i Oslo, Bergen og Ålesund.</p><p></p><p>Rett etter at dei sleppte singelen «Kjærleik er kjærleik» i juni, stod dei på scena framfor eit mildt sagt ekstatisk publikum på Bergenfest. Bygdalarm og Balestrand Badeklubb var naturlege stopp på vegen, før festivalsommaren fekk eit verdig punktum på sjølvaste Jugendfest!</p><p></p><p>No er bandet klare for ein ny runde, og rabalderet startar i Propellhallen i Volda 17. oktober!</p><p></p><p></p><p>Doors: 19:00</p><p>Konsertstart: ca. 1,5 time etter doors</p><p>18 års aldersgrense</p>",
       "start_at": "2026-10-17T19:00:00",
       "end_at": "2026-10-18T02:30:00",
@@ -7001,26 +6945,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-f49f5b192c25395d1d17ab110cb0089a",
-      "title": "The Impossible Green // Die Tankstelle",
-      "description": "Dørene åpner 20:00\r\nKonsertstart 21:00\r\nAldersgrense: 18 år\r\n\r\nThe Impossible Green - turné høsten 2026\r\n\r\nThe Impossible Green gjør det igjen! Etter et hesblesende fjorår med over 60 konserter land og strand rundt, fra de største festivalene til de minste klubbene, kommer bandet med ny musikk, ny turné og ny konsert i Molde, Die Tankstelle 16. oktober 2026.\r\n\r\nMed de to kritikerroste albumene In Tecnicolor (2024) og Quicksilver Daydream (2025) i sekken, kommer nytt album høsten 2026. Som et av de mest spennende bandene både på plate og på scenen, kan bandet love en konsertopplevelse du ikke vil gå glipp av!\r\n\r\n“The Impossible Green fremstår allerede som et av de mest gjennomførte livebandene av sin generasjon her til lands.” Musikknyheter 10/10 Parkteatret, 27.11.2025\r\n\r\n“Det handler om kvalitet fra ende til ende, fra bunn til topp.” 5/6 Dagsavisen, 29.04.2025\r\n\r\n“Ofte tar det flere tiår før band er å regne som klassikere. The Impossible Green er allerede farlig nærme å fortjene en slik status allerede.” Adresseavisen 6/6 Olavsfest, 02.08.2025\r\n\r\n“Det er countryrock med glimt i øyet, glød i strengene og et snev av magisk trylledrikk” Gaffa 5/6 Øyafestivalen, 07.08.2026",
-      "start_at": "2026-10-16T20:00:00",
-      "end_at": "2026-10-16T23:00:00",
-      "is_free": false,
-      "price_text": "NOK 316.00",
-      "location_name": "Die Tankstelle",
-      "city": "Ålesund",
-      "latitude": 62.7366654,
-      "longitude": 7.1558625,
-      "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_56a7c18982830aba5cd9fa7aeca0ede0.png?class=w768",
-      "url": "https://tikkio.com/events/64202-the-impossible-green-die-tankstelle",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-381d5aa96919de677433c1951011fb43",
       "title": "Patti Smith på nynorsk // Die Tankstelle",
       "description": "<p>Patti Smith på Nynorsk // Die Tankstelle<br><br>Dørene åpner 19:00<br>Konsertstart 20:00<br>Sittende konsert<br><br><em>Patti Smith på norsk er ei framføring der songar Kari Harneshaug og gitarist Kyrre Laastad gjer musikalske tolkingar av Patti Smith sin musikk på nynorsk. Det heile er omkransa av Brit Bildøen si opplesing frå memoarbøkene til Patti Smith.</em><br><br><em>Omsettinga blei støtta av Kulturrådet, utval for litteratur, og det er Samlaget-forfattarane Brit Bildøen, Agnes Ravatn og Ragnar Hovland som har omsett repertoaret Kari Harneshaug har plukka ut. Repertoaret strekk seg frå Horses (1975) til Banga (2012). Brit Bildøen har også omsett fleire av memoarbøkene til Patti; Just Kids, M Train og Apens år. Framføringa har blitt gjort ved ei rekke arrangement og litteraturfestivalar i Norge som Dei nynorske festspela, Bøker i Bø, Det Vilde ord, Munchmuseet og De litterære festspill i Bergen.</em></p>",
@@ -7208,6 +7132,26 @@
       "organizer": "MYLDR",
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_65bf93cb58d3df69aa91037bc67bbc49.png?class=w768",
       "url": "https://tikkio.com/events/64285-embla-and-the-karidotters-die-tankstelle",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
+      "source_id": "tikkio-89cbf99565f84d06f501022a67e62a51",
+      "title": "Espen Abrahamsen – Avantgarde",
+      "description": "<p>Sittende arrangement. Varighet 75 min.</p><p>Espen Abrahamsen er endelig klar med sitt første helaftens standupshow.</p><p>Du kjenner ham fra TV og podkaster, men det er på scenen Espen virkelig briljerer. Siden debuten på standupscenen i 2020 har målet vært klart, et eget show og en Norgesturné.</p><p>I dette showet får du Espens helt særegne blanding av personlige historier og skarp samfunnshumor. Han tar for seg både små og store ting, fra det nære og personlige, til det som</p><p>rører seg i Norge og verden. Stilen hans er direkte, kompromissløs og veldig morsom. Etter at han vant “Stå opp-prisen” for</p><p>årets gjennombrudd i 2024, har han hatt fullt fokus på sitt eget show.</p><p>Nå er det endelig klart: «Avantgarde»</p>",
+      "start_at": "2026-11-21T18:00:00",
+      "end_at": "2026-11-21T23:00:00",
+      "is_free": false,
+      "price_text": "NOK 350.00",
+      "location_name": "Die Tankstelle",
+      "city": "Ålesund",
+      "latitude": 62.7366654,
+      "longitude": 7.1558625,
+      "organizer": "MYLDR",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_e5c8dbf451cd92619aa40019a2d2a25b.jpg?class=w768",
+      "url": "https://tikkio.com/events/62313-espen-abrahamsen-avantgarde",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -7418,26 +7362,6 @@
       "organizer": "Hydlastova",
       "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_7bd0985ec49bc4717150a7c0766dace2.webp?class=w768",
       "url": "https://tikkio.com/events/66124-mamma-mia-the-dinner-show",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-15f5df2aadde2dc0ece1d0a9fa937589",
-      "title": "KORTREIST - MAT@MUSIKK",
-      "description": "<p>Gamle Innvik Ullvarefabrikk har gleda av å be inn til ei skikkeleg gromhelg!</p><p>Vi ynskjer å løfte Nordfjord gjennom mat, drikke og musikk denne helga. Line Dybedal og Odd-Erik Lothe er begge folkekjære artistar frå Nordfjord. Denne gongen kjem dei kvar for seg. Line på fredag og Odd-Erik tek med seg rockabillibandet sitt, Krom på laurdag.</p><p><strong>Mat</strong></p><p>På dagen laurdag blir det lokalmatsmarknad i gamlefabrikken. Lokale produsentar vil då selje sine fantastiske varer i historiske omgjevnadar. Fri inngang.</p><p>Så blir det 5 retters middag med Martin Arentz - her er det begrensa med plass 60 plassar - så ver rask!</p><p>Hjarteleg velkomne!</p>",
-      "start_at": "2026-10-16T18:00:00",
-      "end_at": "2026-10-18T01:00:00",
-      "is_free": false,
-      "price_text": "NOK 250.00",
-      "location_name": "Gamle Innvik Ullvarefabrikk",
-      "city": "Ålesund",
-      "latitude": 61.8517407,
-      "longitude": 6.6169454,
-      "organizer": "Stiftelsen Gamle Innvik Ullvarefabrikk",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/uploads/event/c_c1f24fb1a452542648becd504d92f2f6.webp?class=w768",
-      "url": "https://tikkio.com/events/65664-kortreist-mat-at-musikk",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -8498,45 +8422,6 @@
       "is_recurring": false,
       "start_at": null,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32516-2026-10-16",
-      "title": "Krystall – Hotel 1904",
-      "start_at": "2026-10-16T17:00:00",
-      "end_at": "2026-10-16T23:55:00",
-      "location_name": "Hotel 1904",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/krystall-hotel-1904-358/?occurrence=2026-10-16",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-41209-2026-10-16",
-      "title": "Toppserien 2026: Aalesund – Røa",
-      "start_at": "2026-10-16T18:00:00",
-      "end_at": "2026-10-16T20:00:00",
-      "location_name": "Color Line Stadion",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/toppserien-2026-aalesund-roa/?occurrence=2026-10-16",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33123-2026-10-16",
-      "title": "Espen Abrahamsen – Avantgarde",
-      "start_at": "2026-10-16T19:00:00",
-      "end_at": "2026-10-16T20:30:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/espen-abrahamsen-avantgarde/?occurrence=2026-10-16",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -11156,24 +11041,6 @@
       "url": "https://www.ticketmaster.no/event/vamp-i-kapellet-billetter/1697819353",
       "tags": [
         "annet"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "aafk",
-      "source_id": "aafk-2608c474-e5af-49c6-bd73-b8f3ba0e96a5",
-      "title": "Toppserien: AaFK - Røa",
-      "start_at": "2026-10-16T18:00:00",
-      "is_free": false,
-      "price_text": "50 kr",
-      "location_name": "Color Line Stadion",
-      "city": "Ålesund",
-      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1084523/default_file-1789550568.jpeg",
-      "url": "https://aafk.ticketco.events/no/nb/e/toppserien_aafk_-_røa",
-      "tags": [
-        "fotball"
       ],
       "age_groups": [],
       "is_recurring": false,
