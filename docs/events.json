@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T20:39:01.487738+00:00",
-  "total": 642,
+  "generated_at": "2026-10-17T03:27:37.923207+00:00",
+  "total": 637,
   "failed_sources": [
     "viti",
     "odeon"
@@ -1501,6 +1501,24 @@
         "teenager"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-5d4179e7-25b5-4d3f-9080-0fe0e9506a6c",
+      "title": "Ungdomsklubben Kvalen - Harøy. Fra 8 klasse til 20 år.",
+      "start_at": "2026-10-23T18:30:00",
+      "end_at": "2027-06-11T23:00:00",
+      "is_free": true,
+      "location_name": "Sandøy Frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Sandøy Frivilligsentral",
+      "image_url": "https://ucarecdn.com/893c5724-96f4-4d19-b07d-c93ef20421dc/-/crop/628x537/44,0/-/preview/-/resize/x300/-/setfill/3885cc/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/5d4179e7-25b5-4d3f-9080-0fe0e9506a6c",
+      "tags": [],
+      "age_groups": [
+        "teenager"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -3956,6 +3974,24 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-75d7d7de-f8f4-4952-a443-460ccb77ea39",
+      "title": "Open Hall",
+      "start_at": "2026-11-06T20:00:00",
+      "end_at": "2027-04-09T23:00:00",
+      "is_free": true,
+      "location_name": "Sula kommune",
+      "city": "Ålesund",
+      "organizer": "Sula kommune",
+      "image_url": "https://ucarecdn.com/177b67bb-64c0-4e87-903f-e78b2fa3cb58/-/crop/2481x794/0,915/-/preview/",
+      "url": "https://alesund.friskus.com/events/75d7d7de-f8f4-4952-a443-460ccb77ea39",
+      "tags": [],
+      "age_groups": [
+        "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-48ffbe8e-cc19-4120-af46-97881bbbc44f",
       "title": "Korpskafè i Mauseidvåg på Allheim",
       "start_at": "2026-11-07T17:00:00",
@@ -6163,7 +6199,7 @@
       "latitude": 62.5964884,
       "longitude": 6.4461846,
       "organizer": "Brattvåg Fjordhotell AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/67005-pepperkakeverksted-for-barn",
       "tags": [],
       "age_groups": [],
@@ -6303,7 +6339,7 @@
       "latitude": 62.3917269,
       "longitude": 6.5803557,
       "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/66694-apningsfest-borsen-scene",
       "tags": [],
       "age_groups": [],
@@ -6382,7 +6418,7 @@
       "latitude": 62.2914595,
       "longitude": 6.6462189,
       "organizer": "Iselin Tynes",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/66946-halloweenfest-2026",
       "tags": [],
       "age_groups": [],
@@ -8425,58 +8461,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-34813-2026-10-16",
-      "title": "Mil etter mil – en hyllest til Jahn Teigen – 16.10.26",
-      "start_at": "2026-10-16T21:00:00",
-      "end_at": "2026-10-16T23:00:00",
-      "location_name": "Fabrikken Kulturscene",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/mil-etter-mil-en-hyllest-til-jahn-teigen-16-10-26-150/?occurrence=2026-10-16",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-28717-2026-10-17",
-      "title": "Helgeprogram i Atlanterhavsparken – akvarium og vitensenter",
-      "start_at": "2026-10-17T00:00:00",
-      "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/helgeprogram-i-atlanterhavsparken-akvarium-og-vitensenter-2/?occurrence=2026-10-17",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-41144-2026-10-17",
-      "title": "Jubileumshelg på Alnes fyr",
-      "start_at": "2026-10-17T00:00:00",
-      "location_name": "Alnes Fyr og Opplevelsessenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/jubileumshelg-pa-alnes-fyr/?occurrence=2026-10-17",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-41415-2026-10-17",
-      "title": "Alternativmesse",
-      "start_at": "2026-10-17T00:00:00",
-      "location_name": "Thon Hotel Ålesund",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/alternativmesse/?occurrence=2026-10-17",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-35112-2026-10-17",
       "title": "Aalesunds Museum er åpent hver dag, hele året!",
       "start_at": "2026-10-17T10:00:00",
@@ -8633,32 +8617,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-31341-2026-10-17",
-      "title": "VASSENDGUTANE – 30 år med venner",
-      "start_at": "2026-10-17T00:00:00",
-      "location_name": "Sparebanken Møre Arena",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/vassendgutane-30-ar-med-venner/?occurrence=2026-10-17",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-36997-2026-10-17",
-      "title": "Flamingo danseklubb – dansefest 17.10.26",
-      "start_at": "2026-10-17T00:00:00",
-      "location_name": "Ivar Aasen selskapslokaler",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/flamingo-danseklubb-dansefest-17-10-26/?occurrence=2026-10-17",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-40920-2026-10-17",
       "title": "Lydhør: Terje Isungset: Ice Quartet",
       "start_at": "2026-10-17T19:00:00",
@@ -8682,19 +8640,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-31337-2026-10-17",
-      "title": "Damp Natt",
-      "start_at": "2026-10-17T00:00:00",
-      "location_name": "Dampsentralen",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/damp-natt-3/?occurrence=2026-10-17&time=1792278000",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
