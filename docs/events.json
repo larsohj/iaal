@@ -1,70 +1,11 @@
 {
-  "generated_at": "2026-10-21T03:45:25.319286+00:00",
-  "total": 587,
+  "generated_at": "2026-10-21T11:22:46.803853+00:00",
+  "total": 584,
   "failed_sources": [
     "viti",
     "odeon"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
-      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
-      "start_at": "2026-10-21T10:00:00",
-      "end_at": "2027-06-18T20:00:00",
-      "is_free": true,
-      "location_name": "Dagplass for personer med demens",
-      "city": "Ålesund",
-      "organizer": "Dagplass for personer med demens",
-      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
-      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-oaaT3G5V6Wb7H",
-      "title": "Informasjonsmøte Vedlauget",
-      "start_at": "2026-10-21T10:00:00",
-      "end_at": "2026-10-21T11:00:00",
-      "is_free": true,
-      "location_name": "DNT Sunnmøre",
-      "city": "Ålesund",
-      "organizer": "DNT Sunnmøre",
-      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_623151",
-      "url": "https://alesund.friskus.com/events/oaaT3G5V6Wb7H",
-      "tags": [
-        "friluftsliv",
-        "tur"
-      ],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-1575f55e-58e5-47a5-bdc4-07ca98ae0a47",
-      "title": "Herregruppe",
-      "start_at": "2026-10-21T12:00:00",
-      "end_at": "2027-06-23T13:00:00",
-      "is_free": true,
-      "location_name": "Klipra seniorsenter",
-      "city": "Ålesund",
-      "organizer": "Klipra seniorsenter",
-      "image_url": "https://ucarecdn.com/e0ac9cfc-5652-498f-949f-02fe3678c70c/-/crop/800x218/0,115/-/preview/",
-      "url": "https://alesund.friskus.com/events/1575f55e-58e5-47a5-bdc4-07ca98ae0a47",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-7b710e7a-a926-4f9f-be94-4fc3feea2f88",
@@ -1484,6 +1425,24 @@
       "tags": [],
       "age_groups": [
         "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-1575f55e-58e5-47a5-bdc4-07ca98ae0a47",
+      "title": "Herregruppe",
+      "start_at": "2026-10-28T12:00:00",
+      "end_at": "2027-06-23T13:00:00",
+      "is_free": true,
+      "location_name": "Klipra seniorsenter",
+      "city": "Ålesund",
+      "organizer": "Klipra seniorsenter",
+      "image_url": "https://ucarecdn.com/e0ac9cfc-5652-498f-949f-02fe3678c70c/-/crop/800x218/0,115/-/preview/",
+      "url": "https://alesund.friskus.com/events/1575f55e-58e5-47a5-bdc4-07ca98ae0a47",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -3723,28 +3682,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-4099e8e2-02df-4c0a-880e-02130c8fd1c7",
-      "title": "Biblioteket er ope :)",
-      "start_at": "2026-10-21T10:30:00",
-      "end_at": "2026-11-03T15:30:00",
-      "is_free": true,
-      "location_name": "Giske folkebibliotek",
-      "city": "Ålesund",
-      "organizer": "Giske folkebibliotek",
-      "image_url": "https://ucarecdn.com/291cb93f-fd25-460e-a4da-21b6d9547361/-/crop/1200x328/0,170/-/preview/",
-      "url": "https://alesund.friskus.com/events/4099e8e2-02df-4c0a-880e-02130c8fd1c7",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-oaaZ26Gh2nx1m",
       "title": "Seniortur til Signalen rundtur, nedom Skjonghelleren",
       "start_at": "2026-10-22T10:00:00",
@@ -5127,6 +5064,26 @@
     },
     {
       "source": "tikkio",
+      "source_id": "tikkio-8a295069814b3ee0ccb29e24d8467be9",
+      "title": "KLUBB | Dvask fra Kultursjokk // Terminalen",
+      "description": "<p><strong>På lørdag får vi besøk av Dvask fra Kultursjokk! 💥</strong></p><p>Her kan du forvente deg alt fra deep house til guilty pleasures. Det eneste vi kan love er at det blir den beste stemningen på dansegulvet!</p><p>Dører 23:00<br>ID 20<br>CC 50 kr</p><p>Vi sees på Terminalen!</p>",
+      "start_at": "2026-10-24T23:00:00",
+      "end_at": "2026-10-25T02:00:00",
+      "is_free": false,
+      "price_text": "NOK 50.00",
+      "location_name": "Terminalen",
+      "city": "Ålesund",
+      "latitude": 62.4702872,
+      "longitude": 6.1533313,
+      "organizer": "TERMINALEN BYSCENE AS",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_7042c163b65e1d12333d7c6b44068098.webp?class=w768",
+      "url": "https://tikkio.com/events/67082-klubb-dvask-fra-kultursjokk-terminalen",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
       "source_id": "tikkio-1d5bc7f10e0abac94bdc5d843109aebd",
       "title": "Salmer på pøbb // Terminalen",
       "description": "<p></p><p><strong>SALMER PÅ PØBB</strong></p><p>Lewi Bergrud<br>Thor-Erik Fjellvang<br>Med band</p><p></p><p>Salmer på Pøbb har siden starten i 2022 tatt Norge med storm. Nå legger ensemblet ut på sin tredje norgesturné – og den 28. oktober er de i Ålesund.</p><p></p><p>I 2024 tok konseptet av for alvor, med over 40 utsolgte konserter fra Svalbard til Kristiansand, kritikerrost platedebut med <em>Kapittel 1</em> og massiv medieoppmerksomhet.</p><p></p><p>I 2025 fulgte <em>Kapittel 2</em> – og en turné med sytten stopp på pøbber, klubber og i konserthus, brorparten smekk fulle.</p><p></p><p>Årets turné følges av utgivelsen <em>Kapittel 3</em>.</p><p></p><p>Salmer på pøbb er mye mer enn en konsert. Her møtes folk fra alle generasjoner. Og samme hva du tror på, samme hva slags musikk du liker, om du vil synge eller helst bare lytte, du er hjertelig velkommen.</p><p></p><p>Konsertene er åpne for alle over 18 år (studentrabatt for alle under 25 og/eller studerende!)</p><p></p><p><em>Ta med deg en venn og bli med på en kveld du vil huske lenge!</em></p><p></p><p></p><p></p><p><strong><u>Sagt om Salmer på pøbb:</u></strong></p><p></p><p><em>Aldri før har salmer fått veggene til å riste på pub i Kristiansand!</em></p><p>- Fædrelandsvennen</p><p></p><p><em>…her får salmesangens språklige klangbunn slå fra seg med sin voldsomme kraft (…) ufattelig god stemning (...) intimt, nedskalert og veldig lavterskel</em></p><p>- Vårt Land</p><p></p><p><em>For en stakket kveld ble salmene endevendt, ristet på og sendt ut i nye lydbilder over et stappfullt kulturhus (…) Selve salmerepertoaret er kjent og kjært når «Salmer på Pøbb» spiller. Men tolkningene har du aldri hørt før.</em></p><p>- Sarpsborg Arbeiderblad</p><p></p><p><em>...har gått sin seiersgang over hele kongeriket!</em></p><p>- Fredriksstad Blad</p><p></p><p><em>...har treft ein nerve i det norske musikklandskapet (…) bare smil og glede å sjå blant publikum!</em></p><p>- NRK</p><p></p><p><em>...plutselig var salmene pakket inn og endevendt på en så overraskende måte at jeg bare måtte le for meg selv!</em></p><p>- Guro Fostervold Tvedten</p>",
@@ -5547,6 +5504,26 @@
     },
     {
       "source": "tikkio",
+      "source_id": "tikkio-97e864b4555583f2a537785fc0bd625b",
+      "title": "Motorpsycho // Terminalen",
+      "description": "<p>In March and April 2027, we’re painting our faces and shining our shoes and going out again. As usual, we begin in Norway, before carrying on out into Europe on our <em>Taking Trøndelag To The People</em> Tour, ’27.</p><p>We will be presenting a whole new stage show featuring new gizmoes and gadgets, as well as jams and tunes never before seen or heard on the Motorpsychodelic stage. We’ll be singing established classic songs as well as classics to be, we’ll reach for the stars and aim for the infinete, but hit your hearts and blow your minds, Trønder Style!</p><p>Bring ear plugs, wear comfy shoes and get ready to get thoroughly Motorpsychodelisized! A good time is guaranteed for all!</p><p>Get your tickets now!</p>",
+      "start_at": "2027-03-05T20:00:00",
+      "end_at": "2027-03-05T23:00:00",
+      "is_free": false,
+      "price_text": "NOK 450.00",
+      "location_name": "Terminalen",
+      "city": "Ålesund",
+      "latitude": 62.4702872,
+      "longitude": 6.1533313,
+      "organizer": "TERMINALEN BYSCENE AS",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_235374d38d3acdf8643d82d2fb30117f.webp?class=w768",
+      "url": "https://tikkio.com/events/66896-motorpsycho-terminalen",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
       "source_id": "tikkio-ce34974e96084be25a904cc3c34f3e61",
       "title": "Synne Vo, Her vil e vær - Norgesturné // Spire Ålesund",
       "description": "<p>Det er klart for nok en Spirekonsert, denne gangen med Synne Vo!</p><p><strong>VIKTIG OPPDATERING:</strong> Vi åpner for fri alder på Spirekonserten med Synne Vo! Barn under 13 år er nå velkomne sammen med verge over 18 år (verge trenger også billett). Ungdom mellom 13 og 18 år kan komme alene.</p><p>På få år har artisten fra Lesja etablert seg som en av landets mest populære og kritikerroste artister. Med låter som “Lykke te”, “MVH” og “Heime” har hun tatt både festivaler, scener og spillelister med storm, og debutalbumet «Kanskje det går te helvete» som kom ut i 2024 fikk terningkast 6 i både Aftenposten og Dagsavisen.</p><p>I 2026 ble publikum enda bedre kjent med artisten gjennom deltakelsen på Hver gang vi møtes på TV2, hvor hun markerte seg med tolkninger som ble hyllet av både publikum og anmeldere. Etter enorm respons til konserten i Oslo Spektrum 13. november, ble det satt opp et ekstra show i storstua i Oslo – som i skrivende stund har få billetter.</p><p><strong>Over 18 år?</strong> Da finner du billetter <a href=\"https://tikkio.com/events/66142\">her.</a></p><p>—</p><p><strong>Regler for SPIREkonserter</strong></p><p></p><p>Alkohol og rusmidler:</p><ul><li><p>SPIREkonserter er <strong>helt alkohol- og rusfrie</strong>.</p></li><li><p>Synlig påvirkning medfører bortvisning.</p></li></ul><p></p><p><strong>Praktisk informasjon<br><br></strong>Garderobe:</p><ul><li><p>Garderoben er åpen på alle SPIREkonserter.</p></li><li><p>Lav pris for å oppfordre til bruk.</p></li><li><p>Det er <strong>ikke tillatt</strong> å legge fra seg jakker eller eiendeler andre steder i lokalet<br>(av hensyn til brannsikkerhet og tyveri).</p></li></ul><p></p><p>Kiosk:</p><ul><li><p>Salg av mineralvann og snacks.</p></li><li><p>Gratis vann deles ut.</p></li></ul>",
@@ -5915,7 +5892,7 @@
       "latitude": 62.5964884,
       "longitude": 6.4461846,
       "organizer": "Brattvåg Fjordhotell AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3464/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3464/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/67005-pepperkakeverksted-for-barn",
       "tags": [],
       "age_groups": [],
@@ -6035,7 +6012,7 @@
       "latitude": 62.3415727,
       "longitude": 5.847517,
       "organizer": "Brygga Sportsbar AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_b2babc073965905981d3caa375608333.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_7347b50ef63e1b29e20b9f762fcf7324.webp?class=w768",
       "url": "https://tikkio.com/events/67028-retrodag-brygga-sportsbar-30-ar",
       "tags": [],
       "age_groups": [],
@@ -6648,6 +6625,8 @@
       "price_text": "NOK 500.00",
       "location_name": "Bjørnsonhuset",
       "city": "Ålesund",
+      "latitude": 62.733255,
+      "longitude": 7.1439038,
       "organizer": "MYLDR",
       "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_ccbaf4eaebc83b3a78faf055801594ff.jpg?class=w768",
       "url": "https://tikkio.com/events/63532-linda-eide-spraksjov-bjornsonhuset-molde",
@@ -6741,7 +6720,8 @@
       "description": "<p>I samarbeid med hovedsponsor DNB Molde inviterer vi til familiekonsert med Raices (Peru/ Chile).<br>Konserten passer primært for 8 til 12 år, men også litt yngre barn.</p><p>Alle må ha billett, voksne som barn.</p><p>Raices-Røtter er en tospråklig familieforestilling, på spansk og norsk, med den peruanske musikeren Adrian Lara og chilenske nysirkusartisten Diego Belda.</p><p>Forestillingen utforsker de temaet røtter, det å måtte flytte fra sitt moderland og om å søke etter å føle seg hjemme på fremmed jord. Personlige historier fra Diego sitt liv og Adrian sin master om hvordan den afrikanske diasporaen har påvirket sør-amerikansk musikk er bærende elementer, som kobles sammen via musikk, fortellinger, sirkus og rytmisk lek mellom trommer og sjonglering.</p><p>Musikk fra sør-amerika med afro-peruansk harpe, sang, charango, cajon og andre rytmeinstrumener. Av sirkuselementer blir det contactball, sjonglering, balansering og dans med en gren.</p><p></p>",
       "start_at": "2026-10-31T12:00:00",
       "end_at": "2026-10-31T14:00:00",
-      "is_free": true,
+      "is_free": false,
+      "price_text": "NOK 168.00",
       "location_name": "Die Tankstelle",
       "city": "Ålesund",
       "latitude": 62.7366654,
@@ -7029,7 +7009,8 @@
       "description": "<p></p>",
       "start_at": "2026-12-26T19:00:00",
       "end_at": "2026-12-26T21:30:00",
-      "is_free": true,
+      "is_free": false,
+      "price_text": "NOK 325.00",
       "location_name": "Fuzzy Molde",
       "city": "Ålesund",
       "latitude": 62.7402591,
@@ -7277,7 +7258,7 @@
       "source_id": "parken-47759-tuva-ronny-folger-drommen",
       "title": "Tuva & Ronny følger drømmen",
       "start_at": "2026-11-03T19:00:00",
-      "end_at": "2026-11-03T20:30:00",
+      "end_at": "2026-11-03T20:15:00",
       "location_name": "Parken kulturhus – Hovedscene",
       "city": "Ålesund",
       "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F47759%2Fweb-square.webp?version=3y1cDDMdhlM82nAxlxq3Zg==",
@@ -7411,15 +7392,15 @@
     },
     {
       "source": "parken",
-      "source_id": "parken-45760-foredrag-med-randi-rosenqvist",
-      "title": "Foredrag med Randi Rosenqvist",
+      "source_id": "parken-45760-bak-lukkede-dorer",
+      "title": "Bak lukkede dører",
       "start_at": "2026-11-10T19:00:00",
       "end_at": "2026-11-10T20:30:00",
       "location_name": "Parken kulturhus – Hovedscene",
       "city": "Ålesund",
-      "organizer": "Bak lukkede dører",
+      "organizer": "Foredrag med Randi Rosenqvist",
       "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F45760%2Fweb-square.webp?version=PhzUYcs2/qrhjx9YJBInmw==",
-      "url": "https://www.parkenkulturhus.no/program/45760-foredrag-med-randi-rosenqvist/",
+      "url": "https://www.parkenkulturhus.no/program/45760-bak-lukkede-dorer/",
       "tags": [
         "foredrag"
       ],
@@ -8107,32 +8088,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32362-2026-10-21",
-      "title": "Sommerfuglen Aktivitet",
-      "start_at": "2026-10-21T10:00:00",
-      "end_at": "2026-10-21T15:00:00",
-      "location_name": "Sommerfuglen Aktivitet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerfuglen-aktivitet/?occurrence=2026-10-21",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-10-21",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-10-21T10:00:00",
-      "end_at": "2026-10-21T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-10-21",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
