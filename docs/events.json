@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T23:00:31.047896+00:00",
-  "total": 623,
+  "generated_at": "2026-11-04T05:20:14.238854+00:00",
+  "total": 627,
   "failed_sources": [
     "viti"
   ],
@@ -6080,7 +6080,7 @@
       "latitude": 62.3917269,
       "longitude": 6.5803557,
       "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3473/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3473/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/67246-oppgjeret-nr-3-quiz-og-trubadur",
       "tags": [],
       "age_groups": [],
@@ -8098,6 +8098,24 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-43165ca4-151d-4fc8-8cea-bbe5e56b7ddb",
+      "title": "Primetime",
+      "start_at": "2026-11-04T17:45:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2b33e8e385984693b9b8f205dc17b27f.jpg?w=1440&version=8C6BBAA6EC0EFE7901B886D6F0415C11",
+      "url": "https://www.odeonkino.no/film/primetime/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-ecef1123-2c7e-4769-b85b-d382c879b77d",
       "title": "Markens grøde",
       "description": "Hans Petter Moland bringer Knut Hamsuns udødelige mesterverk Markens grøde til det store lerretet",
@@ -8181,6 +8199,23 @@
         "fantasy",
         "familiefilm",
         "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-bb8ea688-ea9b-4370-8cec-7cffd1058924",
+      "title": "Rammstein - Live in Mexico City",
+      "start_at": "2026-11-04T20:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/849717b227964829bc3c3321b4b85dfd.jpg?w=1440&version=A971B586FA718DCE757E6E68E43A8664",
+      "url": "https://www.odeonkino.no/film/rammstein-live-in-mexico-city/",
+      "tags": [
+        "luxe",
+        "konsert"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -8601,6 +8636,24 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-57ee26be-3c86-4f8e-a96d-f35c4240231a",
+      "title": "Primetime",
+      "start_at": "2026-11-05T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2b33e8e385984693b9b8f205dc17b27f.jpg?w=1440&version=8C6BBAA6EC0EFE7901B886D6F0415C11",
+      "url": "https://www.odeonkino.no/film/primetime/",
+      "tags": [
+        "luxe",
+        "biografi",
+        "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-51d03381-2ef5-4924-9cdd-5b5db1f524e6",
       "title": "Clayface",
       "description": "Ansikt til ansikt med frykten.",
@@ -8943,6 +8996,23 @@
         "luxe",
         "thriller",
         "romantikk"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-e6afebd1-6518-4749-9406-eef8de6d9f91",
+      "title": "Rammstein - Live in Mexico City",
+      "start_at": "2026-11-06T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/849717b227964829bc3c3321b4b85dfd.jpg?w=1440&version=A971B586FA718DCE757E6E68E43A8664",
+      "url": "https://www.odeonkino.no/film/rammstein-live-in-mexico-city/",
+      "tags": [
+        "luxe",
+        "konsert"
       ],
       "age_groups": [],
       "is_recurring": false,
