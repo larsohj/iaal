@@ -1,30 +1,10 @@
 {
-  "generated_at": "2026-11-06T13:54:37.099392+00:00",
-  "total": 965,
+  "generated_at": "2026-11-06T22:49:23.613117+00:00",
+  "total": 995,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-e85d6120-2aa9-4b8a-b35c-a7fd3fcc35fb",
-      "title": "Hanna Paulsberg: Belonging",
-      "start_at": "2026-11-06T21:00:00",
-      "end_at": "2026-11-06T22:00:00",
-      "is_free": false,
-      "location_name": "Jazzsirkelen 04",
-      "city": "Ålesund",
-      "organizer": "Jazzsirkelen 04",
-      "image_url": "https://ucarecdn.com/121c6709-fcc7-4a97-ac6d-d3e36af1babd/-/crop/2178x1138/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/e85d6120-2aa9-4b8a-b35c-a7fd3fcc35fb",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
     {
       "source": "friskus",
       "source_id": "friskus-343d4e0c-11ef-42d3-9a8e-1f967a9b5015",
@@ -62,6 +42,28 @@
         "family"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-11-07T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -138,6 +140,25 @@
       "organizer": "Aksla Vel",
       "image_url": "https://ucarecdn.com/1119cf43-d7c5-44cd-a96c-83cbe9b347b6/-/crop/1525x416/0,104/-/preview/",
       "url": "https://alesund.friskus.com/events/f0cf0e1b-8516-4d9c-9299-aae7f4a67072",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
+      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
+      "start_at": "2026-11-09T10:00:00",
+      "end_at": "2027-06-18T20:00:00",
+      "is_free": true,
+      "location_name": "Dagplass for personer med demens",
+      "city": "Ålesund",
+      "organizer": "Dagplass for personer med demens",
+      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
+      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
       "tags": [],
       "age_groups": [
         "senior",
@@ -1215,6 +1236,24 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-894ebe6d-ed9d-43c5-8392-85a40fe3d4db",
+      "title": "Gjenbrukskafe søker frivillige på Ålesund Frivilligsentral",
+      "start_at": "2026-11-13T11:00:00",
+      "end_at": "2026-12-18T16:00:00",
+      "is_free": true,
+      "location_name": "Ålesund frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Ålesund frivilligsentral",
+      "image_url": "https://ucarecdn.com/24ef317a-b2e3-4022-87c0-76e8fb6d2238/-/crop/1536x420/0,258/-/preview/",
+      "url": "https://alesund.friskus.com/events/894ebe6d-ed9d-43c5-8392-85a40fe3d4db",
+      "tags": [],
+      "age_groups": [
+        "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-9ce9182a-1dd1-4914-831f-9d61bebe8742",
       "title": "Morgengry- Nordisk litteraturuke",
       "start_at": "2026-11-13T11:00:00",
@@ -1739,6 +1778,28 @@
       "age_groups": [
         "senior",
         "teenager"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-d86034fe-0401-4585-a094-ab281de6cf94",
+      "title": "JULEMESSE HERDHUSET",
+      "start_at": "2026-11-21T11:00:00",
+      "end_at": "2026-11-21T15:00:00",
+      "is_free": true,
+      "location_name": "Ålesund Revmatikerforening",
+      "city": "Ålesund",
+      "organizer": "Ålesund Revmatikerforening",
+      "image_url": "https://ucarecdn.com/23d5c7cc-fb4c-41ef-93c8-e8bcc764da37/-/crop/1079x565/0,52/-/preview/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/d86034fe-0401-4585-a094-ab281de6cf94",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": false
     },
@@ -3055,43 +3116,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-4678ff73-52d8-4f03-b95c-dd752c1cfc8b",
-      "title": "Sangkveld med Gutane",
-      "start_at": "2026-11-06T19:00:00",
-      "end_at": "2026-11-06T21:00:00",
-      "is_free": true,
-      "location_name": "Sula Frikirke",
-      "city": "Ålesund",
-      "organizer": "Sula Frikirke",
-      "image_url": "https://ucarecdn.com/e4d816af-91af-4c42-ad72-07290c431bb4/-/crop/1920x1004/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/4678ff73-52d8-4f03-b95c-dd752c1cfc8b",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-75d7d7de-f8f4-4952-a443-460ccb77ea39",
-      "title": "Open Hall",
-      "start_at": "2026-11-06T20:00:00",
-      "end_at": "2027-04-09T23:00:00",
-      "is_free": true,
-      "location_name": "Sula kommune",
-      "city": "Ålesund",
-      "organizer": "Sula kommune",
-      "image_url": "https://ucarecdn.com/177b67bb-64c0-4e87-903f-e78b2fa3cb58/-/crop/2481x794/0,915/-/preview/",
-      "url": "https://alesund.friskus.com/events/75d7d7de-f8f4-4952-a443-460ccb77ea39",
-      "tags": [],
-      "age_groups": [
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-48ffbe8e-cc19-4120-af46-97881bbbc44f",
       "title": "Korpskafè i Mauseidvåg på Allheim",
       "start_at": "2026-11-07T17:00:00",
@@ -3456,6 +3480,24 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-bc681c02-5378-4025-8646-9893ed6bdaea",
+      "title": "Velkommen til sogekveld med boklansering på Sula Bibliotek",
+      "start_at": "2026-11-19T18:00:00",
+      "end_at": "2026-11-19T20:00:00",
+      "is_free": true,
+      "location_name": "Langevåg Røde Kors",
+      "city": "Ålesund",
+      "organizer": "Langevåg Røde Kors",
+      "image_url": "https://ucarecdn.com/69406af1-579e-4bcc-a21d-0be896c6e44e/-/crop/588x161/0,153/-/preview/",
+      "url": "https://alesund.friskus.com/events/bc681c02-5378-4025-8646-9893ed6bdaea",
+      "tags": [],
+      "age_groups": [
+        "senior"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-5fee7f23-8d47-400a-aed7-2a5689550201",
       "title": "Forfattarmøte med Simon Stranger på Sula bibliotek",
       "start_at": "2026-11-25T19:00:00",
@@ -3516,6 +3558,24 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-75d7d7de-f8f4-4952-a443-460ccb77ea39",
+      "title": "Open Hall",
+      "start_at": "2026-12-04T20:00:00",
+      "end_at": "2027-04-09T23:00:00",
+      "is_free": true,
+      "location_name": "Sula kommune",
+      "city": "Ålesund",
+      "organizer": "Sula kommune",
+      "image_url": "https://ucarecdn.com/177b67bb-64c0-4e87-903f-e78b2fa3cb58/-/crop/2481x794/0,915/-/preview/",
+      "url": "https://alesund.friskus.com/events/75d7d7de-f8f4-4952-a443-460ccb77ea39",
+      "tags": [],
+      "age_groups": [
+        "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-ded62311-b6c4-4976-8e86-63806f27e58d",
       "title": "Juleverkstad for barn med Sula husflidslag",
       "start_at": "2026-12-05T12:00:00",
@@ -3554,6 +3614,46 @@
         "pensioner"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-34baaec5-304c-4bf6-bf23-4792b21d2edf",
+      "title": "Langevågsdagane 2027",
+      "start_at": "2027-06-04T19:00:00",
+      "end_at": "2027-06-06T02:00:00",
+      "is_free": true,
+      "location_name": "Langevåg Røde Kors",
+      "city": "Ålesund",
+      "organizer": "Langevåg Røde Kors",
+      "image_url": "https://ucarecdn.com/362fe596-19dd-462a-8b31-a686d0f361ee/-/crop/588x161/0,152/-/preview/",
+      "url": "https://alesund.friskus.com/events/34baaec5-304c-4bf6-bf23-4792b21d2edf",
+      "tags": [],
+      "age_groups": [
+        "family"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-4099e8e2-02df-4c0a-880e-02130c8fd1c7",
+      "title": "Biblioteket er ope :)",
+      "start_at": "2026-11-09T13:00:00",
+      "end_at": "2026-11-13T15:30:00",
+      "is_free": true,
+      "location_name": "Giske folkebibliotek",
+      "city": "Ålesund",
+      "organizer": "Giske folkebibliotek",
+      "image_url": "https://ucarecdn.com/291cb93f-fd25-460e-a4da-21b6d9547361/-/crop/1200x328/0,170/-/preview/",
+      "url": "https://alesund.friskus.com/events/4099e8e2-02df-4c0a-880e-02130c8fd1c7",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -3920,44 +4020,6 @@
       "organizer": "ÅLESUND KAMMERMUSIKKFESTIVAL",
       "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_7bdd1f8d14fbe980fd3dfb1b08d13623.webp?class=w768",
       "url": "https://tikkio.com/events/65879-nar-barokken-moter-nord",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-86bca677d2012966b2ae3c915650ec8a",
-      "title": "Juleshow på Løvenvold Vol. 4 / 6.11",
-      "description": "<p><strong>Et drømmelag inntar Løvenvold Theater julen 2026! </strong></p><p>Når du ikke trodde juleshow kunne bli bedre, så serverer vi dere tre av Norges alle beste komikere:</p><p>Møt Ørjan Liavåg, Are Kalvø og Marit Voldsæter når de for første gang står på samme scene. Det skjer på Løvenvold Theater! I et show skrevet for oss og til vårt publikum.</p><p>Juleshow på Løvenvold Vol 4 byr på alt dette! Det blir garantert latter, følelse av høytid og morsomme overraskelser. Det blir mye jul, det blir litt alvor, det blir definitivt sang og musikk. Med en trio som behersker alt, fra revy til dans - her kan jo alt skje! Are, Ørjan og Marit har alle et stort repertoar av sketsjer, parodier og karakterer, dette blir tidenes show! Når tre av våre aller beste komikere som bare gleder seg til å dele scenen med akkurat hverandre, er kjemien til å ta og føle på.</p><p>Og som ikke tre julestjerner var nok: På piano og vokal får du Elise Nærø, en av landets aller beste stemmer, som vil løfte taket og inviterer til allsang.</p><p><strong>MARIT VOLDSÆTER</strong> fra Bergen en av landets mest populære scenekomikere, med flere gigantsuksesser både som soloartist og som en del av Kvinner på randen i et tiår. Hennes siste show «Hei, jeg heter Marit» spilte for utsolgte hus i hjembyen Bergen hele 2024. Marit har mottatt flere Komipriser og fikk Leif Juster sin ærespris i 2025. Marit har et stort og variert repertoar av sketsjer, parodier, sang og mimikk, og tar med hele bagasjen til Ålesund.</p><p><strong>ARE KALVØ</strong> er en av våre fremste komikere, og i over tretti år har han briljert enten det er med humør, som satiriker, forfatter eller programleder. Are skriver musikaler, teater og satire, og gjør standup. Hans siste suksesser «Berre bønder lengar heim» og «Hyttebok frå helvete», toppet alle salgslister. Han har fått flere priser, noen av de er fortjent. Are Kalvø er født og oppvokst på Stranda, og spilte for utsolgte hus på Løvenvold sitt aller første juleshow i 2023.</p><p><strong>ØRJAN LIAVÅG</strong> er en av våre største komikere fra Ålesund, og en levende legende som karakteren «Leif-Per» i humorduoen Hildegunn og Leif-Per. Ørjan er også en fremragende gitarist og leverer musikalske innslag som veksler mellom humor og alvor. Han har samarbeidet med alle i norsk humor-bransje, og det skjønner vi godt: Alle elsker Ørjan!</p><p>Årets musiker er <strong>Elise Nærø </strong>fra Fosnavåg. Elise Nærø er en erfaren sceneartist og pianist med en egen evne til å skape musikalsk magi.</p><p>Regi er ved <strong>Karina Aase.</strong></p>",
-      "start_at": "2026-11-06T17:30:00",
-      "end_at": "2026-11-06T20:00:00",
-      "is_free": true,
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "latitude": 62.4730488,
-      "longitude": 6.1582367,
-      "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_55c715ddcbf71445e23fa7f0874f4997.webp?class=w768",
-      "url": "https://tikkio.com/events/62679-juleshow-pa-lovenvold-vol-4-611",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-dd6d7d1bc15acc752cbbe69939956ef5",
-      "title": "Ekstrashow! Juleshow på Løvenvold Vol. 4 / 06.11",
-      "description": "<p><em>Billettsalget starter torsdag 30. april, klokken 12:00!</em></p><p><strong>Et drømmelag inntar Løvenvold Theater julen 2026! </strong></p><p>Når du ikke trodde juleshow kunne bli bedre, så serverer vi dere tre av Norges alle beste komikere:</p><p>Møt Ørjan Liavåg, Are Kalvø og Marit Voldsæter når de for første gang står på samme scene. Det skjer på Løvenvold Theater! I et show skrevet for oss og til vårt publikum.</p><p>Juleshow på Løvenvold Vol 4 byr på alt dette! Det blir garantert latter, følelse av høytid og morsomme overraskelser. Det blir mye jul, det blir litt alvor, det blir definitivt sang og musikk. Med en trio som behersker alt, fra revy til dans - her kan jo alt skje! Are, Ørjan og Marit har alle et stort repertoar av sketsjer, parodier og karakterer, dette blir tidenes show! Når tre av våre aller beste komikere som bare gleder seg til å dele scenen med akkurat hverandre, er kjemien til å ta og føle på.</p><p>Og som ikke tre julestjerner var nok: På piano og vokal får du Elise Nærø, en av landets aller beste stemmer, som vil løfte taket og inviterer til allsang.</p><p><strong>MARIT VOLDSÆTER</strong> fra Bergen en av landets mest populære scenekomikere, med flere gigantsuksesser både som soloartist og som en del av Kvinner på randen i et tiår. Hennes siste show «Hei, jeg heter Marit» spilte for utsolgte hus i hjembyen Bergen hele 2024. Marit har mottatt flere Komipriser og fikk Leif Juster sin ærespris i 2025. Marit har et stort og variert repertoar av sketsjer, parodier, sang og mimikk, og tar med hele bagasjen til Ålesund.</p><p><strong>ARE KALVØ</strong> er en av våre fremste komikere, og i over tretti år har han briljert enten det er med humør, som satiriker, forfatter eller programleder. Are skriver musikaler, teater og satire, og gjør standup. Hans siste suksesser «Berre bønder lengar heim» og «Hyttebok frå helvete», toppet alle salgslister. Han har fått flere priser, noen av de er fortjent. Are Kalvø er født og oppvokst på Stranda, og spilte for utsolgte hus på Løvenvold sitt aller første juleshow i 2023.</p><p><strong>ØRJAN LIAVÅG</strong> er en av våre største komikere fra Ålesund, og en levende legende som karakteren «Leif-Per» i humorduoen Hildegunn og Leif-Per. Ørjan er også en fremragende gitarist og leverer musikalske innslag som veksler mellom humor og alvor. Han har samarbeidet med alle i norsk humor-bransje, og det skjønner vi godt: Alle elsker Ørjan!</p><p>Årets musiker er <strong>Elise Nærø </strong>fra Fosnavåg. Elise Nærø er en erfaren sceneartist og pianist med en egen evne til å skape musikalsk magi.</p><p>Regi er ved <strong>Karina Aase.</strong></p>",
-      "start_at": "2026-11-06T20:00:00",
-      "end_at": "2026-11-06T23:00:00",
-      "is_free": true,
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "latitude": 62.4730488,
-      "longitude": 6.1582367,
-      "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_95561dc50d4aaf8be803f59f0fd728ad.webp?class=w768",
-      "url": "https://tikkio.com/events/62695-ekstrashow-juleshow-pa-lovenvold-vol-4-0611",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -4862,26 +4924,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-c3f3ed37e8e9b6dc2cc6537da679903b",
-      "title": "Maria Mena // Terminalen",
-      "description": "<p>Maria Mena feirer 40 år og 25 år som artist og kommer tilbake til Terminalen 6. november 2026. Opplev hits som I Don’t Wanna See You With Her, Just Hold Me og Home For Christmas live, med hennes varme og ærlige formidling.</p><p>Sikre deg billetter allerede nå!</p><p>--</p><p>I 2026 er det duket for en dobbel feiring av en av Norges mest folkekjære artister. Maria Mena fyller 40 år og markerer samtidig 25 år som artist. Dette feires med en omfattende turné som tar henne gjennom hele Norge.</p><p>Helt siden hun fikk platekontrakt i 2001 og slo gjennom med «My Lullaby» i 2002, har Maria Mena gitt publikum et unikt innblikk i hennes liv og hjerte. Gjennom ni kritikerroste studioalbum, inkludert suksesser som «Apparently Unaffected», «Cause and Effect», «Viktoria», og «And Then Came You», har Mena etablert seg som en låtskriver og formidler i særklasse.</p><p>Maria lever, skriver og synger fra hjertet og evner å sette ord på tanker og følelser. Selv de som for mange føles tunge å bære og umulige å dele.</p><p>Hennes talent har resultert i en imponerende hitparade som inkluderer sanger som «I Don&#039;t Wanna See You With Her», «Just Hold Me», «You’re The Only One», «All This Time», «It Took Me By Surprise», «You Live And You Learn», «Not OK» og den tidløse klassikeren «Home For Christmas».</p><p>Som artist er Mena kjent for sin dype ærlighet og sårbarhet. Hennes mot og kompromissløse tilnærming til kunsten, kombinert med hennes varme, empatiske og morsomme personlighet, gjør at musikken oppleves både ufiltrert og nyansert. Etter en pause i 2025, vil turneen i 2026 bli en mulighet til å oppleve Maria Menas helt unike formidlingsevne live igjen, og en feiring av hennes lange karriere og personlige reise. Konsertene vil spenne over hele hennes katalog, levert med den intimiteten og nærheten publikum elsker henne for.</p><p>2026 blir et meget innholdsrikt år for Maria. Hun skal blant annet turnére med anerkjente Amsterdam Sinfonietta med 13 konserter i Nederland i januar og det det skal spilles inn et live-album i Oslo konserthus i februar.</p><p>&quot;Jeg gleder meg mer enn jeg klarer å uttrykke, pausen i 2025 har gjort meg enda mer klar over hvor heldig jeg er med jobb, kollegaer og publikum! Jeg er klar for å levere nære, såre, håpefulle og tidvis morsomme konserter igjen i 2026!&quot;</p><p>Maria Mena</p>",
-      "start_at": "2026-11-06T20:00:00",
-      "end_at": "2026-11-06T22:00:00",
-      "is_free": false,
-      "price_text": "NOK 699.00",
-      "location_name": "Terminalen",
-      "city": "Ålesund",
-      "latitude": 62.4702872,
-      "longitude": 6.1533313,
-      "organizer": "TERMINALEN BYSCENE AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_c0c62beeb29b7852e2757145831838cc.jpg?class=w768",
-      "url": "https://tikkio.com/events/60302-maria-mena-terminalen",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-f1d366555118327c06a63018fac087d9",
       "title": "360° ROOM | DJ Sierra // Terminalen Byscene",
       "description": "<p>På lørdag rigger vi opp til <strong>360° ROOM </strong>på Terminalen! 🔥<br>DJ Sierra flytter DJ-boothen ned på gulvet og sørger for en rå klubbopplevelse. Forvent kokende stemning og dansing hele natten!</p><p>Samle gjengen, så sees vi på dansegulvet! 🪩🕺</p><p><strong>Praktisk info:</strong></p><ul><li><p><strong>Dører:</strong> 23:00</p></li><li><p><strong>CC:</strong> 50 kr (<em>Gratis inngang for DNB-kunder og ÅSS-medlemmer!</em>)</p></li><li><p><strong>ID:</strong> 20 år</p></li></ul>",
@@ -5680,9 +5722,9 @@
       "source": "tikkio",
       "source_id": "tikkio-e17a92944a3a228b0dbc295e9a8998dd",
       "title": "Juleverksted Ålesund - Cupcakekrans",
-      "description": "<p><strong>Cupcakekrans – Juleverksted med Sour &amp; Sweet</strong></p><p><strong>Thon Hotel Baronen, 12.november 18:00-19:30</strong></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t7/1/16/1f384.png\" alt=\"🎄\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Juleverksted med Sour &amp; Sweet!</p><p>Bli med på en koselig førjulskveld med cupcakepynting, juleglede og noe godt å spise!</p><p>Du får lage din egen cupcakekrans med veiledning fra meg, og selvfølgelig ta med deg alle cupcakene hjem! <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png\" alt=\"❤️\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/td8/1/16/1f39f.png\" alt=\"🎟️\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Velg mellom to billetter:<br>- Liten cupcakekrans<br>- Stor cupcakekrans</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png\" alt=\"✨\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Dette er inkludert i billetten:<br>- Cupcakes og alt av pynt og utstyr<br>- Veiledning underveis<br>- Servering fra Thon Hotel Baronen<br>- Goodiebag til alle deltakere<br>- Din egen cupcakekrans med hjem!</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t2d/1/16/1f4cd.png\" alt=\"📍\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Thon Hotel Baronen, Spjelkavik<br><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t7e/1/16/1f4c5.png\" alt=\"📅\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Torsdag 12. november<br><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t2d/1/16/1f555.png\" alt=\"🕕\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Kl. 18:00–19:30</p><p></p><p><strong>Allergener: Produktene inneholder hvete (gluten), melk, egg og soya. </strong><em>Det er dessverre ikke mulig å tilrettelegge for allergier eller spesialkost på dette kurset.</em></p><p>Det er et begrenset antall plasser på kurset. Påmelding og betaling sikrer plassen din.</p>",
-      "start_at": "2026-11-12T17:45:00",
-      "end_at": "2026-11-12T19:45:00",
+      "description": "<p><strong>Cupcakekrans – Juleverksted med Sour &amp; Sweet</strong></p><p><strong>NY DATO: </strong></p><p><strong>Thon Hotel Baronen, 21.november 13:00-14:30</strong></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t7/1/16/1f384.png\" alt=\"🎄\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Juleverksted med Sour &amp; Sweet!</p><p>Bli med på en koselig førjulskveld med cupcakepynting, juleglede og noe godt å spise!</p><p>Du får lage din egen cupcakekrans med veiledning fra meg, og selvfølgelig ta med deg alle cupcakene hjem! <img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png\" alt=\"❤️\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"></p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/td8/1/16/1f39f.png\" alt=\"🎟️\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Velg mellom to billetter:<br>- Liten cupcakekrans<br>- Stor cupcakekrans</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1/16/2728.png\" alt=\"✨\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Dette er inkludert i billetten:<br>- Cupcakes og alt av pynt og utstyr<br>- Veiledning underveis<br>- Servering fra Thon Hotel Baronen<br>- Goodiebag til alle deltakere<br>- Din egen cupcakekrans med hjem!</p><p><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t2d/1/16/1f4cd.png\" alt=\"📍\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Thon Hotel Baronen, Spjelkavik<br><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t7e/1/16/1f4c5.png\" alt=\"📅\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> NY DATO: LØRDAG 21. november<br><img src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t2d/1/16/1f555.png\" alt=\"🕕\" width=\"16\" style=\"width: 16px; height: 16px;\" height=\"16\"> Kl. 13:00-14:30</p><p></p><p><strong>Allergener: Produktene inneholder hvete (gluten), melk, egg og soya. </strong><em>Det er dessverre ikke mulig å tilrettelegge for allergier eller spesialkost på dette kurset.</em></p><p>Det er et begrenset antall plasser på kurset. Påmelding og betaling sikrer plassen din.</p>",
+      "start_at": "2026-11-21T12:45:00",
+      "end_at": "2026-11-21T15:00:00",
       "is_free": false,
       "price_text": "NOK 349.00",
       "location_name": "Thon Hotel Baronen",
@@ -5690,7 +5732,7 @@
       "latitude": 62.4624372,
       "longitude": 6.3626154,
       "organizer": "Sour and Sweet",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_5546c175e741ec961897e156f4b478e5.webp?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_a9f7023d5df2e933a5205f3578542665.webp?class=w768",
       "url": "https://tikkio.com/events/66657-juleverksted-cupcakekrans",
       "tags": [],
       "age_groups": [],
@@ -5956,26 +5998,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-efbd35ef9bfd8f3883450974de269342",
-      "title": "OPPGJERET NR 3 - November Quiz og trubadur [Børsen Scene 20+]",
-      "description": "<p></p>",
-      "start_at": "2026-11-06T19:00:00",
-      "end_at": "2026-11-07T02:00:00",
-      "is_free": false,
-      "price_text": "NOK 112.00",
-      "location_name": "Bankplassen",
-      "city": "Ålesund",
-      "latitude": 62.3917269,
-      "longitude": 6.5803557,
-      "organizer": "Bankplassen",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3464/images/tikkio-placeholder-3.jpeg?class=w768",
-      "url": "https://tikkio.com/events/67246-oppgjeret-nr-3-quiz-og-trubadur",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-0113c244b4bde0c88cab24921abec615",
       "title": "AARIL ANDRE AAM - UNPLUGGED PÅ STØDT // TORSDAG 17.DES // STØDT BAR & SCENE",
       "description": "<p>Arill Andre Aam - unplugged på Stødt i Ørsta</p><p>Arill André Aam kjem til Stødt i Ørsta for ein kveld med nåken kjende og mest ukjende låtar.</p><p>Arill André Aam er ein norsk artist og låtskrivar med eit personleg og stemningsfullt uttrykk. Låtane hans kombinerer sterke melodiar med ærlege og nære tekstar. Det er musikk som kjennest ekte, og som mange vil kjenne seg att i.</p><p>Konserten på Stødt blir ein intim kveld der publikum kjem tett på både låtane og historiene bak dei. Ein sjeldan sjanse til å oppleve musikken hans live, i eit lokale som er som skapt for nærleik.</p><p>Kom tidleg, finn deg ein plass og bli med på ein kveld med musikk som får tid til å bli verande.</p><p></p><p>📅 17.12.2026 kl. 19:30</p><p>🕕 Dørene opnar kl..18:00</p><p>📍 Stødt, Ørsta</p><p>🎟️ I døra eller på TIKKIO:</p><p></p><p>🆔️ 18+</p>",
@@ -6096,26 +6118,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-8c727140a0e523ab2acf933c75b18460",
-      "title": "Schuberts Testament, Volda",
-      "description": "<p>Jan Clemens Carlsen er kanskje mest kjent som cellist i Engegårdkvartetten, og sammen med Ålesund Strykekvartett vil de fremføre Franz Schuberts monumentale strykekvintett i C dur! Dette var hans siste kammermusikalske verk, skrevet høsten han lå for døden, 31år gammel i 1828, og står som et av hans beste og av mange ansett som et av de vakreste musikkverk som finnes.</p><p>Program: Franz Schubert Strykekvintett i C dur</p><p>Medvirkende: Ålesund Strykekvartett (Ai-Ling Chiu, Anne-Randi Håheim Nilsen, Linda Bønes, Samuel Skrede), og Jan Clemens Carlsen, cello</p><p><br></p>",
-      "start_at": "2026-11-06T18:30:00",
-      "end_at": "2026-11-06T20:15:00",
-      "is_free": false,
-      "price_text": "NOK 100.00",
-      "location_name": "Volda Kyrkje",
-      "city": "Ålesund",
-      "latitude": 62.1456795,
-      "longitude": 6.067359,
-      "organizer": "ÅLESUND KAMMERMUSIKKFESTIVAL",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_61bc2949c896222feca55d8b723367e5.webp?class=w768",
-      "url": "https://tikkio.com/events/66940-schuberts-testament-volda",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-1ba3252f5567a082dac4fbd051062240",
       "title": " JuleBokk 2026 // BokkeReidars Blues Band // 3. juledag",
       "description": "<p>BokkeReidars Blues Band og Tredet inviterer i god tradisjon til JuleBokk 3. juledag. Stikkord for det musikalske denne kvelden er nostalgisk trøkk med ekstrem speleglede. For dette er BokkeReidars i festmodus med live musikk du vil kjenne langt inn i ryggmargen!</p><p>Med over 40 års fartstid, er BokkeReidars det lengstlevande bandet i sin sjanger her til lands, og dei har samarbeidd med blant andre Side Brok, Vidar Busk, Hungy John, Rita Eriksen, Beate Slettevoll Lech og B3-mannen Palle Wagnberg. Etter Trandal Blues i 2014 skreiv musikkjournalist Øyvind Pharo følgande i BluesNews: “Lørdagens avslutningskonsert var ikke mindre sensasjonell med BokkeReidars Blues Band med tekster på nynorsk framført av ekspønkeren Gunnar Solheim med eminent samspill fra rapduoen Side Brok. Blåserrekka og rytmeseksjonen til BokkeReidars blander funk, salsa og ska og alt annet sexy det er mulig å krydre bluesen med. I større sammenheng er dette et band som fortjener å nå mye lengre ut, men de 800 menneskene som hørte dem på lørdagen bidro til at Trandal 2014 ble meget godt besøk.”</p><p>Billettane er ute på tikkio.no - salget er i gang! BokkeReidars dreg i gang ca kl 2230.</p><p>BokkeReidars Blues Band er:</p><p>Gunnar Solheim - vokal</p><p>Svein Hunnes - bass</p><p>Klaus Blø - gitar</p><p>Steinar Høydal - keyboard</p><p>Terje Hans Hanssen - trommer</p><p>Ivar Kvangardsnes - trompet</p><p>Trond Johnsen - tenorsax</p><p>André Folkestad – trombone</p>",
@@ -6170,26 +6172,6 @@
       "organizer": "X2 Festivalen",
       "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_28489a19d9313d465962cac5717e41ca.webp?class=w768",
       "url": "https://tikkio.com/events/63818-x2-festivalen-2027",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-c16d8bbd9144dad865b9a2ceb0eb43f4",
-      "title": "Golf // ROKKEN - UTSELD!",
-      "description": "<p><strong>Drømmen jeg vil selge TOUR – GOLF</strong></p><p>GOLF skal endeleg ut på turné den komande hausten og vinteren, i samband med det nye prosjektet deira. Sist gong fansen fekk oppleve GOLF utanfor festivalscenene, var då dei spelte ein utseld turné i 2024. Mykje har skjedd sidan den gong, og no er dei endeleg klare med eit heilt nytt headliner-show.</p><p>GOLF har vore ein stor festivalfavoritt gjennom fleire somrar, og år etter år har dei samla folk frå alle moglege delar av landet framfor store festivalscener. Med hits som mellom anna «Soldat RMX», «Sees Igjen», «Ekko» og «Juniregnet», for å nemne nokre, er det aldri eit kjedeleg augeblikk når GOLF står på scena.</p><p>I september slepper dei ny musikk, og følgjer opp suksessen frå EP-en «Drømmen jeg vil selge». EP-en gjorde stor suksess, med låtar som mellom anna «Damn, du ser bra ut!», som lenge heldt seg høgt oppe på topplistene og dermed blei ein av dei største låtane den sommaren.</p><p>No slepper dei del to av prosjektet, «Drømmen jeg vil selge holder meg våken», og legg ut på turné for å vise fram både nye og gamle låtar til fansen. Med dette showet får GOLF også moglegheita til å vise lyttarane det universet dei har jobba med og skapt gjennom dei to siste prosjekta. Og det skal, ifølgje dei sjølve, smelle.</p><p></p><p>Billettar ute fredag 28. august kl. 10:00!!</p><p></p><p>Dørar: 20:00</p><p>Show: 22:00</p><p>18 års aldersgrense</p><p></p><p>//ENGLISH//</p><p></p><p><strong>Drømmen jeg vil selge TOUR – GOLF</strong></p><p>GOLF is finally heading out on tour this coming autumn and winter, following the release of their new project. The last time fans got to experience GOLF outside of the festival circuit was during their sold-out tour in 2024. A lot has happened since then, and now they are finally ready to bring an entirely new headline show to the stage.</p><p>GOLF has been a major festival favourite over the past several summers, year after year drawing audiences from all corners of the country to some of the biggest festival stages. With hits including “Soldat RMX”, “Sees Igjen”, “Ekko” and “Juniregnet”, to name just a few, there is never a dull moment when GOLF takes the stage.</p><p>In September, they will release new music, following up on the success of their EP “Drømmen jeg vil selge”. The EP was a major success, featuring tracks such as “Damn, du ser bra ut!”, which remained high on the charts for an extended period and became one of the biggest songs of the summer.</p><p>Now, they are releasing the second part of the project, “Drømmen jeg vil selge holder meg våken”, and heading out on tour to bring both new and old songs to their fans. The show will also give GOLF the opportunity to bring the universe they have developed and created throughout their two latest projects to life on stage. And according to GOLF themselves, it’s going to hit hard.</p><p></p><p>Tickets out on Friday 28th of August at 10 AM</p><p></p><p>Doors: 20:00</p><p>Show: 22:00</p><p>ID: 18+</p>",
-      "start_at": "2026-11-06T20:00:00",
-      "end_at": "2026-11-07T02:00:00",
-      "is_free": false,
-      "price_text": "NOK 299.00",
-      "location_name": "Studenthuset Rokken",
-      "city": "Ålesund",
-      "latitude": 62.1444128,
-      "longitude": 6.0721147,
-      "organizer": "STUDENTHUSET AS",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_22b96740a1daff6a8b8a5f3e8eaad67d.webp?class=w768",
-      "url": "https://tikkio.com/events/65512-gold-rokken",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -6488,25 +6470,6 @@
       "organizer": "Gossen Gospel Voices",
       "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_6352e01e50154f2153a5f61a622cd22a.webp?class=w768",
       "url": "https://tikkio.com/events/65886-julekonsert",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-33d0bcad59c4df2dae47c850775e2dc2",
-      "title": "ATLANTER // Die Tankstelle",
-      "description": "<p>Atlanter // Die Tankstelle<br><br>Dørene åpner 20:00<br>Konsertstart 21:00<br>Stående konsert<br><br><em>Den innovative kvartetten pangdebuterte i 2013 med Vidde, som ble hyllet av kritikerne og nominert til Spellemannprisen og Nordic Music Prize. Det er en oppbrukt frase at et band har skapt sin egen sjanger, eller sitt eget musikalske univers, men når det gjelder de eminente musikerne Jens Carelius, Arild Hammerø, Jonas Barsten og Morten Kvam så er dette sannheten. Det er ingenting annet som høres ut som Atlanter</em></p><p><em>Det nye albumet «Klokker» (Jansen Records 2026) viser et band som har ivaretatt all sin lekenhet og utforskertrang. Det er ekspansiv musikk som fremkaller mentale panoramabilder hos lytteren. Det intrikate og unike gitarspillet til Carelius og Hammerø refererer til alt fra ørkenblues til tysk kraut og norske folketoner. På scenen leverer Atlanter både dansestemning, suggererende gitarimprovisasjoner og melodiøs vokal, som setter publikum og musikere inn i en atlantersk transe, hvor man får en rundreise som skifter mellom det rå og det vare. </em></p><p><em>Jens Carelius: gitar, vokal</em><br><em>Arild Hammerø: gitar, vokal</em><br><em>Morten Kvam: bass, vokal</em><br><em>Jonas Barsten: trommer</em><br></p>",
-      "start_at": "2026-11-06T20:00:00",
-      "end_at": "2026-11-06T23:00:00",
-      "is_free": true,
-      "location_name": "Die Tankstelle",
-      "city": "Ålesund",
-      "latitude": 62.7366654,
-      "longitude": 7.1558625,
-      "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_f322f1f842a7bb1ad3b8238b5ab7f9e5.webp?class=w768",
-      "url": "https://tikkio.com/events/65676-atlanter-die-tankstelle",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -6841,58 +6804,6 @@
       "image_url": "https://cdn.tikkio.com/static/1.0.3464/uploads/event/c_598019ddd00c1cfefcf792b26de258e2.jpg?class=w768",
       "url": "https://tikkio.com/events/66587-akustisk-elvis-aften",
       "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "parken",
-      "source_id": "parken-46661-the-best-of-ghibli-studio",
-      "title": "The best of Ghibli Studio",
-      "start_at": "2026-11-06T17:30:00",
-      "end_at": "2026-11-06T18:45:00",
-      "location_name": "Parken kulturhus – Hovedscene",
-      "city": "Ålesund",
-      "organizer": "Grissini Project",
-      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F46661%2Fweb-square.webp?version=fHVq4UlRvO6qypOqqj3RYw==",
-      "url": "https://www.parkenkulturhus.no/program/46661-the-best-of-ghibli-studio/",
-      "tags": [
-        "konsert"
-      ],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "parken",
-      "source_id": "parken-47866-the-music-of-hans-zimmer-vs-john-williams",
-      "title": "The music of Hans Zimmer vs John Williams",
-      "start_at": "2026-11-06T19:30:00",
-      "end_at": "2026-11-06T20:45:00",
-      "location_name": "Parken kulturhus – Hovedscene",
-      "city": "Ålesund",
-      "organizer": "Grissini Project",
-      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F47866%2Fweb-square.webp?version=gTpDr6LqQ0Cw1aPNazJLQg==",
-      "url": "https://www.parkenkulturhus.no/program/47866-the-music-of-hans-zimmer-vs-john-williams/",
-      "tags": [
-        "konsert",
-        "få billetter igjen"
-      ],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "parken",
-      "source_id": "parken-47822-hanna-paulsberg-belonging",
-      "title": "Hanna Paulsberg: Belonging",
-      "start_at": "2026-11-06T21:00:00",
-      "end_at": "2026-11-06T22:00:00",
-      "location_name": "Parken kulturhus – Foajeen",
-      "city": "Ålesund",
-      "organizer": "Parken kulturhus x Jazzsirkelen",
-      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F47822%2Fweb-square.webp?version=8++247AssgGZW+aksU5saw==",
-      "url": "https://www.parkenkulturhus.no/program/47822-hanna-paulsberg-belonging/",
-      "tags": [
-        "musikk"
-      ],
       "age_groups": [],
       "is_recurring": false
     },
@@ -7344,6 +7255,23 @@
     },
     {
       "source": "parken",
+      "source_id": "parken-51384-ole-reinlund",
+      "title": "Ole Reinlund",
+      "start_at": "2027-01-17T18:00:00",
+      "end_at": "2027-01-17T19:00:00",
+      "location_name": "Parken kulturhus – Foajeen",
+      "city": "Ålesund",
+      "organizer": "Plateslipp",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F51384%2Fweb-square.webp?version=CtGtEroeJe/LRp51MSYwqw==",
+      "url": "https://www.parkenkulturhus.no/program/51384-ole-reinlund/",
+      "tags": [
+        "musikk"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
       "source_id": "parken-49087-finn-tre-feil",
       "title": "Finn tre feil",
       "start_at": "2027-02-05T19:00:00",
@@ -7701,103 +7629,25 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-32516-2026-11-06",
-      "title": "Krystall – Hotel 1904",
-      "start_at": "2026-11-06T17:00:00",
-      "end_at": "2026-11-06T23:55:00",
-      "location_name": "Hotel 1904",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/krystall-hotel-1904-358/?occurrence=2026-11-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-42116-2026-11-06",
-      "title": "Grissini Project: Det beste fra Ghibli Studio",
-      "start_at": "2026-11-06T17:30:00",
-      "end_at": "2026-11-06T18:45:00",
-      "location_name": "Parken kulturhus",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/grissini-project-det-beste-fra-ghibli-studio/?occurrence=2026-11-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-42553-2026-11-06",
-      "title": "Vernissasje Valeria Duca",
-      "start_at": "2026-11-06T19:00:00",
-      "end_at": "2026-11-06T21:00:00",
-      "location_name": "Forum Ålesund",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/vernissasje-valeria-duca/?occurrence=2026-11-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-42118-2026-11-06",
-      "title": "Grissini Project: The music of Hans Zimmer vs John Williams",
-      "start_at": "2026-11-06T19:30:00",
-      "end_at": "2026-11-06T20:45:00",
-      "location_name": "Parken kulturhus",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/grissini-project-the-music-of-hans-zimmer-vs-john-williams/?occurrence=2026-11-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33132-2026-11-06",
-      "title": "Maria Mena",
-      "start_at": "2026-11-06T20:00:00",
-      "end_at": "2026-11-06T22:00:00",
-      "location_name": "Terminalen Byscene",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/maria-mena-2-535/?occurrence=2026-11-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-38990-2026-11-06",
-      "title": "Jazzsirkelen: Hanna Paulsberg: Belonging",
-      "start_at": "2026-11-06T21:00:00",
-      "end_at": "2026-11-06T22:00:00",
-      "location_name": "Parken kulturhus, Foajeen",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/jazzsirkelen-hanna-paulsberg-belonging/?occurrence=2026-11-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-42197-2026-11-06",
-      "title": "Jazzsirkelen: Hanna Paulsberg: Belonging",
-      "start_at": "2026-11-06T21:00:00",
-      "end_at": "2026-11-06T22:00:00",
-      "location_name": "Parken kulturhus, Foajeen",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/jazzsirkelen-hanna-paulsberg-belonging-2/?occurrence=2026-11-06",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-28717-2026-11-07",
       "title": "Helgeprogram i Atlanterhavsparken – akvarium og vitensenter",
       "start_at": "2026-11-07T00:00:00",
       "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/helgeprogram-i-atlanterhavsparken-akvarium-og-vitensenter-2/?occurrence=2026-11-07",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43031-2026-11-07",
+      "title": "Den store gavesekken 2026",
+      "start_at": "2026-11-07T00:00:00",
+      "location_name": "Ålesund sentrum",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/den-store-gavesekken-2024-341/?occurrence=2026-11-07",
       "tags": [],
       "age_groups": [],
       "is_recurring": false,
@@ -7828,6 +7678,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-07",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-07T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-07",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -7864,6 +7727,19 @@
       "location_name": "Moa bibliotek",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/familieallsang-pa-moa-bibliotek-3/?occurrence=2026-11-07",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-42946-2026-11-07",
+      "title": "Salsa and bachata course💃",
+      "start_at": "2026-11-07T12:00:00",
+      "end_at": "2026-11-07T18:00:00",
+      "location_name": "",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/salsa-and-bachata-course%f0%9f%92%83/?occurrence=2026-11-07",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -8065,6 +7941,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43031-2026-11-08",
+      "title": "Den store gavesekken 2026",
+      "start_at": "2026-11-08T00:00:00",
+      "location_name": "Ålesund sentrum",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/den-store-gavesekken-2024-341/?occurrence=2026-11-08",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-35112-2026-11-08",
       "title": "Aalesunds Museum er åpent hver dag, hele året!",
       "start_at": "2026-11-08T10:00:00",
@@ -8088,6 +7977,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-08",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-08T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-08",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -8221,6 +8123,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43031-2026-11-09",
+      "title": "Den store gavesekken 2026",
+      "start_at": "2026-11-09T00:00:00",
+      "location_name": "Ålesund sentrum",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/den-store-gavesekken-2024-341/?occurrence=2026-11-09",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-32362-2026-11-09",
       "title": "Sommerfuglen Aktivitet",
       "start_at": "2026-11-09T10:00:00",
@@ -8244,6 +8159,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-09",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-09T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-09",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -8299,6 +8227,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43031-2026-11-10",
+      "title": "Den store gavesekken 2026",
+      "start_at": "2026-11-10T00:00:00",
+      "location_name": "Ålesund sentrum",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/den-store-gavesekken-2024-341/?occurrence=2026-11-10",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-22059-2026-11-10",
       "title": "Åpen barnehage",
       "start_at": "2026-11-10T09:00:00",
@@ -8348,6 +8289,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-10",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-10T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-10",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -8481,6 +8435,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43031-2026-11-11",
+      "title": "Den store gavesekken 2026",
+      "start_at": "2026-11-11T00:00:00",
+      "location_name": "Ålesund sentrum",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/den-store-gavesekken-2024-341/?occurrence=2026-11-11",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-32362-2026-11-11",
       "title": "Sommerfuglen Aktivitet",
       "start_at": "2026-11-11T10:00:00",
@@ -8504,6 +8471,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-11",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-11T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-11",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -8540,6 +8520,19 @@
       "location_name": "Ålesund bibliotek",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/strikkekafe-pa-alesund-bibliotek-646-129-559-163/?occurrence=2026-11-11",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43004-2026-11-11",
+      "title": "På dagtid: Innblikk i Vitis tekstilsamling",
+      "start_at": "2026-11-11T12:00:00",
+      "end_at": "2026-11-11T12:45:00",
+      "location_name": "Jugendstilsenteret og KUBE",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/pa-dagtid-innblikk-i-vitis-tekstilsamling/?occurrence=2026-11-11",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -8637,6 +8630,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43031-2026-11-12",
+      "title": "Den store gavesekken 2026",
+      "start_at": "2026-11-12T00:00:00",
+      "location_name": "Ålesund sentrum",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/den-store-gavesekken-2024-341/?occurrence=2026-11-12",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-22059-2026-11-12",
       "title": "Åpen barnehage",
       "start_at": "2026-11-12T09:00:00",
@@ -8686,6 +8692,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-12",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-12T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-12",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -8858,6 +8877,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43031-2026-11-13",
+      "title": "Den store gavesekken 2026",
+      "start_at": "2026-11-13T00:00:00",
+      "location_name": "Ålesund sentrum",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/den-store-gavesekken-2024-341/?occurrence=2026-11-13",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-32362-2026-11-13",
       "title": "Sommerfuglen Aktivitet",
       "start_at": "2026-11-13T10:00:00",
@@ -8894,6 +8926,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-13",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-13T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-13",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -9053,12 +9098,38 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-42931-2026-11-13",
+      "title": "BEAT FOR BEAT QUIZ",
+      "start_at": "2026-11-13T20:00:00",
+      "end_at": "2026-11-13T00:00:00",
+      "location_name": "Dampsentralen",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/beat-for-beat-quiz/?occurrence=2026-11-13",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-28717-2026-11-14",
       "title": "Helgeprogram i Atlanterhavsparken – akvarium og vitensenter",
       "start_at": "2026-11-14T00:00:00",
       "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/helgeprogram-i-atlanterhavsparken-akvarium-og-vitensenter-2/?occurrence=2026-11-14",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43031-2026-11-14",
+      "title": "Den store gavesekken 2026",
+      "start_at": "2026-11-14T00:00:00",
+      "location_name": "Ålesund sentrum",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/den-store-gavesekken-2024-341/?occurrence=2026-11-14",
       "tags": [],
       "age_groups": [],
       "is_recurring": false,
@@ -9089,6 +9160,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-14",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-14T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-14",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -9235,6 +9319,32 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-42931-2026-11-14",
+      "title": "BEAT FOR BEAT QUIZ",
+      "start_at": "2026-11-14T00:00:00",
+      "end_at": "2026-11-14T02:00:00",
+      "location_name": "Dampsentralen",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/beat-for-beat-quiz/?occurrence=2026-11-14",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43042-2026-11-14",
+      "title": "SULT",
+      "start_at": "2026-11-14T20:00:00",
+      "end_at": "2026-11-14T21:30:00",
+      "location_name": "Terminalen - Venterommet",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sult/?occurrence=2026-11-14",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-31337-2026-11-14",
       "title": "Damp Natt",
       "start_at": "2026-11-14T00:00:00",
@@ -9254,6 +9364,19 @@
       "location_name": "Atlanterhavsparken Akvarium og Vitensenter",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/helgeprogram-i-atlanterhavsparken-akvarium-og-vitensenter-2/?occurrence=2026-11-15",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43031-2026-11-15",
+      "title": "Den store gavesekken 2026",
+      "start_at": "2026-11-15T00:00:00",
+      "location_name": "Ålesund sentrum",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/den-store-gavesekken-2024-341/?occurrence=2026-11-15",
       "tags": [],
       "age_groups": [],
       "is_recurring": false,
@@ -9284,6 +9407,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-15",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-15T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-15",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -9339,6 +9475,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43031-2026-11-16",
+      "title": "Den store gavesekken 2026",
+      "start_at": "2026-11-16T00:00:00",
+      "location_name": "Ålesund sentrum",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/den-store-gavesekken-2024-341/?occurrence=2026-11-16",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-32362-2026-11-16",
       "title": "Sommerfuglen Aktivitet",
       "start_at": "2026-11-16T10:00:00",
@@ -9362,6 +9511,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-16",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-16T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-16",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -9430,6 +9592,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43031-2026-11-17",
+      "title": "Den store gavesekken 2026",
+      "start_at": "2026-11-17T00:00:00",
+      "location_name": "Ålesund sentrum",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/den-store-gavesekken-2024-341/?occurrence=2026-11-17",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-22059-2026-11-17",
       "title": "Åpen barnehage",
       "start_at": "2026-11-17T09:00:00",
@@ -9479,6 +9654,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-17",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-17T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-17",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -9547,6 +9735,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43031-2026-11-18",
+      "title": "Den store gavesekken 2026",
+      "start_at": "2026-11-18T00:00:00",
+      "location_name": "Ålesund sentrum",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/den-store-gavesekken-2024-341/?occurrence=2026-11-18",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-32362-2026-11-18",
       "title": "Sommerfuglen Aktivitet",
       "start_at": "2026-11-18T10:00:00",
@@ -9570,6 +9771,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-18",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-18T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-18",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -9677,6 +9891,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43031-2026-11-19",
+      "title": "Den store gavesekken 2026",
+      "start_at": "2026-11-19T00:00:00",
+      "location_name": "Ålesund sentrum",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/den-store-gavesekken-2024-341/?occurrence=2026-11-19",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-22059-2026-11-19",
       "title": "Åpen barnehage",
       "start_at": "2026-11-19T09:00:00",
@@ -9726,6 +9953,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-19",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-19T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-19",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -9820,6 +10060,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43033-2026-11-19",
+      "title": "Når Barokken møter Nord",
+      "start_at": "2026-11-19T19:00:00",
+      "end_at": "2026-11-19T20:45:00",
+      "location_name": "Sobra scene",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/nar-barokken-moter-nord/?occurrence=2026-11-19",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-41337-2026-11-19",
       "title": "Konfliktverksted for voksne 16-25 år – Gatemegling",
       "start_at": "2026-11-19T19:30:00",
@@ -9882,6 +10135,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-20",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-20T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-20",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -9989,6 +10255,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43045-2026-11-20",
+      "title": "Valkyrien Allstars",
+      "start_at": "2026-11-20T21:00:00",
+      "end_at": "2026-11-20T22:30:00",
+      "location_name": "Terminalen Byscene",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valkyrien-allstars/?occurrence=2026-11-20",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-28717-2026-11-21",
       "title": "Helgeprogram i Atlanterhavsparken – akvarium og vitensenter",
       "start_at": "2026-11-21T00:00:00",
@@ -10041,6 +10320,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-21",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-21T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-21",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-30716-2026-11-21",
       "title": "Åpen gård – Borgund Dyreklubb",
       "start_at": "2026-11-21T12:00:00",
@@ -10067,6 +10359,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43006-2026-11-21",
+      "title": "Lørdagsomvisning i Jugendstilsenteret",
+      "start_at": "2026-11-21T12:00:00",
+      "end_at": "2026-11-21T12:45:00",
+      "location_name": "Jugendstilsenteret og KUBE",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/lordagsomvisning-i-jugendstilsenteret/?occurrence=2026-11-21",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-41351-2026-11-21",
       "title": "Bokkino i Ålesund bibliotek",
       "start_at": "2026-11-21T13:00:00",
@@ -10074,6 +10379,19 @@
       "location_name": "Ålesund bibliotek",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/bokkino-i-alesund-bibliotek-973/?occurrence=2026-11-21",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43008-2026-11-21",
+      "title": "Familiedag på Jugendstilenteret: Design din egen Jugendplakat!",
+      "start_at": "2026-11-21T13:00:00",
+      "end_at": "2026-11-21T15:00:00",
+      "location_name": "Jugendstilsenteret og KUBE",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/familiedag-pa-jugendstilenteret-design-din-egen-jugendplakat/?occurrence=2026-11-21",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -10210,6 +10528,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43001-2026-11-21",
+      "title": "Julebuffet på Thon Hotel Ålesund",
+      "start_at": "2026-11-21T00:00:00",
+      "location_name": "Thon Hotel Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/julebuffet-pa-thon-hotel-alesund/?occurrence=2026-11-21&time=1795291200",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-31337-2026-11-21",
       "title": "Damp Natt",
       "start_at": "2026-11-21T00:00:00",
@@ -10259,6 +10590,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-22",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-22T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-22",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -10350,6 +10694,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-23",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-23T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-23",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -10457,6 +10814,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-24",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-24T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-24",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-13430-2026-11-24",
       "title": "Naturmøteplass på Aksla",
       "start_at": "2026-11-24T12:00:00",
@@ -10558,6 +10928,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-25",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-25T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-25",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -10688,6 +11071,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-26",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-26T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-26",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -10834,6 +11230,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-27",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-27T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-27",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-30716-2026-11-27",
       "title": "Åpen gård – Borgund Dyreklubb",
       "start_at": "2026-11-27T12:00:00",
@@ -10964,6 +11373,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43001-2026-11-27",
+      "title": "Julebuffet på Thon Hotel Ålesund",
+      "start_at": "2026-11-27T00:00:00",
+      "location_name": "Thon Hotel Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/julebuffet-pa-thon-hotel-alesund/?occurrence=2026-11-27&time=1795809600",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-28717-2026-11-28",
       "title": "Helgeprogram i Atlanterhavsparken – akvarium og vitensenter",
       "start_at": "2026-11-28T00:00:00",
@@ -11013,6 +11435,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-28",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-28T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-28",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -11160,7 +11595,7 @@
     {
       "source": "bypatrioten",
       "source_id": "bypatrioten-34811-2026-11-28",
-      "title": "The Good The Bad and The Zugly",
+      "title": "The Good The Bad and The Zugly – Support: Daufødt",
       "start_at": "2026-11-28T19:00:00",
       "end_at": "2026-11-28T21:00:00",
       "location_name": "Terminalen Byscene",
@@ -11178,6 +11613,19 @@
       "location_name": "Fabrikken Kulturscene",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/julebord-pa-fabrikken-2026/?occurrence=2026-11-28&time=1795892400",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43001-2026-11-28",
+      "title": "Julebuffet på Thon Hotel Ålesund",
+      "start_at": "2026-11-28T00:00:00",
+      "location_name": "Thon Hotel Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/julebuffet-pa-thon-hotel-alesund/?occurrence=2026-11-28&time=1795896000",
       "tags": [],
       "age_groups": [],
       "is_recurring": false,
@@ -11234,6 +11682,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-29",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-29T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-29",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -11419,6 +11880,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-11-30",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-11-30T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-30",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-30716-2026-11-30",
       "title": "Åpen gård – Borgund Dyreklubb",
       "start_at": "2026-11-30T12:00:00",
@@ -11520,6 +11994,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-12-01",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-12-01T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-12-01",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -11637,6 +12124,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-12-02",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-12-02T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-12-02",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -11809,6 +12309,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-12-03",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-12-03T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-12-03",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-30716-2026-12-03",
       "title": "Åpen gård – Borgund Dyreklubb",
       "start_at": "2026-12-03T12:00:00",
@@ -11936,6 +12449,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-12-04",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-12-04T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-12-04",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -12069,6 +12595,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43001-2026-12-04",
+      "title": "Julebuffet på Thon Hotel Ålesund",
+      "start_at": "2026-12-04T00:00:00",
+      "location_name": "Thon Hotel Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/julebuffet-pa-thon-hotel-alesund/?occurrence=2026-12-04&time=1796414400",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-28717-2026-12-05",
       "title": "Helgeprogram i Atlanterhavsparken – akvarium og vitensenter",
       "start_at": "2026-12-05T00:00:00",
@@ -12131,6 +12670,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-12-05",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-12-05T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-12-05",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -12238,6 +12790,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43049-2026-12-05",
+      "title": "Kamelen – SPIRE U18",
+      "start_at": "2026-12-05T18:00:00",
+      "end_at": "2026-12-05T19:00:00",
+      "location_name": "Terminalen Byscene",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/kamelen-195/?occurrence=2026-12-05",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-34236-2026-12-05",
       "title": "Juleshow på Løvenvold Vol. 4",
       "start_at": "2026-12-05T00:00:00",
@@ -12274,6 +12839,32 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43001-2026-12-05",
+      "title": "Julebuffet på Thon Hotel Ålesund",
+      "start_at": "2026-12-05T00:00:00",
+      "location_name": "Thon Hotel Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/julebuffet-pa-thon-hotel-alesund/?occurrence=2026-12-05&time=1796500800",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43047-2026-12-05",
+      "title": "Kamelen",
+      "start_at": "2026-12-05T21:00:00",
+      "end_at": "2026-12-05T22:00:00",
+      "location_name": "Terminalen Byscene",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/kamelen/?occurrence=2026-12-05",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -12326,6 +12917,19 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43013-2026-12-06",
+      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
+      "start_at": "2026-12-06T00:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-12-06",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -12430,334 +13034,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-1482c93d-d10d-4e5d-aa52-124776a7042c",
-      "title": "Markens grøde",
-      "description": "Hans Petter Moland bringer Knut Hamsuns udødelige mesterverk Markens grøde til det store lerretet",
-      "start_at": "2026-11-06T14:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/ed68a212c5d64d08884a312bff232c7b.jpg?w=1440&version=E2B795DA436F583A0962792CC84266AA",
-      "url": "https://www.odeonkino.no/film/markens-grode/",
-      "tags": [
-        "isense",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-42bc5db5-71c4-461d-806c-a57cc78fe631",
-      "title": "Pensjonskuppet",
-      "description": "Årets villeste komedie!",
-      "start_at": "2026-11-06T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/15cc2d5b62ab48d4a8408cd332b400d3.jpg?w=1440&version=03F71CCE2C2D36F23AF7C505F8C7D18D",
-      "url": "https://www.odeonkino.no/film/pensjonskuppet/",
-      "tags": [
-        "luxe",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c062e973-860f-49d5-8c13-e5e9de6f092f",
-      "title": "Julenissens verksted",
-      "start_at": "2026-11-06T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a6905b1dd1a409ba3a3769ecbe57412.jpg?w=1440&version=22D1CDB3AFFAC866E822ECD6E7D4E950",
-      "url": "https://www.odeonkino.no/film/julenissens-verksted/",
-      "tags": [
-        "familiefilm",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f8ccb0f7-fd6f-4189-91db-2f91d48b38bb",
-      "title": "Resident Evil",
-      "description": "Fra filmskaperen Zach Cregger (Weapons, Barbarian) kommer en spennende og skremmende nytolkning av Resident Evil-franchisen.",
-      "start_at": "2026-11-06T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1eba53eaac484c0d8843f0ba554810a2.jpg?w=1440&version=91E97A8567003B773B822E5643086968",
-      "url": "https://www.odeonkino.no/film/resident-evil/",
-      "tags": [
-        "luxe",
-        "sci-fi",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-70e3668b-91fc-49fd-9175-5d46cae12f0b",
-      "title": "En nasjon i sjakk",
-      "start_at": "2026-11-06T15:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8c66656a2094a158e66eb9d698d1980.jpg?w=1440&version=CD9AF7C788A875FA30272EC9C5CC3C99",
-      "url": "https://www.odeonkino.no/film/en-nasjon-i-sjakk/",
-      "tags": [
-        "luxe",
-        "thriller",
-        "spenning",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-eea17b10-7ecf-4838-92a9-c481d13d935d",
-      "title": "Drapet på Benjamin Hermansen",
-      "description": "En vinternatt på Holmlia mister 15 år gamle Benjamin livet – drept av 19 år gamle Joe Erling, kun fordi han er mørk i huden. Ett år senere står Benjamins mor, Marit, overfor enhver forelders verste mareritt, rettssaken mot han som drepte sønnen hennes.",
-      "start_at": "2026-11-06T15:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/bb3eea4ba1cd40dba5f54b985cf02527.jpg?w=1440&version=A54D7F6E0178713226AFFCC478990F75",
-      "url": "https://www.odeonkino.no/film/drapet-pa-benjamin-hermansen/",
-      "tags": [
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8c05f930-cf09-42bc-b714-7ffe406c6c01",
-      "title": "Julenissens verksted",
-      "start_at": "2026-11-06T17:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a6905b1dd1a409ba3a3769ecbe57412.jpg?w=1440&version=22D1CDB3AFFAC866E822ECD6E7D4E950",
-      "url": "https://www.odeonkino.no/film/julenissens-verksted/",
-      "tags": [
-        "familiefilm",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4c03b422-e11c-44f4-a2fe-ec95505da0c9",
-      "title": "Pensjonskuppet",
-      "description": "Årets villeste komedie!",
-      "start_at": "2026-11-06T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/15cc2d5b62ab48d4a8408cd332b400d3.jpg?w=1440&version=03F71CCE2C2D36F23AF7C505F8C7D18D",
-      "url": "https://www.odeonkino.no/film/pensjonskuppet/",
-      "tags": [
-        "isense",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-9ef3735d-b713-42e2-b22b-e047f489dbbc",
-      "title": "Monster Mia",
-      "description": "Å begynne på ny skole er vanskelig, spesielt når alle de andre elevene er monstre.",
-      "start_at": "2026-11-06T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1ef1d070bb074b74a7d91b68437fcfc3.jpg?w=1440&version=7DFD0ACD6AC412AD94CA59BA0E86D2DB",
-      "url": "https://www.odeonkino.no/film/monster-mia/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-3734c816-1432-4f80-9efd-2049de85906c",
-      "title": "Godzilla Minus Zero",
-      "start_at": "2026-11-06T17:45:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7803c39e7f0b42e4a12eaef8a66c65e6.jpg?w=1440&version=5FF7A7760220B0526A9E7F86CB71431E",
-      "url": "https://www.odeonkino.no/film/godzilla-minus-zero/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "sci-fi",
-        "drama",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-5f9ab7ae-ea53-42d1-86eb-5dd88882d87b",
-      "title": "Markens grøde",
-      "description": "Hans Petter Moland bringer Knut Hamsuns udødelige mesterverk Markens grøde til det store lerretet",
-      "start_at": "2026-11-06T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/ed68a212c5d64d08884a312bff232c7b.jpg?w=1440&version=E2B795DA436F583A0962792CC84266AA",
-      "url": "https://www.odeonkino.no/film/markens-grode/",
-      "tags": [
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-5e44c4ea-891c-468b-93e1-ae265bce2353",
-      "title": "George Michael: The Faith Tour",
-      "description": "Opplev ikoniske George Michael i denne restaurerte konsertfilmen!",
-      "start_at": "2026-11-06T18:15:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/d23a3390e677475ab7ef6c261dfb64ba.jpg?w=1440&version=A4F8CD4CA60386AB2F2C48DD2C63839E",
-      "url": "https://www.odeonkino.no/film/george-michael-the-faith-tour/",
-      "tags": [
-        "luxe",
-        "konsert"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b8d11429-bdfd-4031-9519-44dd15603425",
-      "title": "Ramayana: Rise of a Legend",
-      "start_at": "2026-11-06T19:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/779d05262da74e80b58b2757921a0c0e.jpg?w=1440&version=4CF39C63A04B03799A3A9388D34DD2AE",
-      "url": "https://www.odeonkino.no/film/ramayana-rise-of-a-legend/",
-      "tags": [
-        "flc",
-        "action",
-        "fantasy",
-        "eventyr"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-cd9e349c-35ec-44d5-b6b5-73bf21660ac6",
-      "title": "Pensjonskuppet",
-      "description": "Årets villeste komedie!",
-      "start_at": "2026-11-06T20:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/15cc2d5b62ab48d4a8408cd332b400d3.jpg?w=1440&version=03F71CCE2C2D36F23AF7C505F8C7D18D",
-      "url": "https://www.odeonkino.no/film/pensjonskuppet/",
-      "tags": [
-        "isense",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c7244547-2388-4690-8f6c-b0f4774251a1",
-      "title": "Verity",
-      "start_at": "2026-11-06T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/be889d47d6064550b7db574dae52102e.jpg?w=1440&version=AE1F0E470AB154033D6BA8D5DF517C36",
-      "url": "https://www.odeonkino.no/film/verity/",
-      "tags": [
-        "luxe",
-        "thriller",
-        "romantikk"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e6afebd1-6518-4749-9406-eef8de6d9f91",
-      "title": "Rammstein - Live in Mexico City",
-      "start_at": "2026-11-06T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/849717b227964829bc3c3321b4b85dfd.jpg?w=1440&version=A971B586FA718DCE757E6E68E43A8664",
-      "url": "https://www.odeonkino.no/film/rammstein-live-in-mexico-city/",
-      "tags": [
-        "luxe",
-        "konsert"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-3a10dafc-76fc-4cd6-a8b8-551e3fb32eaf",
-      "title": "Other Mommy",
-      "start_at": "2026-11-06T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/86ab349872d241a5877a8fcd475f6cb4.jpg?w=1440&version=5C4B6E107A1B86802A4E8717DD6BE9AB",
-      "url": "https://www.odeonkino.no/film/other-mommy/",
-      "tags": [
-        "luxe",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-70a98e2f-5ee0-45d9-9d97-cba36d77a0e1",
-      "title": "Clayface",
-      "description": "Ansikt til ansikt med frykten.",
-      "start_at": "2026-11-06T21:20:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/742a22d15b3344eebec4b4bef39ecd0f.jpg?w=1440&version=00ADF7E2A976F764003EF89611E88E8F",
-      "url": "https://www.odeonkino.no/film/clayface/",
-      "tags": [
-        "drama",
-        "action",
-        "superheltfilm",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
