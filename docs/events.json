@@ -1,32 +1,10 @@
 {
-  "generated_at": "2026-11-07T12:38:59.778209+00:00",
-  "total": 968,
+  "generated_at": "2026-11-07T21:34:17.844770+00:00",
+  "total": 935,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-2c399c20-5f55-43d4-9beb-12dd730b7005",
-      "title": "Internasjonal Kafè",
-      "start_at": "2026-11-07T13:00:00",
-      "end_at": "2026-12-12T15:00:00",
-      "is_free": false,
-      "location_name": "Ålesund Kyrkjelege Fellesråd",
-      "city": "Ålesund",
-      "organizer": "Ålesund Kyrkjelege Fellesråd",
-      "image_url": "https://ucarecdn.com/2c661c15-40f6-4c77-a52a-2a06b8255204/-/crop/1122x478/0,221/-/preview/",
-      "url": "https://alesund.friskus.com/events/2c399c20-5f55-43d4-9beb-12dd730b7005",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-856f0722-e12e-426c-a461-f4e15002ad04",
@@ -44,6 +22,28 @@
         "children",
         "teenager",
         "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-11-08T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -2505,6 +2505,28 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-2c399c20-5f55-43d4-9beb-12dd730b7005",
+      "title": "Internasjonal Kafè",
+      "start_at": "2026-12-12T13:00:00",
+      "end_at": "2026-12-12T15:00:00",
+      "is_free": false,
+      "location_name": "Ålesund Kyrkjelege Fellesråd",
+      "city": "Ålesund",
+      "organizer": "Ålesund Kyrkjelege Fellesråd",
+      "image_url": "https://ucarecdn.com/2c661c15-40f6-4c77-a52a-2a06b8255204/-/crop/1122x478/0,221/-/preview/",
+      "url": "https://alesund.friskus.com/events/2c399c20-5f55-43d4-9beb-12dd730b7005",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-c25fb6a6-f401-4edf-8f54-9456ee860353",
       "title": "Julefrokost",
       "start_at": "2026-12-15T10:00:00",
@@ -3091,28 +3113,6 @@
       "age_groups": [
         "senior",
         "teenager"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-48ffbe8e-cc19-4120-af46-97881bbbc44f",
-      "title": "Korpskafè i Mauseidvåg på Allheim",
-      "start_at": "2026-11-07T17:00:00",
-      "end_at": "2026-11-07T18:15:00",
-      "is_free": true,
-      "location_name": "Mauseidvåg Musikkorps",
-      "city": "Ålesund",
-      "organizer": "Mauseidvåg Musikkorps",
-      "image_url": "https://ucarecdn.com/115262c7-1646-40ee-91f4-19be29c13652/-/crop/1182x529/0,236/-/preview/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/48ffbe8e-cc19-4120-af46-97881bbbc44f",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
       ],
       "is_recurring": false
     },
@@ -4000,44 +4000,6 @@
       "organizer": "ÅLESUND KAMMERMUSIKKFESTIVAL",
       "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_7bdd1f8d14fbe980fd3dfb1b08d13623.webp?class=w768",
       "url": "https://tikkio.com/events/65879-nar-barokken-moter-nord",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-5e7fed73aa4548aa340d2e07b683927e",
-      "title": "Juleshow på Løvenvold Vol. 4 / 7.11",
-      "description": "<p><strong>Et drømmelag inntar Løvenvold Theater julen 2026! </strong></p><p>Når du ikke trodde juleshow kunne bli bedre, så serverer vi dere tre av Norges alle beste komikere:</p><p>Møt Ørjan Liavåg, Are Kalvø og Marit Voldsæter når de for første gang står på samme scene. Det skjer på Løvenvold Theater! I et show skrevet for oss og til vårt publikum.</p><p>Juleshow på Løvenvold Vol 4 byr på alt dette! Det blir garantert latter, følelse av høytid og morsomme overraskelser. Det blir mye jul, det blir litt alvor, det blir definitivt sang og musikk. Med en trio som behersker alt, fra revy til dans - her kan jo alt skje! Are, Ørjan og Marit har alle et stort repertoar av sketsjer, parodier og karakterer, dette blir tidenes show! Når tre av våre aller beste komikere som bare gleder seg til å dele scenen med akkurat hverandre, er kjemien til å ta og føle på.</p><p>Og som ikke tre julestjerner var nok: På piano og vokal får du Elise Nærø, en av landets aller beste stemmer, som vil løfte taket og inviterer til allsang.</p><p><strong>MARIT VOLDSÆTER</strong> fra Bergen en av landets mest populære scenekomikere, med flere gigantsuksesser både som soloartist og som en del av Kvinner på randen i et tiår. Hennes siste show «Hei, jeg heter Marit» spilte for utsolgte hus i hjembyen Bergen hele 2024. Marit har mottatt flere Komipriser og fikk Leif Juster sin ærespris i 2025. Marit har et stort og variert repertoar av sketsjer, parodier, sang og mimikk, og tar med hele bagasjen til Ålesund.</p><p><strong>ARE KALVØ</strong> er en av våre fremste komikere, og i over tretti år har han briljert enten det er med humør, som satiriker, forfatter eller programleder. Are skriver musikaler, teater og satire, og gjør standup. Hans siste suksesser «Berre bønder lengar heim» og «Hyttebok frå helvete», toppet alle salgslister. Han har fått flere priser, noen av de er fortjent. Are Kalvø er født og oppvokst på Stranda, og spilte for utsolgte hus på Løvenvold sitt aller første juleshow i 2023.</p><p><strong>ØRJAN LIAVÅG</strong> er en av våre største komikere fra Ålesund, og en levende legende som karakteren «Leif-Per» i humorduoen Hildegunn og Leif-Per. Ørjan er også en fremragende gitarist og leverer musikalske innslag som veksler mellom humor og alvor. Han har samarbeidet med alle i norsk humor-bransje, og det skjønner vi godt: Alle elsker Ørjan!</p><p>Årets musiker er <strong>Elise Nærø </strong>fra Fosnavåg. Elise Nærø er en erfaren sceneartist og pianist med en egen evne til å skape musikalsk magi.</p><p>Regi er ved <strong>Karina Aase.</strong></p>",
-      "start_at": "2026-11-07T17:30:00",
-      "end_at": "2026-11-07T20:00:00",
-      "is_free": true,
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "latitude": 62.4730488,
-      "longitude": 6.1582367,
-      "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_ed00d5d38771fa9b9c04dae7f303645f.webp?class=w768",
-      "url": "https://tikkio.com/events/62680-juleshow-pa-lovenvold-vol-4-711",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-24fcb8b2a3010e81022355b5ce3226b5",
-      "title": "Ekstrashow! Juleshow på Løvenvold Vol. 4 / 07.11",
-      "description": "<p><em>Billettsalget starter torsdag 30. april, klokken 12:00!</em></p><p><strong>Et drømmelag inntar Løvenvold Theater julen 2026! </strong></p><p>Når du ikke trodde juleshow kunne bli bedre, så serverer vi dere tre av Norges alle beste komikere:</p><p>Møt Ørjan Liavåg, Are Kalvø og Marit Voldsæter når de for første gang står på samme scene. Det skjer på Løvenvold Theater! I et show skrevet for oss og til vårt publikum.</p><p>Juleshow på Løvenvold Vol 4 byr på alt dette! Det blir garantert latter, følelse av høytid og morsomme overraskelser. Det blir mye jul, det blir litt alvor, det blir definitivt sang og musikk. Med en trio som behersker alt, fra revy til dans - her kan jo alt skje! Are, Ørjan og Marit har alle et stort repertoar av sketsjer, parodier og karakterer, dette blir tidenes show! Når tre av våre aller beste komikere som bare gleder seg til å dele scenen med akkurat hverandre, er kjemien til å ta og føle på.</p><p>Og som ikke tre julestjerner var nok: På piano og vokal får du Elise Nærø, en av landets aller beste stemmer, som vil løfte taket og inviterer til allsang.</p><p><strong>MARIT VOLDSÆTER</strong> fra Bergen en av landets mest populære scenekomikere, med flere gigantsuksesser både som soloartist og som en del av Kvinner på randen i et tiår. Hennes siste show «Hei, jeg heter Marit» spilte for utsolgte hus i hjembyen Bergen hele 2024. Marit har mottatt flere Komipriser og fikk Leif Juster sin ærespris i 2025. Marit har et stort og variert repertoar av sketsjer, parodier, sang og mimikk, og tar med hele bagasjen til Ålesund.</p><p><strong>ARE KALVØ</strong> er en av våre fremste komikere, og i over tretti år har han briljert enten det er med humør, som satiriker, forfatter eller programleder. Are skriver musikaler, teater og satire, og gjør standup. Hans siste suksesser «Berre bønder lengar heim» og «Hyttebok frå helvete», toppet alle salgslister. Han har fått flere priser, noen av de er fortjent. Are Kalvø er født og oppvokst på Stranda, og spilte for utsolgte hus på Løvenvold sitt aller første juleshow i 2023.</p><p><strong>ØRJAN LIAVÅG</strong> er en av våre største komikere fra Ålesund, og en levende legende som karakteren «Leif-Per» i humorduoen Hildegunn og Leif-Per. Ørjan er også en fremragende gitarist og leverer musikalske innslag som veksler mellom humor og alvor. Han har samarbeidet med alle i norsk humor-bransje, og det skjønner vi godt: Alle elsker Ørjan!</p><p>Årets musiker er <strong>Elise Nærø </strong>fra Fosnavåg. Elise Nærø er en erfaren sceneartist og pianist med en egen evne til å skape musikalsk magi.</p><p>Regi er ved <strong>Karina Aase</strong></p>",
-      "start_at": "2026-11-07T20:00:00",
-      "end_at": "2026-11-07T23:00:00",
-      "is_free": true,
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "latitude": 62.4730488,
-      "longitude": 6.1582367,
-      "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_c26371917a26e8d3b17b7874c44b2513.webp?class=w768",
-      "url": "https://tikkio.com/events/62696-ekstrashow-juleshow-pa-lovenvold-vol-4-0711",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -6436,25 +6398,6 @@
     },
     {
       "source": "tikkio",
-      "source_id": "tikkio-8f05174f474a6e4bbaf53c1b7fe99150",
-      "title": "CHONTARAZ + TUNGTRØDD // Rock & Metal Night // Die Tankstelle",
-      "description": "Showstart Tungtrødd: 20:30\r\nShowstart Chontaraz 22:00\r\n\r\n\r\nROCK & METAL NIGHT\r\n\r\nCHONTARAZ + TUNGTRØDD\r\n\r\nLørdag 7. november inviterer Die Tankstelle til en kveld med tung rock, moderne metal og ekte live-energi når CHONTARAZ og Molde-favorittene Tungtrødd inntar scenen.\r\n\r\nTo band. Én scene. Fullt trøkk.\r\n\r\nCHONTARAZ\r\n\r\nFor første gang siden 2022 returnerer CHONTARAZ til Norge – og bandet kommer hjem etter den største sesongen i sin historie.\r\n\r\nSommeren 2026 har bandet turnert Europa med Tim \"Ripper\" Owens (ex-Judas Priest), vært main support for Trivium i Istanbul og stått på Ronnie James Dio Stage under Masters of Rock. På veien har de spilt for titusenvis av publikummere og utviklet et liveshow som aldri har vært sterkere.\r\n\r\nCHONTARAZ har tidligere delt scene med Sepultura, Soulfly, Kamelot og Dead By April, og spilt festivaler som 70,000 Tons of Metal, MetalDays og Vagos Metal Fest.\r\n\r\nBandet kombinerer moderne metal, industrielle elementer, mørk atmosfære, store melodier og knusende riff i et uttrykk som er både tungt, fengende og umiskjennelig eget.\r\n\r\nTUNGTRØDD\r\n\r\nMed tøffe gitarriff, pumpende basslinjer og tekster som blander gnistrende humor med lokal stolthet, har Tungtrødd etablert seg som en publikumsfavoritt i regionen.\r\n\r\nBandet leverer egenkomponert rock med energi, dialekt og småskala filosofi – alltid med et glimt i øyet. Musikalsk byr de på alt fra hardslående riff til bassdrevne grooves som får publikum i bevegelse.\r\n\r\nLive er Tungtrødd kjent for høy energi, uhøytidelig mellomprat og en smittende spilleglede som gjør hver konsert til en fest.\r\n\r\nVelkommen til en kveld med tunge riff, store refrenger og fullt trøkk på Die Tankstelle.",
-      "start_at": "2026-11-07T19:00:00",
-      "end_at": "2026-11-07T23:00:00",
-      "is_free": true,
-      "location_name": "Die Tankstelle",
-      "city": "Ålesund",
-      "latitude": 62.7366654,
-      "longitude": 7.1558625,
-      "organizer": "MYLDR",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3485/uploads/event/c_745f4589800575b8e3e42d6046206d03.png?class=w768",
-      "url": "https://tikkio.com/events/64615-chontaraz-tungtrodd-rock-metal-night-die-tankstelle",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
       "source_id": "tikkio-39bf2c383f10f0f03bb7ba8444266cf7",
       "title": "SULT // Die Tankstelle",
       "description": "<p>SULT // Die Tankstelle<br><br><strong>Dørene åpner 20:00<br>Konsertstart 21:00<br>Stående konsert</strong><br><br>SULT er fem gode kompiser fra Indre Østfold som har spilt sammen helt siden barndommen, og siden den gang vært en musikalsk familie. Med Eskil på vokal og gitar, Gustav på trommer, Edvard på bass, og Theodor og KristoCer på gitar og synth. Bandet gir en eksplosiv og rungende miks av rock, pop med direkte tekster som både sparker, trøster og treCer rett i hjertet.</p><p>Med musikalske forbilder på skalaen fra Dumdum Boys, til Zach Bryan og Håkan Hellstrøm, lager SULT låter som representerer ungdomstidens essens; ærlig, uperfekt og full av nerve.</p><p>Bandnavnet kommer av engasjementet, gnisten og lengselen etter å skape og føle, på noe ekte. Energien og samspillet til bandet kombinert med catchy refreng har allerede gitt dem både fans og masse erfaring fra scenen.</p><p>Målsetningene er høye og ambisjonene er store. 2026 blir året der SULT havner på vår radar. Musikken er klar og landet skal spilles opp og ned.</p>",
@@ -6778,7 +6721,8 @@
       "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F49587%2Fweb-square.webp?version=TtJjNhiDvtIDWcVXQou1CA==",
       "url": "https://www.parkenkulturhus.no/program/49587-sans/",
       "tags": [
-        "dans"
+        "dans",
+        "få billetter igjen"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -7568,123 +7512,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-41199-2026-11-07",
-      "title": "Jubileumsutstilling, Ørskog Kunstlag 10 år",
-      "start_at": "2026-11-07T13:00:00",
-      "end_at": "2026-11-07T17:00:00",
-      "location_name": "Ørskog kulturhus",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/jubileumsutstilling/?occurrence=2026-11-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-41351-2026-11-07",
-      "title": "Bokkino i Ålesund bibliotek",
-      "start_at": "2026-11-07T13:00:00",
-      "end_at": "2026-11-07T14:00:00",
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/bokkino-i-alesund-bibliotek-973/?occurrence=2026-11-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-42203-2026-11-07",
-      "title": "Dyrene i Hakkebakkeskogen",
-      "start_at": "2026-11-07T13:00:00",
-      "end_at": "2026-11-07T14:30:00",
-      "location_name": "Parken kulturhus",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/dyrene-i-hakkebakkeskogen/?occurrence=2026-11-07&time=1794056400",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-42473-2026-11-07",
-      "title": "Kulturkafé på Sobra Scene: Kurt Sagen Kvartett",
-      "start_at": "2026-11-07T13:00:00",
-      "end_at": "2026-11-07T15:00:00",
-      "location_name": "Sobra scene",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/kulturkafe-pa-sobra-scene-kurt-sagen-kvartett/?occurrence=2026-11-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-42662-2026-11-07",
-      "title": "Tedans – vår vri på Afternoon Tea",
-      "start_at": "2026-11-07T14:00:00",
-      "end_at": "2026-11-07T17:00:00",
-      "location_name": "Hotel Brosundet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/tedans-var-vri-pa-afternoon-tea-240/?occurrence=2026-11-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-42203-2026-11-07",
-      "title": "Dyrene i Hakkebakkeskogen",
-      "start_at": "2026-11-07T15:30:00",
-      "end_at": "2026-11-07T17:00:00",
-      "location_name": "Parken kulturhus",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/dyrene-i-hakkebakkeskogen/?occurrence=2026-11-07&time=1794065400",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32516-2026-11-07",
-      "title": "Krystall – Hotel 1904",
-      "start_at": "2026-11-07T17:00:00",
-      "end_at": "2026-11-07T23:55:00",
-      "location_name": "Hotel 1904",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/krystall-hotel-1904-358/?occurrence=2026-11-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-42203-2026-11-07",
-      "title": "Dyrene i Hakkebakkeskogen",
-      "start_at": "2026-11-07T18:00:00",
-      "end_at": "2026-11-07T19:30:00",
-      "location_name": "Parken kulturhus",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/dyrene-i-hakkebakkeskogen/?occurrence=2026-11-07&time=1794074400",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34815-2026-11-07",
-      "title": "Karsten Blomvik: Lykkelig deprimert",
-      "start_at": "2026-11-07T19:00:00",
-      "end_at": "2026-11-07T20:30:00",
-      "location_name": "Fabrikken Kulturscene",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/karsten-blomvik-lykkelig-deprimert/?occurrence=2026-11-07",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -12797,377 +12624,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-466a2509-942c-4aa7-a05f-6272a28fa2cc",
-      "title": "Julenissens verksted",
-      "start_at": "2026-11-07T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a6905b1dd1a409ba3a3769ecbe57412.jpg?w=1440&version=22D1CDB3AFFAC866E822ECD6E7D4E950",
-      "url": "https://www.odeonkino.no/film/julenissens-verksted/",
-      "tags": [
-        "isense",
-        "familiefilm",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-34fd2659-ef21-41a5-aff9-08a897b66e12",
-      "title": "Pensjonskuppet",
-      "description": "Årets villeste komedie!",
-      "start_at": "2026-11-07T13:15:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/15cc2d5b62ab48d4a8408cd332b400d3.jpg?w=1440&version=03F71CCE2C2D36F23AF7C505F8C7D18D",
-      "url": "https://www.odeonkino.no/film/pensjonskuppet/",
-      "tags": [
-        "luxe",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d561e95a-e0b6-484e-96b3-ae9779ad7a82",
-      "title": "Sauen Shaun - Gårdens fårbannelse",
-      "description": "Sauen Shaun er tilbake!",
-      "start_at": "2026-11-07T13:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/cdda04cb28f548cc9dcabc336fcdfa0c.jpg?w=1440&version=0E5A7F8E2FD499042FCDFDB403C793A5",
-      "url": "https://www.odeonkino.no/film/sauen-shaun-gardens-farbannelse/",
-      "tags": [
-        "familiefilm",
-        "animasjon",
-        "barnefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-dc9939dd-73f8-49d1-b283-409d9c23289c",
-      "title": "Julenissens verksted",
-      "start_at": "2026-11-07T14:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a6905b1dd1a409ba3a3769ecbe57412.jpg?w=1440&version=22D1CDB3AFFAC866E822ECD6E7D4E950",
-      "url": "https://www.odeonkino.no/film/julenissens-verksted/",
-      "tags": [
-        "familiefilm",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c0ed0d6f-e9f3-43c9-a0bb-2f1259254bf4",
-      "title": "Glemselens øy",
-      "start_at": "2026-11-07T14:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3a6c7e82e8bf4ada8d062cb5fd400b12.jpg?w=1440&version=ACF02A8BB8958FC66621F4489ABF5CB8",
-      "url": "https://www.odeonkino.no/film/glemselens-oy/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-4cace38e-08fc-440d-84a4-16f2dd9bfdd6",
-      "title": "Wildwood",
-      "start_at": "2026-11-07T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a22bcbded559495d8dc6065e3bbe4da6.jpg?w=1440&version=C13359EE1FF2C1DA222D2A3293EA99C5",
-      "url": "https://www.odeonkino.no/film/wildwood/",
-      "tags": [
-        "luxe",
-        "fantasy",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ef0d8d12-ff69-4692-9d54-c293fde233fd",
-      "title": "Julenissens verksted",
-      "start_at": "2026-11-07T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a6905b1dd1a409ba3a3769ecbe57412.jpg?w=1440&version=22D1CDB3AFFAC866E822ECD6E7D4E950",
-      "url": "https://www.odeonkino.no/film/julenissens-verksted/",
-      "tags": [
-        "isense",
-        "familiefilm",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-dfc9d79e-8951-449b-9f16-ade1c335171c",
-      "title": "Pensjonskuppet",
-      "description": "Årets villeste komedie!",
-      "start_at": "2026-11-07T15:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/15cc2d5b62ab48d4a8408cd332b400d3.jpg?w=1440&version=03F71CCE2C2D36F23AF7C505F8C7D18D",
-      "url": "https://www.odeonkino.no/film/pensjonskuppet/",
-      "tags": [
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-77ff9fae-3c04-41ef-a546-d30cd8c62f55",
-      "title": "Markens grøde",
-      "description": "Hans Petter Moland bringer Knut Hamsuns udødelige mesterverk Markens grøde til det store lerretet",
-      "start_at": "2026-11-07T16:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/ed68a212c5d64d08884a312bff232c7b.jpg?w=1440&version=E2B795DA436F583A0962792CC84266AA",
-      "url": "https://www.odeonkino.no/film/markens-grode/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-39548cc3-39f3-46a9-90f9-b53905bd9f0f",
-      "title": "Mysteriepakken",
-      "start_at": "2026-11-07T16:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/8bc5d963027843f99557b048c8e2eda5.jpg?w=1440&version=39F8AAFC0D79FE4CD69477F1C4924806",
-      "url": "https://www.odeonkino.no/film/mysteriepakken/",
-      "tags": [
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-f29a21cc-2147-49c9-b4c1-8645a3810ff0",
-      "title": "Julenissens verksted",
-      "start_at": "2026-11-07T17:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a6905b1dd1a409ba3a3769ecbe57412.jpg?w=1440&version=22D1CDB3AFFAC866E822ECD6E7D4E950",
-      "url": "https://www.odeonkino.no/film/julenissens-verksted/",
-      "tags": [
-        "isense",
-        "familiefilm",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-2bbea83a-41f1-4022-a08f-cd41794eb79b",
-      "title": "En nasjon i sjakk",
-      "start_at": "2026-11-07T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8c66656a2094a158e66eb9d698d1980.jpg?w=1440&version=CD9AF7C788A875FA30272EC9C5CC3C99",
-      "url": "https://www.odeonkino.no/film/en-nasjon-i-sjakk/",
-      "tags": [
-        "luxe",
-        "thriller",
-        "spenning",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8738159e-72d7-4de7-89b9-22c57d97190a",
-      "title": "The Odyssey",
-      "description": "Historien om Odyssevs på hans farefulle reise hjem etter Trojakrigen, der han møter Polyfemos, sirenene og Kirke, før han til slutt gjenforenes med sin kone, Penelope.",
-      "start_at": "2026-11-07T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/efecd4c2c19045e8a3a947af818922d6.jpg?w=1440&version=135556E8188A75E8BC9C432C7250AB2D",
-      "url": "https://www.odeonkino.no/film/the-odyssey/",
-      "tags": [
-        "action",
-        "eventyr",
-        "fantasy",
-        "historie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ddbca6e5-9ef3-49e8-920b-9c500ff3c705",
-      "title": "Spider-Man: Brand New Day",
-      "description": "Det har gått fire år siden hendelsene i No Way Home. Peter er nå voksen og lever alene, etter at han frivillig slettet seg selv fra livene og minnene til dem han elsker. I et New York som ikke lenger vet hvem han er, har han viet seg til å beskytte byen som Spider-Man på heltid.\n\nMen etter hvert som kravene til ham øker, utløser presset en uventet fysisk utvikling som truer hans eksistens. Samtidig danner et mystisk nytt mønster av forbrytelser grunnlaget for en av de farligste truslene han noen gang har stått overfor.",
-      "start_at": "2026-11-07T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/567c6c6b42d24f8ca1092333e56d5d22.jpg?w=1440&version=19D053F5FEB8D998EA3782485544708E",
-      "url": "https://www.odeonkino.no/film/spider-man-brand-new-day/",
-      "tags": [
-        "luxe",
-        "eventyr",
-        "superheltfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-519935b7-5894-4a7a-8570-4e4f6f121d0f",
-      "title": "Markens grøde",
-      "description": "Hans Petter Moland bringer Knut Hamsuns udødelige mesterverk Markens grøde til det store lerretet",
-      "start_at": "2026-11-07T18:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/ed68a212c5d64d08884a312bff232c7b.jpg?w=1440&version=E2B795DA436F583A0962792CC84266AA",
-      "url": "https://www.odeonkino.no/film/markens-grode/",
-      "tags": [
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e53db380-040f-4af9-92fb-cbe95fa0085a",
-      "title": "Pensjonskuppet",
-      "description": "Årets villeste komedie!",
-      "start_at": "2026-11-07T19:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/15cc2d5b62ab48d4a8408cd332b400d3.jpg?w=1440&version=03F71CCE2C2D36F23AF7C505F8C7D18D",
-      "url": "https://www.odeonkino.no/film/pensjonskuppet/",
-      "tags": [
-        "isense",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6ebcb159-7dbe-4e46-9431-ecaedc9a412a",
-      "title": "Wildwood",
-      "start_at": "2026-11-07T19:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a22bcbded559495d8dc6065e3bbe4da6.jpg?w=1440&version=C13359EE1FF2C1DA222D2A3293EA99C5",
-      "url": "https://www.odeonkino.no/film/wildwood/",
-      "tags": [
-        "luxe",
-        "fantasy",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7160bc35-3175-45a1-93ca-cba1d8e5e61d",
-      "title": "Verity",
-      "start_at": "2026-11-07T20:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/be889d47d6064550b7db574dae52102e.jpg?w=1440&version=AE1F0E470AB154033D6BA8D5DF517C36",
-      "url": "https://www.odeonkino.no/film/verity/",
-      "tags": [
-        "luxe",
-        "thriller",
-        "romantikk"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-64472b50-a2e2-4751-8b5f-f90c8a96d73f",
-      "title": "Heart of the Beast",
-      "description": "Menneskets beste venn til unnsetning!",
-      "start_at": "2026-11-07T21:10:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/60b9f9a85f264b79a2a3a2abe83a4db8.jpg?w=1440&version=E80D1EFCB4789C8DE5D579D067BFCEA4",
-      "url": "https://www.odeonkino.no/film/heart-of-the-beast/",
-      "tags": [
-        "luxe",
-        "action",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d9bb3833-0c3e-4b2c-8b96-61b125beccc5",
-      "title": "Clayface",
-      "description": "Ansikt til ansikt med frykten.",
-      "start_at": "2026-11-07T21:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/742a22d15b3344eebec4b4bef39ecd0f.jpg?w=1440&version=00ADF7E2A976F764003EF89611E88E8F",
-      "url": "https://www.odeonkino.no/film/clayface/",
-      "tags": [
-        "isense",
-        "drama",
-        "action",
-        "superheltfilm",
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-4b3b816b-76fd-4cfe-9949-61c7c51dacf1",
       "title": "Drapet på Benjamin Hermansen",
       "description": "En vinternatt på Holmlia mister 15 år gamle Benjamin livet – drept av 19 år gamle Joe Erling, kun fordi han er mørk i huden. Ett år senere står Benjamins mor, Marit, overfor enhver forelders verste mareritt, rettssaken mot han som drepte sønnen hennes.",
@@ -15947,24 +15403,6 @@
       "url": "https://www.ticketmaster.no/event/vamp-i-kapellet-billetter/1697819353",
       "tags": [
         "annet"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "aafk",
-      "source_id": "aafk-3a9746ae-0fca-4db9-8e7e-0cff820be5f5",
-      "title": "Toppserien: AaFK - Vålerenga",
-      "start_at": "2026-11-07T13:00:00",
-      "is_free": false,
-      "price_text": "50 kr",
-      "location_name": "Color Line Stadion",
-      "city": "Ålesund",
-      "image_url": "https://tuploads.s3.amazonaws.com/production/uploads/event/image/1084530/default_file-1789550986.jpeg",
-      "url": "https://aafk.ticketco.events/no/nb/e/toppserien_aafk_-_vålerenga",
-      "tags": [
-        "fotball"
       ],
       "age_groups": [],
       "is_recurring": false,
