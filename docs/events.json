@@ -1,52 +1,10 @@
 {
-  "generated_at": "2026-11-08T04:59:30.263006+00:00",
-  "total": 921,
+  "generated_at": "2026-11-08T12:55:58.392694+00:00",
+  "total": 906,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-856f0722-e12e-426c-a461-f4e15002ad04",
-      "title": "Prøv klatring",
-      "start_at": "2026-11-08T12:00:00",
-      "end_at": "2026-12-20T14:00:00",
-      "is_free": true,
-      "location_name": "Klatreklubben Ålesund",
-      "city": "Ålesund",
-      "organizer": "Klatreklubben Ålesund",
-      "image_url": "https://ucarecdn.com/323a9799-8c45-4fe8-a5da-2c9f84d2f4d1/-/crop/6870x2630/0,9/-/preview/",
-      "url": "https://alesund.friskus.com/events/856f0722-e12e-426c-a461-f4e15002ad04",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-11-08T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-338e3950-7597-4d2a-bb68-da497689f9da",
@@ -3118,47 +3076,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-7a0ca462-a062-42e0-89aa-9b5753e7ee9f",
-      "title": "Søndagsskule",
-      "start_at": "2026-11-08T11:00:00",
-      "end_at": "2026-12-06T12:00:00",
-      "is_free": false,
-      "location_name": "Langevåg søndagsskule",
-      "city": "Ålesund",
-      "organizer": "Langevåg søndagsskule",
-      "image_url": "https://ucarecdn.com/9fc4b4a8-7f18-4fb1-9c3e-7e8a7232ea0b/-/crop/600x163/0,44/-/preview/",
-      "url": "https://alesund.friskus.com/events/7a0ca462-a062-42e0-89aa-9b5753e7ee9f",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "family"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-cad1dfcd-9418-49ea-aecf-b09944bdd1ba",
-      "title": "Søndagsskole",
-      "start_at": "2026-11-08T11:00:00",
-      "end_at": "2026-12-13T13:00:00",
-      "is_free": true,
-      "location_name": "Sula Frikirke",
-      "city": "Ålesund",
-      "organizer": "Sula Frikirke",
-      "image_url": "https://ucarecdn.com/8e0b6c16-05dc-42f9-8f61-10fc428be7ef/-/crop/3937x2062/83,89/-/preview/",
-      "url": "https://alesund.friskus.com/events/cad1dfcd-9418-49ea-aecf-b09944bdd1ba",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-778e8475-81bb-4791-9c57-5c5308278847",
       "title": "JuniorDonken",
       "start_at": "2026-11-09T15:00:00",
@@ -3441,6 +3358,28 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-cad1dfcd-9418-49ea-aecf-b09944bdd1ba",
+      "title": "Søndagsskole",
+      "start_at": "2026-11-15T11:00:00",
+      "end_at": "2026-12-13T13:00:00",
+      "is_free": true,
+      "location_name": "Sula Frikirke",
+      "city": "Ålesund",
+      "organizer": "Sula Frikirke",
+      "image_url": "https://ucarecdn.com/8e0b6c16-05dc-42f9-8f61-10fc428be7ef/-/crop/3937x2062/83,89/-/preview/",
+      "url": "https://alesund.friskus.com/events/cad1dfcd-9418-49ea-aecf-b09944bdd1ba",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-54bf039e-694f-4d0a-81f8-d5e141e3121d",
       "title": "Senioruniversitetet - \"KI, demokrati og sosiale medier\" med professor Petter Bæ Brandtzæg",
       "start_at": "2026-11-18T12:00:00",
@@ -3475,6 +3414,25 @@
         "senior"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-7a0ca462-a062-42e0-89aa-9b5753e7ee9f",
+      "title": "Søndagsskule",
+      "start_at": "2026-11-22T11:00:00",
+      "end_at": "2026-12-06T12:00:00",
+      "is_free": false,
+      "location_name": "Langevåg søndagsskule",
+      "city": "Ålesund",
+      "organizer": "Langevåg søndagsskule",
+      "image_url": "https://ucarecdn.com/9fc4b4a8-7f18-4fb1-9c3e-7e8a7232ea0b/-/crop/600x163/0,44/-/preview/",
+      "url": "https://alesund.friskus.com/events/7a0ca462-a062-42e0-89aa-9b5753e7ee9f",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "family"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -7474,58 +7432,6 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-11-08",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-11-08T10:00:00",
-      "end_at": "2026-11-08T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-11-08",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-25486-2026-11-08",
-      "title": "Aalesunds Museum",
-      "start_at": "2026-11-08T11:00:00",
-      "end_at": "2026-11-08T15:30:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum/?occurrence=2026-11-08",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-11-08",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-11-08T12:00:00",
-      "end_at": "2026-11-08T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-11-08",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-42522-2026-11-08",
-      "title": "Torader i Nordvest",
-      "start_at": "2026-11-08T12:00:00",
-      "end_at": "2026-11-08T15:30:00",
-      "location_name": "Sunnmøre museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/torader-i-nordvest-2/?occurrence=2026-11-08",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -12531,172 +12437,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c161528a-00e2-4077-9890-a3e843ea8e58",
-      "title": "Lille spøkelset Laban skøyer igjen",
-      "start_at": "2026-11-08T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/ae49b10def02485682aaca4db6f479df.jpg?w=1440&version=DE08D554621F5CE49D4C40381D17D456",
-      "url": "https://www.odeonkino.no/film/lille-spokelset-laban-skoyer-igjen/",
-      "tags": [
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d0a97b0f-f055-43bb-99eb-3d37f30e74f1",
-      "title": "Glemselens øy",
-      "start_at": "2026-11-08T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3a6c7e82e8bf4ada8d062cb5fd400b12.jpg?w=1440&version=ACF02A8BB8958FC66621F4489ABF5CB8",
-      "url": "https://www.odeonkino.no/film/glemselens-oy/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e01d68ad-87f3-42b4-baf1-3170cc56b71d",
-      "title": "Julenissens verksted",
-      "start_at": "2026-11-08T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a6905b1dd1a409ba3a3769ecbe57412.jpg?w=1440&version=22D1CDB3AFFAC866E822ECD6E7D4E950",
-      "url": "https://www.odeonkino.no/film/julenissens-verksted/",
-      "tags": [
-        "isense",
-        "familiefilm",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-e94d86f7-0fa9-46dc-8ccf-950b4001a517",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-11-08T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?w=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "luxe",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-af26a321-c67f-48aa-8162-d7eea7e7d936",
-      "title": "Sauen Shaun - Gårdens fårbannelse",
-      "description": "Sauen Shaun er tilbake!",
-      "start_at": "2026-11-08T11:10:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/cdda04cb28f548cc9dcabc336fcdfa0c.jpg?w=1440&version=0E5A7F8E2FD499042FCDFDB403C793A5",
-      "url": "https://www.odeonkino.no/film/sauen-shaun-gardens-farbannelse/",
-      "tags": [
-        "familiefilm",
-        "animasjon",
-        "barnefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-529618ba-6b62-4888-b7e8-353eb338a9e6",
-      "title": "Markens grøde",
-      "description": "Hans Petter Moland bringer Knut Hamsuns udødelige mesterverk Markens grøde til det store lerretet",
-      "start_at": "2026-11-08T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/ed68a212c5d64d08884a312bff232c7b.jpg?w=1440&version=E2B795DA436F583A0962792CC84266AA",
-      "url": "https://www.odeonkino.no/film/markens-grode/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-52d71f81-9505-4a1d-b8a8-589a38776512",
-      "title": "Pensjonskuppet",
-      "description": "Årets villeste komedie!",
-      "start_at": "2026-11-08T12:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/15cc2d5b62ab48d4a8408cd332b400d3.jpg?w=1440&version=03F71CCE2C2D36F23AF7C505F8C7D18D",
-      "url": "https://www.odeonkino.no/film/pensjonskuppet/",
-      "tags": [
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b91f2536-ec0c-4421-be4f-8277c54dd963",
-      "title": "Julenissens verksted",
-      "start_at": "2026-11-08T12:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a6905b1dd1a409ba3a3769ecbe57412.jpg?w=1440&version=22D1CDB3AFFAC866E822ECD6E7D4E950",
-      "url": "https://www.odeonkino.no/film/julenissens-verksted/",
-      "tags": [
-        "isense",
-        "familiefilm",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6fd5ab92-25fb-41c8-843d-c3c6232887a1",
-      "title": "Lille spøkelset Laban skøyer igjen",
-      "start_at": "2026-11-08T12:45:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/ae49b10def02485682aaca4db6f479df.jpg?w=1440&version=DE08D554621F5CE49D4C40381D17D456",
-      "url": "https://www.odeonkino.no/film/lille-spokelset-laban-skoyer-igjen/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
