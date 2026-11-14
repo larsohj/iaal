@@ -1,70 +1,10 @@
 {
-  "generated_at": "2026-11-14T05:26:51.828827+00:00",
-  "total": 885,
+  "generated_at": "2026-11-14T13:08:41.736450+00:00",
+  "total": 868,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-343d4e0c-11ef-42d3-9a8e-1f967a9b5015",
-      "title": "AKTIV LØRDAG på Borgund Dyreklubb november 2026",
-      "start_at": "2026-11-14T10:00:00",
-      "end_at": "2026-11-14T12:00:00",
-      "is_free": true,
-      "location_name": "Borgund Dyreklubb Frivillig Organisasjon",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb Frivillig Organisasjon",
-      "image_url": "https://ucarecdn.com/ccfd79d8-3668-4c3d-8a17-d44ea0b89f24/-/crop/478x342/0,13/-/preview/",
-      "url": "https://alesund.friskus.com/events/343d4e0c-11ef-42d3-9a8e-1f967a9b5015",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-c9beb9e0-5db1-4263-abfe-e1d07b649ad3",
-      "title": "Bokkino: Lillemutt & Lucy",
-      "start_at": "2026-11-14T12:00:00",
-      "end_at": "2026-11-14T12:45:00",
-      "is_free": true,
-      "location_name": "Moa Bibliotek",
-      "city": "Ålesund",
-      "organizer": "Moa Bibliotek",
-      "image_url": "https://ucarecdn.com/33cae445-71d3-427a-97d9-1a657660b5ed/-/crop/1920x523/0,114/-/preview/",
-      "url": "https://alesund.friskus.com/events/c9beb9e0-5db1-4263-abfe-e1d07b649ad3",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "family"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-11-14T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-856f0722-e12e-426c-a461-f4e15002ad04",
@@ -6348,7 +6288,7 @@
       "source": "tikkio",
       "source_id": "tikkio-119f40c30c0bc2360517d5883c12abe6",
       "title": "Hans Magne Skard - STANDUP // VEKA 2027",
-      "description": "Join us for Hans Magne Skard - STANDUP // VEKA 2027. More details about this event will be published soon.",
+      "description": "<p>Hans Magne Skard er tilbake og klar med et helt nytt standupshow! Etter suksessen med <em>«Rett i Pennalet»</em> tar han nå steget videre med sitt andre soloshow, <strong>«Skruball»</strong>. Du har kanskje sett ham på <em>«Ikke lov å le på hytta»</em> eller hørt ham i podcasten<em> «Skuddsikker fest»</em> - men det er på scenen han virkelig er i sitt ess.</p><p>Her får du servert hans originale humor og absurde betraktninger på sitt aller beste. I «Skruball» inviterer Hans Magne deg inn i sitt eget univers - en guidet tur der du aldri helt vet hvor ballen lander.</p><p>Len deg tilbake og gjør deg klar for en humoropplevelse utenom det vanlige!</p><p>Billett: medlem: 200 NOK; ikkje medlem 250 NOK. Me opnar snart for billettsal!</p><p>18 års aldersgrense</p><p>//ENGLISH//</p><p>Hans Magne Skard is back and ready with an all-new stand-up show! Following the success of <em>«Rett i Pennalet»</em>, he is now taking things to the next level with his second solo show, <strong>«Skruball»</strong>. You may have seen him on the Norwegian TV show <em>«Ikke lov å le på hytta»</em> or heard him on the podcast <em>«Skuddsikker fest»</em> – but it’s on stage where he truly shines.</p><p>Get ready for his unique humour and wonderfully absurd observations at their very best. In <em>«Skruball»</em>, Hans Magne invites you into his own universe – a guided tour where you never quite know where the ball will land.</p><p>Sit back and get ready for a comedy experience like no other!</p><p>Tickets<strong>: </strong>Members: 200 NOK, Non-members: 250 NOK. Ticket sales opening soon!</p><p><strong>Age limit: 18+</strong></p><p><strong>The show is in Norwegian.</strong></p>",
       "start_at": "2027-02-25T18:00:00",
       "end_at": "2027-02-26T02:30:00",
       "is_free": true,
@@ -6357,7 +6297,7 @@
       "latitude": 62.1445565,
       "longitude": 6.072145,
       "organizer": "VEKA I VOLDA",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3466/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/67536-hans-magne-skard-standup-veka-2027",
       "tags": [],
       "age_groups": [],
@@ -7099,7 +7039,7 @@
       "source": "tikkio",
       "source_id": "tikkio-22d46fc9f279e7b215d2f4b390aebdf2",
       "title": "EIDEREVYEN 2027",
-      "description": "<p>Vi leier Frodehuset og kjører Eiderevyen 2027 i lånte lokaler på Eide. 🙂🙂 Det blir fole kjøle arti🙂 kanskje te å med litt hætt. Marker dato i kalenderen, hilsen Eide Revylag.</p><p>Eiderevyen vil gå over 3 dager:</p><p>Onsdag 10/3 kl. 20.00-23.00: åpent for alle og kun revy. Kiosksalg.</p><p>Fredag  27/3 kl. 20.00-00.00: 18. års aldersgrense og kun revy, åpen bar.</p><p>Lørdag 28/3 kl. 20.00-02.00: 18. års aldersgrense, revy og dans, åpen bar.</p><p>Dørene åpnes kl.19.00. Revyen starter kl. 20.00.</p><p>Billetter blir lagt ut på Tikkio 13.november.</p><p>Det vil også selges i døra fra 19.00, hvis det er billetter igjen.</p><p></p>",
+      "description": "<p>Vi leier Frodehuset og kjører Eiderevyen 2027 i lånte lokaler på Eide. 🙂🙂 Det blir fole kjøle arti🙂 kanskje te å med litt hætt. Marker dato i kalenderen, hilsen Eide Revylag.</p><p>Eiderevyen vil gå over 3 dager:</p><p>Onsdag 10/3 kl. 20.00-23.00: åpent for alle og kun revy. Kiosksalg.</p><p>Fredag  27/3 kl. 20.00-00.00: 18. års aldersgrense og kun revy, åpen bar.</p><p>Lørdag 28/3 kl. 20.00-02.00: 18. års aldersgrense, revy og dans, åpen bar.</p><p>Dørene åpnes kl.19.00. Revyen starter kl. 20.00.</p><p>Det vil også selges i døra fra 19.00, hvis det er billetter igjen.</p><p></p>",
       "start_at": "2027-03-10T19:00:00",
       "end_at": "2027-03-14T02:00:00",
       "is_free": false,
@@ -7823,21 +7763,6 @@
     },
     {
       "source": "bibliotek",
-      "source_id": "bibliotek-33840",
-      "title": "Bokkino: Lillemutt & Lucy",
-      "start_at": "2026-11-14T12:00:00",
-      "is_free": true,
-      "location_name": "Moa bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/ibf4f25e5-bf69-43a9-a6d7-5400c272a70e/w300/kc3b7b1a83790/lillemuttoglucy.jpg",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33840&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bibliotek",
       "source_id": "bibliotek-33665",
       "title": "Leksehjelp for vaksne",
       "start_at": "2026-11-16T14:30:00",
@@ -7957,69 +7882,19 @@
       "end_at": null
     },
     {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-11-14",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-11-14T10:00:00",
-      "end_at": "2026-11-14T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-11-14",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-25486-2026-11-14",
-      "title": "Aalesunds Museum",
-      "start_at": "2026-11-14T11:00:00",
-      "end_at": "2026-11-14T15:30:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum/?occurrence=2026-11-14",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-11-14",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-11-14T12:00:00",
-      "end_at": "2026-11-14T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-11-14",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-33435-2026-11-14",
-      "title": "Modelljernbaneanlegget Devoldbanen",
-      "start_at": "2026-11-14T12:00:00",
-      "end_at": "2026-11-14T16:00:00",
-      "location_name": "Devoldfabrikken",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/modelljernbaneanlegget-devoldbanen/?occurrence=2026-11-14",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-41351-2026-11-14",
-      "title": "Bokkino i Ålesund bibliotek",
-      "start_at": "2026-11-14T13:00:00",
-      "end_at": "2026-11-14T14:00:00",
+      "source": "bibliotek",
+      "source_id": "bibliotek-33814",
+      "title": "Bokkino for barnehagar (3 - 6 år)",
+      "start_at": "2026-11-20T11:00:00",
+      "is_free": true,
       "location_name": "Ålesund bibliotek",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/bokkino-i-alesund-bibliotek-973/?occurrence=2026-11-14",
+      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/iba4374cf-3db5-4730-9af7-bc57f3ec8b05/w300/k4a9fa91e830d/bokkino-med-anna-kalenderbilde.png",
+      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33814&lang=1&MId1=18377",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -12141,174 +12016,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-77653bfa-467a-4bb8-9852-b87fafafc9af",
-      "title": "Julenissens verksted",
-      "start_at": "2026-11-14T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a6905b1dd1a409ba3a3769ecbe57412.jpg?w=1440&version=22D1CDB3AFFAC866E822ECD6E7D4E950",
-      "url": "https://www.odeonkino.no/film/julenissens-verksted/",
-      "tags": [
-        "isense",
-        "familiefilm",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8866b627-df44-484e-b04b-9fe44768fa89",
-      "title": "Monster Mia",
-      "description": "Å begynne på ny skole er vanskelig, spesielt når alle de andre elevene er monstre.",
-      "start_at": "2026-11-14T10:30:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1ef1d070bb074b74a7d91b68437fcfc3.jpg?w=1440&version=7DFD0ACD6AC412AD94CA59BA0E86D2DB",
-      "url": "https://www.odeonkino.no/film/monster-mia/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6f955945-7dcd-4335-b391-68b2cc6fd32c",
-      "title": "Paw Patrol: Dinofilmen",
-      "description": "Skye, Ryder, Marshall og Chase er endelig tilbake!",
-      "start_at": "2026-11-14T10:45:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/54175d9a196e414aa2c9c7488c75bae5.jpg?w=1440&version=3CBABED4D3CC2F520B5F008CC8339AE5",
-      "url": "https://www.odeonkino.no/film/paw-patrol-dinofilmen/",
-      "tags": [
-        "luxe",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-277ee490-2e1d-4d43-aaa7-7bae287c10f4",
-      "title": "Minions & monstre",
-      "description": "Minions inntar Hollywood!",
-      "start_at": "2026-11-14T11:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/6c83dd439c1b47fabcc4e5e598c42a71.jpg?w=1440&version=857455512E2C844030FF725664AEE792",
-      "url": "https://www.odeonkino.no/film/minions-monstre/",
-      "tags": [
-        "animasjon",
-        "komedie",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-1d2d3fa8-af33-4140-b95b-49283a696472",
-      "title": "Lille spøkelset Laban skøyer igjen",
-      "start_at": "2026-11-14T11:15:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/ae49b10def02485682aaca4db6f479df.jpg?w=1440&version=DE08D554621F5CE49D4C40381D17D456",
-      "url": "https://www.odeonkino.no/film/lille-spokelset-laban-skoyer-igjen/",
-      "tags": [
-        "animasjon",
-        "barnefilm",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-02f416d0-9c5a-4884-b194-69360295ca6f",
-      "title": "Málagagaten",
-      "start_at": "2026-11-14T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3761834bd5074ad298cf8ac4910307ad.jpg?w=1440&version=3BACFAF652064F74B4F363DEC1D269D7",
-      "url": "https://www.odeonkino.no/film/malagagaten/",
-      "tags": [
-        "luxe",
-        "drama",
-        "romantikk"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b5c043ae-1b31-437f-b726-656b80dee6bd",
-      "title": "Julenissens verksted",
-      "start_at": "2026-11-14T12:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a6905b1dd1a409ba3a3769ecbe57412.jpg?w=1440&version=22D1CDB3AFFAC866E822ECD6E7D4E950",
-      "url": "https://www.odeonkino.no/film/julenissens-verksted/",
-      "tags": [
-        "isense",
-        "familiefilm",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c417cd91-d1b0-40eb-8f40-676830c2b862",
-      "title": "Glemselens øy",
-      "start_at": "2026-11-14T12:40:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3a6c7e82e8bf4ada8d062cb5fd400b12.jpg?w=1440&version=ACF02A8BB8958FC66621F4489ABF5CB8",
-      "url": "https://www.odeonkino.no/film/glemselens-oy/",
-      "tags": [
-        "luxe",
-        "animasjon",
-        "eventyr",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-47f86cbe-c066-40b4-b4bf-f528f2da4a05",
-      "title": "Pensjonskuppet",
-      "description": "Årets villeste komedie!",
-      "start_at": "2026-11-14T13:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/15cc2d5b62ab48d4a8408cd332b400d3.jpg?w=1440&version=03F71CCE2C2D36F23AF7C505F8C7D18D",
-      "url": "https://www.odeonkino.no/film/pensjonskuppet/",
-      "tags": [
-        "luxe",
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
