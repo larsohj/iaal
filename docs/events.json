@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T20:08:08.781264+00:00",
-  "total": 878,
+  "generated_at": "2026-11-20T06:11:58.326106+00:00",
+  "total": 887,
   "failed_sources": [
     "viti"
   ],
@@ -682,6 +682,26 @@
       "age_groups": [
         "children",
         "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-6953cdaf-666b-456a-8278-699075e72604",
+      "title": "Vil du lære å spille biljard?",
+      "start_at": "2026-11-23T18:00:00",
+      "end_at": "2026-12-31T22:00:00",
+      "is_free": false,
+      "location_name": "Ålesund biljardklubb",
+      "city": "Ålesund",
+      "organizer": "Ålesund biljardklubb",
+      "image_url": "https://ucarecdn.com/6cfb5d74-04b6-43a5-9968-bb9a7bc81306/-/crop/2048x558/0,613/-/preview/",
+      "url": "https://alesund.friskus.com/events/6953cdaf-666b-456a-8278-699075e72604",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "senior"
       ],
       "is_recurring": true
     },
@@ -3636,6 +3656,28 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-9431fe9b-7d5c-4c8f-9ca1-16e63fa3d8e6",
+      "title": "Sula sportsbibliotek",
+      "start_at": "2026-11-23T19:00:00",
+      "end_at": "2027-01-07T22:00:00",
+      "is_free": true,
+      "location_name": "Sula frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Sula frivilligsentral",
+      "image_url": "https://ucarecdn.com/2c6fd9b4-08d9-4639-87bb-fe01b5153ffe/-/crop/850x231/0,42/-/preview/",
+      "url": "https://alesund.friskus.com/events/9431fe9b-7d5c-4c8f-9ca1-16e63fa3d8e6",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-4cb9ce7b-64c7-47fd-9b51-cff755a1ea4b",
       "title": "Glennes Foreldreprogram",
       "start_at": "2026-11-24T09:00:00",
@@ -5821,7 +5863,7 @@
       "latitude": 62.4719155,
       "longitude": 6.1601977,
       "organizer": "Møre og Romsdal Arkitektforening",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3480/images/tikkio-placeholder-1.jpeg?class=w768",
       "url": "https://tikkio.com/events/67575-arkitekturkafe-23112026",
       "tags": [],
       "age_groups": [],
@@ -8542,19 +8584,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-43013-2026-11-20",
-      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
-      "start_at": "2026-11-20T00:00:00",
-      "location_name": "Forum Ålesund",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-20",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-30716-2026-11-20",
       "title": "Åpen gård – Borgund Dyreklubb",
       "start_at": "2026-11-20T12:00:00",
@@ -8643,45 +8672,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34236-2026-11-20",
-      "title": "Juleshow på Løvenvold Vol. 4",
-      "start_at": "2026-11-20T00:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/juleshow-pa-lovenvold-vol-4/?occurrence=2026-11-20&time=1795199400",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-42362-2026-11-20",
-      "title": "Julebord på Fabrikken 2026",
-      "start_at": "2026-11-20T00:00:00",
-      "location_name": "Fabrikken Kulturscene",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/julebord-pa-fabrikken-2026/?occurrence=2026-11-20&time=1795201200",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-43320-2026-11-20",
-      "title": "Julebord på Alnes",
-      "start_at": "2026-11-20T00:00:00",
-      "location_name": "Alnes Fyr og Opplevelsessenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/julebord-pa-alnes/?occurrence=2026-11-20&time=1795201200",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -11948,80 +11938,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-92287190-ee2b-4a6f-aca2-caa58ee94440",
-      "title": "Ebenezer",
-      "start_at": "2026-11-19T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/15b99639fc434bc2a025a491a7842a31.jpg?w=1440&version=825DE2DB31E1ED04D80EB38BFEA52824",
-      "url": "https://www.odeonkino.no/film/ebenezer/",
-      "tags": [
-        "luxe",
-        "sort komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-3523d5d3-e0d2-4280-86cb-dea325b78b0e",
-      "title": "Godzilla Minus Zero",
-      "start_at": "2026-11-19T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7803c39e7f0b42e4a12eaef8a66c65e6.jpg?w=1440&version=5FF7A7760220B0526A9E7F86CB71431E",
-      "url": "https://www.odeonkino.no/film/godzilla-minus-zero/",
-      "tags": [
-        "eventyr",
-        "sci-fi",
-        "drama",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-33b67e59-464f-4890-8920-09818b7d1fcd",
-      "title": "Wildwood",
-      "start_at": "2026-11-19T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a22bcbded559495d8dc6065e3bbe4da6.jpg?w=1440&version=C13359EE1FF2C1DA222D2A3293EA99C5",
-      "url": "https://www.odeonkino.no/film/wildwood/",
-      "tags": [
-        "luxe",
-        "fantasy",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-da59551f-bbc8-466e-bff3-a0de71966f72",
-      "title": "The Hunger Games: Sunrise on the Reaping",
-      "start_at": "2026-11-19T21:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0df57bbf4f924c35b27a4f2fbcbebdb1.jpg?w=1440&version=737F6BEAC51523F9F88D8DFB9326B338",
-      "url": "https://www.odeonkino.no/film/the-hunger-games-sunrise-on-the-reaping/",
-      "tags": [
-        "isense",
-        "action",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-dabe370d-ae88-4b18-9495-3f243c3b63d0",
       "title": "The Hunger Games: Sunrise on the Reaping",
       "start_at": "2026-11-20T12:00:00",
@@ -12085,6 +12001,23 @@
       "url": "https://www.odeonkino.no/film/pensjonskuppet/",
       "tags": [
         "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-8f39926f-fc39-41e7-a255-ae627698cb74",
+      "title": "A Talent for Murder",
+      "start_at": "2026-11-20T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5993832bc6b3473ba4f0349d89f7c618.jpg?w=1440&version=C2FEF65C580C20802CD327878A9BF997",
+      "url": "https://www.odeonkino.no/film/a-talent-for-murder/",
+      "tags": [
+        "luxe",
+        "thriller"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -12251,6 +12184,23 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-91f361d1-0340-4bda-a697-90a8834dd6d5",
+      "title": "Instruktorius",
+      "start_at": "2026-11-20T18:20:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3c41a30f406148bdb413b111e6cfb790.jpg?w=1440&version=C73DD6D1372D623AC1805F4D0A9A2D74",
+      "url": "https://www.odeonkino.no/film/instruktorius/",
+      "tags": [
+        "flc",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-e55d38a5-19ca-45e3-9daf-da877435f01f",
       "title": "Pensjonskuppet",
       "description": "Årets villeste komedie!",
@@ -12262,6 +12212,60 @@
       "tags": [
         "luxe",
         "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-d4d57f76-1e0c-41e1-af0a-038da4e14cf9",
+      "title": "Instruktorius",
+      "start_at": "2026-11-20T20:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3c41a30f406148bdb413b111e6cfb790.jpg?w=1440&version=C73DD6D1372D623AC1805F4D0A9A2D74",
+      "url": "https://www.odeonkino.no/film/instruktorius/",
+      "tags": [
+        "flc",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ac2f975a-e155-4a18-936a-04c6c9e54507",
+      "title": "Nasza rewolucja",
+      "start_at": "2026-11-20T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/eb2fdd9bcb8e4b68aa1b919a4c4e0b25.jpg?w=1440&version=0FD9ADA983E54744C4BB288BDDEC518F",
+      "url": "https://www.odeonkino.no/film/nasza-rewolucja/",
+      "tags": [
+        "luxe",
+        "flc",
+        "romantikk",
+        "drama",
+        "biografi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3b3399a4-a681-4b52-a651-0a46454e3127",
+      "title": "A Talent for Murder",
+      "start_at": "2026-11-20T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5993832bc6b3473ba4f0349d89f7c618.jpg?w=1440&version=C2FEF65C580C20802CD327878A9BF997",
+      "url": "https://www.odeonkino.no/film/a-talent-for-murder/",
+      "tags": [
+        "luxe",
+        "thriller"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -12556,6 +12560,23 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-8baa7f8a-e7af-4bb9-b895-6a3dd2016874",
+      "title": "A Talent for Murder",
+      "start_at": "2026-11-21T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5993832bc6b3473ba4f0349d89f7c618.jpg?w=1440&version=C2FEF65C580C20802CD327878A9BF997",
+      "url": "https://www.odeonkino.no/film/a-talent-for-murder/",
+      "tags": [
+        "luxe",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-ee865766-588f-49f7-b08a-5c0c0aec984a",
       "title": "Pensjonskuppet",
       "description": "Årets villeste komedie!",
@@ -12734,6 +12755,23 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-1f0c20fe-23b2-4ef9-a0ee-9b694d26efa7",
+      "title": "Instruktorius",
+      "start_at": "2026-11-21T20:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3c41a30f406148bdb413b111e6cfb790.jpg?w=1440&version=C73DD6D1372D623AC1805F4D0A9A2D74",
+      "url": "https://www.odeonkino.no/film/instruktorius/",
+      "tags": [
+        "flc",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-85347864-ceaa-4203-a27c-7183db7cb51c",
       "title": "You Can See Everything",
       "start_at": "2026-11-21T20:30:00",
@@ -12744,6 +12782,26 @@
       "tags": [
         "luxe",
         "dokumentar",
+        "biografi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-2c15a49b-89ab-48c1-b8b6-21f027b41ae1",
+      "title": "Nasza rewolucja",
+      "start_at": "2026-11-21T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/eb2fdd9bcb8e4b68aa1b919a4c4e0b25.jpg?w=1440&version=0FD9ADA983E54744C4BB288BDDEC518F",
+      "url": "https://www.odeonkino.no/film/nasza-rewolucja/",
+      "tags": [
+        "luxe",
+        "flc",
+        "romantikk",
+        "drama",
         "biografi"
       ],
       "age_groups": [],
@@ -13023,6 +13081,23 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-46704b7f-2ff7-4616-9f55-b99baac51251",
+      "title": "A Talent for Murder",
+      "start_at": "2026-11-22T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5993832bc6b3473ba4f0349d89f7c618.jpg?w=1440&version=C2FEF65C580C20802CD327878A9BF997",
+      "url": "https://www.odeonkino.no/film/a-talent-for-murder/",
+      "tags": [
+        "luxe",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-ce9b8043-8e6d-4773-932a-ffc5d4a7b207",
       "title": "Julenissens verksted",
       "start_at": "2026-11-22T15:30:00",
@@ -13114,6 +13189,26 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-65d26cd1-59c8-4ef0-8658-7b75c320fb84",
+      "title": "Nasza rewolucja",
+      "start_at": "2026-11-22T17:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/eb2fdd9bcb8e4b68aa1b919a4c4e0b25.jpg?w=1440&version=0FD9ADA983E54744C4BB288BDDEC518F",
+      "url": "https://www.odeonkino.no/film/nasza-rewolucja/",
+      "tags": [
+        "luxe",
+        "flc",
+        "romantikk",
+        "drama",
+        "biografi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-b1f088d3-def6-45a5-9188-29ae3a6f3f1d",
       "title": "Pensjonskuppet",
       "description": "Årets villeste komedie!",
@@ -13123,6 +13218,23 @@
       "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/15cc2d5b62ab48d4a8408cd332b400d3.jpg?w=1440&version=03F71CCE2C2D36F23AF7C505F8C7D18D",
       "url": "https://www.odeonkino.no/film/pensjonskuppet/",
       "tags": [
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-acbd3338-3a63-4020-a558-f24fc50ae95d",
+      "title": "Instruktorius",
+      "start_at": "2026-11-22T18:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3c41a30f406148bdb413b111e6cfb790.jpg?w=1440&version=C73DD6D1372D623AC1805F4D0A9A2D74",
+      "url": "https://www.odeonkino.no/film/instruktorius/",
+      "tags": [
+        "flc",
         "komedie"
       ],
       "age_groups": [],
@@ -13596,6 +13708,23 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-8e8e9b58-b104-4b16-869e-193fcebefe05",
+      "title": "A Talent for Murder",
+      "start_at": "2026-11-23T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5993832bc6b3473ba4f0349d89f7c618.jpg?w=1440&version=C2FEF65C580C20802CD327878A9BF997",
+      "url": "https://www.odeonkino.no/film/a-talent-for-murder/",
+      "tags": [
+        "luxe",
+        "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-f100183e-cc89-4c22-86b8-529796552afe",
       "title": "The Hunger Games: Sunrise on the Reaping",
       "start_at": "2026-11-23T20:50:00",
@@ -13878,6 +14007,23 @@
         "familiefilm",
         "barnefilm",
         "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-01750d01-46e7-4013-a830-b2bce9f76c0e",
+      "title": "A Talent for Murder",
+      "start_at": "2026-11-24T16:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5993832bc6b3473ba4f0349d89f7c618.jpg?w=1440&version=C2FEF65C580C20802CD327878A9BF997",
+      "url": "https://www.odeonkino.no/film/a-talent-for-murder/",
+      "tags": [
+        "luxe",
+        "thriller"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -14308,6 +14454,23 @@
       "tags": [
         "luxe",
         "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-80e060d6-a9ff-4072-82f1-c5e05cf419d6",
+      "title": "A Talent for Murder",
+      "start_at": "2026-11-25T17:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5993832bc6b3473ba4f0349d89f7c618.jpg?w=1440&version=C2FEF65C580C20802CD327878A9BF997",
+      "url": "https://www.odeonkino.no/film/a-talent-for-murder/",
+      "tags": [
+        "luxe",
+        "thriller"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -14754,6 +14917,23 @@
         "isense",
         "action",
         "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-581f93c0-2c20-4755-9cca-0234741a1804",
+      "title": "A Talent for Murder",
+      "start_at": "2026-11-26T17:45:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5993832bc6b3473ba4f0349d89f7c618.jpg?w=1440&version=C2FEF65C580C20802CD327878A9BF997",
+      "url": "https://www.odeonkino.no/film/a-talent-for-murder/",
+      "tags": [
+        "luxe",
+        "thriller"
       ],
       "age_groups": [],
       "is_recurring": false,
