@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-11-25T21:15:55.434808+00:00",
-  "total": 802,
+  "total": 816,
   "failed_sources": [
     "viti"
   ],
@@ -7636,21 +7636,201 @@
     },
     {
       "source": "parken",
-      "source_id": "parken-49740-putti-plutti-pott",
+      "source_id": "parken-49740-putti-plutti-pott-20261127T1800",
       "title": "Putti Plutti Pott",
+      "start_at": "2026-11-27T18:00:00",
+      "end_at": "2026-11-27T20:00:00",
       "location_name": "Parken kulturhus – Hovedscene",
       "city": "Ålesund",
       "organizer": "Jugendteateret/Ålesund kulturskole",
       "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F49740%2Fweb-square.webp?version=zvYBUnZ8mAZ7BHGhtP1rNw==",
-      "url": "https://www.parkenkulturhus.no/program/49740-putti-plutti-pott/",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/49740/99669/",
       "tags": [
         "teater",
         "få billetter igjen"
       ],
       "age_groups": [],
-      "is_recurring": false,
-      "start_at": null,
-      "end_at": null
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-49740-putti-plutti-pott-20261128T1300",
+      "title": "Putti Plutti Pott",
+      "start_at": "2026-11-28T13:00:00",
+      "end_at": "2026-11-28T15:00:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Jugendteateret/Ålesund kulturskole",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F49740%2Fweb-square.webp?version=zvYBUnZ8mAZ7BHGhtP1rNw==",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/49740/99672/",
+      "tags": [
+        "teater",
+        "få billetter igjen"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-49740-putti-plutti-pott-20261128T1600",
+      "title": "Putti Plutti Pott",
+      "start_at": "2026-11-28T16:00:00",
+      "end_at": "2026-11-28T18:00:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Jugendteateret/Ålesund kulturskole",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F49740%2Fweb-square.webp?version=zvYBUnZ8mAZ7BHGhtP1rNw==",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/49740/99673/",
+      "tags": [
+        "teater",
+        "få billetter igjen"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-49740-putti-plutti-pott-20261129T1300",
+      "title": "Putti Plutti Pott",
+      "start_at": "2026-11-29T13:00:00",
+      "end_at": "2026-11-29T15:00:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Jugendteateret/Ålesund kulturskole",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F49740%2Fweb-square.webp?version=zvYBUnZ8mAZ7BHGhtP1rNw==",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/49740/99674/",
+      "tags": [
+        "teater",
+        "få billetter igjen"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-49740-putti-plutti-pott-20261129T1600",
+      "title": "Putti Plutti Pott",
+      "start_at": "2026-11-29T16:00:00",
+      "end_at": "2026-11-29T18:00:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Jugendteateret/Ålesund kulturskole",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F49740%2Fweb-square.webp?version=zvYBUnZ8mAZ7BHGhtP1rNw==",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/49740/99675/",
+      "tags": [
+        "teater",
+        "få billetter igjen"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-49740-putti-plutti-pott-20261203T1800",
+      "title": "Putti Plutti Pott",
+      "start_at": "2026-12-03T18:00:00",
+      "end_at": "2026-12-03T20:00:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Jugendteateret/Ålesund kulturskole",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F49740%2Fweb-square.webp?version=zvYBUnZ8mAZ7BHGhtP1rNw==",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/49740/99677/",
+      "tags": [
+        "teater",
+        "få billetter igjen"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-49740-putti-plutti-pott-20261204T1800",
+      "title": "Putti Plutti Pott",
+      "start_at": "2026-12-04T18:00:00",
+      "end_at": "2026-12-04T20:00:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Jugendteateret/Ålesund kulturskole",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F49740%2Fweb-square.webp?version=zvYBUnZ8mAZ7BHGhtP1rNw==",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/49740/99678/",
+      "tags": [
+        "teater",
+        "få billetter igjen"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-49740-putti-plutti-pott-20261205T1300",
+      "title": "Putti Plutti Pott",
+      "start_at": "2026-12-05T13:00:00",
+      "end_at": "2026-12-05T15:00:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Jugendteateret/Ålesund kulturskole",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F49740%2Fweb-square.webp?version=zvYBUnZ8mAZ7BHGhtP1rNw==",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/49740/99679/",
+      "tags": [
+        "teater",
+        "få billetter igjen"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-49740-putti-plutti-pott-20261205T1600",
+      "title": "Putti Plutti Pott",
+      "start_at": "2026-12-05T16:00:00",
+      "end_at": "2026-12-05T18:00:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Jugendteateret/Ålesund kulturskole",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F49740%2Fweb-square.webp?version=zvYBUnZ8mAZ7BHGhtP1rNw==",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/49740/99680/",
+      "tags": [
+        "teater",
+        "få billetter igjen"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-49740-putti-plutti-pott-20261206T1300",
+      "title": "Putti Plutti Pott",
+      "start_at": "2026-12-06T13:00:00",
+      "end_at": "2026-12-06T15:00:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Jugendteateret/Ålesund kulturskole",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F49740%2Fweb-square.webp?version=zvYBUnZ8mAZ7BHGhtP1rNw==",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/49740/99681/",
+      "tags": [
+        "teater",
+        "få billetter igjen"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-49740-putti-plutti-pott-20261206T1600",
+      "title": "Putti Plutti Pott",
+      "start_at": "2026-12-06T16:00:00",
+      "end_at": "2026-12-06T18:00:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Jugendteateret/Ålesund kulturskole",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F49740%2Fweb-square.webp?version=zvYBUnZ8mAZ7BHGhtP1rNw==",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/49740/99682/",
+      "tags": [
+        "teater",
+        "få billetter igjen"
+      ],
+      "age_groups": [],
+      "is_recurring": false
     },
     {
       "source": "parken",
@@ -7672,21 +7852,39 @@
     },
     {
       "source": "parken",
-      "source_id": "parken-48003-ylvis-calle",
+      "source_id": "parken-48003-ylvis-calle-20261208T1900",
       "title": "Ylvis & Calle",
-      "start_at": "2026-12-08T00:00:00",
+      "start_at": "2026-12-08T19:00:00",
+      "end_at": "2026-12-08T20:15:00",
       "location_name": "Parken kulturhus – Hovedscene",
       "city": "Ålesund",
       "organizer": "Et juleshow",
       "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F48003%2Fweb-square.webp?version=d3cBCvZECkbuW0DhWI31zQ==",
-      "url": "https://www.parkenkulturhus.no/program/48003-ylvis-calle/",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/48003/96985/",
       "tags": [
         "humor",
         "få billetter igjen"
       ],
       "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-48003-ylvis-calle-20261208T2100",
+      "title": "Ylvis & Calle",
+      "start_at": "2026-12-08T21:00:00",
+      "end_at": "2026-12-08T22:30:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Et juleshow",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F48003%2Fweb-square.webp?version=d3cBCvZECkbuW0DhWI31zQ==",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/48003/97572/",
+      "tags": [
+        "humor",
+        "få billetter igjen"
+      ],
+      "age_groups": [],
+      "is_recurring": false
     },
     {
       "source": "parken",
@@ -7777,21 +7975,39 @@
     },
     {
       "source": "parken",
-      "source_id": "parken-41531-yoga-piano",
+      "source_id": "parken-41531-yoga-piano-20271111T1800",
       "title": "Yoga Piano",
-      "start_at": "2026-12-15T00:00:00",
+      "start_at": "2027-11-11T18:00:00",
+      "end_at": "2027-11-11T19:30:00",
       "location_name": "Parken kulturhus – Foajeen",
       "city": "Ålesund",
       "organizer": "Høsten 2026",
       "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F41531%2Fweb-square.webp?version=PqKM2MvZUg1w9a6HSfIlvA==",
-      "url": "https://www.parkenkulturhus.no/program/41531-yoga-piano/",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/41531/97704/",
       "tags": [
         "annet",
         "yoga"
       ],
       "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-41531-yoga-piano-20271215T1800",
+      "title": "Yoga Piano",
+      "start_at": "2027-12-15T18:00:00",
+      "end_at": "2027-12-15T19:30:00",
+      "location_name": "Parken kulturhus – Foajeen",
+      "city": "Ålesund",
+      "organizer": "Høsten 2026",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F41531%2Fweb-square.webp?version=PqKM2MvZUg1w9a6HSfIlvA==",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/41531/97705/",
+      "tags": [
+        "annet",
+        "yoga"
+      ],
+      "age_groups": [],
+      "is_recurring": false
     },
     {
       "source": "parken",
@@ -7984,20 +8200,37 @@
     },
     {
       "source": "parken",
-      "source_id": "parken-51631-nyttarskonserten",
+      "source_id": "parken-51631-nyttarskonserten-20270123T1830",
       "title": "Nyttårskonserten",
+      "start_at": "2027-01-23T18:30:00",
+      "end_at": "2027-01-23T20:30:00",
       "location_name": "Parken kulturhus – Hovedscene",
       "city": "Ålesund",
       "organizer": "Ålesund symfoniorkester",
       "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F51631%2Fweb-square.webp?version=m5ZuGKL6Syng4HncBlqZqg==",
-      "url": "https://www.parkenkulturhus.no/program/51631-nyttarskonserten/",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/51631/102246/",
       "tags": [
         "musikk"
       ],
       "age_groups": [],
-      "is_recurring": false,
-      "start_at": null,
-      "end_at": null
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-51631-nyttarskonserten-20270124T1830",
+      "title": "Nyttårskonserten",
+      "start_at": "2027-01-24T18:30:00",
+      "end_at": "2027-01-24T20:30:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Ålesund symfoniorkester",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F51631%2Fweb-square.webp?version=m5ZuGKL6Syng4HncBlqZqg==",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/51631/102273/",
+      "tags": [
+        "musikk"
+      ],
+      "age_groups": [],
+      "is_recurring": false
     },
     {
       "source": "parken",
@@ -8563,20 +8796,37 @@
     },
     {
       "source": "parken",
-      "source_id": "parken-51566-klypa",
+      "source_id": "parken-51566-klypa-20271119T1830",
       "title": "Klypa",
+      "start_at": "2027-11-19T18:30:00",
+      "end_at": "2027-11-19T19:45:00",
       "location_name": "Parken kulturhus – Hovedscene",
       "city": "Ålesund",
       "organizer": "Det verste frå bygda",
       "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F51566%2Fweb-square.webp?version=e/iubQvBg67STN/I9ekyaQ==",
-      "url": "https://www.parkenkulturhus.no/program/51566-klypa/",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/51566/102188/",
       "tags": [
         "humor"
       ],
       "age_groups": [],
-      "is_recurring": false,
-      "start_at": null,
-      "end_at": null
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-51566-klypa-20271120T1830",
+      "title": "Klypa",
+      "start_at": "2027-11-20T18:30:00",
+      "end_at": "2027-11-20T19:45:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Det verste frå bygda",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F51566%2Fweb-square.webp?version=e/iubQvBg67STN/I9ekyaQ==",
+      "url": "https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/51566/102189/",
+      "tags": [
+        "humor"
+      ],
+      "age_groups": [],
+      "is_recurring": false
     },
     {
       "source": "parken",

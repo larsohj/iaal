@@ -1,7 +1,9 @@
 import json
 import re
-from datetime import datetime
+from dataclasses import replace
+from datetime import datetime, timedelta
 from urllib.parse import urljoin
+from zoneinfo import ZoneInfo
 
 from bs4 import BeautifulSoup
 
@@ -9,6 +11,10 @@ from backend.models import EventData
 from backend.scrapers.base import BaseScraper
 
 PROGRAM_URL = "https://www.parkenkulturhus.no/program/"
+OSLO = ZoneInfo("Europe/Oslo")
+CLOCK_TIMES = r"kl\.\s*(\d{1,2}):(\d{2})(?:\s*[-–]\s*(\d{1,2}):(\d{2}))?"
+SHOW_TIME = re.compile(r"(\d{1,2})\.(\d{1,2})\.?\s*[-–]\s*" + CLOCK_TIMES)
+SINGLE_TIME = re.compile(r"(\d{1,2}\.\s*\w+\s+\d{4})\s+" + CLOCK_TIMES)
 
 
 class ParkenScraper(BaseScraper):
@@ -62,62 +68,119 @@ class ParkenScraper(BaseScraper):
             if sale_status:
                 tags.append(sale_status.get_text(strip=True).lower())
 
-            # Parse dato fra oversikten (fallback uten klokkeslett)
-            start_at = self._parse_date(date_text) if date_text else None
-            end_at = None
-
-            # Hent klokkeslett fra detaljsiden
-            detail_times = self._fetch_detail_times(detail_url)
-            if detail_times:
-                start_at = detail_times[0]
-                end_at = detail_times[1]
-
-            events.append(EventData(
+            event = EventData(
                 source="parken",
                 source_id=f"parken-{slug}",
                 title=title,
                 organizer=organizer,
-                start_at=start_at,
-                end_at=end_at,
+                start_at=self._parse_date(date_text) if date_text else None,
                 location_name=location_name,
                 image_url=image_url,
                 url=detail_url,
                 tags=tags,
-            ))
+            )
+            events.extend(self._fetch_performances(event))
 
         self.logger.info(f"Hentet {len(events)} hendelser fra Parken")
         return events
 
-    def _fetch_detail_times(self, url: str) -> tuple[str, str | None] | None:
-        """Hent start/slutt-tid fra detaljsiden. Returnerer (start_at, end_at) eller None."""
+    def _fetch_performances(self, event: EventData) -> list[EventData]:
         try:
-            resp = self._get(url)
+            resp = self._get(event.url)
         except Exception:
-            return None
+            return [event]
 
-        text = resp.text
-        # Detaljsiden har format: "9. apr 2026 kl. 19:00 - 20:30"
-        match = re.search(
-            r"(\d{1,2})\.\s*(\w+)\s+(\d{4})\s+kl\.\s*(\d{1,2}):(\d{2})"
-            r"(?:\s*-\s*(\d{1,2}):(\d{2}))?",
-            text,
-        )
-        if not match:
-            return None
+        soup = BeautifulSoup(resp.text, "html.parser")
+        start, end = self._structured_times(soup)
+        shows = soup.select("#shows p.event")
+        if shows:
+            anchor = start or (datetime.fromisoformat(event.start_at) if event.start_at else None)
+            if anchor:
+                performances = self._parse_shows(shows, event, anchor)
+                if performances:
+                    return performances
 
-        date = self._parse_date(f"{match.group(1)}. {match.group(2)} {match.group(3)}")
-        if not date:
-            return None
+        date_tag = soup.select_one("p.dates.ingress")
+        if date_tag is None:
+            date_tag = soup.find("p", string=SINGLE_TIME)
+        match = SINGLE_TIME.search(date_tag.get_text(" ", strip=True)) if date_tag else None
+        if match and (date := self._parse_date(match[1])):
+            try:
+                start, end = self._with_times(datetime.fromisoformat(date), match.groups()[1:])
+            except ValueError:
+                pass
 
-        # date er "YYYY-MM-DDT00:00:00" — erstatt tid
-        base = date[:10]  # "YYYY-MM-DD"
-        start_at = f"{base}T{int(match.group(4)):02d}:{match.group(5)}:00"
+        if start:
+            return [replace(event, start_at=start.isoformat(), end_at=end.isoformat() if end else None)]
+        return [event]
 
-        end_at = None
-        if match.group(6) and match.group(7):
-            end_at = f"{base}T{int(match.group(6)):02d}:{match.group(7)}:00"
+    def _parse_shows(self, shows, event: EventData, anchor: datetime) -> list[EventData]:
+        year = anchor.year
+        previous_date = (anchor.month, anchor.day)
+        performances = {}
+        for show in shows:
+            date_tag = show.select_one(".date")
+            match = SHOW_TIME.fullmatch(date_tag.get_text(" ", strip=True)) if date_tag else None
+            if not match:
+                continue
 
-        return start_at, end_at
+            day, month = int(match[1]), int(match[2])
+            # Spillelisten er kronologisk. Årstallet står bare i første forestillings metadata.
+            show_date = (month, day)
+            show_year = year + (show_date < previous_date)
+            try:
+                start, end = self._with_times(datetime(show_year, month, day), match.groups()[2:])
+            except ValueError:
+                continue
+            year, previous_date = show_year, show_date
+
+            ticket = show.select_one("a[href]")
+            source_id = f"{event.source_id}-{start:%Y%m%dT%H%M}"
+            performances[source_id] = replace(
+                event,
+                source_id=source_id,
+                start_at=start.isoformat(),
+                end_at=end.isoformat() if end else None,
+                url=urljoin(event.url, ticket["href"]) if ticket else event.url,
+            )
+        return list(performances.values())
+
+    @staticmethod
+    def _structured_times(soup: BeautifulSoup) -> tuple[datetime | None, datetime | None]:
+        # Parken kan ha uescapede anførselstegn i JSON-LD-beskrivelsen.
+        # Les datofeltene direkte fra Event-blokken.
+        for script in soup.select('script[type="application/ld+json"]'):
+            text = script.get_text()
+            if not re.search(r'"@type"\s*:\s*"Event"', text):
+                continue
+            start = re.search(r'"startDate"\s*:\s*"([^"]+)"', text)
+            end = re.search(r'"endDate"\s*:\s*"([^"]+)"', text)
+            try:
+                return (
+                    ParkenScraper._local_datetime(start[1]) if start else None,
+                    ParkenScraper._local_datetime(end[1]) if end else None,
+                )
+            except ValueError:
+                continue
+        return None, None
+
+    @staticmethod
+    def _local_datetime(value: str) -> datetime:
+        parsed = datetime.fromisoformat(value)
+        if parsed.tzinfo is not None:
+            return parsed.astimezone(OSLO).replace(tzinfo=None)
+        return parsed
+
+    @staticmethod
+    def _with_times(date: datetime, times: tuple) -> tuple[datetime, datetime | None]:
+        hour, minute, end_hour, end_minute = times
+        start = date.replace(hour=int(hour), minute=int(minute))
+        end = None
+        if end_hour is not None:
+            end = date.replace(hour=int(end_hour), minute=int(end_minute))
+            if end < start:
+                end += timedelta(days=1)
+        return start, end
 
     @staticmethod
     def _parse_date(date_text: str) -> str | None:

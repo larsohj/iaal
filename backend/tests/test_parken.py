@@ -1,5 +1,7 @@
 from pathlib import Path
-from unittest.mock import MagicMock, patch, call
+from unittest.mock import MagicMock, patch
+
+import pytest
 
 from backend.scrapers.parken_scraper import ParkenScraper
 
@@ -157,3 +159,64 @@ class TestParkenScraper:
 
         assert len(events) == 1
         assert events[0].start_at == "2026-05-15T00:00:00"
+
+    @pytest.mark.parametrize("title, date_range, first_start, shows", [
+        ("Putti Plutti Pott", "27. nov – 6. des", "2026-11-27T18:00:00+01:00", [
+            ("27.11", "18:00", "20:00", "2026-11-27"),
+            ("28.11", "13:00", "15:00", "2026-11-28"),
+            ("28.11", "16:00", "18:00", "2026-11-28"),
+            ("29.11", "13:00", "15:00", "2026-11-29"),
+            ("29.11", "16:00", "18:00", "2026-11-29"),
+            ("03.12", "18:00", "20:00", "2026-12-03"),
+            ("04.12", "18:00", "20:00", "2026-12-04"),
+            ("05.12", "13:00", "15:00", "2026-12-05"),
+            ("05.12", "16:00", "18:00", "2026-12-05"),
+            ("06.12", "13:00", "15:00", "2026-12-06"),
+            ("06.12", "16:00", "18:00", "2026-12-06"),
+        ]),
+        ("Nyttårskonserten", "23. jan – 24. jan", "2027-01-23T18:30:00+01:00", [
+            ("23.01", "18:30", "20:30", "2027-01-23"),
+            ("24.01", "18:30", "20:30", "2027-01-24"),
+        ]),
+        ("Romjulskonsert", "31. des – 1. jan", "2026-12-31T18:30:00+01:00", [
+            ("31.12", "18:30", "20:30", "2026-12-31"),
+            ("01.01", "18:30", "20:30", "2027-01-01"),
+        ]),
+    ])
+    def test_extracts_each_performance(self, title, date_range, first_start, shows):
+        detail_url = "https://www.parkenkulturhus.no/program/test/"
+        overview = f"""
+        <article class="tease-event">
+            <a href="{detail_url}"></a><h3>{title}</h3><p class="dates">{date_range}</p>
+        </article>
+        """
+        ticket_urls = [
+            f"https://billetter.parkenkulturhus.no/nb/buyingflow/tickets/123/{index}/"
+            for index, _ in enumerate(shows)
+        ]
+        # En forestilling kan være oppført uten aktiv billettlenke.
+        ticket_urls[-1] = detail_url
+        rows = []
+        for (day_month, start, end, _), url in zip(shows, ticket_urls):
+            ticket = f'<a href="{url}">Kjøp billett</a>' if url != detail_url else ""
+            rows.append(f'<p class="event"><span class="date">{day_month} - kl. {start} - {end}'
+                        f'</span>{ticket}</p>')
+        detail = f"""
+        <script type="application/ld+json">
+            {{"@type":"Event", "startDate":"{first_start}", "description":""Sitert tekst""}}
+        </script>
+        <p class="dates ingress">{date_range}</p>
+        <div id="shows">{''.join(rows)}</div>
+        """
+
+        scraper = ParkenScraper()
+        with patch.object(scraper, "_get", side_effect=[
+            _mock_response(overview), _mock_response(detail),
+        ]):
+            events = scraper.scrape()
+
+        assert [e.title for e in events] == [title] * len(shows)
+        assert [e.start_at for e in events] == [f"{date}T{start}:00" for _, start, _, date in shows]
+        assert [e.end_at for e in events] == [f"{date}T{end}:00" for _, _, end, date in shows]
+        assert [e.url for e in events] == ticket_urls
+        assert len({e.source_id for e in events}) == len(shows)
