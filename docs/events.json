@@ -1,375 +1,10 @@
 {
-  "generated_at": "2026-11-26T07:19:51.597563+00:00",
-  "total": 814,
+  "generated_at": "2026-11-26T21:05:32.711382+00:00",
+  "total": 810,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-28b10f66-dbb2-4b34-9f50-238530aa24d5",
-      "title": "Vil du hjelpe personer berørt av kreft?",
-      "start_at": "2026-11-26T08:00:00",
-      "end_at": "2027-12-30T21:00:00",
-      "is_free": true,
-      "location_name": "Kreftforeningen",
-      "city": "Ålesund",
-      "organizer": "Kreftforeningen",
-      "image_url": "https://ucarecdn.com/00920590-3bfb-40c1-b480-5d52aad6da65/-/crop/1181x322/0,103/-/preview/",
-      "url": "https://alesund.friskus.com/events/28b10f66-dbb2-4b34-9f50-238530aa24d5",
-      "tags": [],
-      "age_groups": [
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f0cf0e1b-8516-4d9c-9299-aae7f4a67072",
-      "title": "Dugnad hele året",
-      "start_at": "2026-11-26T10:00:00",
-      "end_at": "2027-12-30T14:00:00",
-      "is_free": false,
-      "location_name": "Aksla Vel",
-      "city": "Ålesund",
-      "organizer": "Aksla Vel",
-      "image_url": "https://ucarecdn.com/1119cf43-d7c5-44cd-a96c-83cbe9b347b6/-/crop/1525x416/0,104/-/preview/",
-      "url": "https://alesund.friskus.com/events/f0cf0e1b-8516-4d9c-9299-aae7f4a67072",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
-      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
-      "start_at": "2026-11-26T10:00:00",
-      "end_at": "2027-06-18T20:00:00",
-      "is_free": true,
-      "location_name": "Dagplass for personer med demens",
-      "city": "Ålesund",
-      "organizer": "Dagplass for personer med demens",
-      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
-      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-9f4f7c7d-0c81-43dd-9e54-6d6a313deb1d",
-      "title": "Bridge på Frivilligsentralen",
-      "start_at": "2026-11-26T10:30:00",
-      "end_at": "2026-12-10T13:00:00",
-      "is_free": true,
-      "location_name": "Ålesund frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Ålesund frivilligsentral",
-      "image_url": "https://ucarecdn.com/3969bbaa-da9e-4c85-8893-294a021bf36a/-/crop/526x143/0,71/-/preview/",
-      "url": "https://alesund.friskus.com/events/9f4f7c7d-0c81-43dd-9e54-6d6a313deb1d",
-      "tags": [],
-      "age_groups": [
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-91df51b7-d2d5-4403-95c1-f87cabd2fe2d",
-      "title": "Les Vegas, baby!",
-      "start_at": "2026-11-26T11:00:00",
-      "end_at": "2026-12-17T12:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "organizer": "Ålesund bibliotek",
-      "image_url": "https://ucarecdn.com/e56c020b-fe9d-4814-9920-61270af3e68a/-/crop/1920x523/0,124/-/preview/-/scale_crop/1100x300/smart/",
-      "url": "https://alesund.friskus.com/events/91df51b7-d2d5-4403-95c1-f87cabd2fe2d",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "family"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-bf995e14-9200-4806-b212-133951f02556",
-      "title": "Sosialt treff med trim på Fredheim, Ellingsøya",
-      "start_at": "2026-11-26T11:00:00",
-      "end_at": "2026-12-03T13:00:00",
-      "is_free": false,
-      "location_name": "Klipra seniorsenter",
-      "city": "Ålesund",
-      "organizer": "Klipra seniorsenter",
-      "image_url": "https://ucarecdn.com/e19f6a25-039d-463a-805d-e0340cf00c66/-/crop/589x160/0,49/-/preview/",
-      "url": "https://alesund.friskus.com/events/bf995e14-9200-4806-b212-133951f02556",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-404aa5f1-ed7f-4959-bd29-827af2f18f2f",
-      "title": "Lesestund for barn ved Sjøholt bibliotek",
-      "start_at": "2026-11-26T11:30:00",
-      "end_at": "2027-01-28T12:00:00",
-      "is_free": true,
-      "location_name": "Sjøholt bibliotek",
-      "city": "Ålesund",
-      "organizer": "Sjøholt bibliotek",
-      "image_url": "https://ucarecdn.com/2c0b3dd8-b56b-41fd-9ca6-a3a25e4a84a0/-/crop/1448x758/0,641/-/preview/",
-      "url": "https://alesund.friskus.com/events/404aa5f1-ed7f-4959-bd29-827af2f18f2f",
-      "tags": [],
-      "age_groups": [
-        "children"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-a28eb8b7-da9c-464c-a838-a7a352e88326",
-      "title": "Naturmøteplassen ved Gomerløa",
-      "start_at": "2026-11-26T12:00:00",
-      "end_at": "2027-09-16T14:00:00",
-      "is_free": true,
-      "location_name": "Skodje frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Skodje frivilligsentral",
-      "image_url": "https://ucarecdn.com/8830820c-b542-4a52-85bc-07d2d1c201c9/-/crop/640x174/0,38/-/preview/",
-      "url": "https://alesund.friskus.com/events/a28eb8b7-da9c-464c-a838-a7a352e88326",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-c089a768-2bee-4088-84df-247ab2782c80",
-      "title": "KOM OG TREN MED OSS",
-      "start_at": "2026-11-26T12:00:00",
-      "end_at": "2027-03-18T14:00:00",
-      "is_free": false,
-      "location_name": "Harøy Helselag. Nasjonalforeningen for folkehelsen.",
-      "city": "Ålesund",
-      "organizer": "Harøy Helselag. Nasjonalforeningen for folkehelsen.",
-      "image_url": "https://ucarecdn.com/9a52db78-a523-45ee-94b9-38657ae52367/",
-      "url": "https://alesund.friskus.com/events/c089a768-2bee-4088-84df-247ab2782c80",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
-      "title": "ÅPEN GÅRD",
-      "start_at": "2026-11-26T12:00:00",
-      "end_at": "2026-12-07T18:00:00",
-      "is_free": false,
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "organizer": "Borgund Dyreklubb",
-      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
-      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
-      "title": "Fellesverket – Møteplassen for ungdom i Ålesund",
-      "start_at": "2026-11-26T14:00:00",
-      "end_at": "2026-12-17T19:00:00",
-      "is_free": true,
-      "location_name": "Fellesverket Dragen",
-      "city": "Ålesund",
-      "organizer": "Fellesverket Dragen",
-      "image_url": "https://ucarecdn.com/5bdfad7e-4862-4303-b648-c12c7be60e43/-/crop/1000x272/0,106/-/preview/",
-      "url": "https://alesund.friskus.com/events/6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-b153de37-4f73-4ff0-9340-3e56b855cfec",
-      "title": "Autisme ungdomsgruppe",
-      "start_at": "2026-11-26T14:30:00",
-      "end_at": "2026-11-26T16:00:00",
-      "is_free": true,
-      "location_name": "Ålesund kommune",
-      "city": "Ålesund",
-      "organizer": "Ålesund kommune",
-      "image_url": "https://ucarecdn.com/31cfb8e6-7654-4ee6-9a44-a304e2cd498b/-/crop/1920x1004/0,76/-/preview/",
-      "url": "https://alesund.friskus.com/events/b153de37-4f73-4ff0-9340-3e56b855cfec",
-      "tags": [],
-      "age_groups": [
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-9590fc29-9989-4391-ae1a-6ac982dad9be",
-      "title": "Strikkekafe",
-      "start_at": "2026-11-26T16:00:00",
-      "end_at": "2027-06-24T18:00:00",
-      "is_free": false,
-      "location_name": "Spjelkavik seniorsenter",
-      "city": "Ålesund",
-      "organizer": "Spjelkavik seniorsenter",
-      "image_url": "https://ucarecdn.com/5f6bbfb0-0b99-4805-a5b7-2167ebfac5a8/-/crop/953x259/0,41/-/preview/",
-      "url": "https://alesund.friskus.com/events/9590fc29-9989-4391-ae1a-6ac982dad9be",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-43fbfab6-6c15-4ee0-877b-f0fb5511f5d3",
-      "title": "Fellesverket søker frivillige: Vil du være der for ungdommene?",
-      "start_at": "2026-11-26T16:30:00",
-      "end_at": "2026-12-31T19:00:00",
-      "is_free": true,
-      "location_name": "Fellesverket Dragen",
-      "city": "Ålesund",
-      "organizer": "Fellesverket Dragen",
-      "image_url": "https://ucarecdn.com/86e08a04-1898-4c9e-adc7-b4789057f13b/-/crop/1536x419/0,246/-/preview/",
-      "url": "https://alesund.friskus.com/events/43fbfab6-6c15-4ee0-877b-f0fb5511f5d3",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-a050b094-abd0-46c5-aabe-215c7e0b18cb",
-      "title": "Gamingkveld Blindheim",
-      "start_at": "2026-11-26T17:00:00",
-      "end_at": "2027-06-17T19:00:00",
-      "is_free": true,
-      "location_name": "E-Teams",
-      "city": "Ålesund",
-      "organizer": "E-Teams",
-      "image_url": "https://ucarecdn.com/89c7fd54-79e4-4ee4-b68b-1015245bd1c9/-/crop/1024x280/0,406/-/preview/",
-      "url": "https://alesund.friskus.com/events/a050b094-abd0-46c5-aabe-215c7e0b18cb",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-286f2da3-2f3d-4f02-8eb9-4dc8c823cc41",
-      "title": "Jentegaming",
-      "start_at": "2026-11-26T17:30:00",
-      "end_at": "2027-06-17T20:00:00",
-      "is_free": true,
-      "location_name": "E-Teams",
-      "city": "Ålesund",
-      "organizer": "E-Teams",
-      "image_url": "https://ucarecdn.com/84076a0c-2d7c-4f83-8c30-edfddcb27d9e/-/crop/1080x294/0,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/286f2da3-2f3d-4f02-8eb9-4dc8c823cc41",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-5c0044cb-91b9-4b45-9874-5f128960aa6c",
-      "title": "Sølvbølgen i Haram - Bu trygt heime!",
-      "start_at": "2026-11-26T18:00:00",
-      "end_at": "2026-11-26T20:00:00",
-      "is_free": true,
-      "location_name": "Haram frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Haram frivilligsentral",
-      "image_url": "https://ucarecdn.com/33d003fc-52e3-4141-b3ce-b122bc9bebcc/-/crop/1217x332/0,60/-/preview/",
-      "url": "https://alesund.friskus.com/events/5c0044cb-91b9-4b45-9874-5f128960aa6c",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-6953cdaf-666b-456a-8278-699075e72604",
-      "title": "Vil du lære å spille biljard?",
-      "start_at": "2026-11-26T18:00:00",
-      "end_at": "2026-12-31T22:00:00",
-      "is_free": false,
-      "location_name": "Ålesund biljardklubb",
-      "city": "Ålesund",
-      "organizer": "Ålesund biljardklubb",
-      "image_url": "https://ucarecdn.com/6cfb5d74-04b6-43a5-9968-bb9a7bc81306/-/crop/2048x558/0,613/-/preview/",
-      "url": "https://alesund.friskus.com/events/6953cdaf-666b-456a-8278-699075e72604",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-84d9bb81-013d-4e6f-acd9-75c603006ce7",
-      "title": "Kom og spill med oss",
-      "start_at": "2026-11-26T18:00:00",
-      "end_at": "2026-11-26T20:00:00",
-      "is_free": true,
-      "location_name": "Harøy Helselag. Nasjonalforeningen for folkehelsen.",
-      "city": "Ålesund",
-      "organizer": "Harøy Helselag. Nasjonalforeningen for folkehelsen.",
-      "image_url": "https://ucarecdn.com/fc63f44b-be0e-4968-958b-016bd0b79ac2/",
-      "url": "https://alesund.friskus.com/events/84d9bb81-013d-4e6f-acd9-75c603006ce7",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "senior"
-      ],
-      "is_recurring": false
-    },
     {
       "source": "friskus",
       "source_id": "friskus-8618b420-f103-4ab7-a8df-834af4e92df0",
@@ -410,6 +45,25 @@
         "pensioner"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-fb482108-e841-4933-856c-6ea9de65b87c",
+      "title": "Vi ser etter Frivillige som kan bidra på dagsenter for hjemmeboende personer med demens",
+      "start_at": "2026-11-27T10:00:00",
+      "end_at": "2027-06-18T20:00:00",
+      "is_free": true,
+      "location_name": "Dagplass for personer med demens",
+      "city": "Ålesund",
+      "organizer": "Dagplass for personer med demens",
+      "image_url": "https://ucarecdn.com/005dfadf-c7b6-4bb6-ac57-41e06d82142c/friskusdefaultcover1.png",
+      "url": "https://alesund.friskus.com/events/fb482108-e841-4933-856c-6ea9de65b87c",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -480,6 +134,28 @@
       "tags": [],
       "age_groups": [
         "children"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-f6f4107a-0a25-457e-91d8-a007320a046b",
+      "title": "ÅPEN GÅRD",
+      "start_at": "2026-11-27T12:00:00",
+      "end_at": "2026-12-07T18:00:00",
+      "is_free": false,
+      "location_name": "Borgund Dyreklubb",
+      "city": "Ålesund",
+      "organizer": "Borgund Dyreklubb",
+      "image_url": "https://ucarecdn.com/d7a03a0b-dfaa-4125-9da8-19c55f96de47/-/crop/1536x805/0,935/-/preview/",
+      "url": "https://alesund.friskus.com/events/f6f4107a-0a25-457e-91d8-a007320a046b",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -748,6 +424,25 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-f0cf0e1b-8516-4d9c-9299-aae7f4a67072",
+      "title": "Dugnad hele året",
+      "start_at": "2026-11-30T10:00:00",
+      "end_at": "2027-12-30T14:00:00",
+      "is_free": false,
+      "location_name": "Aksla Vel",
+      "city": "Ålesund",
+      "organizer": "Aksla Vel",
+      "image_url": "https://ucarecdn.com/1119cf43-d7c5-44cd-a96c-83cbe9b347b6/-/crop/1525x416/0,104/-/preview/",
+      "url": "https://alesund.friskus.com/events/f0cf0e1b-8516-4d9c-9299-aae7f4a67072",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-fd3cf089-fd4b-4773-85d6-707e40071b55",
       "title": "Få hjelp av Kreftforeningens hverdagshjelp i Ålesund",
       "start_at": "2026-11-30T10:00:00",
@@ -842,6 +537,26 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
+      "title": "Fellesverket – Møteplassen for ungdom i Ålesund",
+      "start_at": "2026-11-30T14:00:00",
+      "end_at": "2026-12-17T19:00:00",
+      "is_free": true,
+      "location_name": "Fellesverket Dragen",
+      "city": "Ålesund",
+      "organizer": "Fellesverket Dragen",
+      "image_url": "https://ucarecdn.com/5bdfad7e-4862-4303-b648-c12c7be60e43/-/crop/1000x272/0,106/-/preview/",
+      "url": "https://alesund.friskus.com/events/6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-299b6575-ae48-4344-98d4-40500274ee35",
       "title": "Leksehjelp for vaksne",
       "start_at": "2026-11-30T14:30:00",
@@ -873,6 +588,27 @@
       "tags": [],
       "age_groups": [
         "children"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-43fbfab6-6c15-4ee0-877b-f0fb5511f5d3",
+      "title": "Fellesverket søker frivillige: Vil du være der for ungdommene?",
+      "start_at": "2026-11-30T16:30:00",
+      "end_at": "2026-12-31T19:00:00",
+      "is_free": true,
+      "location_name": "Fellesverket Dragen",
+      "city": "Ålesund",
+      "organizer": "Fellesverket Dragen",
+      "image_url": "https://ucarecdn.com/86e08a04-1898-4c9e-adc7-b4789057f13b/-/crop/1536x419/0,246/-/preview/",
+      "url": "https://alesund.friskus.com/events/43fbfab6-6c15-4ee0-877b-f0fb5511f5d3",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -914,6 +650,26 @@
         "pensioner"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-6953cdaf-666b-456a-8278-699075e72604",
+      "title": "Vil du lære å spille biljard?",
+      "start_at": "2026-11-30T18:00:00",
+      "end_at": "2026-12-31T22:00:00",
+      "is_free": false,
+      "location_name": "Ålesund biljardklubb",
+      "city": "Ålesund",
+      "organizer": "Ålesund biljardklubb",
+      "image_url": "https://ucarecdn.com/6cfb5d74-04b6-43a5-9968-bb9a7bc81306/-/crop/2048x558/0,613/-/preview/",
+      "url": "https://alesund.friskus.com/events/6953cdaf-666b-456a-8278-699075e72604",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "senior"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -1462,6 +1218,24 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-28b10f66-dbb2-4b34-9f50-238530aa24d5",
+      "title": "Vil du hjelpe personer berørt av kreft?",
+      "start_at": "2026-12-03T08:00:00",
+      "end_at": "2027-12-30T21:00:00",
+      "is_free": true,
+      "location_name": "Kreftforeningen",
+      "city": "Ålesund",
+      "organizer": "Kreftforeningen",
+      "image_url": "https://ucarecdn.com/00920590-3bfb-40c1-b480-5d52aad6da65/-/crop/1181x322/0,103/-/preview/",
+      "url": "https://alesund.friskus.com/events/28b10f66-dbb2-4b34-9f50-238530aa24d5",
+      "tags": [],
+      "age_groups": [
+        "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-6c4b3a3b-c1f5-40d1-ad28-8361746d8d7d",
       "title": "Fagdag - For barnas skyld",
       "start_at": "2026-12-03T08:00:00",
@@ -1477,6 +1251,62 @@
         "senior"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-9f4f7c7d-0c81-43dd-9e54-6d6a313deb1d",
+      "title": "Bridge på Frivilligsentralen",
+      "start_at": "2026-12-03T10:30:00",
+      "end_at": "2026-12-10T13:00:00",
+      "is_free": true,
+      "location_name": "Ålesund frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Ålesund frivilligsentral",
+      "image_url": "https://ucarecdn.com/3969bbaa-da9e-4c85-8893-294a021bf36a/-/crop/526x143/0,71/-/preview/",
+      "url": "https://alesund.friskus.com/events/9f4f7c7d-0c81-43dd-9e54-6d6a313deb1d",
+      "tags": [],
+      "age_groups": [
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-91df51b7-d2d5-4403-95c1-f87cabd2fe2d",
+      "title": "Les Vegas, baby!",
+      "start_at": "2026-12-03T11:00:00",
+      "end_at": "2026-12-17T12:00:00",
+      "is_free": true,
+      "location_name": "Ålesund bibliotek",
+      "city": "Ålesund",
+      "organizer": "Ålesund bibliotek",
+      "image_url": "https://ucarecdn.com/e56c020b-fe9d-4814-9920-61270af3e68a/-/crop/1920x523/0,124/-/preview/-/scale_crop/1100x300/smart/",
+      "url": "https://alesund.friskus.com/events/91df51b7-d2d5-4403-95c1-f87cabd2fe2d",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "family"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-bf995e14-9200-4806-b212-133951f02556",
+      "title": "Sosialt treff med trim på Fredheim, Ellingsøya",
+      "start_at": "2026-12-03T11:00:00",
+      "end_at": "2026-12-03T13:00:00",
+      "is_free": false,
+      "location_name": "Klipra seniorsenter",
+      "city": "Ålesund",
+      "organizer": "Klipra seniorsenter",
+      "image_url": "https://ucarecdn.com/e19f6a25-039d-463a-805d-e0340cf00c66/-/crop/589x160/0,49/-/preview/",
+      "url": "https://alesund.friskus.com/events/bf995e14-9200-4806-b212-133951f02556",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -1498,6 +1328,64 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-a28eb8b7-da9c-464c-a838-a7a352e88326",
+      "title": "Naturmøteplassen ved Gomerløa",
+      "start_at": "2026-12-03T12:00:00",
+      "end_at": "2027-09-16T14:00:00",
+      "is_free": true,
+      "location_name": "Skodje frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Skodje frivilligsentral",
+      "image_url": "https://ucarecdn.com/8830820c-b542-4a52-85bc-07d2d1c201c9/-/crop/640x174/0,38/-/preview/",
+      "url": "https://alesund.friskus.com/events/a28eb8b7-da9c-464c-a838-a7a352e88326",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-c089a768-2bee-4088-84df-247ab2782c80",
+      "title": "KOM OG TREN MED OSS",
+      "start_at": "2026-12-03T12:00:00",
+      "end_at": "2027-03-18T14:00:00",
+      "is_free": false,
+      "location_name": "Harøy Helselag. Nasjonalforeningen for folkehelsen.",
+      "city": "Ålesund",
+      "organizer": "Harøy Helselag. Nasjonalforeningen for folkehelsen.",
+      "image_url": "https://ucarecdn.com/9a52db78-a523-45ee-94b9-38657ae52367/",
+      "url": "https://alesund.friskus.com/events/c089a768-2bee-4088-84df-247ab2782c80",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-9590fc29-9989-4391-ae1a-6ac982dad9be",
+      "title": "Strikkekafe",
+      "start_at": "2026-12-03T16:00:00",
+      "end_at": "2027-06-24T18:00:00",
+      "is_free": false,
+      "location_name": "Spjelkavik seniorsenter",
+      "city": "Ålesund",
+      "organizer": "Spjelkavik seniorsenter",
+      "image_url": "https://ucarecdn.com/5f6bbfb0-0b99-4805-a5b7-2167ebfac5a8/-/crop/953x259/0,41/-/preview/",
+      "url": "https://alesund.friskus.com/events/9590fc29-9989-4391-ae1a-6ac982dad9be",
+      "tags": [],
+      "age_groups": [
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-0c979abe-7f4c-4818-865a-2c5988667a63",
       "title": "Havdur pensjonistforening  inviterer til julebord",
       "start_at": "2026-12-03T17:00:00",
@@ -1513,6 +1401,44 @@
         "pensioner"
       ],
       "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-a050b094-abd0-46c5-aabe-215c7e0b18cb",
+      "title": "Gamingkveld Blindheim",
+      "start_at": "2026-12-03T17:00:00",
+      "end_at": "2027-06-17T19:00:00",
+      "is_free": true,
+      "location_name": "E-Teams",
+      "city": "Ålesund",
+      "organizer": "E-Teams",
+      "image_url": "https://ucarecdn.com/89c7fd54-79e4-4ee4-b68b-1015245bd1c9/-/crop/1024x280/0,406/-/preview/",
+      "url": "https://alesund.friskus.com/events/a050b094-abd0-46c5-aabe-215c7e0b18cb",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-286f2da3-2f3d-4f02-8eb9-4dc8c823cc41",
+      "title": "Jentegaming",
+      "start_at": "2026-12-03T17:30:00",
+      "end_at": "2027-06-17T20:00:00",
+      "is_free": true,
+      "location_name": "E-Teams",
+      "city": "Ålesund",
+      "organizer": "E-Teams",
+      "image_url": "https://ucarecdn.com/84076a0c-2d7c-4f83-8c30-edfddcb27d9e/-/crop/1080x294/0,0/-/preview/",
+      "url": "https://alesund.friskus.com/events/286f2da3-2f3d-4f02-8eb9-4dc8c823cc41",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager"
+      ],
+      "is_recurring": true
     },
     {
       "source": "friskus",
@@ -2259,7 +2185,7 @@
       "title": "Månedens klassiker: En Julefortelling av Charles Dickens",
       "start_at": "2026-12-12T12:00:00",
       "end_at": "2026-12-12T13:00:00",
-      "is_free": false,
+      "is_free": true,
       "location_name": "Moa Bibliotek",
       "city": "Ålesund",
       "organizer": "Moa Bibliotek",
@@ -2267,28 +2193,10 @@
       "url": "https://alesund.friskus.com/events/41b24919-b1a2-4986-8f95-e0a271ba1c75",
       "tags": [],
       "age_groups": [
-        "children"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-b7124c88-0d95-403c-9a23-3bcc2a108593",
-      "title": "Bokkino",
-      "start_at": "2026-12-12T12:00:00",
-      "end_at": "2026-12-12T12:30:00",
-      "is_free": true,
-      "location_name": "Moa Bibliotek",
-      "city": "Ålesund",
-      "organizer": "Moa Bibliotek",
-      "image_url": "https://ucarecdn.com/115fc208-1f69-4e70-88cc-0376893e7790/-/crop/1920x523/0,51/-/preview/",
-      "url": "https://alesund.friskus.com/events/b7124c88-0d95-403c-9a23-3bcc2a108593",
-      "tags": [],
-      "age_groups": [
         "children",
         "family"
       ],
-      "is_recurring": true
+      "is_recurring": false
     },
     {
       "source": "friskus",
@@ -2471,10 +2379,28 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-404aa5f1-ed7f-4959-bd29-827af2f18f2f",
+      "title": "Lesestund for barn ved Sjøholt bibliotek",
+      "start_at": "2026-12-17T11:30:00",
+      "end_at": "2027-01-28T12:00:00",
+      "is_free": true,
+      "location_name": "Sjøholt bibliotek",
+      "city": "Ålesund",
+      "organizer": "Sjøholt bibliotek",
+      "image_url": "https://ucarecdn.com/2c0b3dd8-b56b-41fd-9ca6-a3a25e4a84a0/-/crop/1448x758/0,641/-/preview/",
+      "url": "https://alesund.friskus.com/events/404aa5f1-ed7f-4959-bd29-827af2f18f2f",
+      "tags": [],
+      "age_groups": [
+        "children"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-4ded10a1-e5d1-41be-9279-7e1d30c0c7c4",
       "title": "Siste skoledag-karaoke",
-      "start_at": "2026-12-18T13:30:00",
-      "end_at": "2026-12-18T15:00:00",
+      "start_at": "2026-12-18T14:00:00",
+      "end_at": "2026-12-18T15:30:00",
       "is_free": true,
       "location_name": "Moa Bibliotek",
       "city": "Ålesund",
@@ -3640,86 +3566,6 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-aeb5dd8e-5755-46ed-b3f5-ed2ff1cdead3",
-      "title": "Friskliv og  Meistring Utetrening",
-      "start_at": "2026-11-26T10:00:00",
-      "end_at": "2026-12-17T11:00:00",
-      "is_free": true,
-      "location_name": "Friskliv og Meistring i Sula kommune",
-      "city": "Ålesund",
-      "organizer": "Friskliv og Meistring i Sula kommune",
-      "image_url": "https://ucarecdn.com/02a26bb7-4de0-411c-9dd3-555963e5c151/-/crop/700x191/0,138/-/preview/",
-      "url": "https://alesund.friskus.com/events/aeb5dd8e-5755-46ed-b3f5-ed2ff1cdead3",
-      "tags": [],
-      "age_groups": [
-        "senior"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-78e1ebb4-a4d7-4c9b-a8ee-d660feec9b0d",
-      "title": "Jul på Sula kulturskule",
-      "start_at": "2026-11-26T19:00:00",
-      "end_at": "2026-12-09T20:00:00",
-      "is_free": true,
-      "location_name": "Sula Kulturskule",
-      "city": "Ålesund",
-      "organizer": "Sula Kulturskule",
-      "image_url": "https://ucarecdn.com/a1954d44-429b-4f73-a483-75a767643211/-/crop/1217x332/0,147/-/preview/",
-      "url": "https://alesund.friskus.com/events/78e1ebb4-a4d7-4c9b-a8ee-d660feec9b0d",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-9431fe9b-7d5c-4c8f-9ca1-16e63fa3d8e6",
-      "title": "Sula sportsbibliotek",
-      "start_at": "2026-11-26T19:00:00",
-      "end_at": "2027-01-07T22:00:00",
-      "is_free": true,
-      "location_name": "Sula frivilligsentral",
-      "city": "Ålesund",
-      "organizer": "Sula frivilligsentral",
-      "image_url": "https://ucarecdn.com/2c6fd9b4-08d9-4639-87bb-fe01b5153ffe/-/crop/850x231/0,42/-/preview/",
-      "url": "https://alesund.friskus.com/events/9431fe9b-7d5c-4c8f-9ca1-16e63fa3d8e6",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-ca64cc6e-3e30-429c-a74c-43ed6c50af17",
-      "title": "Fritidsklubben Junior",
-      "start_at": "2026-11-26T19:30:00",
-      "end_at": "2026-12-10T21:00:00",
-      "is_free": true,
-      "location_name": "Sula Frikirke",
-      "city": "Ålesund",
-      "organizer": "Sula Frikirke",
-      "image_url": "https://ucarecdn.com/b59900bc-13eb-4069-a321-10e8248b3cca/-/crop/1917x523/1,0/-/preview/",
-      "url": "https://alesund.friskus.com/events/ca64cc6e-3e30-429c-a74c-43ed6c50af17",
-      "tags": [],
-      "age_groups": [
-        "children"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-0deef70d-24b1-4f09-acb7-cabea6fbcb17",
       "title": "Connect",
       "start_at": "2026-11-28T20:30:00",
@@ -3792,6 +3638,28 @@
       "tags": [],
       "age_groups": [
         "teenager"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-9431fe9b-7d5c-4c8f-9ca1-16e63fa3d8e6",
+      "title": "Sula sportsbibliotek",
+      "start_at": "2026-11-30T19:00:00",
+      "end_at": "2027-01-07T22:00:00",
+      "is_free": true,
+      "location_name": "Sula frivilligsentral",
+      "city": "Ålesund",
+      "organizer": "Sula frivilligsentral",
+      "image_url": "https://ucarecdn.com/2c6fd9b4-08d9-4639-87bb-fe01b5153ffe/-/crop/850x231/0,42/-/preview/",
+      "url": "https://alesund.friskus.com/events/9431fe9b-7d5c-4c8f-9ca1-16e63fa3d8e6",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
       ],
       "is_recurring": true
     },
@@ -3909,6 +3777,24 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-aeb5dd8e-5755-46ed-b3f5-ed2ff1cdead3",
+      "title": "Friskliv og  Meistring Utetrening",
+      "start_at": "2026-12-03T10:00:00",
+      "end_at": "2026-12-17T11:00:00",
+      "is_free": true,
+      "location_name": "Friskliv og Meistring i Sula kommune",
+      "city": "Ålesund",
+      "organizer": "Friskliv og Meistring i Sula kommune",
+      "image_url": "https://ucarecdn.com/02a26bb7-4de0-411c-9dd3-555963e5c151/-/crop/700x191/0,138/-/preview/",
+      "url": "https://alesund.friskus.com/events/aeb5dd8e-5755-46ed-b3f5-ed2ff1cdead3",
+      "tags": [],
+      "age_groups": [
+        "senior"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-b568d3bb-eb3f-4c99-acf2-1e50ccf1c739",
       "title": "Datakafè",
       "start_at": "2026-12-03T12:00:00",
@@ -3922,6 +3808,24 @@
       "tags": [],
       "age_groups": [
         "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-ca64cc6e-3e30-429c-a74c-43ed6c50af17",
+      "title": "Fritidsklubben Junior",
+      "start_at": "2026-12-03T19:30:00",
+      "end_at": "2026-12-10T21:00:00",
+      "is_free": true,
+      "location_name": "Sula Frikirke",
+      "city": "Ålesund",
+      "organizer": "Sula Frikirke",
+      "image_url": "https://ucarecdn.com/b59900bc-13eb-4069-a321-10e8248b3cca/-/crop/1917x523/1,0/-/preview/",
+      "url": "https://alesund.friskus.com/events/ca64cc6e-3e30-429c-a74c-43ed6c50af17",
+      "tags": [],
+      "age_groups": [
+        "children"
       ],
       "is_recurring": true
     },
@@ -4046,6 +3950,28 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-f5844f1d-04ae-4c1c-9156-b31721659f40",
+      "title": "Julenattiné med Scala Brio",
+      "start_at": "2026-12-18T22:00:00",
+      "end_at": "2026-12-18T23:30:00",
+      "is_free": false,
+      "location_name": "Scala Brio",
+      "city": "Ålesund",
+      "organizer": "Scala Brio",
+      "image_url": "https://ucarecdn.com/e58abd80-0021-4e19-91e6-88591d91409e/-/crop/1200x327/0,25/-/preview/",
+      "url": "https://alesund.friskus.com/events/f5844f1d-04ae-4c1c-9156-b31721659f40",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-e758946a-2bb3-4d3f-82a8-79fd4f584b0b",
       "title": "Kurs i stressmeistring/ avspenning teknikk",
       "start_at": "2027-01-11T11:30:00",
@@ -4082,31 +4008,9 @@
     },
     {
       "source": "friskus",
-      "source_id": "friskus-cb765ce4-6205-4627-95c9-32f0215b1e2c",
-      "title": "Formiddagstreff",
-      "start_at": "2026-11-26T11:00:00",
-      "end_at": "2026-12-31T14:00:00",
-      "is_free": false,
-      "location_name": "Vigra Aktivitets og Frivillighetssentral VAF",
-      "city": "Ålesund",
-      "organizer": "Vigra Aktivitets og Frivillighetssentral VAF",
-      "image_url": "https://ucarecdn.com/1a2a6ea2-a5a0-4192-a3a5-7df8680151dc/-/scale_crop/1100x300/smart/-/resize/x300/-/setfill/6E37CB/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/cb765ce4-6205-4627-95c9-32f0215b1e2c",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
       "source_id": "friskus-4099e8e2-02df-4c0a-880e-02130c8fd1c7",
       "title": "Biblioteket er ope :)",
-      "start_at": "2026-11-26T13:00:00",
+      "start_at": "2026-11-27T10:30:00",
       "end_at": "2026-12-04T15:30:00",
       "is_free": true,
       "location_name": "Giske folkebibliotek",
@@ -4119,46 +4023,6 @@
         "children",
         "teenager",
         "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-4dbbc6f9-b538-4927-8182-d3c60b4332d9",
-      "title": "Forfattarmøte med Simon Stranger",
-      "start_at": "2026-11-26T18:00:00",
-      "end_at": "2026-11-26T19:00:00",
-      "is_free": true,
-      "location_name": "Giske folkebibliotek",
-      "city": "Ålesund",
-      "organizer": "Giske folkebibliotek",
-      "image_url": "https://ucarecdn.com/cd31035a-0c11-4fca-8b09-a356bd1ac8a8/-/crop/1365x372/0,146/-/preview/",
-      "url": "https://alesund.friskus.com/events/4dbbc6f9-b538-4927-8182-d3c60b4332d9",
-      "tags": [],
-      "age_groups": [
-        "teenager",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-3fe2ad08-6976-4cae-a227-a06425575ab5",
-      "title": "Gospel og kafé",
-      "start_at": "2026-11-26T19:00:00",
-      "end_at": "2027-03-18T21:00:00",
-      "is_free": false,
-      "location_name": "Giske kyrkjelege fellesråd",
-      "city": "Ålesund",
-      "organizer": "Giske kyrkjelege fellesråd",
-      "image_url": "https://ucarecdn.com/57d848d7-b6a3-4aeb-bc7f-caae4c4cf873/-/crop/1182x322/0,235/-/preview/",
-      "url": "https://alesund.friskus.com/events/3fe2ad08-6976-4cae-a227-a06425575ab5",
-      "tags": [],
-      "age_groups": [
-        "teenager",
         "senior",
         "pensioner"
       ],
@@ -4309,6 +4173,28 @@
     },
     {
       "source": "friskus",
+      "source_id": "friskus-cb765ce4-6205-4627-95c9-32f0215b1e2c",
+      "title": "Formiddagstreff",
+      "start_at": "2026-12-01T11:00:00",
+      "end_at": "2026-12-31T14:00:00",
+      "is_free": false,
+      "location_name": "Vigra Aktivitets og Frivillighetssentral VAF",
+      "city": "Ålesund",
+      "organizer": "Vigra Aktivitets og Frivillighetssentral VAF",
+      "image_url": "https://ucarecdn.com/1a2a6ea2-a5a0-4192-a3a5-7df8680151dc/-/scale_crop/1100x300/smart/-/resize/x300/-/setfill/6E37CB/-/crop/1100x300/center/",
+      "url": "https://alesund.friskus.com/events/cb765ce4-6205-4627-95c9-32f0215b1e2c",
+      "tags": [],
+      "age_groups": [
+        "children",
+        "teenager",
+        "family",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
+      "source": "friskus",
       "source_id": "friskus-e1606ff2-f7a6-4a23-9ce1-ffe2f6a37de7",
       "title": "Velkomen til Øy’ne ungdomsklubb!",
       "start_at": "2026-12-02T14:45:00",
@@ -4433,6 +4319,26 @@
       "is_recurring": false
     },
     {
+      "source": "friskus",
+      "source_id": "friskus-3fe2ad08-6976-4cae-a227-a06425575ab5",
+      "title": "Gospel og kafé",
+      "start_at": "2027-02-18T19:00:00",
+      "end_at": "2027-03-18T21:00:00",
+      "is_free": false,
+      "location_name": "Giske kyrkjelege fellesråd",
+      "city": "Ålesund",
+      "organizer": "Giske kyrkjelege fellesråd",
+      "image_url": "https://ucarecdn.com/57d848d7-b6a3-4aeb-bc7f-caae4c4cf873/-/crop/1182x322/0,235/-/preview/",
+      "url": "https://alesund.friskus.com/events/3fe2ad08-6976-4cae-a227-a06425575ab5",
+      "tags": [],
+      "age_groups": [
+        "teenager",
+        "senior",
+        "pensioner"
+      ],
+      "is_recurring": true
+    },
+    {
       "source": "tikkio",
       "source_id": "tikkio-0ac099d2fc0efcd880ddf9c5656a7ffa",
       "title": "Kids Gingerbread Decorating ",
@@ -4468,25 +4374,6 @@
       "organizer": "Racoon Coffee",
       "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_892d709411df13836b971eb34875bd5f.webp?class=w768",
       "url": "https://tikkio.com/events/67740-sip-and-decorate",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-1f33a108ab32fd881d115405ef2dde5c",
-      "title": "Juleshow på Løvenvold Vol. 4 / 26.11",
-      "description": "<p><strong>Et drømmelag inntar Løvenvold Theater julen 2026! </strong></p><p>Når du ikke trodde juleshow kunne bli bedre, så serverer vi dere tre av Norges alle beste komikere:</p><p>Møt Ørjan Liavåg, Are Kalvø og Marit Voldsæter når de for første gang står på samme scene. Det skjer på Løvenvold Theater! I et show skrevet for oss og til vårt publikum.</p><p>Juleshow på Løvenvold Vol 4 byr på alt dette! Det blir garantert latter, følelse av høytid og morsomme overraskelser. Det blir mye jul, det blir litt alvor, det blir definitivt sang og musikk. Med en trio som behersker alt, fra revy til dans - her kan jo alt skje! Are, Ørjan og Marit har alle et stort repertoar av sketsjer, parodier og karakterer, dette blir tidenes show! Når tre av våre aller beste komikere som bare gleder seg til å dele scenen med akkurat hverandre, er kjemien til å ta og føle på.</p><p>Og som ikke tre julestjerner var nok: På piano og vokal får du Elise Nærø, en av landets aller beste stemmer, som vil løfte taket og inviterer til allsang.</p><p><strong>MARIT VOLDSÆTER</strong> fra Bergen en av landets mest populære scenekomikere, med flere gigantsuksesser både som soloartist og som en del av Kvinner på randen i et tiår. Hennes siste show «Hei, jeg heter Marit» spilte for utsolgte hus i hjembyen Bergen hele 2024. Marit har mottatt flere Komipriser og fikk Leif Juster sin ærespris i 2025. Marit har et stort og variert repertoar av sketsjer, parodier, sang og mimikk, og tar med hele bagasjen til Ålesund.</p><p><strong>ARE KALVØ</strong> er en av våre fremste komikere, og i over tretti år har han briljert enten det er med humør, som satiriker, forfatter eller programleder. Are skriver musikaler, teater og satire, og gjør standup. Hans siste suksesser «Berre bønder lengar heim» og «Hyttebok frå helvete», toppet alle salgslister. Han har fått flere priser, noen av de er fortjent. Are Kalvø er født og oppvokst på Stranda, og spilte for utsolgte hus på Løvenvold sitt aller første juleshow i 2023.</p><p><strong>ØRJAN LIAVÅG</strong> er en av våre største komikere fra Ålesund, og en levende legende som karakteren «Leif-Per» i humorduoen Hildegunn og Leif-Per. Ørjan er også en fremragende gitarist og leverer musikalske innslag som veksler mellom humor og alvor. Han har samarbeidet med alle i norsk humor-bransje, og det skjønner vi godt: Alle elsker Ørjan!</p><p>Årets musiker er <strong>Elise Nærø </strong>fra Fosnavåg. Elise Nærø er en erfaren sceneartist og pianist med en egen evne til å skape musikalsk magi.</p><p>Regi er ved <strong>Karina Aase.</strong></p>",
-      "start_at": "2026-11-26T17:30:00",
-      "end_at": "2026-11-26T20:00:00",
-      "is_free": true,
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "latitude": 62.4730488,
-      "longitude": 6.1582367,
-      "organizer": "Løvenvold Theater",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_9178feb0b6737a54a253810a496db192.webp?class=w768",
-      "url": "https://tikkio.com/events/62684-juleshow-pa-lovenvold-vol-4-2611",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -5839,7 +5726,8 @@
       "description": "<p>Alt for Norge! Nations League: Kvartfinalen 27. mars! 🇳🇴🏴󠁧󠁢󠁥󠁮󠁧󠁿</p><p><strong>Bord ute for salg på torsdag 26. november, klokken 12:00.</strong></p><p>Norge har kjempet seg til kvartfinale i Nations League, og lørdag 27. mars gjør vi oss klare for skikkelig fotballfest – dette blir garantert fullt hus! Finn frem landslagstrøya og bli med på å løfte gutta frem til seier når vi braker sammen med England! 🇳🇴⚽</p><p><strong>Program:</strong></p><ul><li><p><strong>16:00:</strong> Dørene åpner</p></li><li><p><strong>16:00–18:00:</strong> Oppladning til kamp</p></li><li><p><strong>18:00:</strong> Kampstart 🇳🇴</p></li></ul><p><em>(NB: Bord til 8 personer)</em></p>",
       "start_at": "2027-03-27T17:00:00",
       "end_at": "2027-03-27T22:00:00",
-      "is_free": true,
+      "is_free": false,
+      "price_text": "NOK 4000.00",
       "location_name": "Terminalen",
       "city": "Ålesund",
       "latitude": 62.4702872,
@@ -5858,7 +5746,8 @@
       "description": "<p>Alt for Norge! Neste stopp: Returoppgjøret i kvartfinalen 30. mars! 🇳🇴🏴󠁧󠁢󠁥󠁮󠁧󠁿</p><p><strong>Bord ut for salg torsdag 26. november, klokken 12:00</strong></p><p>Norge skal kjempe om semifinaleplass i Nations League på Wembley, og tirsdag 30. mars gjør vi oss klare for nok en folkefest – dette blir garantert fullt hus! Finn frem landslagstrøya og bli med på å løfte gutta frem til seier når vi braker sammen med England i det avgjørende oppgjøret! 🇳🇴⚽</p><p><strong>Program:</strong></p><ul><li><p><strong>18:45:</strong> Dørene åpner</p></li><li><p><strong>18:45–20:45:</strong> Oppladning til kamp</p></li><li><p><strong>20:45:</strong> Kampstart 🇳🇴</p></li></ul><p><em>(NB: Bord til 8 personer)</em></p>",
       "start_at": "2027-03-30T18:30:00",
       "end_at": "2027-03-30T22:00:00",
-      "is_free": true,
+      "is_free": false,
+      "price_text": "NOK 4000.00",
       "location_name": "Terminalen",
       "city": "Ålesund",
       "latitude": 62.4702872,
@@ -5937,8 +5826,7 @@
       "description": "<p>Ta med nissluen, og gode venner på romjulsfest på fjorden på MS Bruvik. Det blir trivelig lag, god stemning og god musikk. Kanskje kommer nissen, med noen overraskelser under treet.</p><p>Flyt-bar er pub, musikk, mennesker og god stemning – ombord på MS Bruvik. Vi flytter vi festen ut på fjorden og lager en sosial møteplass med musikk, god drikke og enda bedre stemning.</p><p>Ombordstiging fra 19:45 / Avgang 20:00 / Retur 23:00</p>",
       "start_at": "2026-12-26T19:45:00",
       "end_at": "2026-12-31T23:00:00",
-      "is_free": false,
-      "price_text": "NOK 300.00",
+      "is_free": true,
       "location_name": "MS Bruvik",
       "city": "Ålesund",
       "latitude": 62.4698379,
@@ -6025,26 +5913,6 @@
       "organizer": "Quality Hotel™",
       "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_250a852fcb2b4ea11de997d49b6835be.webp?class=w768",
       "url": "https://tikkio.com/events/66898-romjulsdans-med-steinar-engelbrektson-og-sissel-lunde-sundby",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-e5a1959737fc2978c59b1f84069478dc",
-      "title": "Ølsmaking på KaaB ",
-      "description": "<p></p>",
-      "start_at": "2026-11-26T19:00:00",
-      "end_at": "2026-11-26T23:00:00",
-      "is_free": false,
-      "price_text": "NOK 423.00",
-      "location_name": "KaaB Bryggeri",
-      "city": "Ålesund",
-      "latitude": 62.4407847,
-      "longitude": 6.1915121,
-      "organizer": "Kaab Bryggeri",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_1f7229e36c846c1c8529c49fb5ccf1fa.webp?class=w768",
-      "url": "https://tikkio.com/events/67279-olsmaking-pa-kaab",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -6361,26 +6229,6 @@
       "organizer": "Fole Festlig Rorbua",
       "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_16f3c8d977c6dbcb2d5793e53ad3ca31.jpeg?class=w768",
       "url": "https://tikkio.com/events/67748-fole-festlig-strikkehelg",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "tikkio",
-      "source_id": "tikkio-db02f71275d84f1b9084e612748522ff",
-      "title": "Mai Camilla Munkejord - Hva om du aldri var feil?",
-      "description": "<p></p><p>Medarrangør: Ulstein Sanitetsforening.</p><p><strong>HVA OM DU ALDRI VAR FEIL?</strong><br><em>Om masker, tilhørighet og veien hjem til seg selv</em></p><p></p><p>Mai Camilla Munkejord var 43 år, professor, forsker, trebarnsmor og vant til å prestere, ta ansvar og få livet til å fungere.</p><p>Så sa kroppen stopp.</p><p>I tiden som fulgte oppdaget hun at hun bar på traumer. Men var ikke traumer noe som rammet mennesker som hadde overlevd krig, tsunami eller grove overgrep? Kunne virkelig hun, som hadde hatt det hun selv oppfattet som en helt normal oppvekst, bære på traumer?</p><p>Et par år senere kom enda en overraskelse: Hun fikk diagnosen autisme – noe hun frem til da aldri hadde forestilt seg kunne gjelde henne.</p><p>Plutselig begynte gamle erfaringer å tre frem i et nytt lys: følelsen av å være annerledes, vanskeligheten med enkelte sosiale spilleregler, trangen til å være åpen og ærlig, sensitiviteten, intensiteten og den sterke rettferdighetssansen.</p><p>Hun hadde alltid følt seg annerledes. Og svært ofte følt seg feil.</p><p>Men etter hvert dukket et større spørsmål opp:</p><p><strong>Hva om annerledes ikke betyr feil?</strong></p><p>I dette personlige, ærlige og inspirerende foredraget beveger Mai Camilla seg fra treåringen som lærte å være på vakt, via forskeren som undersøkte hvem som får høre til og hva som egentlig teller som kunnskap, til kvinnen som i dag er i ferd med å slutte å forlate seg selv.</p><p>Foredraget handler om masker og tilpasning. Om hva som skjer når vi leter etter tilhørighet utenfor oss selv. Om å lære å legge merke til egne behov, sanseinntrykk og grenser. Om forskjellen mellom selvansvar og ansvarsfraskrivelse – og om motet til å stå i egen erfaring uten å gjøre den til fasit for andre.</p><p>For kanskje er ikke oppgaven vår å bli mer like.</p><p>Kanskje er oppgaven å skape fellesskap hvor flere kan høre til – uten å måtte gjemme seg bak trange masker.</p><p></p><p>Inkludert i billetten er boka &quot;La masken falle&quot;</p><p></p><p></p><p></p><p></p>",
-      "start_at": "2026-11-26T17:30:00",
-      "end_at": "2026-11-26T23:30:00",
-      "is_free": false,
-      "price_text": "NOK 218.00",
-      "location_name": "Bjørndals Minne",
-      "city": "Ålesund",
-      "latitude": 62.3433146,
-      "longitude": 5.8488429,
-      "organizer": "Bjørndals minne",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_1ed457c85691213f151ec90665abe04d.webp?class=w768",
-      "url": "https://tikkio.com/events/67166-mai-camilla-munkejord-hva-om-du-aldri-var-feil",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -7650,7 +7498,7 @@
       "latitude": 62.577801,
       "longitude": 7.7922426,
       "organizer": "VOKSENKLUBBEN ISFJORDEN",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-2.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-3.jpeg?class=w768",
       "url": "https://tikkio.com/events/67507-2dagdans-2026",
       "tags": [],
       "age_groups": [],
@@ -8256,6 +8104,151 @@
     },
     {
       "source": "parken",
+      "source_id": "parken-51791-hvis-det-skulle-komme-et-menneske",
+      "title": "Hvis det skulle komme et menneske",
+      "start_at": "2027-01-28T18:00:00",
+      "end_at": "2027-01-28T19:00:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Thomas Korsgaard og Janne Drangsholt",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F51791%2Fweb-square.webp?version=5Q5E2Q45l0rDnQhDtUfpjg==",
+      "url": "https://www.parkenkulturhus.no/program/51791-hvis-det-skulle-komme-et-menneske/",
+      "tags": [
+        "litteratur"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-51792-forstelinja",
+      "title": "Førstelinja",
+      "start_at": "2027-01-28T19:30:00",
+      "end_at": "2027-01-28T20:15:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Heidi Linde og Solveig Kloppen",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F51792%2Fweb-square.webp?version=lH3TxIx8PMUfKlFyaw7k8Q==",
+      "url": "https://www.parkenkulturhus.no/program/51792-forstelinja/",
+      "tags": [
+        "litteratur"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-51794-elskov-mellom-linjene",
+      "title": "Elskov mellom linjene",
+      "start_at": "2027-01-28T20:45:00",
+      "end_at": "2027-01-28T21:30:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Gunnhild Øyehaug, Margreth Olin og Bjørn Vatne",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F51794%2Fweb-square.webp?version=lP95mywmpYRq7g9Pn2Y3Iw==",
+      "url": "https://www.parkenkulturhus.no/program/51794-elskov-mellom-linjene/",
+      "tags": [
+        "litteratur"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-51795-sprakbruk",
+      "title": "Språkbruk",
+      "start_at": "2027-01-30T14:00:00",
+      "end_at": "2027-01-30T14:30:00",
+      "location_name": "Parken kulturhus – Foajeen",
+      "city": "Ålesund",
+      "organizer": "Runar Gudnason",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F51795%2Fweb-square.webp?version=rj4+kHdA8iHywcM4+U7CzQ==",
+      "url": "https://www.parkenkulturhus.no/program/51795-sprakbruk/",
+      "tags": [
+        "litteratur"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-51796-nrk-leseklubben-til-fyret-100-ar",
+      "title": "NRK Leseklubben: Til fyret 100 år!",
+      "start_at": "2027-01-30T15:00:00",
+      "end_at": "2027-01-30T15:45:00",
+      "location_name": "Parken kulturhus – Foajeen",
+      "city": "Ålesund",
+      "organizer": "Christine Lossius Thorin, Gunnhild Øyehaug og Asbjørn Slettemark",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F51796%2Fweb-square.webp?version=wfGVHcEciJu0//N9aCtjeA==",
+      "url": "https://www.parkenkulturhus.no/program/51796-nrk-leseklubben-til-fyret-100-ar/",
+      "tags": [
+        "litteratur"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-51799-vinden-gjennom-oss",
+      "title": "Vinden gjennom oss",
+      "start_at": "2027-01-30T16:15:00",
+      "end_at": "2027-01-30T17:00:00",
+      "location_name": "Parken kulturhus – Foajeen",
+      "city": "Ålesund",
+      "organizer": "Gaute Heivoll",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F51799%2Fweb-square.webp?version=1Zy9cJ2F8mB0DRKuCWi65A==",
+      "url": "https://www.parkenkulturhus.no/program/51799-vinden-gjennom-oss/",
+      "tags": [
+        "litteratur"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-51800-verden-sett-fra-moskva",
+      "title": "Verden sett fra Moskva",
+      "start_at": "2027-01-30T18:30:00",
+      "end_at": "2027-01-30T19:15:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Gro Holm",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F51800%2Fweb-square.webp?version=OVmq2lYn0++3nBFvgzA7KQ==",
+      "url": "https://www.parkenkulturhus.no/program/51800-verden-sett-fra-moskva/",
+      "tags": [
+        "litteratur"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-51802-ta-telling-med-elling",
+      "title": "Ta telling med Elling",
+      "start_at": "2027-01-30T21:00:00",
+      "end_at": "2027-01-30T22:00:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Per Chr. Ellefsen og Tom Stalsberg",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F51802%2Fweb-square.webp?version=E6DGRN8WJ5MTdTuzjtXlzA==",
+      "url": "https://www.parkenkulturhus.no/program/51802-ta-telling-med-elling/",
+      "tags": [
+        "dans",
+        "foredrag",
+        "forestilling",
+        "humor",
+        "jazz",
+        "konsert",
+        "musikk",
+        "scenekunst",
+        "standup",
+        "teater"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
       "source_id": "parken-51672-apningskonsert",
       "title": "Åpningskonsert",
       "start_at": "2027-02-04T19:00:00",
@@ -8265,23 +8258,6 @@
       "organizer": "Ålesund kammermusikkfestival",
       "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F51672%2Fweb-square.webp?version=2YwVqFtIrgjxJcvbSraw/w==",
       "url": "https://www.parkenkulturhus.no/program/51672-apningskonsert/",
-      "tags": [
-        "musikk"
-      ],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "parken",
-      "source_id": "parken-51675-pa-sporet-av-folkemusikken",
-      "title": "På sporet av folkemusikken",
-      "start_at": "2027-02-05T19:00:00",
-      "end_at": "2027-02-05T20:15:00",
-      "location_name": "Parken kulturhus – Ålesund kirke",
-      "city": "Ålesund",
-      "organizer": "Ålesund kammermusikkfestival",
-      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F51675%2Fweb-square.webp?version=7ROZP7HCe189NAwkcDCqIw==",
-      "url": "https://www.parkenkulturhus.no/program/51675-pa-sporet-av-folkemusikken/",
       "tags": [
         "musikk"
       ],
@@ -8301,6 +8277,23 @@
       "url": "https://www.parkenkulturhus.no/program/49087-finn-tre-feil/",
       "tags": [
         "humor"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
+      "source_id": "parken-51675-pa-sporet-av-folkemusikken",
+      "title": "På sporet av folkemusikken",
+      "start_at": "2027-02-05T19:00:00",
+      "end_at": "2027-02-05T20:15:00",
+      "location_name": "Parken kulturhus – Ålesund kirke",
+      "city": "Ålesund",
+      "organizer": "Ålesund kammermusikkfestival",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F51675%2Fweb-square.webp?version=7ROZP7HCe189NAwkcDCqIw==",
+      "url": "https://www.parkenkulturhus.no/program/51675-pa-sporet-av-folkemusikken/",
+      "tags": [
+        "musikk"
       ],
       "age_groups": [],
       "is_recurring": false
@@ -8547,6 +8540,23 @@
     },
     {
       "source": "parken",
+      "source_id": "parken-52109-psykolog-med-sovepose",
+      "title": "Psykolog med sovepose",
+      "start_at": "2027-04-01T19:00:00",
+      "end_at": "2027-04-01T20:20:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Tøffere enn du tror!",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F52109%2Fweb-square.webp?version=Ig5P328/kfhMs2Y8SjMThw==",
+      "url": "https://www.parkenkulturhus.no/program/52109-psykolog-med-sovepose/",
+      "tags": [
+        "foredrag"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
       "source_id": "parken-48778-balletak-pa-bransjen",
       "title": "Balletak på bransjen",
       "start_at": "2027-04-02T19:00:00",
@@ -8598,15 +8608,15 @@
     },
     {
       "source": "parken",
-      "source_id": "parken-51630-hyllest-til-dvorak",
-      "title": "Hyllest til Dvorak",
+      "source_id": "parken-51630-hyllest-til-dvorak-fra-den-nye-verden",
+      "title": "Hyllest til Dvorak: Fra den nye verden",
       "start_at": "2027-04-18T18:30:00",
       "end_at": "2027-04-18T20:30:00",
       "location_name": "Parken kulturhus – Hovedscene",
       "city": "Ålesund",
       "organizer": "Ålesund symfoniorkester",
       "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F51630%2Fweb-square.webp?version=MlJDtZnmFqOZtHz5bjolxQ==",
-      "url": "https://www.parkenkulturhus.no/program/51630-hyllest-til-dvorak/",
+      "url": "https://www.parkenkulturhus.no/program/51630-hyllest-til-dvorak-fra-den-nye-verden/",
       "tags": [
         "musikk"
       ],
@@ -8784,6 +8794,23 @@
     },
     {
       "source": "parken",
+      "source_id": "parken-52051-bukkene-bruse-pa-badeland",
+      "title": "Bukkene Bruse på Badeland",
+      "start_at": "2027-09-26T14:30:00",
+      "end_at": "2027-09-26T16:00:00",
+      "location_name": "Parken kulturhus – Hovedscene",
+      "city": "Ålesund",
+      "organizer": "Alive Productions",
+      "image_url": "https://storage.googleapis.com/pim-ambio.appspot.com/clients%2F99quJPhXUw0ZIcexLfYv%2Fproductions%2F52051%2Fweb-square.webp?version=fJJQXQzNkHt9TLAJz4rocA==",
+      "url": "https://www.parkenkulturhus.no/program/52051-bukkene-bruse-pa-badeland/",
+      "tags": [
+        "teater"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "parken",
       "source_id": "parken-51633-bettan-med-symfonisk-tonefolge",
       "title": "Bettan med symfonisk tonefølge",
       "start_at": "2027-10-23T18:30:00",
@@ -8866,36 +8893,6 @@
       ],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bibliotek",
-      "source_id": "bibliotek-33755",
-      "title": "Les Vegas, baby!",
-      "start_at": "2026-11-26T11:00:00",
-      "is_free": true,
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i5e614b6f-3fb7-4566-8508-c18674f363d4/w300/k628e26cd06ab/778504861_1466354918851751_6224747989334387217_n.jpg",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33755&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bibliotek",
-      "source_id": "bibliotek-33692",
-      "title": "Lesestund ved Sjøholt bibliotek",
-      "start_at": "2026-11-26T11:30:00",
-      "is_free": true,
-      "location_name": "Sjøholt bibliotek",
-      "city": "Ålesund",
-      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/i983123fe-851f-46e8-8d9b-9a3a1022117c/w300/k5028f03d37fb/2025-lesestund-for-barn-plakat-staande-line.jpg",
-      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33692&lang=1&MId1=18377",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bibliotek",
@@ -9003,186 +9000,34 @@
       "end_at": null
     },
     {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-22059-2026-11-26",
-      "title": "Åpen barnehage",
-      "start_at": "2026-11-26T09:00:00",
-      "end_at": "2026-11-26T15:00:00",
-      "location_name": "Steinbua",
+      "source": "bibliotek",
+      "source_id": "bibliotek-33630",
+      "title": "Samlesing",
+      "start_at": "2026-12-02T13:00:00",
+      "is_free": true,
+      "location_name": "Moa bibliotek",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-barnehage/?occurrence=2026-11-26",
+      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/ia8b81ae8-f31e-4477-8f31-ad9aacb06338/w300/k6fa21f30e022/samlesing-sentrum-fb-banner-1.png",
+      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33630&lang=1&MId1=18377",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "end_at": null
     },
     {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32362-2026-11-26",
-      "title": "Sommerfuglen Aktivitet",
-      "start_at": "2026-11-26T10:00:00",
-      "end_at": "2026-11-26T15:00:00",
-      "location_name": "Sommerfuglen Aktivitet",
+      "source": "bibliotek",
+      "source_id": "bibliotek-33740",
+      "title": "Slektforskarkveld med Slekt og Data Ålesund",
+      "start_at": "2026-12-02T17:30:00",
+      "is_free": true,
+      "location_name": "Moa bibliotek",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/sommerfuglen-aktivitet/?occurrence=2026-11-26",
+      "image_url": "https://alesundsbiblioteka.no/handlers/bv.ashx/ib3797715-ce4c-4e72-aed2-ae984620839b/w300/kbf0742ed861b/nybegynnerkurs-i-slektsforsking-2.png",
+      "url": "https://alesundsbiblioteka.no/Kalender/CalendarEvent.aspx?Id=33740&lang=1&MId1=18377",
       "tags": [],
       "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-35112-2026-11-26",
-      "title": "Aalesunds Museum er åpent hver dag, hele året!",
-      "start_at": "2026-11-26T10:00:00",
-      "end_at": "2026-11-26T16:00:00",
-      "location_name": "Aalesunds Museum",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/aalesunds-museum-er-apent-hver-dag-hele-aret/?occurrence=2026-11-26",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-43622-2026-11-26",
-      "title": "Salgsutstilling Tone Thingnæs",
-      "start_at": "2026-11-26T10:00:00",
-      "end_at": "2026-11-26T18:00:00",
-      "location_name": "Alnes Fyr og Opplevelsessenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/salgsutstilling-tone-thingnaes/?occurrence=2026-11-26",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-41326-2026-11-26",
-      "title": "Les Vegas, baby!",
-      "start_at": "2026-11-26T11:00:00",
-      "end_at": "2026-11-26T12:00:00",
-      "location_name": "Ålesund bibliotek",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/les-vegas-baby-2-176/?occurrence=2026-11-26",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-30716-2026-11-26",
-      "title": "Åpen gård – Borgund Dyreklubb",
-      "start_at": "2026-11-26T12:00:00",
-      "end_at": "2026-11-26T18:00:00",
-      "location_name": "Borgund Dyreklubb",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/apen-gard-borgund-dyreklubb-2/?occurrence=2026-11-26",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32516-2026-11-26",
-      "title": "Krystall Bar – Hotel 1904",
-      "start_at": "2026-11-26T17:00:00",
-      "end_at": "2026-11-26T23:55:00",
-      "location_name": "Hotel 1904",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/krystall-hotel-1904-358/?occurrence=2026-11-26",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-39947-2026-11-26",
-      "title": "Creative Café",
-      "start_at": "2026-11-26T17:00:00",
-      "end_at": "2026-11-26T19:00:00",
-      "location_name": "Katedralen (Ålesund Bedehus)",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/creative-cafe-5/?occurrence=2026-11-26",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-32048-2026-11-26",
-      "title": "REKO-ringen utsalg 2026",
-      "start_at": "2026-11-26T17:00:00",
-      "end_at": "2026-11-26T17:30:00",
-      "location_name": "Molo Brew",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/reko-ringen-utsalg-ved-molo-brew-697-886-385/?occurrence=2026-11-26&time=1795712400",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-36757-2026-11-26",
-      "title": "Dans deg glad, på rekke og rad – 13 ukers Linedance kurs, torsdager.",
-      "start_at": "2026-11-26T18:00:00",
-      "end_at": "2026-11-26T20:00:00",
-      "location_name": "Ålesund Jeger- og Sportsfiskerforening",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/dans-deg-glad-pa-rekke-og-rad-13-ukers-linedance-kurs-torsdager/?occurrence=2026-11-26&time=1795716000",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-43324-2026-11-26",
-      "title": "KorPub for Impande!",
-      "start_at": "2026-11-26T18:30:00",
-      "end_at": "2026-11-26T21:00:00",
-      "location_name": "Spjelkavik IL Klubbhuset",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/korpub-for-impande/?occurrence=2026-11-26",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-41954-2026-11-26",
-      "title": "Programslipp – Ålesund litteraturfestival",
-      "start_at": "2026-11-26T19:00:00",
-      "end_at": "2026-11-26T21:00:00",
-      "location_name": "Terminalen - Venterommet",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/programslipp-alesund-litteraturfestival/?occurrence=2026-11-26",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-41337-2026-11-26",
-      "title": "Konfliktverksted for voksne 16-25 år – Gatemegling",
-      "start_at": "2026-11-26T19:30:00",
-      "end_at": "2026-11-26T22:00:00",
-      "location_name": "Fellesverket Ålesund",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/konfliktverksted-gatemegling-904-914/?occurrence=2026-11-26",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-41335-2026-11-26",
-      "title": "O’Connor’s Pubquiz",
-      "start_at": "2026-11-26T20:00:00",
-      "end_at": "2026-11-26T22:00:00",
-      "location_name": "O'Connor's Irish Pub",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/oconnors-pubquiz-196/?occurrence=2026-11-26&time=1795723200",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false
+      "is_recurring": false,
+      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -9355,6 +9200,32 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43780-2026-11-27",
+      "title": "Julebord med buffet på Thon Hotel Ålesund",
+      "start_at": "2026-11-27T18:00:00",
+      "end_at": "2026-11-27T21:30:00",
+      "location_name": "Thon Hotel Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/julebord-med-buffet-pa-thon-hotel-alesund/?occurrence=2026-11-27&time=1795802400",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43879-2026-11-27",
+      "title": "SCA regionalt mesterskap 2026 – Classic Barista",
+      "start_at": "2026-11-27T18:00:00",
+      "end_at": "2026-11-27T18:00:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sca-regionalt-mesterskap-2026-classic-barista/?occurrence=2026-11-27",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-34236-2026-11-27",
       "title": "Juleshow på Løvenvold Vol. 4",
       "start_at": "2026-11-27T00:00:00",
@@ -9407,12 +9278,38 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43875-2026-11-27",
+      "title": "Birk Bream & Rumi Rafael",
+      "start_at": "2026-11-27T19:00:00",
+      "end_at": "2026-11-27T20:30:00",
+      "location_name": "Terminalen - Venterommet",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/birk-bream-rumi-rafael/?occurrence=2026-11-27",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-43001-2026-11-27",
       "title": "Julebuffet på Thon Hotel Ålesund",
       "start_at": "2026-11-27T00:00:00",
       "location_name": "Thon Hotel Ålesund",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/julebuffet-pa-thon-hotel-alesund/?occurrence=2026-11-27&time=1795809600",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43898-2026-11-27",
+      "title": "BIG ROOM: Heimbygda House",
+      "start_at": "2026-11-27T00:00:00",
+      "location_name": "Ingebrigt Davik-huset (ID-huset)",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/big-room-heimbygda-house/?occurrence=2026-11-27",
       "tags": [],
       "age_groups": [],
       "is_recurring": false,
@@ -9498,6 +9395,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43984-2026-11-28",
+      "title": "Julemarked på Steinerskolen",
+      "start_at": "2026-11-28T11:00:00",
+      "end_at": "2026-11-28T17:00:00",
+      "location_name": "Steinerskolen Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/julemarked-pa-steinerskolen-5/?occurrence=2026-11-28",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-30716-2026-11-28",
       "title": "Åpen gård – Borgund Dyreklubb",
       "start_at": "2026-11-28T12:00:00",
@@ -9524,13 +9434,39 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-41351-2026-11-28",
-      "title": "Bokkino i Ålesund bibliotek",
-      "start_at": "2026-11-28T13:00:00",
-      "end_at": "2026-11-28T14:00:00",
-      "location_name": "Ålesund bibliotek",
+      "source_id": "bypatrioten-44228-2026-11-28",
+      "title": "Gratis familieverksted på Mottaket – Bygg et skulpturelt landskap, med Erla Audunsdottir",
+      "start_at": "2026-11-28T12:00:00",
+      "end_at": "2026-11-28T16:00:00",
+      "location_name": "Mottaket Kunstscene",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/bokkino-i-alesund-bibliotek-973/?occurrence=2026-11-28",
+      "url": "https://bypatrioten.com/event/gratis-familieverksted-pa-mottaket-bygg-et-skulpturelt-landskap-med-erla-audunsdottir/?occurrence=2026-11-28",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-44438-2026-11-28",
+      "title": "Bokkino: Fjærvenner for alltid",
+      "start_at": "2026-11-28T12:00:00",
+      "end_at": "2026-11-28T13:00:00",
+      "location_name": "Moa bibliotek",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/bokkino-fjaervenner-for-alltid/?occurrence=2026-11-28",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-44207-2026-11-28",
+      "title": "Glow Pop-up, Juleshopping og inspirasjon",
+      "start_at": "2026-11-28T12:00:00",
+      "end_at": "2026-11-28T16:00:00",
+      "location_name": "No. 38 Kunstverksted",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/glow-pop-up-juleshopping-og-inspirasjon/?occurrence=2026-11-28&time=1795867200",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -9576,6 +9512,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43774-2026-11-28",
+      "title": "Julekonsert på låven i Tennfjord",
+      "start_at": "2026-11-28T16:00:00",
+      "end_at": "2026-11-28T18:00:00",
+      "location_name": "Låven, Tennfjordvegen 182",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/julekonsert-pa-laven-i-tennfjord/?occurrence=2026-11-28&time=1795881600",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-42350-2026-11-28",
       "title": "Putti Plutti Pott 2026",
       "start_at": "2026-11-28T16:00:00",
@@ -9589,6 +9538,32 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43873-2026-11-28",
+      "title": "INTRO – Førjulsallsong og julegrantenning",
+      "start_at": "2026-11-28T16:30:00",
+      "end_at": "2026-11-28T17:30:00",
+      "location_name": "Gomerhuset",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/intro-forjulsallsong-og-julegrantenning-2/?occurrence=2026-11-28",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-44442-2026-11-28",
+      "title": "Tenning av Realstjerna, 2026",
+      "start_at": "2026-11-28T16:30:00",
+      "end_at": "2026-11-28T18:00:00",
+      "location_name": "Osane Idrettshall",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/tenning-av-realstjerna-2026/?occurrence=2026-11-28",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-32516-2026-11-28",
       "title": "Krystall Bar – Hotel 1904",
       "start_at": "2026-11-28T17:00:00",
@@ -9596,6 +9571,32 @@
       "location_name": "Hotel 1904",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/krystall-hotel-1904-358/?occurrence=2026-11-28",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43935-2026-11-28",
+      "title": "Julelystenning på Storhaugen",
+      "start_at": "2026-11-28T17:00:00",
+      "end_at": "2026-11-28T18:00:00",
+      "location_name": "Storhaugen",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/julelystenning-pa-storhaugen-3/?occurrence=2026-11-28",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-44436-2026-11-28",
+      "title": "Kakao og Indre Ro",
+      "start_at": "2026-11-28T17:00:00",
+      "end_at": "2026-11-28T18:00:00",
+      "location_name": "Kilden",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/kakao-og-indre-ro/?occurrence=2026-11-28",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -9628,6 +9629,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43780-2026-11-28",
+      "title": "Julebord med buffet på Thon Hotel Ålesund",
+      "start_at": "2026-11-28T18:00:00",
+      "end_at": "2026-11-28T21:30:00",
+      "location_name": "Thon Hotel Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/julebord-med-buffet-pa-thon-hotel-alesund/?occurrence=2026-11-28&time=1795888800",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-34236-2026-11-28",
       "title": "Juleshow på Løvenvold Vol. 4",
       "start_at": "2026-11-28T00:00:00",
@@ -9648,6 +9662,19 @@
       "location_name": "Thon Hotel Ålesund",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/jul-pa-molja/?occurrence=2026-11-28&time=1795890600",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43774-2026-11-28",
+      "title": "Julekonsert på låven i Tennfjord",
+      "start_at": "2026-11-28T19:00:00",
+      "end_at": "2026-11-28T20:00:00",
+      "location_name": "Låven, Tennfjordvegen 182",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/julekonsert-pa-laven-i-tennfjord/?occurrence=2026-11-28&time=1795892400",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -9823,6 +9850,32 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-44228-2026-11-29",
+      "title": "Gratis familieverksted på Mottaket – Bygg et skulpturelt landskap, med Erla Audunsdottir",
+      "start_at": "2026-11-29T12:00:00",
+      "end_at": "2026-11-29T16:00:00",
+      "location_name": "Mottaket Kunstscene",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/gratis-familieverksted-pa-mottaket-bygg-et-skulpturelt-landskap-med-erla-audunsdottir/?occurrence=2026-11-29",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-44047-2026-11-29",
+      "title": "Sammen med Sunnmørsposten: Pepperkakeverksted",
+      "start_at": "2026-11-29T13:00:00",
+      "end_at": "2026-11-29T15:00:00",
+      "location_name": "PIR",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/sammen-med-sunnmorsposten-pepperkakeverksted/?occurrence=2026-11-29",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-42350-2026-11-29",
       "title": "Putti Plutti Pott 2026",
       "start_at": "2026-11-29T13:00:00",
@@ -9830,6 +9883,19 @@
       "location_name": "Parken kulturhus",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/putti-plutti-pott-2026/?occurrence=2026-11-29&time=1795957200",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-44044-2026-11-29",
+      "title": "Utstillingsåpning: Dronning Sonja – Grafikk + Keramikk",
+      "start_at": "2026-11-29T14:00:00",
+      "end_at": "2026-11-29T16:00:00",
+      "location_name": "Khåk Kunsthall",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/utstillingsapning-dronning-sonja-grafikk-keramikk/?occurrence=2026-11-29",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -9908,6 +9974,19 @@
       "location_name": "O'Connor's Irish Pub",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/brettspillkveld/?occurrence=2026-11-29",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-44271-2026-11-29",
+      "title": "Taretausenes Julekonsert, Vigra kirke",
+      "start_at": "2026-11-29T19:00:00",
+      "end_at": "2026-11-29T21:00:00",
+      "location_name": "Vigra kirke",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/taretausenes-julekonsert-vigra-kirke/?occurrence=2026-11-29",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -10590,6 +10669,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-44233-2026-12-03",
+      "title": "Håp i ei gryte – julekonsert",
+      "start_at": "2026-12-03T00:00:00",
+      "location_name": "Ålesund kirke",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/hap-i-ei-gryte-julekonsert-285/?occurrence=2026-12-03",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-34236-2026-12-03",
       "title": "Juleshow på Løvenvold Vol. 4",
       "start_at": "2026-12-03T00:00:00",
@@ -10600,6 +10692,19 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-44226-2026-12-03",
+      "title": "Moljegapet blandakor i julestemning",
+      "start_at": "2026-12-03T18:30:00",
+      "end_at": "2026-12-03T20:00:00",
+      "location_name": "Skarbøvik kirke",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/moljegapet-blandakor-i-julestemning/?occurrence=2026-12-03",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -10772,6 +10877,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43780-2026-12-04",
+      "title": "Julebord med buffet på Thon Hotel Ålesund",
+      "start_at": "2026-12-04T18:00:00",
+      "end_at": "2026-12-04T21:30:00",
+      "location_name": "Thon Hotel Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/julebord-med-buffet-pa-thon-hotel-alesund/?occurrence=2026-12-04&time=1796407200",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-34236-2026-12-04",
       "title": "Juleshow på Løvenvold Vol. 4",
       "start_at": "2026-12-04T00:00:00",
@@ -10834,6 +10952,19 @@
       "age_groups": [],
       "is_recurring": false,
       "end_at": null
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43950-2026-12-04",
+      "title": "Mens vi venter",
+      "start_at": "2026-12-04T19:30:00",
+      "end_at": "2026-12-04T20:30:00",
+      "location_name": "Forum Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/mens-vi-venter/?occurrence=2026-12-04",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
     },
     {
       "source": "bypatrioten",
@@ -10954,6 +11085,19 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-44265",
+      "title": "Julemarked i Spjelkavika 5.-6. desember",
+      "location_name": "Spjelkavik ungdomsskole",
+      "city": "Ålesund",
+      "url": "https://www.facebook.com/events/1609658450483638",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "start_at": null,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-30716-2026-12-05",
       "title": "Åpen gård – Borgund Dyreklubb",
       "start_at": "2026-12-05T12:00:00",
@@ -10980,13 +11124,39 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-41351-2026-12-05",
-      "title": "Bokkino i Ålesund bibliotek",
+      "source_id": "bypatrioten-43896-2026-12-05",
+      "title": "Juleutstilling i Kreativklynge Atelierfellesskap",
+      "start_at": "2026-12-05T12:00:00",
+      "end_at": "2026-12-05T16:00:00",
+      "location_name": "Kreativklynge",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/juleutstilling-i-kreativklynge-atelierfellesskap/?occurrence=2026-12-05&time=1796472000",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-44230-2026-12-05",
+      "title": "Gratis familieverksted på Mottaket – Lag dine egne juleornamenter, med Hilde Rosenberg Bamarni",
+      "start_at": "2026-12-05T12:00:00",
+      "end_at": "2026-12-05T16:00:00",
+      "location_name": "Mottaket Kunstscene",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/gratis-familieverksted-pa-mottaket-lag-dine-egne-juleornamenter-med-hilse-rosenberg-bamarni/?occurrence=2026-12-05",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-44067-2026-12-05",
+      "title": "Bokkino: Kryo – En dag i byen min. Ålesund bibliotek",
       "start_at": "2026-12-05T13:00:00",
       "end_at": "2026-12-05T14:00:00",
       "location_name": "Ålesund bibliotek",
       "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/bokkino-i-alesund-bibliotek-973/?occurrence=2026-12-05",
+      "url": "https://bypatrioten.com/event/bokkino-kryo-en-dag-i-byen-min-alesund-bibliotek/?occurrence=2026-12-05",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -11078,6 +11248,19 @@
       "location_name": "Hotel 1904",
       "city": "Ålesund",
       "url": "https://bypatrioten.com/event/juleinspirert-tapasbuffet-hotel-1904/?occurrence=2026-12-05",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43780-2026-12-05",
+      "title": "Julebord med buffet på Thon Hotel Ålesund",
+      "start_at": "2026-12-05T18:00:00",
+      "end_at": "2026-12-05T21:30:00",
+      "location_name": "Thon Hotel Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/julebord-med-buffet-pa-thon-hotel-alesund/?occurrence=2026-12-05&time=1796493600",
       "tags": [],
       "age_groups": [],
       "is_recurring": false
@@ -11253,6 +11436,58 @@
     },
     {
       "source": "bypatrioten",
+      "source_id": "bypatrioten-43896-2026-12-06",
+      "title": "Juleutstilling i Kreativklynge Atelierfellesskap",
+      "start_at": "2026-12-06T12:00:00",
+      "end_at": "2026-12-06T16:00:00",
+      "location_name": "Kreativklynge",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/juleutstilling-i-kreativklynge-atelierfellesskap/?occurrence=2026-12-06&time=1796558400",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-44230-2026-12-06",
+      "title": "Gratis familieverksted på Mottaket – Lag dine egne juleornamenter, med Hilde Rosenberg Bamarni",
+      "start_at": "2026-12-06T12:00:00",
+      "end_at": "2026-12-06T16:00:00",
+      "location_name": "Mottaket Kunstscene",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/gratis-familieverksted-pa-mottaket-lag-dine-egne-juleornamenter-med-hilse-rosenberg-bamarni/?occurrence=2026-12-06",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-44267",
+      "title": "Julemarked i Spjelkavika 6. desember",
+      "location_name": "Spjelkavik ungdomsskole",
+      "city": "Ålesund",
+      "url": "https://www.facebook.com/events/1609658450483638",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false,
+      "start_at": null,
+      "end_at": null
+    },
+    {
+      "source": "bypatrioten",
+      "source_id": "bypatrioten-43778-2026-12-06",
+      "title": "Adventslunch buffet på Thon Hotel Ålesund",
+      "start_at": "2026-12-06T13:00:00",
+      "end_at": "2026-12-06T16:00:00",
+      "location_name": "Thon Hotel Ålesund",
+      "city": "Ålesund",
+      "url": "https://bypatrioten.com/event/adventslunch-buffet-pa-thon-hotel-alesund/?occurrence=2026-12-06",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "bypatrioten",
       "source_id": "bypatrioten-42350-2026-12-06",
       "title": "Putti Plutti Pott 2026",
       "start_at": "2026-12-06T13:00:00",
@@ -11341,416 +11576,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-0c4ff255-5f9d-4001-842f-d8662d4ec4cd",
-      "title": "Pensjonskuppet",
-      "description": "Årets villeste komedie!",
-      "start_at": "2026-11-26T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/15cc2d5b62ab48d4a8408cd332b400d3.jpg?w=1440&version=03F71CCE2C2D36F23AF7C505F8C7D18D",
-      "url": "https://www.odeonkino.no/film/pensjonskuppet/",
-      "tags": [
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6d9ee3b7-1f09-415d-a5d7-95b9691d86ba",
-      "title": "Málagagaten",
-      "start_at": "2026-11-26T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/3761834bd5074ad298cf8ac4910307ad.jpg?w=1440&version=3BACFAF652064F74B4F363DEC1D269D7",
-      "url": "https://www.odeonkino.no/film/malagagaten/",
-      "tags": [
-        "luxe",
-        "drama",
-        "romantikk"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8c4c8405-f38b-4fcd-8d5e-d94cbaaf8b85",
-      "title": "Velkommen til familien",
-      "description": "Oscar-nominerte Inga Ibsdotter Lilleaas inviterer til julens klammeste og morsomste familieselskap.",
-      "start_at": "2026-11-26T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7b10325ddf2d4aa4996ea5be35707bac.jpg?w=1440&version=EAE45DA652E2A919CB45EC52F0A86F2F",
-      "url": "https://www.odeonkino.no/film/velkommen-til-familien/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b894ef68-ea46-48c5-ada6-66a5442d1f3e",
-      "title": "Julenissens verksted",
-      "start_at": "2026-11-26T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a6905b1dd1a409ba3a3769ecbe57412.jpg?w=1440&version=22D1CDB3AFFAC866E822ECD6E7D4E950",
-      "url": "https://www.odeonkino.no/film/julenissens-verksted/",
-      "tags": [
-        "isense",
-        "familiefilm",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-c4f18185-b272-47c1-b7a7-5db1537a36fe",
-      "title": "Markens grøde",
-      "description": "Hans Petter Moland bringer Knut Hamsuns udødelige mesterverk Markens grøde til det store lerretet",
-      "start_at": "2026-11-26T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/ed68a212c5d64d08884a312bff232c7b.jpg?w=1440&version=E2B795DA436F583A0962792CC84266AA",
-      "url": "https://www.odeonkino.no/film/markens-grode/",
-      "tags": [
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-ee2f4b69-6f09-4514-a0ca-5859ce4057b4",
-      "title": "You Can See Everything",
-      "start_at": "2026-11-26T12:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2b118f8cce79421998b4443e38a6cda8.jpg?w=1440&version=736D6B0C6724FDCAEF3E7D19123626F5",
-      "url": "https://www.odeonkino.no/film/you-can-see-everything/",
-      "tags": [
-        "luxe",
-        "dokumentar",
-        "biografi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-98d0403f-28e3-4d0a-b30e-203e8c7480a1",
-      "title": "The Hunger Games: Sunrise on the Reaping",
-      "start_at": "2026-11-26T14:00:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0df57bbf4f924c35b27a4f2fbcbebdb1.jpg?w=1440&version=737F6BEAC51523F9F88D8DFB9326B338",
-      "url": "https://www.odeonkino.no/film/the-hunger-games-sunrise-on-the-reaping/",
-      "tags": [
-        "isense",
-        "action",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-826558ef-637e-4fd1-b7d8-3be73550b24e",
-      "title": "Julenissens verksted",
-      "start_at": "2026-11-26T14:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a6905b1dd1a409ba3a3769ecbe57412.jpg?w=1440&version=22D1CDB3AFFAC866E822ECD6E7D4E950",
-      "url": "https://www.odeonkino.no/film/julenissens-verksted/",
-      "tags": [
-        "familiefilm",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-734d6e65-9c42-4573-8835-0b87cd1e5845",
-      "title": "Velkommen til familien",
-      "description": "Oscar-nominerte Inga Ibsdotter Lilleaas inviterer til julens klammeste og morsomste familieselskap.",
-      "start_at": "2026-11-26T14:45:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7b10325ddf2d4aa4996ea5be35707bac.jpg?w=1440&version=EAE45DA652E2A919CB45EC52F0A86F2F",
-      "url": "https://www.odeonkino.no/film/velkommen-til-familien/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-b6ab5c5f-6de1-40e1-beb6-495c694b89b9",
-      "title": "Ebenezer",
-      "start_at": "2026-11-26T15:00:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/15b99639fc434bc2a025a491a7842a31.jpg?w=1440&version=825DE2DB31E1ED04D80EB38BFEA52824",
-      "url": "https://www.odeonkino.no/film/ebenezer/",
-      "tags": [
-        "luxe",
-        "sort komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-189371a2-47ed-40e6-aaf6-e4abf73e6aeb",
-      "title": "Mysteriepakken",
-      "start_at": "2026-11-26T15:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/8bc5d963027843f99557b048c8e2eda5.jpg?w=1440&version=39F8AAFC0D79FE4CD69477F1C4924806",
-      "url": "https://www.odeonkino.no/film/mysteriepakken/",
-      "tags": [
-        "luxe",
-        "familiefilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-3e7e5656-9c1d-4d58-998c-c3a0a58b9dee",
-      "title": "Pensjonskuppet",
-      "description": "Årets villeste komedie!",
-      "start_at": "2026-11-26T16:10:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/15cc2d5b62ab48d4a8408cd332b400d3.jpg?w=1440&version=03F71CCE2C2D36F23AF7C505F8C7D18D",
-      "url": "https://www.odeonkino.no/film/pensjonskuppet/",
-      "tags": [
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-8c958a07-2bf6-49f5-8706-5267e736e568",
-      "title": "Julenissens verksted",
-      "start_at": "2026-11-26T16:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2a6905b1dd1a409ba3a3769ecbe57412.jpg?w=1440&version=22D1CDB3AFFAC866E822ECD6E7D4E950",
-      "url": "https://www.odeonkino.no/film/julenissens-verksted/",
-      "tags": [
-        "familiefilm",
-        "barnefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-89835197-54aa-4b0d-a87e-aaafb88a26db",
-      "title": "Markens grøde",
-      "description": "Hans Petter Moland bringer Knut Hamsuns udødelige mesterverk Markens grøde til det store lerretet",
-      "start_at": "2026-11-26T17:00:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/ed68a212c5d64d08884a312bff232c7b.jpg?w=1440&version=E2B795DA436F583A0962792CC84266AA",
-      "url": "https://www.odeonkino.no/film/markens-grode/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-bfd2ecd6-48b0-44f9-bfc0-90dc0e55af6e",
-      "title": "The Hunger Games: Sunrise on the Reaping",
-      "start_at": "2026-11-26T17:30:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0df57bbf4f924c35b27a4f2fbcbebdb1.jpg?w=1440&version=737F6BEAC51523F9F88D8DFB9326B338",
-      "url": "https://www.odeonkino.no/film/the-hunger-games-sunrise-on-the-reaping/",
-      "tags": [
-        "isense",
-        "action",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-581f93c0-2c20-4755-9cca-0234741a1804",
-      "title": "A Talent for Murder",
-      "start_at": "2026-11-26T17:45:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5993832bc6b3473ba4f0349d89f7c618.jpg?w=1440&version=C2FEF65C580C20802CD327878A9BF997",
-      "url": "https://www.odeonkino.no/film/a-talent-for-murder/",
-      "tags": [
-        "luxe",
-        "thriller"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-24567832-9b0d-4f57-b593-684a86b47c61",
-      "title": "Ebenezer",
-      "start_at": "2026-11-26T18:00:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/15b99639fc434bc2a025a491a7842a31.jpg?w=1440&version=825DE2DB31E1ED04D80EB38BFEA52824",
-      "url": "https://www.odeonkino.no/film/ebenezer/",
-      "tags": [
-        "luxe",
-        "sort komedie",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-9928c31f-6072-41d7-8767-161f962012e5",
-      "title": "Pensjonskuppet",
-      "description": "Årets villeste komedie!",
-      "start_at": "2026-11-26T18:30:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/15cc2d5b62ab48d4a8408cd332b400d3.jpg?w=1440&version=03F71CCE2C2D36F23AF7C505F8C7D18D",
-      "url": "https://www.odeonkino.no/film/pensjonskuppet/",
-      "tags": [
-        "komedie"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-708017f8-d0cd-4c7f-b01e-8ac65abefc56",
-      "title": "En nasjon i sjakk",
-      "start_at": "2026-11-26T18:45:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8c66656a2094a158e66eb9d698d1980.jpg?w=1440&version=CD9AF7C788A875FA30272EC9C5CC3C99",
-      "url": "https://www.odeonkino.no/film/en-nasjon-i-sjakk/",
-      "tags": [
-        "thriller",
-        "spenning",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-50448d74-4f37-4778-a073-1e81e875cc27",
-      "title": "You Can See Everything",
-      "start_at": "2026-11-26T20:15:00",
-      "location_name": "ODEON Ålesund – Sal 6 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/2b118f8cce79421998b4443e38a6cda8.jpg?w=1440&version=736D6B0C6724FDCAEF3E7D19123626F5",
-      "url": "https://www.odeonkino.no/film/you-can-see-everything/",
-      "tags": [
-        "luxe",
-        "dokumentar",
-        "biografi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-7031dafd-d889-4d8e-b047-a5a8113c3d13",
-      "title": "Velkommen til familien",
-      "description": "Oscar-nominerte Inga Ibsdotter Lilleaas inviterer til julens klammeste og morsomste familieselskap.",
-      "start_at": "2026-11-26T20:30:00",
-      "location_name": "ODEON Ålesund – Sal 2 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7b10325ddf2d4aa4996ea5be35707bac.jpg?w=1440&version=EAE45DA652E2A919CB45EC52F0A86F2F",
-      "url": "https://www.odeonkino.no/film/velkommen-til-familien/",
-      "tags": [
-        "luxe",
-        "drama"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-d74d7194-df35-4a9b-910c-70472d91f432",
-      "title": "Wildwood",
-      "start_at": "2026-11-26T20:45:00",
-      "location_name": "ODEON Ålesund – Sal 5 LUXE",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/a22bcbded559495d8dc6065e3bbe4da6.jpg?w=1440&version=C13359EE1FF2C1DA222D2A3293EA99C5",
-      "url": "https://www.odeonkino.no/film/wildwood/",
-      "tags": [
-        "luxe",
-        "fantasy",
-        "familiefilm",
-        "animasjon"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-24a2e1c9-4fe6-407b-9599-03acb6ffde99",
-      "title": "The Hunger Games: Sunrise on the Reaping",
-      "start_at": "2026-11-26T20:50:00",
-      "location_name": "ODEON Ålesund – Sal 1 - iSense",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/0df57bbf4f924c35b27a4f2fbcbebdb1.jpg?w=1440&version=737F6BEAC51523F9F88D8DFB9326B338",
-      "url": "https://www.odeonkino.no/film/the-hunger-games-sunrise-on-the-reaping/",
-      "tags": [
-        "isense",
-        "action",
-        "sci-fi"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
@@ -14198,6 +14023,24 @@
       "tags": [
         "luxe",
         "thriller"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-3d2c4775-c62c-4a3a-b80c-a773f630efd7",
+      "title": "Reisen til Julestjernen 50-årsjubileum",
+      "start_at": "2026-12-10T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/1aa49e20ec6146c49ac36cdc5a187884.jpg?w=1440&version=8869DEB6F1DE604E0A49A4E67D954E98",
+      "url": "https://www.odeonkino.no/film/reisen-til-julestjernen-50-arsjubileum/",
+      "tags": [
+        "luxe",
+        "familiefilm",
+        "eventyr"
       ],
       "age_groups": [],
       "is_recurring": false,
