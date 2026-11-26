@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T21:15:55.434808+00:00",
-  "total": 816,
+  "generated_at": "2026-11-26T07:19:51.597563+00:00",
+  "total": 814,
   "failed_sources": [
     "viti"
   ],
@@ -1570,6 +1570,27 @@
       "tags": [],
       "age_groups": [
         "children"
+      ],
+      "is_recurring": false
+    },
+    {
+      "source": "friskus",
+      "source_id": "friskus-oaamIScP3csRk",
+      "title": "Bålkveld og julegrøt med DNT Unge Voksne (20-35)",
+      "start_at": "2026-12-03T18:30:00",
+      "end_at": "2026-12-03T21:00:00",
+      "is_free": true,
+      "location_name": "DNT Sunnmøre",
+      "city": "Ålesund",
+      "organizer": "DNT Sunnmøre",
+      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_632148",
+      "url": "https://alesund.friskus.com/events/oaamIScP3csRk",
+      "tags": [
+        "friluftsliv",
+        "tur"
+      ],
+      "age_groups": [
+        "teenager"
       ],
       "is_recurring": false
     },
@@ -6487,8 +6508,8 @@
     {
       "source": "tikkio",
       "source_id": "tikkio-dedabef2ec1725f91aa00c16c8a8fde1",
-      "title": "2027 // Kaffebaren (23 år)",
-      "description": "<p>NYTTÅRSAFTEN PÅ KAFFEBAREN – 31.12!</p><p>Vi avslutta året med et smell og åpna dørene på Kaffebaren for ei skikkelig nyttårsfeiring!</p><p>Etter suksessen i fjor er det klart for en ny runde med SIMBRA bak spakene! Han sørga for fantastisk stemning sist, og vi satsa på minst like god stemning når vi skal danse oss inn i 2027!</p><p>Også i år held vi på 23-års aldersgrense, slik at vi legge til rette for dei litt eldre som vil ut og feire nyttårsaften i lag!</p><p>Samle vennegjengen, sikre dokke billetta og bli med på årets siste fest!</p><p>ID // 23 år</p><p>EARLYBIRD UTE NO!</p>",
+      "title": "2027 // Kaffebaren (18 år)",
+      "description": "<p>NYTTÅRSAFTEN PÅ KAFFEBAREN – 31.12!</p><p>Vi avslutta året med et smell og åpna dørene på Kaffebaren for ei skikkelig nyttårsfeiring!</p><p>Etter suksessen i fjor er det klart for en ny runde med SIMBRA bak spakene! Han sørga for fantastisk stemning sist, og vi satsa på minst like god stemning når vi skal danse oss inn i 2027!</p><p>Samle vennegjengen, sikre dokke billetta og bli med på årets siste fest!</p><p>ID // 18 år</p><p>EARLYBIRD UTE NO!</p>",
       "start_at": "2026-12-31T22:00:00",
       "end_at": "2027-01-01T02:00:00",
       "is_free": false,
@@ -7563,7 +7584,8 @@
       "description": "<p>Hydlastova og den fantastiske Mamma Mia! gjengen har i år gleden av å presentere <br>«Mamma Mia! The Dinnershow» som et alternativ til den klassiske julebuffeten.<br>Martin Arentz er tilbake på gjestevisitt i Hydlastova. Her vil Martin saman med teamet sitt servere en fantastisk 4 retters meny i kombinasjon med et forrykande show frå Mamma Mia! gjengen skreddersydd for anledningen.<br>Etter middag spelar Holko og Hauge opp til dans.<br>Allergier meldes til <a href=\"mailto:ptenden@hotmail.com\"><u>ptenden@hotmail.com</u></a> seinast 9. november.<br>Ved grupper over 6 personer, kontakt <a href=\"mailto:ptenden@hotmail.com\"><u>ptenden@hotmail.com</u></a> eller 906 82 420.</p>",
       "start_at": "2026-11-28T17:30:00",
       "end_at": "2026-11-29T02:30:00",
-      "is_free": true,
+      "is_free": false,
+      "price_text": "NOK 1390.00",
       "location_name": "Hydlastova",
       "city": "Ålesund",
       "latitude": 61.9225668,
@@ -9047,19 +9069,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-43013-2026-11-26",
-      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
-      "start_at": "2026-11-26T00:00:00",
-      "location_name": "Forum Ålesund",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-26",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-30716-2026-11-26",
       "title": "Åpen gård – Borgund Dyreklubb",
       "start_at": "2026-11-26T12:00:00",
@@ -9122,19 +9131,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-34236-2026-11-26",
-      "title": "Juleshow på Løvenvold Vol. 4",
-      "start_at": "2026-11-26T00:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/juleshow-pa-lovenvold-vol-4/?occurrence=2026-11-26&time=1795717800",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -11345,22 +11341,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-6277116e-bdc6-4678-a88c-824ba6561591",
-      "title": "Other Mommy",
-      "start_at": "2026-11-25T21:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/86ab349872d241a5877a8fcd475f6cb4.jpg?w=1440&version=5C4B6E107A1B86802A4E8717DD6BE9AB",
-      "url": "https://www.odeonkino.no/film/other-mommy/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "odeon",
