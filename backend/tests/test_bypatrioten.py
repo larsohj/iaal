@@ -61,3 +61,34 @@ class TestBypatriotenScraper:
         start, end = BypatriotenScraper._parse_time("2026-04-01", None)
         assert start == "2026-04-01T00:00:00"
         assert end is None
+
+    def test_same_day_showings_use_separate_stable_ids(self):
+        def showing(timestamp, start, end):
+            return f"""
+            <article class="mec-event-article">
+                <div class="mec-event-time">{start} - {end}</div>
+                <h4 class="mec-event-title">
+                    <a data-event-id="42350"
+                       href="/event/putti-plutti-pott-2026/?occurrence=2026-11-28&amp;time={timestamp}">
+                        Putti Plutti Pott 2026
+                    </a>
+                </h4>
+            </article>
+            """
+
+        early = showing("1795870800", "13.00", "15.00")
+        late = showing("1795881600", "16.00", "18.00")
+        scraper = BypatriotenScraper()
+        with patch.object(scraper, "_get", side_effect=[
+            _mock_response(early + late), _mock_response(late + early),
+        ]):
+            events = scraper.scrape()
+            reversed_events = scraper.scrape()
+
+        expected = {
+            "2026-11-28T13:00:00": "bypatrioten-42350-2026-11-28-1795870800",
+            "2026-11-28T16:00:00": "bypatrioten-42350-2026-11-28-1795881600",
+        }
+        assert len(events) == len(reversed_events) == 2
+        assert {event.start_at: event.source_id for event in events} == expected
+        assert {event.start_at: event.source_id for event in reversed_events} == expected

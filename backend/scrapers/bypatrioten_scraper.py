@@ -32,12 +32,18 @@ class BypatriotenScraper(BaseScraper):
             event_url = link.get("href", "")
             event_id = link.get("data-event-id", "")
 
-            # Hent occurrence-dato fra URL
+            # Dato og kilde-ID kan være felles for flere forestillinger.
             parsed = urlparse(event_url)
             params = parse_qs(parsed.query)
             occurrence = params.get("occurrence", [None])[0]
 
-            source_id = f"bypatrioten-{event_id}-{occurrence}" if occurrence else f"bypatrioten-{event_id}"
+            occurrence_time = params.get("time", [""])[0]
+            id_parts = ["bypatrioten", event_id]
+            if occurrence:
+                id_parts.append(occurrence)
+            if re.fullmatch(r"[0-9]+", occurrence_time):
+                id_parts.append(occurrence_time)
+            source_id = "-".join(id_parts)
 
             # Tidsrom
             time_tag = article.select_one(".mec-event-time")
