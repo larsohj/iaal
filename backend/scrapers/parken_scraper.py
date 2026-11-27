@@ -116,7 +116,7 @@ class ParkenScraper(BaseScraper):
 
     def _parse_shows(self, shows, event: EventData, anchor: datetime) -> list[EventData]:
         year = anchor.year
-        previous_date = (anchor.month, anchor.day)
+        previous_date = None
         performances = {}
         for show in shows:
             date_tag = show.select_one(".date")
@@ -125,9 +125,13 @@ class ParkenScraper(BaseScraper):
                 continue
 
             day, month = int(match[1]), int(match[2])
-            # Spillelisten er kronologisk. Årstallet står bare i første forestillings metadata.
             show_date = (month, day)
-            show_year = year + (show_date < previous_date)
+            if previous_date is None:
+                # Metadata kan vise neste ledige forestilling, mens listen også viser tidligere datoer.
+                month_offset = month - anchor.month
+                show_year = year + (month_offset < -6) - (month_offset > 6)
+            else:
+                show_year = year + (show_date < previous_date)
             try:
                 start, end = self._with_times(datetime(show_year, month, day), match.groups()[2:])
             except ValueError:

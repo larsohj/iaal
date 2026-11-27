@@ -252,3 +252,29 @@ def test_filter_distinguishes_the_two_occurrences_of_a_repeated_local_time():
     first = {"start_at": "2026-10-25T02:30:00+02:00"}
     second = {"start_at": "2026-10-25T02:30:00+01:00"}
     assert filter_past_events([first, second], now=now) == [second]
+
+
+def test_main_merges_cross_source_duplicates_and_keeps_separate_showtimes(tmp_path):
+    base = {
+        "title": "Putti Plutti Pott", "city": "Ålesund",
+        "location_name": "Parken kulturhus", "start_at": "2099-11-28T13:00:00",
+    }
+    friskus = {**base, "source": "friskus", "source_id": "friskus-1",
+               "start_at": "2099-11-28T12:00:00Z", "address": "Parkgata 3B", "tags": ["barn"]}
+    parken = {**base, "source": "parken", "source_id": "parken-1",
+              "location_name": "Parken kulturhus – Hovedscene", "url": "https://tickets.example/13",
+              "end_at": "2099-11-28T15:00:00", "tags": ["teater"]}
+    late = {**parken, "source_id": "parken-2", "start_at": "2099-11-28T16:00:00"}
+    bypatrioten = {**base, "source": "bypatrioten", "source_id": "bypatrioten-1",
+                   "title": "Putti Plutti Pott 2099"}
+
+    with patch("backend.generate.run_scrapers", return_value=([friskus, parken, late, bypatrioten], [])), \
+            patch("backend.generate.OUTPUT_DIR", tmp_path):
+        from backend.generate import main
+        path = main()
+
+    events = json.loads(path.read_text())["events"]
+    assert [event["source_id"] for event in events] == ["parken-1", "parken-2"]
+    assert events[0]["url"] == parken["url"]
+    assert events[0]["address"] == friskus["address"]
+    assert events[0]["tags"] == ["teater", "barn"]

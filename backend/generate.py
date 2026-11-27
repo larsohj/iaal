@@ -15,6 +15,7 @@ from zoneinfo import ZoneInfo
 # Sørg for at prosjektroten (parent av backend/) er i sys.path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
+from backend.deduplicate import deduplicate_events
 from backend.scrapers.friskus_scraper import FriskusScraper
 from backend.scrapers.viti_scraper import VitiScraper
 from backend.scrapers.tikkio_scraper import TikkioScraper
@@ -168,6 +169,9 @@ def main():
     events, failed = run_scrapers()
     events = merge_with_existing(events, failed)
     events = filter_past_events(events)
+    before_deduplication = len(events)
+    events = deduplicate_events(events, failed)
+    logger.info("Slo sammen %d dublettoppføringer", before_deduplication - len(events))
     events = normalize_events(events)
     path = write_events_json(events, failed)
 

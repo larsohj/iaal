@@ -161,7 +161,7 @@ class TestParkenScraper:
         assert events[0].start_at == "2026-05-15T00:00:00"
 
     @pytest.mark.parametrize("title, date_range, first_start, shows", [
-        ("Putti Plutti Pott", "27. nov – 6. des", "2026-11-27T18:00:00+01:00", [
+        ("Putti Plutti Pott", "28. nov – 6. des", "2026-11-28T13:00:00+01:00", [
             ("27.11", "18:00", "20:00", "2026-11-27"),
             ("28.11", "13:00", "15:00", "2026-11-28"),
             ("28.11", "16:00", "18:00", "2026-11-28"),
