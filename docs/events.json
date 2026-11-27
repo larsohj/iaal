@@ -1,32 +1,10 @@
 {
-  "generated_at": "2026-11-26T21:05:32.711382+00:00",
-  "total": 810,
+  "generated_at": "2026-11-27T07:16:16.013051+00:00",
+  "total": 847,
   "failed_sources": [
     "viti"
   ],
   "events": [
-    {
-      "source": "friskus",
-      "source_id": "friskus-8618b420-f103-4ab7-a8df-834af4e92df0",
-      "title": "Friområde for hund",
-      "start_at": "2026-11-27T07:00:00",
-      "end_at": "2027-12-03T23:00:00",
-      "is_free": true,
-      "location_name": "Harøy Hundepark",
-      "city": "Ålesund",
-      "organizer": "Harøy Hundepark",
-      "image_url": "https://ucarecdn.com/5a4f9885-2e2a-4d01-b5e5-07b90139c918/-/resize/x300/-/crop/1100x300/center/",
-      "url": "https://alesund.friskus.com/events/8618b420-f103-4ab7-a8df-834af4e92df0",
-      "tags": [],
-      "age_groups": [
-        "children",
-        "teenager",
-        "family",
-        "senior",
-        "pensioner"
-      ],
-      "is_recurring": true
-    },
     {
       "source": "friskus",
       "source_id": "friskus-cea60d99-0abe-4e6a-8575-bdc70657054e",
@@ -6019,6 +5997,26 @@
     },
     {
       "source": "tikkio",
+      "source_id": "tikkio-71210b1a2347c8d199dbb04ad93b5958",
+      "title": "Ølsmaking på KaaB ",
+      "description": "<p></p>",
+      "start_at": "2027-01-20T19:00:00",
+      "end_at": "2027-01-20T23:30:00",
+      "is_free": false,
+      "price_text": "NOK 423.00",
+      "location_name": "KaaB Bryggeri",
+      "city": "Ålesund",
+      "latitude": 62.4407847,
+      "longitude": 6.1915121,
+      "organizer": "Kaab Bryggeri",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/uploads/event/c_88ed0b11000c5ac3af96d586e8f5f625.webp?class=w768",
+      "url": "https://tikkio.com/events/67280-olsmaking-pa-kaab",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "tikkio",
       "source_id": "tikkio-88b1a408bef12a684df9e362bb8dd996",
       "title": "Kåre Indrehus ",
       "description": "<p></p>",
@@ -7432,8 +7430,7 @@
       "description": "<p>Hydlastova og den fantastiske Mamma Mia! gjengen har i år gleden av å presentere <br>«Mamma Mia! The Dinnershow» som et alternativ til den klassiske julebuffeten.<br>Martin Arentz er tilbake på gjestevisitt i Hydlastova. Her vil Martin saman med teamet sitt servere en fantastisk 4 retters meny i kombinasjon med et forrykande show frå Mamma Mia! gjengen skreddersydd for anledningen.<br>Etter middag spelar Holko og Hauge opp til dans.<br>Allergier meldes til <a href=\"mailto:ptenden@hotmail.com\"><u>ptenden@hotmail.com</u></a> seinast 9. november.<br>Ved grupper over 6 personer, kontakt <a href=\"mailto:ptenden@hotmail.com\"><u>ptenden@hotmail.com</u></a> eller 906 82 420.</p>",
       "start_at": "2026-11-28T17:30:00",
       "end_at": "2026-11-29T02:30:00",
-      "is_free": false,
-      "price_text": "NOK 1390.00",
+      "is_free": true,
       "location_name": "Hydlastova",
       "city": "Ålesund",
       "latitude": 61.9225668,
@@ -7498,7 +7495,7 @@
       "latitude": 62.577801,
       "longitude": 7.7922426,
       "organizer": "VOKSENKLUBBEN ISFJORDEN",
-      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-3.jpeg?class=w768",
+      "image_url": "https://cdn.tikkio.com/static/1.0.3495/images/tikkio-placeholder-2.jpeg?class=w768",
       "url": "https://tikkio.com/events/67507-2dagdans-2026",
       "tags": [],
       "age_groups": [],
@@ -9083,19 +9080,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-43013-2026-11-27",
-      "title": "Valeria Duca «Home» – Kunstutstilling på Forum",
-      "start_at": "2026-11-27T00:00:00",
-      "location_name": "Forum Ålesund",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/valeria-duca-home-kunstutstilling-pa-forum/?occurrence=2026-11-27",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-30716-2026-11-27",
       "title": "Åpen gård – Borgund Dyreklubb",
       "start_at": "2026-11-27T12:00:00",
@@ -9226,19 +9210,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-34236-2026-11-27",
-      "title": "Juleshow på Løvenvold Vol. 4",
-      "start_at": "2026-11-27T00:00:00",
-      "location_name": "Løvenvold Theater",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/juleshow-pa-lovenvold-vol-4/?occurrence=2026-11-27&time=1795804200",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-40262-2026-11-27",
       "title": "Jul på Molja",
       "start_at": "2026-11-27T18:30:00",
@@ -9252,32 +9223,6 @@
     },
     {
       "source": "bypatrioten",
-      "source_id": "bypatrioten-42362-2026-11-27",
-      "title": "Julebord på Fabrikken 2026",
-      "start_at": "2026-11-27T00:00:00",
-      "location_name": "Fabrikken Kulturscene",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/julebord-pa-fabrikken-2026/?occurrence=2026-11-27&time=1795806000",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-43320-2026-11-27",
-      "title": "Julebord på Alnes",
-      "start_at": "2026-11-27T00:00:00",
-      "location_name": "Alnes Fyr og Opplevelsessenter",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/julebord-pa-alnes/?occurrence=2026-11-27&time=1795806000",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
       "source_id": "bypatrioten-43875-2026-11-27",
       "title": "Birk Bream & Rumi Rafael",
       "start_at": "2026-11-27T19:00:00",
@@ -9288,32 +9233,6 @@
       "tags": [],
       "age_groups": [],
       "is_recurring": false
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-43001-2026-11-27",
-      "title": "Julebuffet på Thon Hotel Ålesund",
-      "start_at": "2026-11-27T00:00:00",
-      "location_name": "Thon Hotel Ålesund",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/julebuffet-pa-thon-hotel-alesund/?occurrence=2026-11-27&time=1795809600",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "bypatrioten",
-      "source_id": "bypatrioten-43898-2026-11-27",
-      "title": "BIG ROOM: Heimbygda House",
-      "start_at": "2026-11-27T00:00:00",
-      "location_name": "Ingebrigt Davik-huset (ID-huset)",
-      "city": "Ålesund",
-      "url": "https://bypatrioten.com/event/big-room-heimbygda-house/?occurrence=2026-11-27",
-      "tags": [],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
     },
     {
       "source": "bypatrioten",
@@ -11579,41 +11498,6 @@
     },
     {
       "source": "odeon",
-      "source_id": "odeon-14a173a0-83ff-4835-a043-9262f5f3d5e4",
-      "title": "Godzilla Minus Zero",
-      "start_at": "2026-11-26T21:10:00",
-      "location_name": "ODEON Ålesund – Sal 4",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/7803c39e7f0b42e4a12eaef8a66c65e6.jpg?w=1440&version=5FF7A7760220B0526A9E7F86CB71431E",
-      "url": "https://www.odeonkino.no/film/godzilla-minus-zero/",
-      "tags": [
-        "eventyr",
-        "sci-fi",
-        "drama",
-        "action"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
-      "source_id": "odeon-46ec796a-2c2a-402a-8f40-20ac23c40b66",
-      "title": "Other Mommy",
-      "start_at": "2026-11-26T21:30:00",
-      "location_name": "ODEON Ålesund – Sal 3",
-      "city": "Ålesund",
-      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/86ab349872d241a5877a8fcd475f6cb4.jpg?w=1440&version=5C4B6E107A1B86802A4E8717DD6BE9AB",
-      "url": "https://www.odeonkino.no/film/other-mommy/",
-      "tags": [
-        "skrekkfilm"
-      ],
-      "age_groups": [],
-      "is_recurring": false,
-      "end_at": null
-    },
-    {
-      "source": "odeon",
       "source_id": "odeon-159da26c-df36-47f7-8844-0abd15201376",
       "title": "Julenissens verksted",
       "start_at": "2026-11-27T12:00:00",
@@ -11703,6 +11587,23 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-cc2823e4-e855-4e72-88bb-d4f13e9cc2d8",
+      "title": "Focker In-Law",
+      "start_at": "2026-11-27T13:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-d4ecaa26-64b5-4a98-aff7-eae9c59fa53a",
       "title": "The Hunger Games: Sunrise on the Reaping",
       "start_at": "2026-11-27T14:00:00",
@@ -11774,6 +11675,42 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-0d7f8e64-51a2-4beb-a1d4-25f9f57f2561",
+      "title": "Focker In-Law",
+      "start_at": "2026-11-27T16:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-68e80302-c74b-4e1c-bdc5-b36ab71e354f",
+      "title": "Hexe: det magiske riket",
+      "start_at": "2026-11-27T16:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b86f0e379cb14d4c8bf5b1ee8ded36b4.jpg?w=1440&version=3F6DE4BC51E1ABF2044B1889C6BEF005",
+      "url": "https://www.odeonkino.no/film/hexe-det-magiske-riket/",
+      "tags": [
+        "animasjon",
+        "familiefilm",
+        "eventyr",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-ae51e177-c351-45d2-9d53-36a270645bdb",
       "title": "Julenissens verksted",
       "start_at": "2026-11-27T17:00:00",
@@ -11828,6 +11765,23 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-e3a664ed-4be5-4235-b8e9-6ebb5cd5976c",
+      "title": "Kaizers Orchestra - Live - Dine gamle dager er nå",
+      "start_at": "2026-11-27T18:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/94beeeb18941494a821ac974fbc5736a.jpg?w=1440&version=46A9462815AC821775BD32E6D1537B50",
+      "url": "https://www.odeonkino.no/film/kaizers-orchestra-live-dine-gamle-dager-er-na/",
+      "tags": [
+        "luxe",
+        "konsert"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-638a7d3a-883a-47fe-a092-64129efa7100",
       "title": "Pensjonskuppet",
       "description": "Årets villeste komedie!",
@@ -11838,6 +11792,22 @@
       "url": "https://www.odeonkino.no/film/pensjonskuppet/",
       "tags": [
         "luxe",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a9c89ed8-a1e8-4b3a-a03e-4ca042b9bfef",
+      "title": "Focker In-Law",
+      "start_at": "2026-11-27T19:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
         "komedie"
       ],
       "age_groups": [],
@@ -11935,6 +11905,23 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-81e52309-3c20-4c00-8f08-c4308c1d679b",
+      "title": "Buddy",
+      "start_at": "2026-11-27T21:30:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5b73ea5a313c45ad8ce0ada167af9362.jpg?w=1440&version=6D04EF442BE8FFF26CE584EBAFEFC8ED",
+      "url": "https://www.odeonkino.no/film/buddy/",
+      "tags": [
+        "sort komedie",
+        "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-2b485671-8708-49bc-9650-48cb101bac4a",
       "title": "Jul med Astrid Lindgren",
       "description": "Opplev en magisk jul med Astrid Lindgrens klassiske figurer som Emil, Kajsa Kavat og Per Pusling i et hjertevarmt juleeventyr for hele familien.",
@@ -12001,6 +11988,25 @@
         "animasjon",
         "barnefilm",
         "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a97a7157-c617-445a-b3b7-cc311a7c446c",
+      "title": "Hexe: det magiske riket",
+      "start_at": "2026-11-28T10:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b86f0e379cb14d4c8bf5b1ee8ded36b4.jpg?w=1440&version=3F6DE4BC51E1ABF2044B1889C6BEF005",
+      "url": "https://www.odeonkino.no/film/hexe-det-magiske-riket/",
+      "tags": [
+        "animasjon",
+        "familiefilm",
+        "eventyr",
+        "animasjon"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -12077,6 +12083,25 @@
         "luxe",
         "animasjon",
         "barnefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-0d5ec78b-5fbb-47b8-84e4-f1c0e69ee3d0",
+      "title": "Hexe: det magiske riket",
+      "start_at": "2026-11-28T13:15:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b86f0e379cb14d4c8bf5b1ee8ded36b4.jpg?w=1440&version=3F6DE4BC51E1ABF2044B1889C6BEF005",
+      "url": "https://www.odeonkino.no/film/hexe-det-magiske-riket/",
+      "tags": [
+        "animasjon",
+        "familiefilm",
+        "eventyr",
+        "animasjon"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -12192,6 +12217,25 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-7348a994-0da0-4603-b50e-c6f142220de4",
+      "title": "Hexe: det magiske riket",
+      "start_at": "2026-11-28T15:50:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b86f0e379cb14d4c8bf5b1ee8ded36b4.jpg?w=1440&version=3F6DE4BC51E1ABF2044B1889C6BEF005",
+      "url": "https://www.odeonkino.no/film/hexe-det-magiske-riket/",
+      "tags": [
+        "animasjon",
+        "familiefilm",
+        "eventyr",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-363218ab-8721-4c81-abca-43948dc251eb",
       "title": "Velkommen til familien",
       "description": "Oscar-nominerte Inga Ibsdotter Lilleaas inviterer til julens klammeste og morsomste familieselskap.",
@@ -12264,6 +12308,42 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-b8005329-3fd3-410f-adbe-47967652c2b9",
+      "title": "Focker In-Law",
+      "start_at": "2026-11-28T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-113fb243-5df1-4af6-9659-422e67257574",
+      "title": "Hexe: det magiske riket",
+      "start_at": "2026-11-28T18:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b86f0e379cb14d4c8bf5b1ee8ded36b4.jpg?w=1440&version=3F6DE4BC51E1ABF2044B1889C6BEF005",
+      "url": "https://www.odeonkino.no/film/hexe-det-magiske-riket/",
+      "tags": [
+        "animasjon",
+        "familiefilm",
+        "eventyr",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-0b36f300-dcb1-4625-bfdb-944a98cf2832",
       "title": "Pensjonskuppet",
       "description": "Årets villeste komedie!",
@@ -12317,6 +12397,23 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-2d86304b-40b4-47f1-a0fc-5f79cca23ebf",
+      "title": "Focker In-Law",
+      "start_at": "2026-11-28T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-69269558-9009-46c3-9321-c3bcad6c9384",
       "title": "The Hunger Games: Sunrise on the Reaping",
       "start_at": "2026-11-28T21:00:00",
@@ -12345,6 +12442,24 @@
       "tags": [
         "sort komedie",
         "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7faa7076-ee55-4b5b-adb4-455d79afa612",
+      "title": "Buddy",
+      "start_at": "2026-11-28T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5b73ea5a313c45ad8ce0ada167af9362.jpg?w=1440&version=6D04EF442BE8FFF26CE584EBAFEFC8ED",
+      "url": "https://www.odeonkino.no/film/buddy/",
+      "tags": [
+        "luxe",
+        "sort komedie",
+        "skrekkfilm"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -12417,6 +12532,25 @@
       "tags": [
         "familiefilm",
         "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-40eb88e0-77e9-4b07-8482-cb87f6e8917a",
+      "title": "Hexe: det magiske riket",
+      "start_at": "2026-11-29T10:45:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b86f0e379cb14d4c8bf5b1ee8ded36b4.jpg?w=1440&version=3F6DE4BC51E1ABF2044B1889C6BEF005",
+      "url": "https://www.odeonkino.no/film/hexe-det-magiske-riket/",
+      "tags": [
+        "animasjon",
+        "familiefilm",
+        "eventyr",
         "animasjon"
       ],
       "age_groups": [],
@@ -12510,6 +12644,25 @@
       "url": "https://www.odeonkino.no/film/mysteriepakken/",
       "tags": [
         "familiefilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-ee767d4f-9cf9-4ce0-874d-b16c22f9dbf4",
+      "title": "Hexe: det magiske riket",
+      "start_at": "2026-11-29T13:15:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b86f0e379cb14d4c8bf5b1ee8ded36b4.jpg?w=1440&version=3F6DE4BC51E1ABF2044B1889C6BEF005",
+      "url": "https://www.odeonkino.no/film/hexe-det-magiske-riket/",
+      "tags": [
+        "animasjon",
+        "familiefilm",
+        "eventyr",
+        "animasjon"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -12625,6 +12778,25 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-6b09dbf7-822c-459c-a541-0253f2668a80",
+      "title": "Hexe: det magiske riket",
+      "start_at": "2026-11-29T15:50:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b86f0e379cb14d4c8bf5b1ee8ded36b4.jpg?w=1440&version=3F6DE4BC51E1ABF2044B1889C6BEF005",
+      "url": "https://www.odeonkino.no/film/hexe-det-magiske-riket/",
+      "tags": [
+        "animasjon",
+        "familiefilm",
+        "eventyr",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-121d087a-5a53-4acf-b402-e4946a3bfc41",
       "title": "Velkommen til familien",
       "description": "Oscar-nominerte Inga Ibsdotter Lilleaas inviterer til julens klammeste og morsomste familieselskap.",
@@ -12697,6 +12869,42 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-09712e50-2135-4d72-ad65-edd137fb3e2b",
+      "title": "Focker In-Law",
+      "start_at": "2026-11-29T18:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-a54f8971-ba49-4771-b37b-b77b37db3111",
+      "title": "Hexe: det magiske riket",
+      "start_at": "2026-11-29T18:30:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b86f0e379cb14d4c8bf5b1ee8ded36b4.jpg?w=1440&version=3F6DE4BC51E1ABF2044B1889C6BEF005",
+      "url": "https://www.odeonkino.no/film/hexe-det-magiske-riket/",
+      "tags": [
+        "animasjon",
+        "familiefilm",
+        "eventyr",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-6305857a-58a3-49ab-b364-cbb20dafc7ab",
       "title": "Pensjonskuppet",
       "description": "Årets villeste komedie!",
@@ -12750,6 +12958,23 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-211209fb-9b17-417d-8ac4-a8fe91702493",
+      "title": "Focker In-Law",
+      "start_at": "2026-11-29T20:45:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-7071f22c-2f64-489c-8243-eb0390c74bf4",
       "title": "The Hunger Games: Sunrise on the Reaping",
       "start_at": "2026-11-29T21:00:00",
@@ -12778,6 +13003,24 @@
       "tags": [
         "sort komedie",
         "drama"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-96012316-68fc-4369-b756-ddf4c687b1b0",
+      "title": "Buddy",
+      "start_at": "2026-11-29T21:15:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/5b73ea5a313c45ad8ce0ada167af9362.jpg?w=1440&version=6D04EF442BE8FFF26CE584EBAFEFC8ED",
+      "url": "https://www.odeonkino.no/film/buddy/",
+      "tags": [
+        "luxe",
+        "sort komedie",
+        "skrekkfilm"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -12946,6 +13189,23 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-49f035db-8194-42b5-8bf0-a7d1777c4731",
+      "title": "Focker In-Law",
+      "start_at": "2026-11-30T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-788e91b0-7556-471e-a88b-6d6307c364ef",
       "title": "Julenissens verksted",
       "start_at": "2026-11-30T16:45:00",
@@ -12956,6 +13216,25 @@
       "tags": [
         "familiefilm",
         "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6ea0ba11-4c4c-4285-b2ef-33d30a661534",
+      "title": "Hexe: det magiske riket",
+      "start_at": "2026-11-30T17:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b86f0e379cb14d4c8bf5b1ee8ded36b4.jpg?w=1440&version=3F6DE4BC51E1ABF2044B1889C6BEF005",
+      "url": "https://www.odeonkino.no/film/hexe-det-magiske-riket/",
+      "tags": [
+        "animasjon",
+        "familiefilm",
+        "eventyr",
         "animasjon"
       ],
       "age_groups": [],
@@ -13018,6 +13297,23 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-6ea75bd1-0328-4ccc-964a-ba2d74fc77dc",
+      "title": "Focker In-Law",
+      "start_at": "2026-11-30T17:45:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-fa9e9e46-68c6-4029-89fa-06314207ac82",
       "title": "Mysteriepakken",
       "start_at": "2026-11-30T18:45:00",
@@ -13044,6 +13340,42 @@
       "tags": [
         "dokumentar",
         "biografi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-7ff6026f-b033-4ea9-a32e-987568db88c7",
+      "title": "November 1963",
+      "start_at": "2026-11-30T20:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/51fa08b6e6194482915b9ba4e774df80.jpg?w=1440&version=1C5364AE5A7BFB48286AE32041627A73",
+      "url": "https://www.odeonkino.no/film/november-1963/",
+      "tags": [
+        "luxe",
+        "thriller",
+        "krim",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-fe77fddf-42ab-4cf5-af8f-cc159ca841e6",
+      "title": "Focker In-Law",
+      "start_at": "2026-11-30T20:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -13267,6 +13599,42 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-39718942-504e-4cb6-8a72-fa94b498db0e",
+      "title": "Focker In-Law",
+      "start_at": "2026-12-01T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-aff078c0-f029-448f-957f-887f9db9cf72",
+      "title": "November 1963",
+      "start_at": "2026-12-01T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/51fa08b6e6194482915b9ba4e774df80.jpg?w=1440&version=1C5364AE5A7BFB48286AE32041627A73",
+      "url": "https://www.odeonkino.no/film/november-1963/",
+      "tags": [
+        "luxe",
+        "thriller",
+        "krim",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-23a2b555-789a-4a43-b57e-a73c021c646e",
       "title": "Julenissens verksted",
       "start_at": "2026-12-01T16:45:00",
@@ -13277,6 +13645,25 @@
       "tags": [
         "familiefilm",
         "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-6b74fc8d-9704-4095-9482-cc4a08b1409a",
+      "title": "Hexe: det magiske riket",
+      "start_at": "2026-12-01T17:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b86f0e379cb14d4c8bf5b1ee8ded36b4.jpg?w=1440&version=3F6DE4BC51E1ABF2044B1889C6BEF005",
+      "url": "https://www.odeonkino.no/film/hexe-det-magiske-riket/",
+      "tags": [
+        "animasjon",
+        "familiefilm",
+        "eventyr",
         "animasjon"
       ],
       "age_groups": [],
@@ -13296,6 +13683,42 @@
         "isense",
         "action",
         "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-dc85b46e-b85e-4ba6-a30a-127687c9425b",
+      "title": "November 1963",
+      "start_at": "2026-12-01T17:30:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/51fa08b6e6194482915b9ba4e774df80.jpg?w=1440&version=1C5364AE5A7BFB48286AE32041627A73",
+      "url": "https://www.odeonkino.no/film/november-1963/",
+      "tags": [
+        "luxe",
+        "thriller",
+        "krim",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-612efee1-eeea-4b9e-982d-f56ecbe656f7",
+      "title": "Focker In-Law",
+      "start_at": "2026-12-01T18:10:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -13372,6 +13795,23 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-75529bfa-881b-42a5-be73-e533591b5177",
+      "title": "Focker In-Law",
+      "start_at": "2026-12-01T20:40:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-c95d3d08-24cd-4351-8945-475ce1525881",
       "title": "The Hunger Games: Sunrise on the Reaping",
       "start_at": "2026-12-01T20:50:00",
@@ -13399,6 +13839,23 @@
       "url": "https://www.odeonkino.no/film/other-mommy/",
       "tags": [
         "skrekkfilm"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-813bb08c-d115-4b95-a9c3-0592a34d490e",
+      "title": "Focker In-Law",
+      "start_at": "2026-12-02T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -13549,6 +14006,42 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-4338d96e-5f69-45d6-a421-71c0ba590078",
+      "title": "Focker In-Law",
+      "start_at": "2026-12-02T15:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-91404e34-28ce-445f-b5bd-a1a51a5039ca",
+      "title": "November 1963",
+      "start_at": "2026-12-02T15:30:00",
+      "location_name": "ODEON Ålesund – Sal 5 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/51fa08b6e6194482915b9ba4e774df80.jpg?w=1440&version=1C5364AE5A7BFB48286AE32041627A73",
+      "url": "https://www.odeonkino.no/film/november-1963/",
+      "tags": [
+        "luxe",
+        "thriller",
+        "krim",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-b3cdd303-6637-4352-a238-8f57e68ded47",
       "title": "Julenissens verksted",
       "start_at": "2026-12-02T16:45:00",
@@ -13559,6 +14052,25 @@
       "tags": [
         "familiefilm",
         "barnefilm",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-4c469cf3-b43e-4370-a943-0419a155642f",
+      "title": "Hexe: det magiske riket",
+      "start_at": "2026-12-02T17:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b86f0e379cb14d4c8bf5b1ee8ded36b4.jpg?w=1440&version=3F6DE4BC51E1ABF2044B1889C6BEF005",
+      "url": "https://www.odeonkino.no/film/hexe-det-magiske-riket/",
+      "tags": [
+        "animasjon",
+        "familiefilm",
+        "eventyr",
         "animasjon"
       ],
       "age_groups": [],
@@ -13596,6 +14108,23 @@
         "isense",
         "action",
         "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-da2fa082-25df-4e86-920a-bbcc513cf521",
+      "title": "Focker In-Law",
+      "start_at": "2026-12-02T17:45:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -13647,6 +14176,42 @@
       "tags": [
         "dokumentar",
         "biografi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-1be1a097-2f6e-486f-ac4a-ba27551deaa8",
+      "title": "November 1963",
+      "start_at": "2026-12-02T20:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/51fa08b6e6194482915b9ba4e774df80.jpg?w=1440&version=1C5364AE5A7BFB48286AE32041627A73",
+      "url": "https://www.odeonkino.no/film/november-1963/",
+      "tags": [
+        "luxe",
+        "thriller",
+        "krim",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-cbf266b2-d357-4b25-bd5a-d345f7f8786b",
+      "title": "Focker In-Law",
+      "start_at": "2026-12-02T20:15:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -13727,6 +14292,24 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-8dd92516-3dc1-434e-876b-9d86a3e24df1",
+      "title": "November 1963",
+      "start_at": "2026-12-03T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 3",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/51fa08b6e6194482915b9ba4e774df80.jpg?w=1440&version=1C5364AE5A7BFB48286AE32041627A73",
+      "url": "https://www.odeonkino.no/film/november-1963/",
+      "tags": [
+        "thriller",
+        "krim",
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-dcfe7577-a8ee-4fea-ad5e-fcdf9291c294",
       "title": "Velkommen til familien",
       "description": "Oscar-nominerte Inga Ibsdotter Lilleaas inviterer til julens klammeste og morsomste familieselskap.",
@@ -13754,6 +14337,23 @@
       "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/15cc2d5b62ab48d4a8408cd332b400d3.jpg?w=1440&version=03F71CCE2C2D36F23AF7C505F8C7D18D",
       "url": "https://www.odeonkino.no/film/pensjonskuppet/",
       "tags": [
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-f50904ba-2da5-45b7-ba51-2e8d6712816c",
+      "title": "Focker In-Law",
+      "start_at": "2026-12-03T12:00:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
         "komedie"
       ],
       "age_groups": [],
@@ -13815,6 +14415,23 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-38fe7e24-5be4-4dfa-9f81-380f488068ff",
+      "title": "Focker In-Law",
+      "start_at": "2026-12-03T15:10:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-a1b6adc8-08cf-4208-aa42-df38aeb72d09",
       "title": "Velkommen til familien",
       "description": "Oscar-nominerte Inga Ibsdotter Lilleaas inviterer til julens klammeste og morsomste familieselskap.",
@@ -13869,6 +14486,25 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-3ac73cc8-58ea-486c-b6f7-77be9bcfcd3f",
+      "title": "Hexe: det magiske riket",
+      "start_at": "2026-12-03T17:00:00",
+      "location_name": "ODEON Ålesund – Sal 4",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/b86f0e379cb14d4c8bf5b1ee8ded36b4.jpg?w=1440&version=3F6DE4BC51E1ABF2044B1889C6BEF005",
+      "url": "https://www.odeonkino.no/film/hexe-det-magiske-riket/",
+      "tags": [
+        "animasjon",
+        "familiefilm",
+        "eventyr",
+        "animasjon"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-bb78dfba-16bb-4f68-91ca-d2a5b87af2b4",
       "title": "The Hunger Games: Sunrise on the Reaping",
       "start_at": "2026-12-03T17:30:00",
@@ -13880,6 +14516,23 @@
         "isense",
         "action",
         "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-9d304663-4dbc-4b16-9c72-97b1b433a6d5",
+      "title": "Focker In-Law",
+      "start_at": "2026-12-03T17:40:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
       ],
       "age_groups": [],
       "is_recurring": false,
@@ -13959,6 +14612,23 @@
     },
     {
       "source": "odeon",
+      "source_id": "odeon-a39a4a62-094e-4084-808c-0e477fe80c94",
+      "title": "Focker In-Law",
+      "start_at": "2026-12-03T20:10:00",
+      "location_name": "ODEON Ålesund – Sal 2 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/c8dbf5ce369d4c4bac79002ba0230e3a.jpg?w=1440&version=CC293F06BA153DD5A6CAE02660EFB211",
+      "url": "https://www.odeonkino.no/film/focker-in-law/",
+      "tags": [
+        "luxe",
+        "komedie"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
       "source_id": "odeon-141d943f-08fb-4961-a576-583a0f771c17",
       "title": "The Hunger Games: Sunrise on the Reaping",
       "start_at": "2026-12-03T20:50:00",
@@ -13970,6 +14640,25 @@
         "isense",
         "action",
         "sci-fi"
+      ],
+      "age_groups": [],
+      "is_recurring": false,
+      "end_at": null
+    },
+    {
+      "source": "odeon",
+      "source_id": "odeon-c93350f6-3ca4-4ca7-af86-0b9c9cf1029f",
+      "title": "November 1963",
+      "start_at": "2026-12-03T21:00:00",
+      "location_name": "ODEON Ålesund – Sal 6 LUXE",
+      "city": "Ålesund",
+      "image_url": "https://iaal-odeon-proxy.larsolehjelkrem.workers.dev/cf/images/ncg-images/51fa08b6e6194482915b9ba4e774df80.jpg?w=1440&version=1C5364AE5A7BFB48286AE32041627A73",
+      "url": "https://www.odeonkino.no/film/november-1963/",
+      "tags": [
+        "luxe",
+        "thriller",
+        "krim",
+        "historie"
       ],
       "age_groups": [],
       "is_recurring": false,
