@@ -2,6 +2,7 @@ import json
 from pathlib import Path
 from unittest.mock import MagicMock, patch
 
+import pytest
 from requests import Timeout
 
 from backend.scrapers.friskus_scraper import API_URL, BASE_URL, KARTVERKET_URL, FriskusScraper
@@ -263,3 +264,119 @@ def test_missing_detail_keeps_event_without_inventing_city_or_venue():
     assert "city" not in event.to_dict()
     assert event.location_name is None
     assert event.organizer == "Arrangørlaget"
+
+
+@pytest.mark.parametrize(("dnt_start", "expected_count"), [
+    ("2026-11-29T13:00:00Z", 1),
+    ("2026-11-29T13:30:00Z", 2),
+])
+def test_only_merges_friskus_and_dnt_with_same_registration_and_start(dnt_start, expected_count):
+    path = "/register/friluftsjazzgiske_13112026133427"
+    dnt = {
+        "id": "oaaYF26bZKTes", "name": "Friluftsjazz for hele familien på Giske",
+        "event_source": "dnt", "start_at": dnt_start,
+    }
+    native = {
+        "id": "15d5a376-60e2-4e4f-91df-9d38ea3d0b42",
+        "name": "Friluftsjazz for barn på Giske",
+        "start_at": "2026-11-29T14:00:00+0100",
+    }
+
+    def get(url, params):
+        if url == BASE_URL:
+            return _mock_response({"data": [dnt, native]})
+        if url == f"{API_URL}/dnt/events/{dnt['id']}":
+            return _mock_response({"data": {
+                "url": f"http://aktiviteter.dnt.no{path}",
+                "occurrences": [{"start_at": dnt_start, "location_city": "Giske"}],
+            }})
+        assert url == f"{API_URL}/events/{native['id']}"
+        return _mock_response({"data": {
+            "external_links": [{"url": f"https://aktiviteter.dnt.no{path}#/"}],
+            "municipalities": [{"id": GISKE}],
+            "address": {"name": "Hytta på hjul, Giskestranda, Giske", "address": "6052 Giske, Norge"},
+        }})
+
+    scraper = FriskusScraper()
+    with patch.object(scraper, "_get", side_effect=get):
+        events = scraper.scrape()
+
+    assert len(events) == expected_count
+    if expected_count == 1:
+        [event] = events
+        assert event.source_id == f"friskus-{native['id']}"
+        assert event.city == "Giske"
+        assert event.address == "6052 Giske, Norge"
+        assert event.tags == ["friluftsliv", "tur"]
+
+
+@pytest.mark.parametrize(("venue", "address"), [
+    ("Kommunehuset på Sjøholt", "Ørskog  frivilligsentral"),
+    ("Ørskog Frivillighetssentral.", "Øyravegen 11"),
+])
+def test_known_sjoholt_venue_resolves_ambiguous_municipalities(venue, address):
+    item = {"id": "test-sjoholt", "name": "Arrangement"}
+
+    def get(url, params):
+        if url == BASE_URL:
+            return _mock_response({"data": [item]})
+        if url == f"{API_URL}/events/{item['id']}":
+            return _mock_response({"data": {
+                "municipalities": [{"id": SULA}, {"id": ALESUND}],
+                "address": {"name": venue, "address": address, "lat": "", "lng": ""},
+            }})
+        assert url == f"{KARTVERKET_URL}/adresser/v1/sok"
+        assert params["postnummer"] == "6240"
+        return _mock_response({
+            "metadata": {"totaltAntallTreff": 1},
+            "adresser": [{"adressetekst": "Øyravegen 11", "kommunenummer": "1508"}],
+        })
+
+    scraper = FriskusScraper()
+    with patch.object(scraper, "_get", side_effect=get):
+        [event] = scraper.scrape()
+
+    assert event.city == "Ålesund"
+    assert event.address == "Øyravegen 11, 6240 Ørskog"
+
+
+@pytest.mark.parametrize(("title", "place", "expected_city", "expected_location"), [
+    ("Friluftsforedrag: vintertelting",
+     {"location_address_line1": "TAFJORDs auditorium i Retirovegen 4, Ålesund."},
+     "Ålesund", "TAFJORDs auditorium"),
+    ("Kom deg ut-dagen på Vipphytta i Vaksvika",
+     {"location_city": "Vaksvika"}, "Ålesund", "Vaksvika"),
+    ("Nissetur til Rollonhytta", {}, "Sula", "Rollonhytta"),
+    ("Introduksjon til vintertelting", {}, None, None),
+])
+def test_dnt_places_with_partial_or_missing_location(title, place, expected_city, expected_location):
+    start = "2026-12-06T11:00:00+0100"
+    item = {"id": "test-dnt", "name": title, "start_at": start, "event_source": "dnt"}
+
+    def get(url, params):
+        if url == BASE_URL:
+            return _mock_response({"data": [item]})
+        if url == f"{API_URL}/dnt/events/{item['id']}":
+            return _mock_response({"data": {"occurrences": [{
+                "start_at": "2026-12-06T10:00:00Z",
+                "location_municipalities": [ALESUND, SULA],
+                **place,
+            }]}})
+        assert url == f"{KARTVERKET_URL}/adresser/v1/sok"
+        assert params["adressetekst"] == "Retirovegen 4"
+        return _mock_response({
+            "metadata": {"totaltAntallTreff": 2},
+            "adresser": [
+                {"adressetekst": "Retirovegen 4", "poststed": "MOLDE", "kommunenummer": "1506"},
+                {"adressetekst": "Retirovegen 4", "poststed": "ÅLESUND", "kommunenummer": "1508"},
+            ],
+        })
+
+    scraper = FriskusScraper()
+    with patch.object(scraper, "_get", side_effect=get):
+        [event] = scraper.scrape()
+
+    assert event.city == expected_city
+    assert event.location_name == expected_location
+    if "location_address_line1" in place:
+        assert event.address == "Retirovegen 4, Ålesund"
