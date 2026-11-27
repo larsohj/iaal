@@ -1,6 +1,7 @@
 import re
 from collections import defaultdict
-from datetime import datetime
+from collections.abc import Iterator
+from datetime import datetime, timezone
 from math import isfinite
 from urllib.parse import urlsplit
 
@@ -49,23 +50,33 @@ def _coordinates(lat, lng) -> tuple[float | None, float | None]:
     return None, None
 
 
-def _dnt_occurrence(detail: dict, start_at: str | None) -> dict:
-    if not start_at:
-        return {}
+def _instant(value: str | None) -> datetime | None:
     try:
-        start = datetime.fromisoformat(start_at)
-    except ValueError:
+        return datetime.fromisoformat(value) if value else None
+    except (TypeError, ValueError):
+        return None
+
+
+def _active_occurrence(occurrence: dict) -> bool:
+    return (
+        occurrence.get("published") is not False
+        and not occurrence.get("is_canceled")
+        and not occurrence.get("deleted_at")
+    )
+
+
+def _matching_occurrence(detail: dict, start_at: str | None) -> dict:
+    start = _instant(start_at)
+    if start is None:
         return {}
-    for occurrence in detail.get("occurrences") or []:
-        occurrence_start = occurrence.get("start_at")
-        if not occurrence_start or occurrence.get("deleted_at"):
-            continue
-        try:
-            if datetime.fromisoformat(occurrence_start) == start:
-                return occurrence
-        except ValueError:
-            continue
-    return {}
+    occurrences = detail.get("occurrences") or [detail.get("occurrence") or {}]
+    matches = [entry for entry in occurrences if _instant(entry.get("start_at")) == start]
+    return next((entry for entry in matches if _active_occurrence(entry)), matches[0] if matches else {})
+
+
+def _occurrence_id(occurrence: dict, start: datetime) -> str:
+    stamp = start.astimezone(timezone.utc) if start.tzinfo is not None else start
+    return occurrence.get("id") or occurrence.get("dnt_id") or stamp.isoformat()
 
 
 def _text_key(value: str) -> str:
@@ -135,13 +146,10 @@ class FriskusScraper(BaseScraper):
         registrations = defaultdict(list)
         geocodes = {}
         for item in items.values():
-            result = self._event(item, geocodes)
-            if result is None:
-                continue
-            event, registration = result
-            if registration is not None:
-                registrations[registration].append((len(events), item.get("event_source") == "dnt"))
-            events.append(event)
+            for event, registration in self._events(item, geocodes):
+                if registration is not None:
+                    registrations[registration].append((len(events), item.get("event_source") == "dnt"))
+                events.append(event)
 
         suppressed = set()
         for entries in registrations.values():
@@ -168,20 +176,53 @@ class FriskusScraper(BaseScraper):
                          len(events), sum(event.city is None for event in events))
         return events
 
-    def _event(self, item: dict, geocodes: dict) -> tuple[EventData, tuple | None] | None:
+    def _events(self, item: dict, geocodes: dict) -> Iterator[tuple[EventData, tuple | None]]:
         event_id = item["id"]
-        event_source = item.get("event_source")
-        is_dnt = event_source == "dnt"
+        is_dnt = item.get("event_source") == "dnt"
         detail_path = "dnt/events" if is_dnt else "events"
         detail = self._optional_json(
             f"{API_URL}/{detail_path}/{event_id}", {"municipality": "default"},
         ).get("data")
         if not isinstance(detail, dict):
             detail = {}
+        if detail.get("is_canceled") or detail.get("is_published") is False:
+            return
 
+        is_recurring = bool(item.get("is_recurring")) or detail.get("is_once") is False
+        occurrences = detail.get("occurrences")
+        if is_recurring and isinstance(occurrences, list):
+            seen = set()
+            for occurrence in occurrences:
+                start = _instant(occurrence.get("start_at"))
+                if start is None or not _active_occurrence(occurrence):
+                    continue
+                occurrence_id = _occurrence_id(occurrence, start)
+                if occurrence_id in seen:
+                    continue
+                seen.add(occurrence_id)
+                result = self._event(item, geocodes, detail, occurrence, is_recurring, occurrence_id)
+                if result is not None:
+                    yield result
+            return
+
+        occurrence = _matching_occurrence(detail, item.get("start_at"))
+        if occurrence and not _active_occurrence(occurrence):
+            return
+        start = _instant(occurrence.get("start_at"))
+        occurrence_id = _occurrence_id(occurrence, start) if is_recurring and start is not None else None
+        result = self._event(item, geocodes, detail, occurrence, is_recurring, occurrence_id)
+        if result is not None:
+            yield result
+
+    def _event(
+        self, item: dict, geocodes: dict, detail: dict, occurrence: dict,
+        is_recurring: bool, occurrence_id: str | None = None,
+    ) -> tuple[EventData, tuple | None] | None:
+        event_id = item["id"]
+        event_source = item.get("event_source")
+        is_dnt = event_source == "dnt"
         locality = None
         if is_dnt:
-            occurrence = _dnt_occurrence(detail, item.get("start_at"))
             locality = occurrence.get("location_city") or None
             postal_code = occurrence.get("location_postal_code")
             postal_place = f"{postal_code} {locality or ''}".strip() if postal_code else locality
@@ -230,14 +271,20 @@ class FriskusScraper(BaseScraper):
         if number is not None and number not in MUNICIPALITY_NAMES:
             return None
 
+        start_at = occurrence["start_at"] if occurrence else item.get("start_at")
+        end_at = occurrence.get("end_at") if occurrence or is_recurring else item.get("end_at")
+        source_id = f"friskus-{event_id}"
+        if occurrence_id is not None:
+            source_id = f"{source_id}-{occurrence_id}"
+
         event = EventData(
             source="friskus",
-            source_id=f"friskus-{event_id}",
+            source_id=source_id,
             title=item["name"],
-            start_at=item.get("start_at"),
-            end_at=item.get("end_at"),
+            start_at=start_at,
+            end_at=end_at,
             is_free=item.get("is_free"),
-            is_recurring=item.get("is_recurring", False),
+            is_recurring=is_recurring,
             organizer=(item.get("organization") or {}).get("name"),
             location_name=location_name,
             address=address,

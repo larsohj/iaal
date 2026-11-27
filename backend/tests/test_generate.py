@@ -1,4 +1,5 @@
 import json
+from datetime import datetime, timezone
 from pathlib import Path
 from unittest.mock import patch, MagicMock
 
@@ -222,3 +223,32 @@ class TestWriteEventsJson:
 
         assert data["failed_sources"] == ["friskus", "viti"]
         assert data["total"] == 0
+
+
+def test_normalize_uses_actual_oslo_daylight_saving_transitions():
+    assert normalize_datetime("2026-03-25T17:00:00Z") == "2026-03-25T18:00:00"
+    assert normalize_datetime("2026-03-29T00:59:00Z") == "2026-03-29T01:59:00"
+    assert normalize_datetime("2026-03-29T01:00:00Z") == "2026-03-29T03:00:00"
+    assert normalize_datetime("2026-10-25T00:59:00Z") == "2026-10-25T02:59:00"
+    assert normalize_datetime("2026-10-25T01:00:00Z") == "2026-10-25T02:00:00"
+
+
+def test_filter_keeps_ongoing_events_and_uses_oslo_for_naive_times():
+    now = datetime(2026, 11, 27, 20, 0, tzinfo=timezone.utc)  # Kl. 21.00 i Oslo
+    events = [
+        {"title": "lokal start har passert", "start_at": "2026-11-27T20:30:00"},
+        {"title": "pågår", "start_at": "2026-10-31T11:00:00Z", "end_at": "2026-12-12T15:00:00Z"},
+        {"title": "ingen klokkeslett", "start_at": "2026-11-27"},
+        {"title": "passert dato", "start_at": "2026-11-26"},
+        {"title": "framtidig med tidssone", "start_at": "2026-11-27T21:15:00+01:00"},
+    ]
+    assert [event["title"] for event in filter_past_events(events, now=now)] == [
+        "pågår", "ingen klokkeslett", "framtidig med tidssone",
+    ]
+
+
+def test_filter_distinguishes_the_two_occurrences_of_a_repeated_local_time():
+    now = datetime(2026, 10, 25, 1, 0, tzinfo=timezone.utc)
+    first = {"start_at": "2026-10-25T02:30:00+02:00"}
+    second = {"start_at": "2026-10-25T02:30:00+01:00"}
+    assert filter_past_events([first, second], now=now) == [second]

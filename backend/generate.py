@@ -7,10 +7,10 @@ som serveres via GitHub Pages / jsDelivr.
 
 import json
 import logging
-import re
 import sys
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, time, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 # Sørg for at prosjektroten (parent av backend/) er i sys.path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
@@ -33,6 +33,7 @@ logging.basicConfig(
 logger = logging.getLogger("generate")
 
 OUTPUT_DIR = Path(__file__).resolve().parent.parent / "docs"
+OSLO = ZoneInfo("Europe/Oslo")
 
 
 def run_scrapers() -> tuple[list[dict], list[str]]:
@@ -93,70 +94,45 @@ def merge_with_existing(new_events: list[dict], failed_sources: list[str]) -> li
 
 
 def normalize_datetime(dt_str: str | None) -> str | None:
-    """Normaliser til Europe/Oslo (UTC+1/+2) uten tidssone-suffix.
-
-    Input-formater:
-      - "2026-04-01T19:00:00"           → uendret (antas lokal)
-      - "2026-04-01T19:00:00+0200"      → "2026-04-01T19:00:00"
-      - "2026-04-01T19:00:00+02:00"     → "2026-04-01T19:00:00"
-      - "2026-04-01T17:00:00+0000"      → "2026-04-01T19:00:00" (konvertert til CEST)
-      - "2026-04-01T17:00:00.000Z"      → "2026-04-01T19:00:00" (UTC → CEST)
-    """
-    if not dt_str:
-        return None
-
-    # Fjern millisekunder (.000)
-    dt_str = re.sub(r"\.\d+", "", dt_str)
-
-    # Prøv å parse med tidssone
-    tz_match = re.match(
-        r"(\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2})"
-        r"(?:Z|([+-])(\d{2}):?(\d{2}))$",
-        dt_str,
-    )
-    if not tz_match:
-        # Ingen tidssone — returner som den er
+    """Behold datoer og skriv tidsfestede arrangementer som lokal tid i Oslo."""
+    if not dt_str or len(dt_str) == 10:
         return dt_str
-
-    naive_str = tz_match.group(1)
-    dt = datetime.fromisoformat(naive_str)
-
-    if dt_str.endswith("Z"):
-        offset_hours, offset_mins = 0, 0
-    else:
-        sign = 1 if tz_match.group(2) == "+" else -1
-        offset_hours = sign * int(tz_match.group(3))
-        offset_mins = sign * int(tz_match.group(4))
-
-    # Konverter til UTC
-    utc_dt = dt - timedelta(hours=offset_hours, minutes=offset_mins)
-
-    # Bestem Oslo-offset: CEST (UTC+2) apr-okt, CET (UTC+1) nov-mar
-    month = utc_dt.month
-    oslo_offset = 2 if 4 <= month <= 10 else 1
-    # Mars og oktober har overgangsdager, men ±1 time er akseptabelt
-    if month == 3 and utc_dt.day >= 25:
-        oslo_offset = 2
-    elif month == 10 and utc_dt.day >= 25:
-        oslo_offset = 1
-
-    local_dt = utc_dt + timedelta(hours=oslo_offset)
-    return local_dt.strftime("%Y-%m-%dT%H:%M:%S")
+    try:
+        value = datetime.fromisoformat(dt_str)
+    except ValueError:
+        return dt_str
+    if value.tzinfo is not None:
+        value = value.astimezone(OSLO).replace(tzinfo=None)
+    return value.isoformat(timespec="seconds")
 
 
-def filter_past_events(events: list[dict]) -> list[dict]:
-    """Fjern events som har starttid i fortiden."""
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
+def _utc_deadline(value: str | None) -> datetime | None:
+    if not value:
+        return None
+    try:
+        deadline = datetime.fromisoformat(value)
+    except ValueError:
+        return None
+    if len(value) == 10:
+        # En dato uten klokkeslett gjelder hele den lokale dagen.
+        deadline = datetime.combine(deadline.date(), time.max)
+    if deadline.tzinfo is None:
+        deadline = deadline.replace(tzinfo=OSLO)
+    return deadline.astimezone(timezone.utc)
+
+
+def filter_past_events(events: list[dict], *, now: datetime | None = None) -> list[dict]:
+    """Behold pågående og kommende arrangementer med eller uten tidssone."""
+    now = now if now is not None else datetime.now(timezone.utc)
     kept = []
-    removed = 0
-    for e in events:
-        start = e.get("start_at")
-        if start and start < now:
-            removed += 1
-            continue
-        kept.append(e)
-    if removed:
-        logger.info(f"Fjernet {removed} utgåtte hendelser")
+    for event in events:
+        start = _utc_deadline(event.get("start_at"))
+        end = _utc_deadline(event.get("end_at"))
+        deadline = max(start, end) if start is not None and end is not None else end or start
+        if deadline is None or deadline >= now:
+            kept.append(event)
+    if len(kept) < len(events):
+        logger.info("Fjernet %d utgåtte hendelser", len(events) - len(kept))
     return kept
 
 
@@ -191,8 +167,8 @@ def main():
     logger.info("Starter scraping...")
     events, failed = run_scrapers()
     events = merge_with_existing(events, failed)
-    events = normalize_events(events)
     events = filter_past_events(events)
+    events = normalize_events(events)
     path = write_events_json(events, failed)
 
     total_sources = 9

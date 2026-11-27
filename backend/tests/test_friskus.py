@@ -380,3 +380,68 @@ def test_dnt_places_with_partial_or_missing_location(title, place, expected_city
     assert event.location_name == expected_location
     if "location_address_line1" in place:
         assert event.address == "Retirovegen 4, Ålesund"
+
+
+def test_recurring_friskus_event_has_one_row_per_published_occurrence():
+    item = {
+        "id": "d8d2e930-8716-440b-abe8-5fe1dacc7e4e",
+        "name": "Putti Plutti Pott",
+        "start_at": "2026-11-28T13:00:00+0100",
+        "end_at": "2026-12-06T18:00:00+0100",
+        "is_recurring": True,
+    }
+    early = {"id": "early", "start_at": "2026-11-28T12:00:00Z", "end_at": "2026-11-28T13:30:00Z"}
+    late = {"id": "late", "start_at": "2026-11-28T15:00:00Z", "end_at": "2026-11-28T16:30:00Z"}
+    detail = {"data": {"occurrences": [
+        early, late, early, {**late, "id": "unpublished", "published": False},
+        {**late, "id": "canceled", "is_canceled": True},
+    ]}}
+
+    def get(url, params):
+        if url == BASE_URL:
+            return _mock_response({"data": [item]})
+        assert url == f"{API_URL}/events/{item['id']}"
+        return _mock_response(detail)
+
+    scraper = FriskusScraper()
+    with patch.object(scraper, "_get", side_effect=get) as fetch:
+        events = scraper.scrape()
+
+    assert [(e.source_id, e.start_at, e.end_at) for e in events] == [
+        (f"friskus-{item['id']}-early", early["start_at"], early["end_at"]),
+        (f"friskus-{item['id']}-late", late["start_at"], late["end_at"]),
+    ]
+    assert sum(call.args[0] != BASE_URL for call in fetch.call_args_list) == 1
+
+
+def test_dnt_series_uses_each_occurrences_own_location_and_skips_deleted():
+    item = {"id": "dnt-series", "name": "Serietur", "event_source": "dnt", "is_recurring": True}
+    detail = {"data": {"occurrences": [
+        {"id": "first", "start_at": "2026-12-01T18:00:00Z", "location_city": "Ålesund"},
+        {"id": "second", "start_at": "2026-12-08T18:00:00Z", "location_city": "Giske"},
+        {"id": "deleted", "start_at": "2026-12-15T18:00:00Z", "deleted_at": "2026-11-30"},
+    ]}}
+    scraper = FriskusScraper()
+
+    def get(url, params):
+        return _mock_response({"data": [item]} if url == BASE_URL else detail)
+
+    with patch.object(scraper, "_get", side_effect=get):
+        events = scraper.scrape()
+    assert [(e.source_id, e.city) for e in events] == [
+        ("friskus-dnt-series-first", "Ålesund"),
+        ("friskus-dnt-series-second", "Giske"),
+    ]
+
+
+def test_missing_series_details_do_not_reuse_series_end_as_occurrence_end():
+    item = {
+        "id": "series", "name": "Kurs", "is_recurring": True,
+        "start_at": "2026-11-28T13:00:00+0100", "end_at": "2026-12-06T18:00:00+0100",
+    }
+    scraper = FriskusScraper()
+    with patch.object(scraper, "_get", side_effect=_listing_only({"data": [item]})):
+        [event] = scraper.scrape()
+
+    assert event.start_at == item["start_at"]
+    assert event.end_at is None
