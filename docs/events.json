@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T17:05:29.053+00:00",
-  "total": 848,
+  "generated_at": "2026-11-27T17:25:15.953+00:00",
+  "total": 847,
   "failed_sources": [
     "viti"
   ],
@@ -158,27 +158,6 @@
         "family",
         "senior",
         "pensioner"
-      ],
-      "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-oaaYF26bZKTes",
-      "title": "Friluftsjazz for hele familien på Giske ved hytta på hjul (gratis)",
-      "start_at": "2026-11-29T14:00:00",
-      "end_at": "2026-11-29T15:00:00",
-      "is_free": true,
-      "location_name": "Giske",
-      "city": "Giske",
-      "organizer": "DNT Sunnmøre",
-      "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_630521",
-      "url": "https://alesund.friskus.com/events/dnt/oaaYF26bZKTes",
-      "tags": [
-        "friluftsliv",
-        "tur"
-      ],
-      "age_groups": [
-        "children"
       ],
       "is_recurring": false
     },
@@ -1013,7 +992,8 @@
       "end_at": "2026-12-16T19:15:00",
       "is_free": false,
       "location_name": "Ørskog Frivillighetssentral.",
-      "address": "Øyravegen 11",
+      "address": "Øyravegen 11, 6240 Ørskog",
+      "city": "Ålesund",
       "organizer": "LHL Skodje, Ørskog og Haram",
       "image_url": "https://ucarecdn.com/1949c5d9-8efd-45a5-bff1-5366a37a8706/-/crop/1245x409/0,67/-/preview/",
       "url": "https://alesund.friskus.com/events/0ba3dfb1-6ce0-429b-922b-e809287797a9",
@@ -1408,7 +1388,7 @@
       "end_at": "2026-12-03T20:00:00",
       "is_free": true,
       "location_name": "Ørskog Frivilligsentral",
-      "address": "Øyravegen 11",
+      "address": "Øyravegen 11, 6240 Ørskog",
       "city": "Ålesund",
       "organizer": "Ørskog Frivilligsentral",
       "image_url": "https://ucarecdn.com/75fd7c83-ff69-42bb-a8f6-8bc9f2a38277/-/crop/664x398/8,0/-/preview/",
@@ -1641,6 +1621,8 @@
       "start_at": "2026-12-06T11:00:00",
       "end_at": "2026-12-06T15:00:00",
       "is_free": true,
+      "location_name": "Rollonhytta",
+      "city": "Sula",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_626098",
       "url": "https://alesund.friskus.com/events/dnt/oaaQnaiQ_0Y6P",
@@ -1907,7 +1889,8 @@
       "end_at": "2026-12-09T14:00:00",
       "is_free": true,
       "location_name": "Kommunehuset på Sjøholt",
-      "address": "Ørskog  frivilligsentral",
+      "address": "Øyravegen 11, 6240 Ørskog",
+      "city": "Ålesund",
       "organizer": "Ålesund kommune",
       "image_url": "https://ucarecdn.com/3a033fbd-b74d-42eb-a5fc-fa010abff558/-/crop/1748x477/0,12/-/preview/",
       "url": "https://alesund.friskus.com/events/3710f250-4713-4995-b194-04ab3ae63a0e",
@@ -2792,8 +2775,9 @@
       "start_at": "2027-01-20T19:00:00",
       "end_at": "2027-01-20T20:30:00",
       "is_free": false,
-      "location_name": "TAFJORDs auditorium i Retirovegen 4, Ålesund.",
-      "address": "TAFJORDs auditorium i Retirovegen 4, Ålesund.",
+      "location_name": "TAFJORDs auditorium",
+      "address": "Retirovegen 4, Ålesund",
+      "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_627288",
       "url": "https://alesund.friskus.com/events/dnt/oaa3X0iourJmK",
@@ -3093,6 +3077,7 @@
       "end_at": "2027-02-07T14:00:00",
       "is_free": true,
       "location_name": "Vaksvika",
+      "city": "Ålesund",
       "organizer": "DNT Sunnmøre",
       "image_url": "https://deltagerfiles.blob.core.windows.net/apistorage/event_title_image_631952",
       "url": "https://alesund.friskus.com/events/dnt/oaa1-jfMDuTEv",
@@ -4437,7 +4422,10 @@
       "organizer": "Jazzsirkelen 04",
       "image_url": "https://ucarecdn.com/b66e87ac-a211-44ca-8782-55f7da548e44/-/crop/1298x680/0,0/-/preview/",
       "url": "https://alesund.friskus.com/events/15d5a376-60e2-4e4f-91df-9d38ea3d0b42",
-      "tags": [],
+      "tags": [
+        "friluftsliv",
+        "tur"
+      ],
       "age_groups": [
         "children",
         "family"
