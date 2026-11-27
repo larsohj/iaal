@@ -446,3 +446,70 @@ def test_missing_series_details_do_not_reuse_series_end_as_occurrence_end():
 
     assert event.start_at == item["start_at"]
     assert event.end_at is None
+
+
+def test_verified_stikk_ut_listings_become_one_municipal_season():
+    skodje = "d3a46024-4c51-4fe0-ad3b-0cdcb30812ae"
+    aalesund = "ab9dde43-e525-4767-9345-c2e6be70270e"
+    orskog = "9a0692e8-56d9-47e8-982a-a6ef68ef7f66"
+    items = [
+        {"id": event_id, "name": "Stikk UT! Vinter", "is_recurring": event_id != orskog}
+        for event_id in (skodje, aalesund, orskog)
+    ]
+
+    def get(url, params):
+        if url == BASE_URL:
+            return _mock_response({"data": items})
+        event_id = url.rsplit("/", 1)[-1]
+        occurrence = {"start_at": "2026-12-01T11:00:00Z"}
+        details = {"municipalities": [{"id": ALESUND}], "address": {"name": event_id}}
+        if event_id == orskog:
+            details["occurrence"] = occurrence
+        else:
+            details["occurrences"] = [occurrence, {"start_at": "2026-12-02T11:00:00Z"}]
+        return _mock_response({"data": details})
+
+    scraper = FriskusScraper()
+    with patch.object(scraper, "_get", side_effect=get):
+        [event] = scraper.scrape()
+
+    assert event.source_id == "friskus-stikk-ut-vinter-2026-12-01-ålesund"
+    assert (event.start_at, event.end_at) == ("2026-12-01", "2027-04-15")
+    assert event.location_name == "Ålesund kommune"
+    assert event.url.endswith(aalesund)
+    assert event.is_recurring is False
+
+
+@pytest.mark.parametrize(("event_id", "type_key", "event_type", "expected"), [
+    ("f0cf0e1b-8516-4d9c-9299-aae7f4a67072", "TASK", "scheduled", 1),
+    ("open-offer", "ACTIVITY", "open", 1),
+    ("actual-shifts", "TASK", "scheduled", 2),
+    ("training", "ACTIVITY", "scheduled", 2),
+])
+def test_only_ongoing_friskus_series_are_published_as_a_period(event_id, type_key, event_type, expected):
+    item = {"id": event_id, "name": "Tilbod", "is_recurring": True}
+    detail = {
+        "event_type": event_type,
+        "type": {"key": type_key},
+        "rrule": {"start_at": "2026-11-09", "until": "2027-12-31"},
+        "occurrences": [
+            {"id": "first", "start_at": "2026-11-30T09:00:00Z", "end_at": "2026-11-30T13:00:00Z"},
+            {"id": "second", "start_at": "2026-12-03T09:00:00Z", "end_at": "2026-12-03T13:00:00Z"},
+        ],
+    }
+
+    def get(url, params):
+        return _mock_response({"data": [item]} if url == BASE_URL else {"data": detail})
+
+    scraper = FriskusScraper()
+    with patch.object(scraper, "_get", side_effect=get):
+        events = scraper.scrape()
+
+    assert len(events) == expected
+    if expected == 1:
+        assert (events[0].start_at, events[0].end_at) == ("2026-11-09", "2027-12-31")
+        assert events[0].source_id == f"friskus-{event_id}"
+        assert events[0].is_recurring is False
+    else:
+        assert [e.source_id for e in events] == [f"friskus-{event_id}-first", f"friskus-{event_id}-second"]
+        assert events[0].end_at == "2026-11-30T13:00:00Z"

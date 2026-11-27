@@ -3,6 +3,7 @@ from collections import defaultdict
 from collections.abc import Iterator
 from datetime import datetime, timezone
 from urllib.parse import urlsplit
+from zoneinfo import ZoneInfo
 
 from requests import RequestException
 
@@ -38,6 +39,24 @@ SJOHOLT_ADDRESS = "Øyravegen 11, 6240 Ørskog"
 API_URL = "https://api.friskus.com/api/v1"
 BASE_URL = f"{API_URL}/events"
 
+OSLO = ZoneInfo("Europe/Oslo")
+
+# Disse lokale Friskus-oppslagene beskriver samme vintersesong, også når
+# påminnelsene har ulike datoer. Friluftsrådet oppgir felles start og slutt.
+STIKK_UT_WINTER_IDS = (
+    "ab9dde43-e525-4767-9345-c2e6be70270e",  # Ålesund frivilligsentral
+    "d3a46024-4c51-4fe0-ad3b-0cdcb30812ae",  # Skodje
+    "b4d201a6-b87f-4e04-ac88-4e53468a54c9",  # Sandøy
+    "9a0692e8-56d9-47e8-982a-a6ef68ef7f66",  # Ørskog
+)
+STIKK_UT_WINTER_DATES = ("2026-12-01", "2027-04-15")
+# Bekreftede, løpende utlysninger som Friskus likevel har merket som tidsfestet.
+ONGOING_VOLUNTEER_IDS = {
+    "f0cf0e1b-8516-4d9c-9299-aae7f4a67072",  # Dugnad hele året
+    "fb482108-e841-4933-856c-6ea9de65b87c",  # Dagsenteret søker frivillige
+    "6fe8aabb-b7b4-4ecb-927e-cc4941d7baf2",  # Frivillig for Stikk UT!
+}
+
 EVENT_SOURCE_TAGS = {
     "dnt": ["friluftsliv", "tur"],
 }
@@ -48,6 +67,55 @@ def _instant(value: str | None) -> datetime | None:
         return datetime.fromisoformat(value) if value else None
     except (TypeError, ValueError):
         return None
+
+
+def _local_date(value: str | None) -> str | None:
+    instant = _instant(value)
+    if instant is None:
+        return None
+    return (instant.astimezone(OSLO) if instant.tzinfo is not None else instant).date().isoformat()
+
+
+def _listing_period(item: dict, detail: dict, is_recurring: bool) -> tuple[str, str] | None:
+    if item["id"] in STIKK_UT_WINTER_IDS:
+        return STIKK_UT_WINTER_DATES
+    if not is_recurring:
+        return None
+
+    is_open = detail.get("event_type") == "open"
+    ongoing_volunteering = (
+        item["id"] in ONGOING_VOLUNTEER_IDS and (detail.get("type") or {}).get("key") == "TASK"
+    )
+    if not (is_open or ongoing_volunteering):
+        return None
+
+    rule = detail.get("rrule")
+    rule = rule if isinstance(rule, dict) else {}
+    start = _local_date(rule.get("start_at")) or _local_date(detail.get("start_at"))
+    end = _local_date(rule.get("until")) or _local_date(detail.get("end_at"))
+    return (start, end) if start and end and start < end else None
+
+
+def _merge_stikk_ut_season(events: list[EventData]) -> list[EventData]:
+    priority = {f"friskus-{event_id}": rank for rank, event_id in enumerate(STIKK_UT_WINTER_IDS)}
+    groups = defaultdict(list)
+    for index, event in enumerate(events):
+        if event.source_id in priority and event.city and (event.start_at, event.end_at) == STIKK_UT_WINTER_DATES:
+            groups[event.city].append(index)
+
+    suppressed = set()
+    for city, indexes in groups.items():
+        primary = min(indexes, key=lambda index: priority[events[index].source_id])
+        event = events[primary]
+        event.source_id = f"friskus-stikk-ut-vinter-{event.start_at}-{city.casefold()}"
+        if len(indexes) > 1:
+            # En deltaker velger turmål. Oppslaget har ikke et felles oppmøtested.
+            event.location_name = f"{city} kommune"
+            event.address = None
+            event.latitude = None
+            event.longitude = None
+        suppressed.update(index for index in indexes if index != primary)
+    return [event for index, event in enumerate(events) if index not in suppressed]
 
 
 def _active_occurrence(occurrence: dict) -> bool:
@@ -163,7 +231,7 @@ class FriskusScraper(BaseScraper):
             kept = events[keep]
             kept.tags = list(dict.fromkeys([*kept.tags, *events[duplicate].tags]))
             suppressed.add(duplicate)
-        events = [event for index, event in enumerate(events) if index not in suppressed]
+        events = _merge_stikk_ut_season([event for index, event in enumerate(events) if index not in suppressed])
 
         self.logger.info("Hentet %d hendelser fra Friskus. %d uten sikker kommune.",
                          len(events), sum(event.city is None for event in events))
@@ -183,6 +251,23 @@ class FriskusScraper(BaseScraper):
 
         is_recurring = bool(item.get("is_recurring")) or detail.get("is_once") is False
         occurrences = detail.get("occurrences")
+        period = _listing_period(item, detail, is_recurring) if not is_dnt else None
+        if period is not None:
+            if isinstance(occurrences, list) and not any(
+                _instant(entry.get("start_at")) and _active_occurrence(entry) for entry in occurrences
+            ):
+                return
+            occurrence = detail.get("occurrence")
+            if occurrence and not _active_occurrence(occurrence):
+                return
+            start, end = period
+            result = self._event(
+                {**item, "start_at": start, "end_at": end}, geocodes, detail, {}, False,
+            )
+            if result is not None:
+                yield result
+            return
+
         if is_recurring and isinstance(occurrences, list):
             seen = set()
             for occurrence in occurrences:
