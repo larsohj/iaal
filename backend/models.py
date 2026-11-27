@@ -15,7 +15,7 @@ class EventData:
     price_text: str | None = None
     location_name: str | None = None
     address: str | None = None
-    city: str = "Ålesund"
+    city: str | None = "Ålesund"
     latitude: float | None = None
     longitude: float | None = None
     organizer: str | None = None

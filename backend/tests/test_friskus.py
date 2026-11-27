@@ -2,9 +2,14 @@ import json
 from pathlib import Path
 from unittest.mock import MagicMock, patch
 
-from backend.scrapers.friskus_scraper import FriskusScraper
+from requests import Timeout
+
+from backend.scrapers.friskus_scraper import API_URL, BASE_URL, KARTVERKET_URL, FriskusScraper
 
 FIXTURES = Path(__file__).parent / "fixtures"
+ALESUND = "58057c8b-b578-4082-8c11-97bfe366e5ab"
+SULA = "db3b7632-82c3-4895-8c18-d24a559a42ad"
+GISKE = "5900890d-0709-4ea3-bc16-f853e28aaacb"
 
 
 def _mock_response(json_data):
@@ -12,6 +17,13 @@ def _mock_response(json_data):
     resp.json.return_value = json_data
     resp.raise_for_status.return_value = None
     return resp
+
+
+def _listing_only(fixture):
+    def get(url, **kwargs):
+        return _mock_response(fixture if url == BASE_URL else {})
+
+    return get
 
 
 class TestFriskusScraper:
@@ -24,7 +36,7 @@ class TestFriskusScraper:
 
         scraper = FriskusScraper()
 
-        with patch.object(scraper, "_get", return_value=_mock_response(fixture)):
+        with patch.object(scraper, "_get", side_effect=_listing_only(fixture)):
             events = scraper.scrape()
 
         # 3 events i fixture, men 3 kommuner med same mock → dedupliseres
@@ -44,7 +56,7 @@ class TestFriskusScraper:
         fixture["meta"]["last_page"] = 1
 
         scraper = FriskusScraper()
-        with patch.object(scraper, "_get", return_value=_mock_response(fixture)):
+        with patch.object(scraper, "_get", side_effect=_listing_only(fixture)):
             events = scraper.scrape()
 
         first = events[0]
@@ -57,7 +69,7 @@ class TestFriskusScraper:
         fixture["meta"]["last_page"] = 1
 
         scraper = FriskusScraper()
-        with patch.object(scraper, "_get", return_value=_mock_response(fixture)):
+        with patch.object(scraper, "_get", side_effect=_listing_only(fixture)):
             events = scraper.scrape()
 
         # Første event: is_free=false, andre: is_free=true
@@ -82,9 +94,172 @@ class TestFriskusScraper:
         }
 
         scraper = FriskusScraper()
-        with patch.object(scraper, "_get", return_value=_mock_response(fixture)):
+        with patch.object(scraper, "_get", side_effect=_listing_only(fixture)):
             events = scraper.scrape()
 
         assert len(events) == 1
         assert "friluftsliv" in events[0].tags
         assert "tur" in events[0].tags
+
+
+def test_sula_library_events_use_real_address_across_municipality_searches():
+    reading = {
+        "id": "af9f7a1f-c6ec-4e05-95b8-7659e3ca423b",
+        "name": "Samlesing / Shared reading",
+        "organization": {"name": "Sula bibliotek"},
+    }
+    workshop = {
+        "id": "ded62311-b6c4-4976-8e86-63806f27e58d",
+        "name": "Juleverkstad for barn med Sula husflidslag",
+        "organization": {"name": "Sula bibliotek"},
+    }
+
+    def get(url, params):
+        if url == BASE_URL:
+            pages = {
+                (ALESUND, 1): {"data": [], "meta": {"last_page": 2}},
+                (ALESUND, 2): {"data": [reading]},
+                (SULA, 1): {"data": [reading, workshop]},
+                (GISKE, 1): {"data": [], "meta": []},
+            }
+            return _mock_response(pages[params["municipalities[]"], params["page"]])
+        if url == f"{API_URL}/events/{reading['id']}":
+            return _mock_response({"data": {
+                "municipalities": [{"id": ALESUND}, {"id": SULA}],
+                "address": {"name": "Sula bibliotek", "address": "Fyllingvegen 11", "lat": "", "lng": ""},
+            }})
+        if url == f"{API_URL}/events/{workshop['id']}":
+            return _mock_response({"data": {
+                "municipalities": [{"id": SULA}],
+                "address": {
+                    "name": "Sula bibliotek", "address": "Fyllingvegen 11, 6030 Langevåg, Norge",
+                    "lat": 62.442167, "lng": 6.190452,
+                },
+            }})
+        if url == f"{KARTVERKET_URL}/adresser/v1/sok":
+            assert params["adressetekst"] == "Fyllingvegen 11"
+            return _mock_response({
+                "metadata": {"totaltAntallTreff": 1},
+                "adresser": [{"adressetekst": "Fyllingvegen 11", "kommunenummer": "1531"}],
+            })
+        assert url == f"{KARTVERKET_URL}/kommuneinfo/v1/punkt"
+        assert params == {"nord": 62.442167, "ost": 6.190452, "koordsys": 4258}
+        return _mock_response({"kommunenummer": "1531"})
+
+    scraper = FriskusScraper()
+    with patch.object(scraper, "_get", side_effect=get) as fetch:
+        reading_event, workshop_event = scraper.scrape()
+
+    assert reading_event.city == workshop_event.city == "Sula"
+    assert reading_event.location_name == workshop_event.location_name == "Sula bibliotek"
+    assert reading_event.address == "Fyllingvegen 11"
+    assert reading_event.latitude is None
+    assert workshop_event.address == "Fyllingvegen 11, 6030 Langevåg, Norge"
+    assert workshop_event.latitude == 62.442167
+    assert sum(call.args[0] == f"{API_URL}/events/{reading['id']}" for call in fetch.call_args_list) == 1
+
+
+def test_giske_dnt_event_uses_matching_occurrence_across_municipality_searches():
+    item = {
+        "id": "oaaYF26bZKTes",
+        "name": "Friluftsjazz for hele familien på Giske ved hytta på hjul (gratis)",
+        "organization": {"name": "DNT Sunnmøre"},
+        "event_source": "dnt",
+        "start_at": "2026-11-29T14:00:00+0100",
+    }
+
+    def get(url, params):
+        if url == BASE_URL:
+            return _mock_response({"data": [] if params["municipalities[]"] == SULA else [item]})
+        assert url == f"{API_URL}/dnt/events/{item['id']}"
+        return _mock_response({"data": {"occurrences": [
+            {"start_at": "2026-11-29T12:00:00Z", "location_city": "Ålesund"},
+            {
+                "start_at": "2026-11-29T13:00:00.000000Z",
+                "deleted_at": None,
+                "location_city": "Giske",
+                "location_municipalities": [ALESUND, GISKE],
+            },
+        ]}})
+
+    scraper = FriskusScraper()
+    with patch.object(scraper, "_get", side_effect=get) as fetch:
+        [event] = scraper.scrape()
+
+    assert event.city == event.location_name == "Giske"
+    assert event.organizer == "DNT Sunnmøre"
+    assert event.address is None
+    assert event.url == f"https://alesund.friskus.com/events/dnt/{item['id']}"
+    assert sum(call.args[0] != BASE_URL for call in fetch.call_args_list) == 1
+
+
+def test_giske_native_event_keeps_venue_and_organizer_separate():
+    item = {
+        "id": "15d5a376-60e2-4e4f-91df-9d38ea3d0b42",
+        "name": "Friluftsjazz for barn på Giske",
+        "organization": {"name": "Jazzsirkelen 04"},
+    }
+
+    def get(url, params):
+        if url == BASE_URL:
+            return _mock_response({"data": [item] if params["municipalities[]"] == GISKE else []})
+        if url == f"{API_URL}/events/{item['id']}":
+            return _mock_response({"data": {
+                "municipalities": [{"id": GISKE}],
+                "address": {
+                    "name": "Hytta på hjul, Giskestranda, Giske",
+                    "address": "6052 Giske, Norge", "lat": 62.503891, "lng": 6.0500416,
+                },
+            }})
+        assert url == f"{KARTVERKET_URL}/kommuneinfo/v1/punkt"
+        return _mock_response({"kommunenummer": "1532"})
+
+    scraper = FriskusScraper()
+    with patch.object(scraper, "_get", side_effect=get):
+        [event] = scraper.scrape()
+
+    assert event.city == "Giske"
+    assert event.location_name == "Hytta på hjul, Giskestranda, Giske"
+    assert event.address == "6052 Giske, Norge"
+    assert event.organizer == "Jazzsirkelen 04"
+
+
+def test_event_advertised_in_all_three_municipalities_can_take_place_outside():
+    item = {"id": "toralfbuda", "name": "Adventstur til Toralfbuda"}
+
+    def get(url, params):
+        if url == BASE_URL:
+            return _mock_response({"data": [item]})
+        if url == f"{API_URL}/events/{item['id']}":
+            return _mock_response({"data": {
+                "municipalities": [{"id": ALESUND}, {"id": SULA}, {"id": GISKE}],
+                "address": {"address": "Eiksundvegen 555, 6068 Eiksund, Norge"},
+            }})
+        assert url == f"{KARTVERKET_URL}/adresser/v1/sok"
+        assert params["postnummer"] == "6068"
+        return _mock_response({
+            "metadata": {"totaltAntallTreff": 1},
+            "adresser": [{"adressetekst": "Eiksundvegen 555", "kommunenummer": "1516"}],
+        })
+
+    scraper = FriskusScraper()
+    with patch.object(scraper, "_get", side_effect=get):
+        assert scraper.scrape() == []
+
+
+def test_missing_detail_keeps_event_without_inventing_city_or_venue():
+    item = {"id": "unknown", "name": "Arrangement", "organization": {"name": "Arrangørlaget"}}
+
+    def get(url, params):
+        if url == BASE_URL:
+            return _mock_response({"data": [item]})
+        raise Timeout("Detail lookup timed out")
+
+    scraper = FriskusScraper()
+    with patch.object(scraper, "_get", side_effect=get):
+        [event] = scraper.scrape()
+
+    assert event.city is None
+    assert "city" not in event.to_dict()
+    assert event.location_name is None
+    assert event.organizer == "Arrangørlaget"

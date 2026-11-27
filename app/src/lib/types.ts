@@ -10,7 +10,7 @@ export interface Event {
   price_text: string | null;
   location_name: string | null;
   address: string | null;
-  city: string;
+  city?: string | null;
   latitude: number | null;
   longitude: number | null;
   organizer: string | null;
