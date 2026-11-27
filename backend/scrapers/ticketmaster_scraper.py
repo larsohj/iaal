@@ -171,7 +171,7 @@ class TicketmasterScraper(BaseScraper):
                     end_at=end_at,
                     location_name=venue.get("name"),
                     address=venue.get("address", {}).get("line1"),
-                    city=venue.get("city", {}).get("name", "Ålesund"),
+                    city=(venue.get("city") or {}).get("name"),
                     latitude=lat,
                     longitude=lng,
                     is_free=is_free,

@@ -5,7 +5,8 @@ from unittest.mock import MagicMock, patch
 import pytest
 from requests import Timeout
 
-from backend.scrapers.friskus_scraper import API_URL, BASE_URL, KARTVERKET_URL, FriskusScraper
+from backend.geography import KARTVERKET_URL
+from backend.scrapers.friskus_scraper import API_URL, BASE_URL, FriskusScraper
 
 FIXTURES = Path(__file__).parent / "fixtures"
 ALESUND = "58057c8b-b578-4082-8c11-97bfe366e5ab"

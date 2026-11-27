@@ -2,11 +2,17 @@ import re
 from collections import defaultdict
 from collections.abc import Iterator
 from datetime import datetime, timezone
-from math import isfinite
 from urllib.parse import urlsplit
 
 from requests import RequestException
 
+from backend.geography import (
+    MUNICIPALITY_NAMES,
+    STREET_ADDRESS,
+    address_municipality,
+    coordinates,
+    point_municipality,
+)
 from backend.models import EventData
 from backend.scrapers.base import BaseScraper
 
@@ -16,7 +22,6 @@ MUNICIPALITY_NUMBERS = {
     SULA_UUID: "1531",
     "5900890d-0709-4ea3-bc16-f853e28aaacb": "1532",
 }
-MUNICIPALITY_NAMES = {"1508": "Ålesund", "1531": "Sula", "1532": "Giske"}
 LOCALITY_NUMBERS = {
     **{name.casefold(): number for number, name in MUNICIPALITY_NAMES.items()},
     "sjøholt": "1508",
@@ -29,25 +34,13 @@ SJOHOLT_VENUES = {
     "ørskog frivilligsentral", "ørskog frivillighetssentral",
 }
 SJOHOLT_ADDRESS = "Øyravegen 11, 6240 Ørskog"
-STREET_ADDRESS = re.compile(r".+\s\d+[a-zA-Z]?")
 
 API_URL = "https://api.friskus.com/api/v1"
 BASE_URL = f"{API_URL}/events"
-KARTVERKET_URL = "https://api.kartverket.no"
 
 EVENT_SOURCE_TAGS = {
     "dnt": ["friluftsliv", "tur"],
 }
-
-
-def _coordinates(lat, lng) -> tuple[float | None, float | None]:
-    try:
-        lat, lng = float(lat), float(lng)
-    except (TypeError, ValueError):
-        return None, None
-    if isfinite(lat) and isfinite(lng) and abs(lat) <= 90 and abs(lng) <= 180:
-        return lat, lng
-    return None, None
 
 
 def _instant(value: str | None) -> datetime | None:
@@ -228,7 +221,7 @@ class FriskusScraper(BaseScraper):
             postal_place = f"{postal_code} {locality or ''}".strip() if postal_code else locality
             street = occurrence.get("location_address_line1")
             extra = occurrence.get("location_address_line2")
-            lat, lng = _coordinates(
+            lat, lng = coordinates(
                 occurrence.get("location_latitude"), occurrence.get("location_longitude"),
             )
             municipality_ids = occurrence.get("location_municipalities") or []
@@ -258,7 +251,7 @@ class FriskusScraper(BaseScraper):
                 if reported_address in SJOHOLT_VENUES | {"", "øyravegen 11"}:
                     address = SJOHOLT_ADDRESS
                     locality = "Sjøholt"
-            lat, lng = _coordinates(place.get("lat"), place.get("lng"))
+            lat, lng = coordinates(place.get("lat"), place.get("lng"))
             municipality_ids = [
                 entry["id"] for entry in detail.get("municipalities") or [] if entry.get("id")
             ]
@@ -304,45 +297,16 @@ class FriskusScraper(BaseScraper):
         if key not in geocodes:
             number = None
             if lat is not None and lng is not None:
-                point = self._optional_json(f"{KARTVERKET_URL}/kommuneinfo/v1/punkt", {
-                    "nord": lat, "ost": lng, "koordsys": 4258,
-                })
-                number = point.get("kommunenummer")
+                number = point_municipality(self._optional_json, lat, lng)
 
             if number is None and address:
-                number = self._address_municipality(address)
+                number = address_municipality(self._optional_json, address, LOCALITY_NUMBERS.keys())
 
             if number is None and locality:
                 # DNT oppgir noen ganger bare et stedsnavn, f.eks. «Giske».
                 number = LOCALITY_NUMBERS.get(_text_key(locality))
             geocodes[key] = number
         return geocodes[key]
-
-    def _address_municipality(self, address: str) -> str | None:
-        parts = [part.strip() for part in address.split(",")]
-        street = parts[0]
-        if not STREET_ADDRESS.fullmatch(street):
-            return None
-        params = {"adressetekst": street, "treffPerSide": 20}
-        for part in parts[1:]:
-            postal_code = re.match(r"^(\d{4})(?:\s|$)", part)
-            if postal_code:
-                params["postnummer"] = postal_code[1]
-                break
-
-        result = self._optional_json(f"{KARTVERKET_URL}/adresser/v1/sok", params)
-        matches = result.get("adresser") or []
-        if result.get("metadata", {}).get("totaltAntallTreff") != len(matches):
-            return None
-        if len(parts) > 1 and _text_key(parts[1]) in LOCALITY_NUMBERS:
-            poststed = _text_key(parts[1])
-            matches = [match for match in matches if _text_key(match.get("poststed") or "") == poststed]
-        numbers = {
-            match["kommunenummer"] for match in matches
-            if match.get("kommunenummer")
-            and match.get("adressetekst", "").casefold() == street.casefold()
-        }
-        return numbers.pop() if len(numbers) == 1 else None
 
     def _optional_json(self, url: str, params: dict) -> dict:
         try:
