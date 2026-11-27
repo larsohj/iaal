@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-11-27T20:20:56.036735+00:00",
-  "total": 811,
-  "failed_sources": [
-    "viti"
-  ],
+  "generated_at": "2026-11-27T20:29:07.163+00:00",
+  "total": 819,
+  "failed_sources": [],
   "events": [
     {
       "source": "friskus",
@@ -4764,6 +4762,134 @@
         "pensioner"
       ],
       "is_recurring": true
+    },
+    {
+      "source": "viti",
+      "source_id": "viti-foredrag-spor-etter-dei-foerste-sunnmoeringane-0",
+      "title": "Foredrag: Spor etter dei første Sunnmøringane",
+      "description": "Foredrag",
+      "start_at": "2026-11-29T17:00:00",
+      "end_at": "2026-11-29T18:00:00",
+      "location_name": "Sunnmøre museum",
+      "city": "Ålesund",
+      "image_url": "https://cdn.sanity.io/images/1fl8byel/production/f9099da29b62075fe9e599486b40df09c64e3c51-5184x3456.jpg",
+      "url": "https://www.vitimusea.no/arrangement/foredrag-spor-etter-dei-foerste-sunnmoeringane",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "viti",
+      "source_id": "viti-lansering-aarbok-for-sunnmoere-2026-102-aargang-0",
+      "title": "Lansering: Årbok for Sunnmøre 2026, 102. årgang",
+      "start_at": "2026-12-03T18:00:00",
+      "end_at": "2026-12-03T20:00:00",
+      "location_name": "Sunnmøre museum",
+      "city": "Ålesund",
+      "image_url": "https://cdn.sanity.io/images/1fl8byel/production/6fafb8260da4c3f35ad8ef569e24c1fdc0168dc2-1949x1306.jpg",
+      "url": "https://www.vitimusea.no/arrangement/lansering-aarbok-for-sunnmoere-2026-102-aargang",
+      "tags": [
+        "historie"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "viti",
+      "source_id": "viti-foerjulssondag-paa-sunnmore-museum-0",
+      "title": "Førjulssøndag på Sunnmøre museum",
+      "description": "Velkomen til ein stemningsfylt førjulssøndag i hus og tun - med mange og kjekke aktivitetar for heile familien!",
+      "start_at": "2026-12-06T12:00:00",
+      "end_at": "2026-12-06T16:00:00",
+      "location_name": "Sunnmøre museum",
+      "city": "Ålesund",
+      "image_url": "https://cdn.sanity.io/images/1fl8byel/production/635b2e09f84dc5ed3e22e7004a4f3e6a048c2365-1500x1000.jpg",
+      "url": "https://www.vitimusea.no/arrangement/foerjulssondag-paa-sunnmore-museum",
+      "tags": [
+        "historie",
+        "kultur"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "viti",
+      "source_id": "viti-familiedag-jul-i-apotekergaarden-0",
+      "title": "Familiedag: Jul i Apotekergården",
+      "description": "Kom i julestemning med kreativt verksted og hyggelige aktiviteter for hele familien.",
+      "start_at": "2026-12-12T13:00:00",
+      "end_at": "2026-12-12T15:00:00",
+      "location_name": "Jugendstilsenteret og KUBE",
+      "city": "Ålesund",
+      "image_url": "https://cdn.sanity.io/images/1fl8byel/production/ac5b03b6830421882841173ef6504b46ea7b98fc-2080x1387.jpg",
+      "url": "https://www.vitimusea.no/arrangement/familiedag-jul-i-apotekergaarden",
+      "tags": [
+        "kunst"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "viti",
+      "source_id": "viti-babyomvisning-i-jugendstilsenteret-0",
+      "title": "Mini på museet: Babyomvisning i Jugendstilsenteret",
+      "description": "I permisjon med baby? Bli med på babyomvisning på Jugendstilsenteret! ",
+      "start_at": "2026-12-16T12:00:00",
+      "end_at": "2026-12-16T13:00:00",
+      "location_name": "Jugendstilsenteret og KUBE",
+      "city": "Ålesund",
+      "image_url": "https://cdn.sanity.io/images/1fl8byel/production/93cfea5834b5f85389cde6cf2258a2b2561c6c38-6681x4454.jpg",
+      "url": "https://www.vitimusea.no/arrangement/babyomvisning-i-jugendstilsenteret",
+      "tags": [
+        "kunst"
+      ],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "viti",
+      "source_id": "viti-borgundfjordfiske-med-storeggen-2027-0",
+      "title": "Borgundfjordfiske med Storeggen 2027",
+      "description": "Bli med bankskøyta Storeggen av Aalesund og delta i det historiske vinterfisket. Eit fiske som har lokka Sunnmøringen i uminnelege tider. ",
+      "start_at": "2027-03-11T16:00:00",
+      "end_at": "2027-03-20T14:30:00",
+      "location_name": "Storeggen av Aalesund, Fiskerimuseet",
+      "city": "Ålesund",
+      "image_url": "https://cdn.sanity.io/images/1fl8byel/production/05534adfa5137a1d9daa06a7111089df8dda9281-6500x4338.jpg",
+      "url": "https://www.vitimusea.no/arrangement/borgundfjordfiske-med-storeggen-2027",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "viti",
+      "source_id": "viti-segltur-med-storeggen-mai-2027-0",
+      "title": "Segltur med Storeggen",
+      "description": "Fiskerimuseet inviterer publikum til å vere med og segle bankskøyta Storeggen. ",
+      "start_at": "2027-05-20T17:00:00",
+      "end_at": "2027-05-20T20:00:00",
+      "location_name": "Storeggen av Aalesund, Fiskerimuseet",
+      "city": "Ålesund",
+      "image_url": "https://cdn.sanity.io/images/1fl8byel/production/f65a3f730c6469f21e751900c0e8e2b41270dd3a-1600x1067.jpg",
+      "url": "https://www.vitimusea.no/arrangement/segltur-med-storeggen-mai-2027",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
+    },
+    {
+      "source": "viti",
+      "source_id": "viti-segltur-med-storeggen-august-2027-0",
+      "title": "Segltur med Storeggen",
+      "description": "Fiskerimuseet inviterer publikum til å vere med og segle bankskøyta Storeggen.",
+      "start_at": "2027-08-27T17:00:00",
+      "end_at": "2027-08-28T16:00:00",
+      "location_name": "Storeggen av Aalesund, Fiskerimuseet",
+      "city": "Ålesund",
+      "image_url": "https://cdn.sanity.io/images/1fl8byel/production/f65a3f730c6469f21e751900c0e8e2b41270dd3a-1600x1067.jpg",
+      "url": "https://www.vitimusea.no/arrangement/segltur-med-storeggen-august-2027",
+      "tags": [],
+      "age_groups": [],
+      "is_recurring": false
     },
     {
       "source": "tikkio",
