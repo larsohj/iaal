@@ -1,4 +1,8 @@
+import json
 import re
+from collections import defaultdict
+from datetime import date
+from html import unescape
 from urllib.parse import urlparse, parse_qs
 
 from bs4 import BeautifulSoup
@@ -18,6 +22,21 @@ class BypatriotenScraper(BaseScraper):
 
         articles = soup.select("article.mec-event-article")
         events = []
+        schedules = defaultdict(set)
+        for script in soup.select('script[type="application/ld+json"]'):
+            try:
+                data = json.loads(script.get_text())
+            except ValueError:
+                continue
+            if not isinstance(data, dict) or data.get("@type") != "Event":
+                continue
+            try:
+                first = date.fromisoformat(data["startDate"]).isoformat()
+                last = date.fromisoformat(data.get("endDate") or first).isoformat()
+            except (KeyError, TypeError, ValueError):
+                continue
+            if last >= first and isinstance(data.get("name"), str) and isinstance(data.get("url"), str):
+                schedules[(unescape(data["url"]), unescape(data["name"]).strip())].add((first, last))
 
         for article in articles:
             # Hopp over "past events"
@@ -49,6 +68,16 @@ class BypatriotenScraper(BaseScraper):
             time_tag = article.select_one(".mec-event-time")
             time_text = time_tag.get_text(strip=True) if time_tag else None
             start_at, end_at = self._parse_time(occurrence, time_text) if occurrence else (None, None)
+
+            if not occurrence:
+                dates = schedules.get((event_url, title), set())
+                if len(dates) == 1:
+                    first, last = next(iter(dates))
+                    start_at, end_at = self._parse_time(first, time_text)
+                    if end_at:
+                        end_at = last + end_at[10:]
+                    elif last != first:
+                        end_at = last
 
             # Sted
             place_tag = article.select_one(".mec-event-loc-place")

@@ -92,3 +92,32 @@ class TestBypatriotenScraper:
         assert len(events) == len(reversed_events) == 2
         assert {event.start_at: event.source_id for event in events} == expected
         assert {event.start_at: event.source_id for event in reversed_events} == expected
+
+    def test_external_url_shared_by_two_market_days(self):
+        import json
+
+        url = "https://www.facebook.com/events/1609658450483638"
+        articles = []
+        schedules = []
+        for event_id, title, date, hours in [
+            ("44265", "Julemarked i Spjelkavika 5.-6. desember", "2026-12-05", "11.00 - 16.00"),
+            ("44267", "Julemarked i Spjelkavika 6. desember", "2026-12-06", "12.00 - 17.00"),
+        ]:
+            articles.append(f"""<article class="mec-event-article">
+                <h4 class="mec-event-title"><a data-event-id="{event_id}" href="{url}">{title}</a></h4>
+                <div class="mec-event-time">{hours}</div></article>""")
+            schedule = {"@type": "Event", "name": title, "url": url, "startDate": date, "endDate": date}
+            schedules.append(f'<script type="application/ld+json">{json.dumps(schedule)}</script>')
+
+        scraper = BypatriotenScraper()
+        html = "".join(articles + schedules[::-1])
+        with patch.object(scraper, "_get", return_value=_mock_response(html)):
+            events = scraper.scrape()
+        assert [(e.source_id, e.start_at, e.end_at) for e in events] == [
+            ("bypatrioten-44265", "2026-12-05T11:00:00", "2026-12-05T16:00:00"),
+            ("bypatrioten-44267", "2026-12-06T12:00:00", "2026-12-06T17:00:00"),
+        ]
+
+        multi_day = html.replace('"endDate": "2026-12-05"', '"endDate": "2026-12-06"')
+        with patch.object(scraper, "_get", return_value=_mock_response(multi_day)):
+            assert scraper.scrape()[0].end_at == "2026-12-06T16:00:00"
