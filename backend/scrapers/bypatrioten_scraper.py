@@ -103,30 +103,18 @@ class BypatriotenScraper(BaseScraper):
 
     @staticmethod
     def _parse_time(date_str: str, time_text: str | None) -> tuple[str | None, str | None]:
-        """Parse 'YYYY-MM-DD' + 'HH.MM - HH.MM' til ISO 8601."""
-        from datetime import datetime
-
-        if not date_str:
-            return None, None
-
-        start_at = None
-        end_at = None
-
+        """Behold datoen alene når kalenderen ikke oppgir klokkeslett."""
         try:
-            base_date = datetime.strptime(date_str, "%Y-%m-%d")
-        except ValueError:
+            day = date.fromisoformat(date_str).isoformat()
+        except (TypeError, ValueError):
             return None, None
 
-        if time_text:
-            match = re.match(r"(\d{1,2})[.:](\d{2})\s*-\s*(\d{1,2})[.:](\d{2})", time_text)
-            if match:
-                start_at = base_date.replace(
-                    hour=int(match.group(1)), minute=int(match.group(2))
-                ).isoformat()
-                end_at = base_date.replace(
-                    hour=int(match.group(3)), minute=int(match.group(4))
-                ).isoformat()
-                return start_at, end_at
+        clock = r"([01]?\d|2[0-3])[.:]([0-5]\d)"
+        match = re.fullmatch(rf"{clock}(?:\s*[-–]\s*{clock})?", (time_text or "").strip())
+        if not match:
+            return day, None
 
-        start_at = base_date.isoformat()
-        return start_at, end_at
+        hour, minute, end_hour, end_minute = match.groups()
+        start = f"{day}T{hour.zfill(2)}:{minute}:00"
+        end = f"{day}T{end_hour.zfill(2)}:{end_minute}:00" if end_hour else None
+        return start, end

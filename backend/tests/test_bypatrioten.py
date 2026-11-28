@@ -59,7 +59,7 @@ class TestBypatriotenScraper:
         assert end == "2026-04-01T11:00:00"
 
         start, end = BypatriotenScraper._parse_time("2026-04-01", None)
-        assert start == "2026-04-01T00:00:00"
+        assert start == "2026-04-01"
         assert end is None
 
     def test_same_day_showings_use_separate_stable_ids(self):
@@ -121,3 +121,10 @@ class TestBypatriotenScraper:
         multi_day = html.replace('"endDate": "2026-12-05"', '"endDate": "2026-12-06"')
         with patch.object(scraper, "_get", return_value=_mock_response(multi_day)):
             assert scraper.scrape()[0].end_at == "2026-12-06T16:00:00"
+
+    def test_single_time_all_day_and_midnight(self):
+        parse = BypatriotenScraper._parse_time
+        day = "2026-12-01"
+        assert parse(day, "17.00") == (day + "T17:00:00", None)
+        assert parse(day, "Hele dagen") == (day, None)
+        assert parse(day, "00:00") == (day + "T00:00:00", None)
