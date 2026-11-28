@@ -57,6 +57,13 @@ ONGOING_VOLUNTEER_IDS = {
     "6fe8aabb-b7b4-4ecb-927e-cc4941d7baf2",  # Frivillig for Stikk UT!
 }
 
+# Bekreftede aktivitetstilbud som gjelder hele perioden. «Åpen» alene
+# skiller ikke disse fra faste økter som er åpne for alle.
+PERIOD_ACTIVITY_IDS = {
+    "fd3cf089-fd4b-4773-85d6-707e40071b55",  # Kreftforeningens hverdagshjelp
+    "c650c7fe-fa15-4ade-a1b4-9c83bbe60f1b",  # Stikk UT! på Sandøy
+}
+
 EVENT_SOURCE_TAGS = {
     "dnt": ["friluftsliv", "tur"],
 }
@@ -82,11 +89,12 @@ def _listing_period(item: dict, detail: dict, is_recurring: bool) -> tuple[str, 
     if not is_recurring:
         return None
 
-    is_open = detail.get("event_type") == "open"
-    ongoing_volunteering = (
-        item["id"] in ONGOING_VOLUNTEER_IDS and (detail.get("type") or {}).get("key") == "TASK"
+    type_key = (detail.get("type") or {}).get("key")
+    ongoing_volunteering = type_key == "TASK" and (
+        detail.get("event_type") == "open" or item["id"] in ONGOING_VOLUNTEER_IDS
     )
-    if not (is_open or ongoing_volunteering):
+    period_activity = type_key == "ACTIVITY" and item["id"] in PERIOD_ACTIVITY_IDS
+    if not (ongoing_volunteering or period_activity):
         return None
 
     rule = detail.get("rrule")

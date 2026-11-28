@@ -482,7 +482,11 @@ def test_verified_stikk_ut_listings_become_one_municipal_season():
 
 @pytest.mark.parametrize(("event_id", "type_key", "event_type", "expected"), [
     ("f0cf0e1b-8516-4d9c-9299-aae7f4a67072", "TASK", "scheduled", 1),
-    ("open-offer", "ACTIVITY", "open", 1),
+    ("fd3cf089-fd4b-4773-85d6-707e40071b55", "ACTIVITY", "open", 1),
+    ("c650c7fe-fa15-4ade-a1b4-9c83bbe60f1b", "ACTIVITY", "scheduled", 1),
+    ("open-task", "TASK", "open", 1),
+    ("70ada1f1-c592-46f7-a037-09be6fba244b", "ACTIVITY", "open", 2),
+    ("6944936a-eb3f-4a8c-9d8e-5a1a4e3f2b69", "ACTIVITY", "open", 2),
     ("actual-shifts", "TASK", "scheduled", 2),
     ("training", "ACTIVITY", "scheduled", 2),
 ])
