@@ -517,3 +517,21 @@ def test_only_ongoing_friskus_series_are_published_as_a_period(event_id, type_ke
     else:
         assert [e.source_id for e in events] == [f"friskus-{event_id}-first", f"friskus-{event_id}-second"]
         assert events[0].end_at == "2026-11-30T13:00:00Z"
+
+
+def test_dnt_vintertelting_uses_meeting_place_at_municipal_boundary():
+    occurrence = {
+        "start_at": "2027-01-09T13:00:00Z", "end_at": "2027-01-10T14:00:00Z",
+        "location_municipalities": ["1508", "1531", "1535"],
+    }
+    detail = {
+        "occurrences": [occurrence],
+        "description": "<p>Turen går til Jutevatnet.</p><p><strong>Oppmøte:&nbsp;</strong>"
+                       "Kl. 14.00 på den store parkeringsplassen sør for veien opp til "
+                       "skitrekket på Ørskogfjellet.</p>",
+    }
+    item = {"id": "oaaP9nfts2E37", "event_source": "dnt", "name": "Introduksjon til vintertelting"}
+    event, _ = FriskusScraper()._event(item, {}, detail, occurrence, False)
+    assert event.location_name == "den store parkeringsplassen sør for veien opp til skitrekket på Ørskogfjellet"
+    assert event.city is None
+    assert event.address is None

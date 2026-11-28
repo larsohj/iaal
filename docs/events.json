@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T12:40:10.319889+00:00",
+  "generated_at": "2026-11-28T12:45:00.463Z",
   "total": 1438,
   "failed_sources": [],
   "events": [
@@ -15830,7 +15830,8 @@
         "senior",
         "teenager"
       ],
-      "is_recurring": false
+      "is_recurring": false,
+      "location_name": "den store parkeringsplassen sør for veien opp til skitrekket på Ørskogfjellet"
     },
     {
       "source": "friskus",

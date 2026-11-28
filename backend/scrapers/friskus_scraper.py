@@ -5,6 +5,7 @@ from datetime import datetime, timezone
 from urllib.parse import urlsplit
 from zoneinfo import ZoneInfo
 
+from bs4 import BeautifulSoup
 from requests import RequestException
 
 from backend.geography import (
@@ -180,6 +181,23 @@ def _registration_key(detail: dict, is_dnt: bool, start_at: str | None) -> tuple
     return registrations.pop() if len(registrations) == 1 else None
 
 
+def _meeting_place(description: str) -> str | None:
+    """Les et eksplisitt merket oppmøtested fra DNTs turbeskrivelse."""
+    soup = BeautifulSoup(description, "html.parser")
+    for paragraph in soup.find_all("p"):
+        label = paragraph.find(["strong", "b"], recursive=False)
+        if not label or label.get_text(strip=True).rstrip(":").casefold() != "oppmøte":
+            continue
+        text = paragraph.get_text(" ", strip=True)
+        if not text.startswith(label.get_text(strip=True)):
+            continue
+        place = text[len(label.get_text(strip=True)):].strip(": ").strip()
+        place = re.sub(r"^kl\.?\s*\d{1,2}[.:]\d{2}\s+(?:på|ved)\s+", "", place, flags=re.I)
+        if place and not re.match(r"^(kl\b|\d)", place, re.I):
+            return place.rstrip(".")
+    return None
+
+
 def _location_quality(event: EventData) -> tuple[bool, ...]:
     return (
         event.city is not None,
@@ -324,6 +342,9 @@ class FriskusScraper(BaseScraper):
                     and _text_key(item["name"]).endswith(" til rollonhytta")):
                 locality = "Rollonhytta"
             location_name = street or locality
+            if (not location_name and not extra and not postal_code and not is_recurring
+                    and len(detail.get("occurrences") or []) == 1 and detail.get("description")):
+                location_name = _meeting_place(detail["description"])
             address = None
             if street or extra or postal_code:
                 address = ", ".join(filter(None, (street, extra, postal_place)))
