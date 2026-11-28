@@ -552,3 +552,23 @@ def test_orskog_summer_period_requires_confirmed_dates_and_time():
     assert _listing_period(item, {**detail, "description": ""}, False) is None
     detail["rrule"]["start_time"] = "17:00"
     assert _listing_period(item, detail, False) is None
+
+
+def test_skodje_merges_only_overlapping_sessions():
+    from dataclasses import replace
+    from backend.models import EventData
+    from backend.scrapers.friskus_scraper import (
+        SKODJE_LIBRARY_URL, SKODJE_MUNICIPAL_URL, _merge_skodje_sessions,
+    )
+
+    library = EventData("friskus", "library", "Sosial og digital - datakafé",
+                        start_at="2026-12-11T12:00:00", end_at="2026-12-11T14:00:00",
+                        location_name="Skodje tenestehus", url=SKODJE_LIBRARY_URL)
+    municipal = replace(library, source_id="municipal", url=SKODJE_MUNICIPAL_URL,
+                        title="Sosial og digital  - datakafé")
+    extra = replace(municipal, source_id="extra", start_at="2026-12-18T12:00:00",
+                    end_at="2026-12-18T14:00:00")
+    other = replace(municipal, source_id="other", url="https://example.org")
+    assert _merge_skodje_sessions([municipal, extra, other, library]) == [extra, other, library]
+    assert _merge_skodje_sessions([library, municipal, extra]) == [library, extra]
+    assert _merge_skodje_sessions([municipal]) == [municipal]

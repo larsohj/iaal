@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T14:28:48.405Z",
-  "total": 1438,
+  "generated_at": "2026-11-28T14:33:14.005Z",
+  "total": 1437,
   "failed_sources": [],
   "events": [
     {
@@ -15270,27 +15270,6 @@
         "pensioner"
       ],
       "is_recurring": false
-    },
-    {
-      "source": "friskus",
-      "source_id": "friskus-7b46ebb9-0984-4c6e-91ef-f84a9f6f056c-b1045de8-5dba-4616-bdee-016c4a89b13b",
-      "title": "Fole kjekt å vere sosial og digital  - datakafé på Skodje tenestehus",
-      "start_at": "2026-12-11T12:00:00",
-      "end_at": "2026-12-11T14:00:00",
-      "is_free": true,
-      "location_name": "Skodje tenestehus",
-      "address": "Skodje, Norge",
-      "city": "Ålesund",
-      "latitude": 62.5020615,
-      "longitude": 6.7034386,
-      "organizer": "Ålesund kommune",
-      "image_url": "https://ucarecdn.com/3a033fbd-b74d-42eb-a5fc-fa010abff558/-/crop/1748x477/0,12/-/preview/",
-      "url": "https://alesund.friskus.com/events/7b46ebb9-0984-4c6e-91ef-f84a9f6f056c",
-      "tags": [],
-      "age_groups": [
-        "pensioner"
-      ],
-      "is_recurring": true
     },
     {
       "source": "friskus",

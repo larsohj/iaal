@@ -208,6 +208,24 @@ def _meeting_place(description: str) -> str | None:
     return None
 
 
+# Bekreftede parallelle Friskus-serier fra biblioteket og kommunen.
+SKODJE_LIBRARY_URL = "https://alesund.friskus.com/events/adbdbee2-52d1-4827-a8c9-5b80ea918d03"
+SKODJE_MUNICIPAL_URL = "https://alesund.friskus.com/events/7b46ebb9-0984-4c6e-91ef-f84a9f6f056c"
+
+
+def _merge_skodje_sessions(events: list[EventData]) -> list[EventData]:
+    def session(event):
+        return (" ".join(event.title.casefold().split()), event.location_name, event.city,
+                event.start_at, event.end_at)
+
+    library_sessions = {
+        session(event) for event in events if event.url == SKODJE_LIBRARY_URL
+        and event.start_at and event.end_at and event.location_name and event.city
+    }
+    return [event for event in events
+            if event.url != SKODJE_MUNICIPAL_URL or session(event) not in library_sessions]
+
+
 def _location_quality(event: EventData) -> tuple[bool, ...]:
     return (
         event.city is not None,
@@ -268,6 +286,8 @@ class FriskusScraper(BaseScraper):
             kept.tags = list(dict.fromkeys([*kept.tags, *events[duplicate].tags]))
             suppressed.add(duplicate)
         events = _merge_stikk_ut_season([event for index, event in enumerate(events) if index not in suppressed])
+
+        events = _merge_skodje_sessions(events)
 
         self.logger.info("Hentet %d hendelser fra Friskus. %d uten sikker kommune.",
                          len(events), sum(event.city is None for event in events))
