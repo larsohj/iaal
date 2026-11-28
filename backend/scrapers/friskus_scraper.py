@@ -50,6 +50,7 @@ STIKK_UT_WINTER_IDS = (
     "b4d201a6-b87f-4e04-ac88-4e53468a54c9",  # Sandøy
     "9a0692e8-56d9-47e8-982a-a6ef68ef7f66",  # Ørskog
 )
+STIKK_UT_ORSKOG_ID = "270d2b79-47ab-4bcd-ab40-7c32c08b19ec"
 STIKK_UT_WINTER_DATES = ("2026-12-01", "2027-04-15")
 # Bekreftede, løpende utlysninger som Friskus likevel har merket som tidsfestet.
 ONGOING_VOLUNTEER_IDS = {
@@ -87,6 +88,15 @@ def _local_date(value: str | None) -> str | None:
 def _listing_period(item: dict, detail: dict, is_recurring: bool) -> tuple[str, str] | None:
     if item["id"] in STIKK_UT_WINTER_IDS:
         return STIKK_UT_WINTER_DATES
+    if item["id"] == STIKK_UT_ORSKOG_ID and detail.get("is_once") is True:
+        rule = detail.get("rrule") or {}
+        if (rule.get("start_at") == rule.get("until") == "2027-05-01"
+                and rule.get("start_time") == "00:00" and rule.get("end_time") == "01:00"):
+            description = BeautifulSoup(detail.get("description") or "", "html.parser")
+            for line in description.find_all("li"):
+                season = " ".join(line.stripped_strings).casefold()
+                if re.match(r"^sommersesongen:\s*1\.\s*mai\s*[–-]\s*31\.\s*oktober\b", season):
+                    return "2027-05-01", "2027-10-31"
     if not is_recurring:
         return None
 

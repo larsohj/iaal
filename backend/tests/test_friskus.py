@@ -535,3 +535,20 @@ def test_dnt_vintertelting_uses_meeting_place_at_municipal_boundary():
     assert event.location_name == "den store parkeringsplassen sør for veien opp til skitrekket på Ørskogfjellet"
     assert event.city is None
     assert event.address is None
+
+
+def test_orskog_summer_period_requires_confirmed_dates_and_time():
+    from backend.scrapers.friskus_scraper import STIKK_UT_ORSKOG_ID, _listing_period
+
+    item = {"id": STIKK_UT_ORSKOG_ID}
+    detail = {
+        "is_once": True,
+        "rrule": {"start_at": "2027-05-01", "until": "2027-05-01",
+                  "start_time": "00:00", "end_time": "01:00"},
+        "description": "<li><strong>Sommersesongen:</strong> 1. mai – 31. oktober</li>",
+    }
+    assert _listing_period(item, detail, False) == ("2027-05-01", "2027-10-31")
+    assert _listing_period({"id": "annen-tur"}, detail, False) is None
+    assert _listing_period(item, {**detail, "description": ""}, False) is None
+    detail["rrule"]["start_time"] = "17:00"
+    assert _listing_period(item, detail, False) is None

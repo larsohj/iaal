@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T13:56:19.876Z",
+  "generated_at": "2026-11-28T14:28:48.405Z",
   "total": 1438,
   "failed_sources": [],
   "events": [
@@ -16773,8 +16773,8 @@
       "source": "friskus",
       "source_id": "friskus-270d2b79-47ab-4bcd-ab40-7c32c08b19ec",
       "title": "Stikk UT! - Turglede for alle",
-      "start_at": "2027-05-01T00:00:00",
-      "end_at": "2027-05-01T01:00:00",
+      "start_at": "2027-05-01",
+      "end_at": "2027-10-31",
       "is_free": true,
       "location_name": "Ørskog kommune, Ålesund, Norge",
       "address": "Ørskog kommune, Ålesund, Norge",
